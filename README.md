@@ -1,2 +1,2 @@
 # skvr-app
-The source code of the SKVR database
+This is the source code of the SKVR database, available at https://aineistot.finlit.fi/exist/apps/skvr. The database was built on eXist-db (https://exist-db.org) with TEI Publisher (https://teipublisher.com), both open source. The data, in TEI xml, can be downloaded from the database. The SKVR master data as well as the master data of the previously unpublisher JR data, are available on Github (https://github.com/sks190/SKVR, https://github.com/sks190/JR).
