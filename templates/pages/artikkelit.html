@@ -1,0 +1,165 @@
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes"/>
+        <link rel="shortcut icon" type="image/x-icon" href="resources/images/favicon.ico"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-16.png" sizes="16x16"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-24.png" sizes="24x24"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-32.png" sizes="32x32"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-64.png" sizes="64x64"/>
+
+        <title data-template="config:app-title"/>
+        <meta name="description" content="Template for articles"/>
+        <meta name="pb-template" content="artikkelit.html"/>
+
+        <link rel="stylesheet" type="text/css" href="resources/fonts/font.css"/>
+        <link rel="stylesheet" href="resources/css/theme.css"/>
+        <link rel="stylesheet" href="resources/css/skvr.css"/>        
+        <script type="module" src="pb-components-bundle.js" data-template="pages:load-components"/>
+        <style>
+            main {
+                display: grid;
+                height: calc(100vh - 128px);
+                grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+                grid-template-rows: auto 1fr auto;
+                font-family: 'Overpass', sans-serif; 
+                padding: 0px !important;
+                margin: 0px !important;
+            }
+
+            @media (max-width: 768px) {
+                main {
+                    position: relative;
+                    grid-template-columns: 1fr;
+                }
+                #view2 {
+                    grid-column: 1 / 1;
+                }
+                footer {
+                    grid-column: 1 / 1;
+                }
+                .content-body pb-navigation {
+                    display: none;
+                }
+            }
+            
+            @media (max-width: 1023px) {
+                .content-body {
+                    display: flex;
+                    flex-direction: column;
+                    padding-top: 0px;
+                    margin-top: 0px;
+                }
+                
+                .toc {
+                    margin-top: 0px;
+                    margin-bottom: 0.5em;
+                    height: 400px;
+                }
+                
+                #view2 {
+                    height: 600px !important;
+                }
+            }
+            
+            #view2 {
+                grid-column: 2 / span 4;
+                overflow: auto;
+                padding: 65px 400px 32px 65px;
+                font-family: 'Overpass', sans-serif;
+                font-size: 1rem;
+                background: #f7f7f7;
+                margin: 0px !important;
+                text-align: left;
+            }
+            
+
+            footer pb-navigation[direction=forward] {
+                float: right;
+            }
+
+            .toc {
+                grid-column: 1 / span 1;
+                overflow: hidden;
+                font-size: var(--pb-base-font-size);
+                padding-top: 1em;
+                padding-left: 0px;
+                margin-left: -10px;
+            }
+            
+            .drawer-content {
+                padding: 0px;
+            }
+            
+            .drawer-content pb-load div ul {
+                padding-left: 0px;
+                margin-left: 0px;
+            }
+            
+            .drawer-content pb-load div {
+                padding: 0px;
+            }
+            
+            .drawer-content pb-load div ul li {
+                padding-left: 0px;
+                margin-left: 0px;
+            }
+            
+            pb-link a, .drawer-content h3 {
+                font-family: 'Overpass', sans-serif !important;
+                font-weight: 500;
+            }
+            
+            pb-link a:focus, pb-link a:active {
+                color: #f58579; !important;
+            }
+
+            .toolbar pb-navigation {
+                display: none;
+            }
+            
+            section#navig {
+                width: 100%;
+                display: flex;
+                justify-content: space-between;
+                grid-column: 2 / span 3;
+            }
+            
+            #tocToggle {
+                margin-bottom: 1em !important;
+                margin-left: 15px;
+            }
+            
+            #toolbar-parent {
+                color: #000;
+            }
+        </style>
+    </head>
+
+    <body>
+        <pb-page data-template="pages:pb-page" unresolved="unresolved">
+            <pb-document id="document2" data-template="pages:pb-document"/>
+            <app-drawer-layout force-narrow="force-narrow">
+                <app-drawer data-template="templates:include" data-template-path="templates/drawer.html"/>
+                <app-header-layout>
+                    <app-header slot="header" reveals="reveals" effects="waterfall">
+                        <app-toolbar data-template="templates:include" data-template-path="templates/menu.html"/>
+                    </app-header>
+
+                    <main class="content-body">
+                        <div class="toc" opened="opened" emit="toc" subscribe="transcription" min-width="1023px" waitFor="transcription">
+                            <div class="drawer-content">
+                                <pb-load id="toc" url="api/document/{doc}/contents?target=transcription&amp;icons=true" expand="expand" src="document2" subscribe="toc" auto="auto">
+                                </pb-load>
+                                
+                            </div>
+                        </div>
+                        <pb-view id="view2" src="document2" column-separator=".tei-cb" subscribe="transcription" emit="transcription" view="div"/>
+                    </main>
+                    <footer class="version" data-template="templates:include" data-template-path="templates/footer.html"/>               
+                </app-header-layout>
+            </app-drawer-layout>
+        </pb-page>
+        <div class="splash"/>
+    </body>
+</html>

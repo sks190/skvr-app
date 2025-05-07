@@ -1,0 +1,643 @@
+<html>
+
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes"/>
+    <title data-template="config:app-title"/>    
+    <link rel="shortcut icon" type="image/x-icon" href="resources/images/favicon.ico"/>
+    <link rel="shortcut icon" type="image/png" href="resources/images/favicon-16.png" sizes="16x16"/>
+    <link rel="shortcut icon" type="image/png" href="resources/images/favicon-24.png" sizes="24x24"/>
+    <link rel="shortcut icon" type="image/png" href="resources/images/favicon-32.png" sizes="32x32"/>
+    <link rel="shortcut icon" type="image/png" href="resources/images/favicon-64.png" sizes="64x64"/>
+    <link rel="preload" as="font" href="resources/fonts/ScalaOT.otf" type="font/otf" crossorigin="anonymous"/>    
+    <link rel="preload" as="font" href="resources/fonts/ScalaSansOT.otf" type="font/otf" crossorigin="anonymous"/>        
+    <link rel="stylesheet" href="resources/css/theme.css"/>
+    <link rel="stylesheet" href="resources/css/skvr.css"/>    
+    <script type="module" src="pb-components-bundle.js" data-template="pages:load-components"/>
+    <script type="text/javascript" async="async">
+        document.addEventListener('DOMContentLoaded', function() {
+            var titles = document.querySelectorAll('.mct');
+            var subtitles = document.querySelectorAll('.sct');
+            var subsubtitles = document.querySelectorAll('.ssct');
+            var headings = document.getElementById('poemTypes').querySelectorAll('h4');
+            var descriptions = document.getElementById('poemTypes').querySelectorAll('span');
+            var search = document.getElementById('typeSearch');
+            var btn = document.getElementById('typeBtn');
+            var clearBtn = document.getElementById('clearBtn');
+            
+            var links = document.getElementById('poemTypes').querySelectorAll('a');
+            var pbsearch = document.getElementById('poemTypeSearch');
+            pbsearch.shadowRoot.querySelector('#ironform').querySelector('#search').style.display = 'none';
+            
+            pbsearch.shadowRoot.querySelector('#ironform').querySelector('#search').addEventListener('value-changed', function() {
+                pbsearch.shadowRoot.querySelector('iron-icon').click();
+            });
+            
+            links.forEach(function(anch) {
+                anch.addEventListener('click', function(event) {
+                    event.preventDefault();
+                    pbsearch.setAttribute('value', '#' + anch.id);  
+                });
+            });
+            
+            titles.forEach(function(title) {
+                title.addEventListener('click', function() {
+                    if (title.nextSibling.style.display == 'block') {
+                        title.nextSibling.style.display = '';
+                    } else {
+                        title.nextSibling.style.display = 'block';
+                    }
+                });
+                title.addEventListener("keyup", function(event) {
+                    if (event.key === "Enter") {
+                        if (title.nextSibling.style.display == '') {
+                            title.nextSibling.style.display = 'block';
+                        } else {
+                            title.nextSibling.style.display = '';
+                        }
+                    }
+                });                
+            });
+            
+            subtitles.forEach(function(subtitle) {
+                subtitle.addEventListener('click', function() {
+                    
+                    if (subtitle.nextSibling.style.display == 'block') {
+                        subtitle.nextSibling.style.display = '';
+                    } else {
+                        subtitle.nextSibling.style.display = 'block';
+                    }
+                });
+                subtitle.addEventListener("keyup", function(event) {
+                    if (event.key === "Enter") {
+                        if (subtitle.nextSibling.style.display == '') {
+                            subtitle.nextSibling.style.display = 'block';
+                        } else {
+                            subtitle.nextSibling.style.display = '';
+                        }
+                    }
+                });     
+            });   
+            
+            subsubtitles.forEach(function(subsubtitle) {
+                subsubtitle.addEventListener('click', function() {
+                    if (subsubtitle.nextSibling.style.display == 'block') {
+                        subsubtitle.nextSibling.style.display = '';
+                    } else {
+                        subsubtitle.nextSibling.style.display = 'block';
+                    }
+                });
+                subsubtitle.addEventListener("keyup", function(event) {
+                    if (event.key === "Enter") {
+                        if (subsubtitle.nextSibling.style.display == '') {
+                            subsubtitle.nextSibling.style.display = 'block';
+                        } else {
+                            subsubtitle.nextSibling.style.display = '';
+                        }
+                    }
+                });   
+            });  
+            
+        
+            btn.addEventListener('click', function() {
+                var filter = search.value.toUpperCase();
+                
+                for (l = 0; l &lt; headings.length; l++) {
+                    var parent = headings[l].parentNode;
+                    var spans = parent.getElementsByTagName('span');
+                    var parentText = parent.textContent.toUpperCase() || parent.innerText.toUpperCase();
+                    var headingText = headings[l].textContent.toUpperCase() || headings[l].innerText.toUpperCase();
+                    if (parentText.includes(filter)) {
+                        parent.style.display =  'block';
+                        parent.parentNode.style.display =  'block';
+                        parent.parentNode.parentNode.style.display =  'block';
+                        parent.parentNode.parentNode.parentNode.style.display =  'block';
+                        parent.parentNode.parentNode.parentNode.parentNode.style.display =  'block';
+                        if (headingText.includes(filter)) {
+                            headings[l].style.backgroundColor = '#FCDFE1';
+                        } else {
+                            headings[l].style.backgroundColor = '';
+                        }
+                        
+                        for (m = 0; m &lt; spans.length; m++) {
+                            var descrText = spans[m].textContent.toUpperCase() || spans[m].innerText.toUpperCase();
+                            if (descrText.includes(filter)) {
+                                spans[m].style.backgroundColor = '#FCDFE1';
+                            } else {
+                                spans[m].style.backgroundColor = '';
+                            }
+                        }
+                    } else {
+                        parent.style.display =  'none';
+                    }
+                }
+                
+                if (filter == "") {
+                    for (n = 0; n &lt; headings.length; n++) {
+                        headings[n].style.backgroundColor = '';
+                        headings[n].parentNode.style.display = 'block';
+                        headings[n].parentNode.parentNode.style.display = 'none';
+                    }
+                    
+                     for (o = 0; o &lt; descriptions.length; o++) {
+                        descriptions[o].style.backgroundColor = '';
+                        descriptions[o].parentNode.style.display = 'block';
+                    }
+                }
+                
+            });
+            
+            clearBtn.addEventListener('click', function() {
+                search.value = "";
+                btn.click();
+            });
+            
+            var infoBtn = document.getElementById('infoBtn'); 
+            var info = document.getElementById('infopanel');
+            var close = info.querySelector('#close');
+            
+            infoBtn.addEventListener('click', function() {
+                info.style.display = 'block';
+            });
+            
+            close.addEventListener('click', function() {
+               info.style.display = 'none'; 
+            });
+            
+            document.onkeydown = function(evt) {
+                evt = evt || window.event;
+                if (evt.keyCode == 27) {
+                    info.style.display = 'none';
+                }
+            };            
+        });
+    </script>
+    <custom-style>
+        <style>
+            @font-face {
+                font-family: 'ff-scala-sans';
+                src: url('resources/fonts/ScalaSansOT.otf') format('opentype');
+                font-style: normal;
+                font-weight: normal;
+            }
+
+            @font-face {
+                font-family: 'ff-scala-sans';
+                src: url('resources/fonts/ScalaSansOT-Ita.otf') format('opentype');
+                font-style: italic;
+                font-weight: normal;    
+            }
+
+            @font-face {
+                font-family: 'ff-scala-sans';
+                src: url('resources/fonts/ScalaSansOT-Bold.otf') format('opentype');
+                font-style: normal;
+                font-weight: bold;
+            }
+            
+            @font-face {
+                font-family: 'ff-scala';
+                src: url('resources/fonts/ScalaOT.otf') format('opentype');
+                font-style: normal;
+                font-weight: normal;
+            }
+
+            @font-face {
+                font-family: 'ff-scala';
+                src: url('resources/fonts/ScalaOT-Ita.otf') format('opentype');
+                font-style: italic;
+                font-weight: normal;    
+            }
+
+            @font-face {
+                font-family: 'ff-scala';
+                src: url('resources/fonts/ScalaOT-Bold.otf') format('opentype');
+                font-style: normal;
+                font-weight: bold;
+            }   
+            
+            main {
+                margin: 0 20px 0 20px;
+                min-height: 750px;
+                padding-top: 1em;
+                display: flex;
+                justify-content: space-between;
+                font-family: 'ff-scala-sans';
+            }
+            
+            main section:nth-child(1) {
+                width: 50%;
+                border-right: 1px dotted #313131;
+                margin-left: 0px;
+                padding-left: 0px;
+                position: relative;
+            }
+            
+            main section:nth-child(2) {
+                width: 50%;
+            }
+            
+            main section:nth-child(1) div {
+                margin-bottom: 2em;
+                margin-left: 1rem;                
+                width: 95%;
+                height: auto;
+            }
+            
+            main section:nth-child(1) h3 {
+                margin-left: 1rem;
+                font-family: 'ff-scala-sans';
+            }
+            
+            main section:nth-child(1) #search {
+                display: flex;
+                flex-direction: row;
+            }
+            
+            main section:nth-child(1) #search #typeSearch {
+                width: 70%;
+                height: 25px;
+                padding-left: 10px;
+                border: 0px;
+                border-bottom: 1px solid #000;
+            }
+            
+            main section:nth-child(1) #search #typeSearch:focus {
+                border-bottom: 1px solid #E22717;
+            }
+            
+            main section:nth-child(1) #search #clear {
+                margin-left: -20px;
+            }
+            
+            main section:nth-child(1) #search #typeBtn iron-icon {
+                color: #000;
+            }
+            
+            main section:nth-child(1) #search #typeBtn:focus {
+                background-color: #fff;
+                color: #E22717;
+                text-decoration: underline;
+            }
+            
+            main section:nth-child(1) div h2 {
+                font-family: 'ff-scala';
+                font-size: 1.75rem;
+                
+            }
+            
+            main section:nth-child(1) div p {
+                font-family: 'ff-scala-sans';
+                font-size: 1.0625rem;
+            }
+            
+            main section:nth-child(1) ul:nth-child(1) {
+                width: 78%;
+            }
+
+            #results2 {
+                margin: 0 20px;
+                height: calc(100vh - 140px);
+                margin-top: 1em;
+                overflow-y: scroll;
+                position: -webkit-sticky; /* Safari */
+                position: sticky;
+                top: 1em;                
+            }
+            
+
+            #results2 paper-card {
+                height: 100%;
+                width: 100%;
+                margin-bottom: 15px;
+                padding: 8px;
+            }
+
+            #results2 paper-card header {
+                width: 100%;
+            }
+            
+            #results2 paper-card header .count {
+                display: none;
+            }
+            
+            .breadcrumbs {
+                width: 99% !important;
+                margin-left: 0px;
+                padding-left: 0px;
+            }
+            
+            .breadcrumbs span {
+                font-family: 'ff-scala-sans';
+                display: inline-block;
+            }
+            
+            .part {
+                width: 15%;
+            }
+            
+            .breadcrumb {
+                font-family: 'ff-scala-sans';
+                display: inline-block;
+                font-weight: bold;
+                color: #000;
+                text-transform: none;
+                width: 10%;
+                margin-right: 10px;
+            }     
+            
+            .place {
+                width: 18%;
+                margin-right: 7px;
+            }
+            
+            .collector, .signum {
+                width: 22%;
+                margin-right: 5px;
+            }
+            
+            .breadcrumb:link, .breadcrumb:visited {
+                text-decoration: none;
+                color: #000;
+                font-family: 'ff-scala-sans';
+                font-size: 1.25rem;
+            }
+            
+            .breadcrumb:focus, .breadcrumb2:focus {
+                color: #E22717;
+            }
+            
+            .breadcrumb:first-child::before {
+                content: '';
+            }      
+            
+            table {
+                width: 91%;
+                margin-bottom: 1em;
+                margin-top: 1em;
+                margin-left: 1.5em;
+            }
+            
+            table tr td {
+                font-weight: bold;
+                text-transform: uppercase;
+            }
+            
+            .parent-link iron-icon {
+                padding-right: 4px;
+            }
+
+            .parent-link {
+                display: block;
+                margin-bottom: 10px;
+                margin-top: 16px;
+                padding: 6px 0;
+                border-bottom: thin solid var(--paper-grey-300);
+            }
+            
+            h1,
+            h2,
+            h3,
+            h4,
+            h5,
+            h6 {
+                font-family: 'ff-scala-sans';
+                font-weight: 400 !important;
+                line-height: 1.2;
+                color: #000;
+            }
+            
+            h5 {
+                font-size: 16px;
+                margin: 0;
+            }
+            
+            #poemTypes {
+                list-style-type: none;
+                margin-left: 0px;
+                padding-left: 0px;
+            }
+            
+            ul {
+                list-style-type: none;
+            }
+            
+            .mct {
+                cursor: pointer;
+                font-family: 'ff-scala-sans';
+            }
+            
+            .sct, .ssct {
+                cursor: pointer;
+
+                margin-left: 1rem;
+            }
+            
+            .mct:focus, .sct:focus, .ssct:focus, .mct:hover, .sct:hover, .ssct:hover {
+                color: #E22717;
+                text-decoration: underline;
+            }
+            
+            .mc, .sc, .ssc, .poems {
+                display: none;
+                font-family: 'ff-scala-sans';
+                margin-left: 1rem;
+            }
+            
+            .mc li a, .sc li a {
+                color: #000;
+                text-decoration-color: #000;
+            }
+            
+            .mc li h4 a, .sc li h4 a, .ssc li h4 a {
+                font-weight: bold !important;
+            }
+            
+            .sc li a:focus {
+                color: #E22717;
+            }
+            
+            .mc li span, .sc li span, .ssc li span {
+                display: block;
+                margin-bottom: 10px;
+            }
+            
+            
+            @media (max-width: 1023px) {
+                main {
+                    margin: 0 8px 0 8px;
+                    display: flex;
+                    flex-direction: column;
+                }
+                
+                main section:nth-child(1) {
+                    width: 100% !important;
+                    display: flex;
+                    flex-direction: column;
+                    padding-top: 1em;
+                }
+                
+                main section div img {
+                    width: 100%;
+                    height: auto;
+                }
+                
+                main section div p {
+                    width: 100%;
+                }
+                
+                main section table {
+                    display: none;
+                }
+                
+                main section ul:nth-child(7) {
+                    margin-top: -20px;
+                    width: 100%;
+                }
+                
+                main section ul, main section ul li {
+                    margin-left: 0px;
+                    padding-left: 0px;
+                }
+                
+                
+                #results2 {
+                    none !important;
+                }
+                
+                div#search, main section h3:nth-child(4), main section h3:nth-child(6), main section paper-icon-button, main section #infopanel {
+                    display: none !important;
+                }
+                
+                
+            }            
+            
+           
+            #infoBtn {
+                height: 50px;
+                width: 50px;
+                position: absolute;
+                top: 0px;
+                right: 0px;
+            }
+            
+            #infopanel {
+                display: none;
+                z-index: 9999 !important;
+                position: absolute;
+                top: 20px;
+                right: 0px;
+                opacity: 1.0 !important;
+                padding: 10px;
+                max-width: 400px;
+                max-height: 330px;
+            }
+            
+            #infopanel .card-content {
+                opacity: 1.0 !important;
+                font-size: 14px;
+                background-color: #fceee2;   
+                margin: 0px;
+                width: 92%;
+                height: 90%;
+            }
+            
+            #infopanel .card-content p a  {
+                color: #000;
+                font-weight: 500;
+                text-decoration: none;
+            }
+            
+            #infopanel .card-content p a:focus, #infopanel .card-content p a:hover {
+                text-decoration: underline;
+                color: #E22717;
+            }
+            
+            #infopanel .card-actions {
+                display: flex;
+                justify-content: right;
+                padding: 10px;
+            }           
+            
+            #infopanel .card-actions #close {
+                color: #fff;
+                background: #E22717;
+                border-radius: 50%;
+                margin-right: 10px;
+            }            
+            
+            section div p a {
+                color: #000;
+            }
+            
+            section div p a:hover, section div p a:focus {
+                color: #e22717;
+            }
+            
+        </style>
+    </custom-style>
+</head>
+
+<body>
+    <pb-page data-template="pages:pb-page" unresolved="unresolved">
+        <app-drawer-layout force-narrow="force-narrow">
+            <app-drawer slot="drawer" align="right" data-template="lib:include" data-template-path="templates/drawer.html"/>
+            <app-header-layout>
+                <app-header slot="header" reveals="reveals" effects="waterfall">
+                    <app-toolbar data-template="lib:include" data-template-path="templates/menu.html"/>
+                    
+                </app-header>
+                <main>
+                    <section>
+                        <paper-icon-button title="Avaa ohjeikkuna" id="infoBtn" icon="icons:help-outline"/>
+                        <paper-card id="infopanel">
+                            <div class="card-content">
+                                <p>Tällä sivulla voit selata runotyyppejä ja lukea niiden kuvauksia. Voit joko selata luetteloa tai tehdä haun. Kirjoita hakutermi/-termit kenttään ja paina hae-painiketta. Alleviivattujen otsikoiden klikkaaminen tuo oikeanpuoleiselle palstalle runotyyppiin kuuluvat runot. Mikäli haluat haun tehtyäsi palata selailemaan luetteloa, tyhjennä haku painamalla <iron-icon icon="icons:close"/>-painiketta.</p>
+                            </div>
+                            <div class="card-actions">
+                                <paper-icon-button id="close" icon="icons:close"/>
+                            </div>
+                        </paper-card>
+                        <div>
+                            <p>SKVR-aineisto on lajillisesti laaja. Vanhojen nidekohtaisten hakemistojen pohjalta on rakennettu yhtenäisempi runotyyppihakemisto. Varioiva suullinen runous ei helpolla taivu yksiselitteisiin luokkiin: hakemistoa kannattaa ajatella ennemminkin käyttäjän apuvälineenä kuin lopullisena analyysina. Toistaiseksi noin tuhannesta runosta puuttuu runolaji. Tarkempi kuvaus hakemistosta löytyy 
+                                <a href="/exist/apps/skvr/esittely.xml" target="_blank">Esittelyn</a> yhteydestä.</p>
+                        </div>
+                        <h3 style="font-weight:bold !important;">Hae runolajeista:</h3>
+                        <div id="search">
+                                <input type="text" id="typeSearch" name="runolajihaku"/> <paper-button id="typeBtn">
+                                    <iron-icon icon="icons:search" title="hae"/>
+                                </paper-button> <paper-button title="tyhjennä haku" id="clearBtn">
+                                    <iron-icon icon="icons:close"/>
+                                </paper-button>
+                            </div>
+                        <h3 style="font-weight:bold;">Selaa luetteloa:</h3>    
+                        <ul data-template="app:listPoems"/>
+                    </section>
+                    <section>
+                        <pb-progress indeterminate="indeterminate" bottom-item="bottom-item" subscribe="search"/>
+                        <pb-search id="poemTypeSearch" subscribe="search" data-template="pages:parse-params" value="${query}" submit-on-load="submit-on-load">
+                            <input type="hidden" name="field" value="poemThemes"/>
+                        </pb-search>
+                        <pb-paginate per-page="20" range="5" subscribe="search" emit="search"/>
+                        <table>
+                            <tr>
+                                <td class="part">Osa</td>
+                                <td class="breadcumb">Nro</td>
+                                <td class="place">Paikka</td>
+                                <td class="collector">Kerääjä</td>
+                                <td class="signum">Signum</td>
+                                <td class="date">Aika</td>
+                            </tr>
+                        </table>
+                        <pb-load id="results2" url="api/search" emit="search" expand=""/>
+                    </section>
+                </main>
+               <footer class="version" data-template="templates:include" data-template-path="templates/footer.html"/>      
+            </app-header-layout>
+        </app-drawer-layout>
+    </pb-page>
+    <div class="splash"/>
+    
+</body>
+
+</html>

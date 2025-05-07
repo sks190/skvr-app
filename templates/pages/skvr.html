@@ -1,0 +1,405 @@
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes"/>
+        <link rel="shortcut icon" type="image/x-icon" href="resources/images/favicon.ico"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-16.png" sizes="16x16"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-24.png" sizes="24x24"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-32.png" sizes="32x32"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-64.png" sizes="64x64"/>
+
+        <title data-template="config:app-title"/>
+        <meta name="description" content="Default single text layout"/>
+        <meta name="pb-template" content="view.html"/>
+
+        <link rel="stylesheet" type="text/css" href="resources/fonts/font.css"/>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald&amp;display=swap"/>
+        <link rel="stylesheet" href="resources/css/theme.css"/>
+        <link rel="stylesheet" href="resources/css/skvr.css"/>        
+        <script type="module" src="pb-components-bundle.js" data-template="pages:load-components"/>
+        <script type="text/javascript">
+            document.addEventListener('pb-page-ready', function() {
+                var popovers = document.getElementById('view1').shadowRoot.querySelectorAll('.alternate');
+                popovers.forEach(function(popover) {
+                    popover.querySelector('span').setAttribute('tabindex', '0');   
+                    popover.querySelector('span').addEventListener('keypress', function(event) {
+                        if (event.key == 'Enter') {
+                           popover.querySelector('span').click();
+                        } 
+                    });
+                });
+                
+                var btn = document.getElementById('showBtn');
+                var elem = document.getElementById('view2');
+                
+                btn.addEventListener('click', function() {
+                   if (elem.style.display == '') {
+                       elem.style.display = 'block';
+                   } else {
+                       elem.style.display = '';
+                   }
+                });
+                
+            });
+            
+            document.addEventListener('pb-update', function() {
+                
+                /* Hide element that shows footnotes if document doesn't have them */
+                
+                var refs = document.getElementById('view3');
+                
+                if (refs.shadowRoot.querySelector('.tei-div3') !== null) {
+                    refs.style.display = '';
+                } else {
+                    refs.style.display = 'none';
+                }
+                
+                
+                /* Hide element that shows poem types if document doesn't have them */                
+                
+                var types = document.getElementById('title-view8');
+                
+                if (types.shadowRoot.querySelector('.tei-textClass') !== null) {
+                    types.style.display = '';
+                } else {
+                    types.style.display = 'none';
+                }
+
+            });         
+        </script>
+        <style>
+            @font-face {
+                font-family: 'ff-scala-sans';
+                src: url('resources/fonts/ScalaSansOT.otf') format('opentype');
+                font-style: normal;
+                font-weight: normal;
+            }
+
+            @font-face {
+                font-family: 'ff-scala-sans';
+                src: url('resources/fonts/ScalaSansOT-Ita.otf') format('opentype');
+                font-style: italic;
+                font-weight: normal;    
+            }
+
+            @font-face {
+                font-family: 'ff-scala-sans';
+                src: url('resources/fonts/ScalaSansOT-Bold.otf') format('opentype');
+                font-style: normal;
+                font-weight: bold;
+            }
+            
+            @font-face {
+                font-family: 'ff-scala';
+                src: url('resources/fonts/ScalaOT.otf') format('opentype');
+                font-style: normal;
+                font-weight: normal;
+            }
+
+            @font-face {
+                font-family: 'ff-scala';
+                src: url('resources/fonts/ScalaOT-Ita.otf') format('opentype');
+                font-style: italic;
+                font-weight: normal;    
+            }
+
+            @font-face {
+                font-family: 'ff-scala';
+                src: url('resources/fonts/ScalaOT-Bold.otf') format('opentype');
+                font-style: normal;
+                font-weight: bold;
+            }    
+            
+            @media (min-width: 769px) {
+                .toolbar pb-navigation {
+                    display: none;
+                }
+            }
+            
+            body {
+                --pb-footnote-font-size: 80% !important;
+                --pb-footnote-font-family: 'ff-scala-sans' !important;    
+            }
+            .content-body {
+                min-height: 750px;
+                position: relative;
+                display: flex;
+                flex-direction: row !important;
+                justify-content: space-between;
+                padding-top: 0px;
+                padding-bottom: 1em;
+            }
+
+            .content-body pb-navigation {
+                position: fixed;
+                bottom: 45%;
+                --paper-fab-background: #35424b;
+                color: white;
+            }
+
+            .content-body pb-navigation[direction=backward] {
+                left: 20px;
+            }
+
+            .content-body pb-navigation[direction=forward] {
+                right: 20px;
+            }
+            
+            .content-body .metadata {
+                max-width: 30%;
+                margin-left: 0px;
+                padding-left: 15px;
+                padding-right: 10px;
+                border-right: 1px solid #999;
+                background: #FFF8F2;
+            }
+            
+            .content-body .metadata div {
+                display: flex;
+                flex-direction: column;
+                justify-content: left;
+            }
+            
+            #title-view1 {
+                font-family: 'ff-scala-sans';
+                font-size: 1.75rem;
+                font-weight: 500 !important;
+                margin-left: 20px;
+                margin-bottom: -1.5em;
+                color: #000;
+            }
+            
+            #title-view2 {
+                font-style: italic;
+                font-family: 'ff-scala-sans';
+            }
+            
+            #title-view3, #title-view4, #title-view5 {
+                margin-left: -10px;
+                font-family: 'ff-scala-sans';
+            }
+            
+            #title-view2, #title-view3, #title-view4, #title-view5 {
+                font-size: 16px;
+            }
+            
+            #title-view6 {
+                font-size: 16px;
+                font-family: 'ff-scala-sans';
+            }
+            
+            #title-view7 {
+                margin-top: 1em;
+                font-family: 'ff-scala-sans';
+            }
+            
+            #title-view8 {
+                font-family: 'ff-scala-sans';
+                margin-top: 1em;
+                display: block;
+            }
+            
+            #title-view9 {
+                font-family: 'ff-scala-sans';
+                color: #000 !important;
+                font-size: 16px;
+            }
+            
+            #title-view9:focus {
+                color: #E22717;
+            }
+            
+            #title-view10 {
+                font-size: 14px;
+                font-family: 'ff-scala-sans';
+            }
+            
+            .metadata h4 {
+                margin-left: 15px;
+                margin-top: 3em;
+                margin-bottom: -5px;
+            }
+            
+            .metadata h5 {
+                margin-left: 15px;
+                margin-top: 3em;
+                margin-bottom: -2px;
+            }
+            
+            .content-body .poem {
+                width: 70%;
+                margin-top: 1em;
+                margin-left: 3%;
+                display: flex;
+                flex-direction: row;
+                justify-content: center;
+            }
+            
+            .content-body .poem div {
+                min-width: 300px;
+            }
+            
+            .content-body .poem div:nth-child(1) {
+                margin-right: 5%;
+            }
+            
+            .content-body .poem div h3 {
+                margin-left: 16px;
+                font-family: 'ff-scala-sans';
+                text-decoration: underline;
+            }
+            
+            .content-body .poem div:nth-child(2) h3, .content-body .poem div:nth-child(2) #view2 {
+                display: none;
+            }
+            
+            
+            #view1 {
+                font-family: 'ff-scala';
+                font-size: 1.2rem;
+            }
+            
+            #view2 {
+                font-family: 'ff-scala';
+                font-size: 90%;
+            }
+            
+            #view3 {
+                margin-top: 1em;
+                font-size: 1rem;
+                display: block;
+            }
+            
+            @media (max-width: 769px) {
+                .content-body pb-navigation {
+                    display: none;
+                }
+            }
+            
+            #showBtn {
+                text-transform: none;
+                font-weight: bold;
+                margin-top: 10px;
+                margin-bottom: 20px;
+            }
+            
+           @media (max-width: 1023px) {
+                .content-body {
+                    display: flex !important;
+                    flex-direction: column !important;
+                    padding: 0px !important;
+                }
+                
+                .metadata {
+                    width: 98% !important;
+                    margin: 0px !important;
+                    max-width: 98% !important;
+                    padding-bottom: 1em;
+                }
+                
+                .metadata div {
+                    width: 100%  !important;
+                    margin: 0px !important;
+                }
+                
+                .poem {
+                    width: 100% !important;
+                    margin: 0px !important;
+                    display: flex !important;
+                    flex-direction: column !important;
+                    padding-bottom: 1em;
+                }
+                
+                .poem div {
+                    width: 100%;
+                    
+                }
+                
+                #return {
+                    margin-left: 15px;
+                    font-weight: bold;
+                    color: #000;
+                    margin-top: 1em;
+                }
+                
+                #return:focus {
+                    color: #E22717;
+                }
+
+            }            
+            
+        </style>
+        <!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setCookieDomain", "*.aineistot.finlit.fi"]);
+  _paq.push(["setDomains", ["*.aineistot.finlit.fi"]]);
+  _paq.push(["disableCookies"]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://sks.matomo.cloud/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '26']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src='//cdn.matomo.cloud/sks.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+    </head>
+
+    <body>
+        <pb-page data-template="pages:pb-page" unresolved="unresolved">
+            <pb-document id="document1" data-template="pages:pb-document"/>
+            <app-drawer-layout force-narrow="force-narrow">
+                <app-drawer data-template="lib:include" data-template-path="templates/drawer.html"/>
+                <app-header-layout>
+                    <app-header slot="header" reveals="reveals" effects="waterfall">
+                        <app-toolbar data-template="lib:include" data-template-path="templates/menu.html"/>
+                    </app-header>
+                    <main class="content-body">
+                        <section class="metadata">
+                            <div>
+                                <pb-media-query query="max-width: 1023px">
+                                    <a id="return" href="/exist/apps/skvr/runoluettelo-mobile.html">Palaa runoluetteloon <iron-icon icon="icons:arrow-drop-up"/>
+                                    </a>
+                                </pb-media-query>
+                                <pb-view id="title-view1" src="document1" xpath="//teiHeader/fileDesc/titleStmt/title" view="single">
+                                    <pb-param name="header" value="short"/>
+                                </pb-view>                            
+                                <pb-view id="title-view2" src="document1" xpath="//teiHeader//titleStmt/title" view="single">
+                                    <pb-param name="header" value="short2"/>
+                                </pb-view>
+                            </div>
+                            <pb-view id="title-view6" src="document1" xpath="//teiHeader//msContents/msItem" view="single"/>  
+                            <pb-view id="title-view7" src="document1" xpath="//teiHeader" view="single">
+                                <pb-param name="header" value="short2"/>
+                            </pb-view>
+                            <pb-view id="title-view8" src="document1" xpath="//teiHeader//textClass" view="single"/>
+                            <h4>Runon pysyvä osoite:</h4>
+                            <pb-view id="title-view9" src="document1" xpath="//teiHeader//idno[@type='URN']" view="single"/>
+                            <h5>XML/TEI muunnos:</h5>
+                            <pb-view id="title-view10" src="document1" xpath="//respStmt/name" view="single"/>
+                        </section>
+                        <section class="poem">
+                            <div>
+                                <h3>Runoteksti</h3>
+                                <pb-view id="view1" src="document1" xpath="//div[@type='text']" subscribe="transcription" emit="transcription" view="single"/>
+                                <pb-view id="view3" src="document1" xpath="//div[@type='references']" view="single"/>
+                            </div>
+                            <div>
+                                <paper-button id="showBtn">Näytä erikoismerkitön teksti <iron-icon icon="icons:arrow-drop-down"/>
+                                </paper-button>
+                                <h3>Normalisoitu teksti</h3>
+                                <pb-view id="view2" src="document1" xpath="//div[@type='normalized_text']" subscribe="transcription"/>    
+                            </div>
+                        </section>
+                    </main>
+                    <footer class="version" data-template="templates:include" data-template-path="templates/footer.html"/>
+                </app-header-layout>
+            </app-drawer-layout>
+        </pb-page>
+        <div class="splash"/>
+    </body>
+</html>

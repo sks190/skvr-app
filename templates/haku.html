@@ -1,0 +1,705 @@
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes"/>
+        <link rel="shortcut icon" type="image/x-icon" href="resources/images/favicon.ico"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-16.png" sizes="16x16"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-24.png" sizes="24x24"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-32.png" sizes="32x32"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-64.png" sizes="64x64"/>
+
+        <title data-template="config:app-title"/>
+        <link rel="stylesheet" type="text/css" href="resources/fonts/font.css"/>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald&amp;display=swap"/>
+        <link rel="stylesheet" href="resources/css/theme.css"/>
+        <link rel="stylesheet" href="resources/css/skvr.css"/>        
+        <script type="module" src="pb-components-bundle.js" data-template="pages:load-components"/>
+        <script type="text/javascript">
+            /* Open/close info window on search page. */
+            document.addEventListener('pb-page-ready', function() {
+                var btn = document.getElementById('infoBtn'); 
+                var info = document.getElementById('infopanel');
+                var close = info.querySelector('#close');
+                
+                btn.addEventListener('click', function() {
+                    info.style.display = 'block';
+                });
+            
+                close.addEventListener('click', function() {
+                    info.style.display = 'none'; 
+                });
+                
+                document.onkeydown = function(evt) {
+                    evt = evt || window.event;
+                    if (evt.keyCode == 27) {
+                        info.style.display = 'none';
+                    }
+                };
+                
+                var context = document.getElementById('context');      
+                
+                context.addEventListener('click', function() {
+                    var matches = document.querySelectorAll('.matches');
+                    for (i = 0; i &lt; matches.length; i++) {
+                        if (matches[i].style.display === '') {
+                            matches[i].style.display = 'none';
+                        } else {
+                            matches[i].style.display = '';
+                        }
+                    }
+                });
+                
+            });
+            
+            document.addEventListener('pb-load', function() {
+                var url = window.location.search;
+                const urlParams = new URLSearchParams(url);
+                const field = urlParams.get('field');
+                if (field) {
+                    var option = document.querySelector('paper-checkbox[value="' + field + '"]')
+                    option.checked = true;
+                } 
+            });
+            
+        </script>
+        <style>
+            @font-face {
+                font-family: 'ff-scala-sans';
+                src: url('resources/fonts/ScalaSansOT.otf') format('opentype');
+                font-style: normal;
+                font-weight: normal;
+            }
+
+            @font-face {
+                font-family: 'ff-scala-sans';
+                src: url('resources/fonts/ScalaSansOT-Ita.otf') format('opentype');
+                font-style: italic;
+                font-weight: normal;
+            }
+
+            @font-face {
+                font-family: 'ff-scala-sans';
+                src: url('resources/fonts/ScalaSansOT-Bold.otf') format('opentype');
+                font-style: normal;
+                font-weight: bold;
+            }        
+            
+            @font-face {
+                font-family: 'ff-scala';
+                src: url('resources/fonts/ScalaOT.otf') format('opentype');
+                font-style: normal;
+                font-weight: normal;
+            }       
+
+            @font-face {
+                font-family: 'ff-scala';
+                src: url('resources/fonts/ScalaOT-Ita.otf') format('opentype');
+                font-style: italic;
+                font-weight: normal;
+            }
+
+            @font-face {
+                font-family: 'ff-scala';
+                src: url('resources/fonts/ScalaOT-Bold.otf') format('opentype');
+                font-style: normal;
+                font-weight: bold;
+            }
+            
+            app-header app-toolbar:nth-child(2) {
+                margin-top: 3.5em;
+                background-color: #313131;
+                margin-left: 1.21em;
+                margin-right: 1.21em;
+                padding: 0px;
+                position: relative;
+                z-index: 3 !important;
+                height: 72px;
+            }
+            
+             app-header app-toolbar:nth-child(2) pb-paginate {
+                color: #fff;
+                font-family: 'ff-scala-sans';
+                margin-left: 10px;
+                font-weight: 700;
+            }
+            
+            main {
+                margin-top: 5em;
+                display: flex;
+                flex-direction: row;
+                --paper-checkbox-checked-color: #E22717 !important;      
+                --paper-checkbox-label-checked-color: #E22717;                
+                --pb-search-label-color: #313131;                
+            }
+
+            .search-panel {
+                flex: 1;
+                margin: 0 20px;
+            }
+
+            .search-panel paper-card {
+                width: 100%;
+                padding: 0px;
+
+            }
+            
+            .search-panel paper-card .card-content {
+                padding-right: 5px;
+                padding-left: 10px;
+                width: 100%;
+                background: #FFF8F2;  
+                border-right: 1px dotted #e22717;
+                
+            }
+            
+            #search-form {
+                --pb-search-label-color: #313131 !important;
+                --pb-search-input-color: #313131 !important;
+                --pb-search-focus-color: #E22717;
+                --pb-search-suggestions-background: #fff8f2;      
+            }
+
+            .targets paper-checkbox {
+                margin-top: 10px;
+            }
+            
+            .targets h4 {
+                font-weight: 500 !important;
+            }
+
+            #results {
+                flex: 3;
+                margin: 0 20px;
+                height: calc(100vh - 140px);
+                margin-top: 1em;
+            }
+            
+            #results pb-load {
+                overflow: scroll;
+                height: 100%;
+                border-top: 1px solid #999;
+            }
+
+            #results paper-card {
+                width: 100%;
+                margin-bottom: 15px;
+                padding: 8px;
+            }
+
+            #results paper-card header {
+                width: 100%;
+            }
+            
+            #results paper-card header .count {
+                display: none;
+            }
+            
+            .breadcrumbs {
+                width: 100%;
+                background: #f7f7f7;
+                padding: 5px;
+                margin-left: 0px;
+            }
+            
+            .breadcrumbs span {
+                font-family: 'ff-scala-sans';
+                display: inline-block;
+            }
+            
+            .part {
+                width: 15%;
+            }            
+            
+            .place {
+                width: 18%;
+                margin-right: 7px;
+            }
+            
+            .collector, .signum {
+                width: 22%;
+                margin-right: 5px;
+            }
+            
+            .breadcrumb {
+                font-family: 'ff-scala-sans';
+                display: inline-block;
+                width: 15%;
+                font-weight: bold;
+            }
+            
+            .breadcrumb:link, .breadcrumb:visited, .breadcrumb2:link, .breadcrumb2g:visited {
+                text-decoration: none;
+                color: #000;
+                font-family: 'ff-scala-sans';
+                font-size: 1.25rem;
+            }
+            
+            .breadcrumb:focus, .breadcrumb2:focus {
+                color: #E22717;
+            }
+            
+            .breadcrumb:first-child::before {
+                content: '';
+            }
+            
+            .breadcrumb2 {
+                font-family: 'ff-scala-sans';
+                display: inline-block;
+                font-weight: bold;
+                width: 100%;
+                color: #000;
+                text-transform: none;
+            }
+            
+            .line {
+                margin-left: 15px;
+                font-size: 90%;
+                font-style: italic;
+            }
+            
+            .matches {
+                display: table;
+                margin-left: 20px;
+                margin-top: 10px;
+                font-size: 1rem;
+                font-family: 'ff-scala-sans';
+            }
+            ;
+            .matches p {
+                display: table-row;
+            }
+            
+            .matches p * {
+                display: table-cell;
+                padding: 4px 8px;
+            }
+
+            .hi {
+                color: #E22717;
+                font-weight: 700;
+                font-family: 'ff-scala-sans';
+                text-decoration: none;
+                
+            }
+            
+            .hi:focus, .hi:hover {
+                text-decoration: underline;
+                text-decoration-thickness: 0.2rem;                
+            }
+            
+            .hi:focus-visible {
+                border: 2px solid #000;
+                border-radius: 3px;
+                padding: 0px;
+                
+            }
+            
+            .hit-count {
+                position: absolute;
+                right: 15px;
+            }
+            
+            #facets {
+                flex: 0;
+                min-width: 270px;
+                padding-left: 10px;
+                padding-right: 10px;
+                border-right: 1px dotted #E22717;
+                background: #fff8f2;
+            }
+
+            #facets pb-combo-box {
+                margin-top: .5rem;
+                margin-bottom: 1.5rem;
+                display: block;
+                width: 97%;
+            }
+
+            
+            div.facet-dimension {
+                max-height: 450px;
+                height: 100%;
+                margin-left: 0px !important;
+                padding: 0px !important;
+                margin-bottom: 2em !important;
+            }
+            
+            div.frame {
+                overflow-y: auto;
+                max-height: 300px;
+                background: #fff8f2;
+                border: 1px solid #000;
+                height: 100%;
+                padding: 10px !important;
+            }
+            
+            div.facet-dimension table {
+                height: 100%;
+                width: 100%;
+                margin-right: 15px !important;
+                margin-left: 5px !important;
+            }
+            
+            #facets h3 {
+                display: flex;
+                flex-direction: row;
+                justify-content: space-between;
+                font-family: 'ff-scala-sans';
+            }
+            
+            #facets h3 paper-checkbox {
+                margin-left: 16px;
+                margin-top: -10px;
+                font-size: 11px;
+                font-style: normal;
+                font-weight: 400;    
+                font-family: inherit;
+                font-family: 'ff-scala-sans' !important;
+            }
+            
+            #facets table {
+                font-size: 14px;
+                font-family: 'ff-scala-sans' !important;      
+                background: #fff8f2;
+                border-collapse: collapse;
+            }
+            
+            #facets table table {
+                padding-left: 0px;
+                width: 100%;
+                border-collapse: collapse;
+            }
+            
+            #facets table td {
+                padding: 4px 0;
+                font-family: inherit;
+                color: #313131 !important;
+            }
+            
+            #facets table td:nth-child(2) {
+                color: #313131;
+                text-align: right;
+                padding-left: 1em;
+                vertical-align: middle;
+            }
+            
+            .submitFacets {
+                display: inline-block !important;
+                float: right;
+            }
+            
+            .card-content {
+                background-color: #F0F0F0;         
+            }
+            
+            @media (min-width: 1024px) {
+                app-drawer {
+                    display: none;
+                }
+            }
+            
+            @media (max-width: 1023px) {
+                main {
+                    display: flex;
+                    flex-direction: column;
+                }
+                
+                #infopanel {
+                    display: none;
+                }
+                
+                #infoBtn {
+                    display: none;
+                }
+                
+                #results paper-card {
+                    padding: 0px;
+                }
+                
+                #results table {
+                    display: none;
+                }
+                
+                #context, #dload-tei, #dload-csv {
+                    display: none;
+                }
+                
+                #facets {
+                    display: none;
+                }
+                
+                #clear {
+                    display: none;
+                }
+                
+                .breadcrumbs {
+                    display: flex;
+                    flex-direction: column;
+                }
+                
+                .breadcrumb, .breadcrumbs span {
+                    width: 100%;
+                    margin-bottom: 3px;
+                }
+                
+                
+            }
+            
+            app-header app-toolbar:nth-child(3) {
+                display: flex;
+                justify-content: space-between;
+            }
+    
+            pb-media-query, app-toolbar {
+                opacity: 1.0 !important;
+            }
+            
+            #infoBtn {
+                z-index: 0 !important;
+            }
+            
+            #buttons {
+                position: absolute;
+                top: 15px;
+                right: 15px;
+            }
+            
+            #context, #dload-tei, #dload-csv {
+                text-decoration: none;
+                outline: none;
+                color: #000;
+                z-index: 0 !important;
+                margin-right: 10px;
+                font-family: 'ff-scala-sans';
+                color: #fff;
+                background: #313131;
+                font-weight: 700;
+            }
+            
+            #context {
+                border: none;
+                font-size: 1.2rem;
+                margin-top: 5px;
+            }
+            
+            #context:focus, #context:hover, #dload-tei:focus, #dload-tei:hover, #dload-csv:focus, #dload-csv:hover {
+                background: #313131;
+                text-decoration: underline;
+            }
+            
+            #infoBtn {
+                background: #E22717;
+                color: #fff;
+                border-radius: 50%;
+                height: 35px;
+                width: 35px;
+                padding: 4px;
+            }            
+            
+           #infopanel {
+                display: none;
+                z-index: 10 !important;
+                position: absolute;
+                right: 20px;
+                top: 210px;
+                opacity: 1.0 !important;
+                padding: 5px;
+                max-width: 400px;
+                background-color: #FFF8F2;
+                border: 1px dotted #e22717;
+            }
+            
+            #infopanel .card-content {
+                opacity: 1.0 !important;
+                font-family: 'ff-scala-sans';
+                font-size: 16px;
+                background-color: #FFF8F2;                  
+            }
+            
+            #infopanel .card-content p a {
+                font-family: 'ff-scala-sans';
+                text-decoration: none;
+                font-weight: 700;
+                color: #000;
+            }
+            
+            #infopanel .card-content p a:hover, #infopanel .card-content p a:focus {
+                text-decoration: underline;
+                text-decoration-thickness: 0.2rem;
+                
+            }
+            
+            #infopanel .card-actions {
+                display: flex;
+                justify-content: right;
+                border-top: 1px dotted #e22717;
+            }
+            
+            #infopanel .card-actions paper-icon-button {
+                color: #fff;
+                background-color: #e22717;
+                border-radius: 50%;
+            }
+            
+            .submitFacets {
+                margin-top: -7px;
+            }            
+        
+
+            #results table {
+                width: 99%;
+                margin-left: 0.5em;
+                margin-bottom: 1em;
+                margin-top: 1em;
+            }
+            
+            #results table tr td {
+                font-weight: bold;
+                text-transform: uppercase;
+            }
+            
+            #clearFacets {
+                text-transform: none;
+                z-index: 9999;
+                margin-top: 1em;
+                font-weight: bold;
+                font-family: 'ff-scala-sans';
+            }      
+            
+            pb-select {
+                margin-top: -20px;
+            }
+            
+            #dateSort {
+                font-size: 13px !important;
+            }                
+        </style>
+            <!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setCookieDomain", "*.aineistot.finlit.fi"]);
+  _paq.push(["setDomains", ["*.aineistot.finlit.fi"]]);
+  _paq.push(["disableCookies"]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://sks.matomo.cloud/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '26']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src='//cdn.matomo.cloud/sks.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+    </head>
+
+    <body>
+        <pb-page data-template="pages:pb-page" unresolved="unresolved">
+        <app-drawer-layout force-narrow="force-narrow">
+            <app-drawer slot="drawer" align="right" data-template="lib:include" data-template-path="templates/drawer.html"/>
+            <app-header-layout>
+                <app-header slot="header" reveals="reveals" effects="waterfall">
+                    <app-toolbar data-template="lib:include" data-template-path="templates/menu.html"/>
+                        <app-toolbar>
+                            <pb-paginate per-page="20" range="5" subscribe="search" emit="search" found-label="browse.items"/>
+                            <paper-menu id="buttons">
+                                <button type="button" id="context">Piilota hakutuloskontekstit</button>
+                                <a id="dload-tei" href="/exist/apps/skvr/export-xml-search.xql">
+                                        <iron-icon icon="icons:save"/> Data (XML)</a>
+                                <a id="dload-csv" href="/exist/apps/skvr/export-csv-search.xql">
+                                        <iron-icon icon="icons:save"/> Data (CSV)</a>                                        
+                                <paper-icon-button title="Avaa ohjeikkuna" id="infoBtn" icon="icons:help-outline"/>
+                            </paper-menu>                 
+                            <pb-progress indeterminate="indeterminate" bottom-item="bottom-item" subscribe="search"/>
+                        </app-toolbar>
+                </app-header>
+
+                <main>
+                    <div class="search-panel">
+                        <paper-card id="infopanel">
+                            <div class="card-content">
+                                <p>Hakusivu näyttää aina edellisen tehdyn haun tulokset ja hakutermin/hakutermit (myös Runotyypit-sivun haut). Voit valita yhden tai useamman hakuvaihtoehdon. Ilman valintaa haku kohdistuu kaikkiin SKVR-kokoelman runoihin. Huom: mikäli olet päätynyt hakusivulle etusivulla tehdyn haun kautta ja haluat rajata tuloksia faseteilla, varmista että oikea hakukenttä on edelleen valittuna.</p>
+                                <p>Hakutulokset näkyvät vakiona runon numeron mukaan järjestettynä. Mikäli haluat palauttaa tulokset aikajärjestyksessä, klikkaa valintaruutu aivan hakukentän alapuolella ennen haun tekemistä. Palaa numerojärjestykseen poistamalla valinta ja tekemällä haku uudestaan.
+                                </p>
+                                <p>Hakutuloksia voi rajata vasemman laidan faseteilla: valitse fasetin alta yksi tai useampi arvo joko ruksimalla valintaruutuja tai tekemällä haun fasetin hakukenttään ja paina Päivitä fasettivalinnat -painiketta. Poista arvo poistamalla valinta sen kohdalta ja paina uudestaan painiketta. Kaikki fasettivalinnat voi poistaa painamalla "Poista kaikki fasettivalinnat"-painiketta.</p>
+                                <p>Uuden haun voi tehdä fasettien päällä näkyvässä hakukentässä. Haku tukee perus-, katkaisu- (*), sumeita (~) ja yhdistelmähakuja (AND, OR, NOT) sekä näiden yhdistelmiä.</p>
+                                <p>Hakutoiminnoista tarkemmin ks. <a href="/exist/apps/skvr/ohjeet.html" target="_blank">hakuohjeet</a>.</p>
+                            </div>
+                            <div class="card-actions">
+                                <paper-icon-button id="close" icon="icons:close"/>
+                            </div>
+                        </paper-card>                        
+                        <paper-card>
+                            <div class="card-content">
+                                <p>Hakusivu näyttää aina edellisen haun tulokset ja hakutermin/-termit (myös Runotyypit-sivun haut). Voit paitsi rajata aineistoa tehdä myös Runoluetteloa monimutkaisempia hakulausekkeita ja määrittää, mihin tekstiosioihin haku kohdistuu. Ilman määritystä haku kohdistuu SKVR-kokoelmaan. <pb-popover theme="light" placement="top" persistent="true">
+                                            <iron-icon icon="icons:info-outline"/>
+                                            <template slot="alternate">Huom: mikäli päädyit hakusivulle etusivulla tehdyn haun kautta ja haluat kohdistaa haun uudelleen samaan kenttään tai rajata tuloksia fasettien avulla, varmista että oikea hakukenttä on edelleen valittuna.</template>
+                                        </pb-popover>
+                                    </p>
+                                <pb-search id="search-form" subscribe="search" data-template="pages:parse-params" value="${query}" submit-on-load="submit-on-load" place-holder="Syötä kysely">
+                                    <paper-checkbox name="dateSort" value="dateSt" id="dateSort">Palauta tulokset aikajärjestyksessä</paper-checkbox>
+                                    <h4>1. Valitse kokoelma (SKVR, JR tai molemmat)</h4>
+                                    <pb-select label="Hae kokoelmasta:" name="coll" value="main" data-template="pages:parse-params">
+                                        <paper-item value="main">SKVR</paper-item>
+                                        <paper-item value="jr">JR</paper-item>
+                                        <paper-item value="">SKVR ja JR</paper-item>
+                                       <hr/>
+                                    </pb-select>
+                                    <div class="targets">
+                                        <h4>2. Valitse hakukenttä</h4>
+                                            <paper-checkbox name="field" value="fullText">Runot (koko teksti)</paper-checkbox>
+                                            <br/>
+                                            <paper-checkbox name="field" value="lines">Säkeet</paper-checkbox>
+                                            <br/>
+                                            <paper-checkbox name="field" value="themes">Runotyypit</paper-checkbox>
+                                            <hr/>
+                                            <paper-checkbox name="field" value="collector">Kerääjät</paper-checkbox>
+                                            <br/>
+                                            <paper-checkbox name="field" value="informant">Runonlaulajat <pb-popover theme="light" placement="top" persistent="true">
+                                            <iron-icon icon="icons:info-outline"/>
+                                            <template slot="alternate">Karjalaisia runolaulajien nimiä haettaessa kannattaa käyttää sumean haun tildemerkkiä, esim. <span style="font-style:italic;">perttune~</span>. Tällaisten nimien ortografia vaihtelee voimakkaasti, joten perushaulla (esim. <span style="font-style:italic;">perttune</span>) eri variaatioita saattaa jäädä löytymättä, kun taas sumea haku palauttaa ne.</template>
+                                        </pb-popover>
+                                            </paper-checkbox>
+                                            <br/>  
+                                            <paper-checkbox name="field" value="collPlace">Paikkakunnat</paper-checkbox>
+                                            <br/>
+                                            <paper-checkbox name="field" value="collRegion">Maakunnat</paper-checkbox>
+                                            <br/>
+                                            <paper-checkbox value="dateSt">Vuodet <pb-popover theme="light" placement="top" persistent="true">
+                                            <iron-icon icon="icons:info-outline"/>
+                                            <template slot="alternate">Vuosi- ja aikavälihaku. Jälkimmäisen hakulause on muoto: <i>[vvvv TO vvvv]</i> (mukaan lukien alku- ja loppuvuosi) tai <i>{vvvv TO vvvv}</i> (poislukien alku- ja loppuvuosi).</template>
+                                        </pb-popover>
+                                            </paper-checkbox>
+                                            <hr/> 
+                                            <paper-checkbox name="field" value="esipuheet">Esipuheet</paper-checkbox>
+                                    </div>    
+                                    <paper-button id="clearFacets">
+                                        <iron-icon icon="icons:close"/> Poista kaikki fasettivalinnat</paper-button>
+                                    <pb-custom-form id="facets" url="api/search/facets" subscribe="search" event="pb-results-received" emit="search"/>
+                                </pb-search>
+                            </div>
+                        </paper-card>
+                    </div>
+                    <div id="results">
+                        <table>
+                            <tr>
+                                <td class="part">Osa</td>
+                                <td class="breadcrumb">Numero</td>
+                                <td class="place">Paikkakunta</td>
+                                <td class="collector">Kerääjä</td>
+                                <td class="signum">Signum</td>
+                                <td class="date">Aika</td>
+                            </tr>
+                        </table>
+                        <pb-load id="results" url="api/search" emit="search" expand=""/>
+                    </div>
+
+                </main>
+                <footer class="version" data-template="templates:include" data-template-path="templates/footer.html"/>      
+            </app-header-layout>
+            </app-drawer-layout>
+        </pb-page>
+    <script src="resources/scripts/browse.js"/> 
+    </body>
+</html>

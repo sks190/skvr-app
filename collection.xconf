@@ -1,0 +1,145 @@
+<collection xmlns="http://exist-db.org/collection-config/1.0">
+    <index xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dbk="http://docbook.org/ns/docbook">
+        <fulltext default="none" attributes="false"/>
+        <lucene>
+            <module uri="http://teipublisher.com/index" prefix="nav" at="index.xql"/>
+            <analyzer id="ws" class="org.apache.lucene.analysis.core.WhitespaceAnalyzer"/>
+            <analyzer id="stdstops" class="org.apache.lucene.analysis.standard.StandardAnalyzer">
+                <param name="stopwords" type="org.apache.lucene.analysis.util.CharArraySet">
+                    <value/>
+                </param>
+            </analyzer>            
+            <text qname="tei:text" analyzer="stdstops">
+                <ignore qname="tei:div"/>
+                <ignore qname="tei:l"/>
+                <field name="title" expression="nav:get-metadata(ancestor::tei:TEI, 'title')"/>
+                <field name="dateSt" expression="nav:get-metadata(ancestor::tei:TEI, 'dateSt')"/>
+                <field name="dateNst" expression="nav:get-metadata(ancestor::tei:TEI, 'dateNst')"/>
+                <field name="file" expression="util:document-name(.)"/>
+                <field name="part" expression="nav:get-metadata(ancestor::tei:TEI, 'part')"/>
+                <field name="number" expression="nav:get-metadata(ancestor::tei:TEI, 'number')"/>
+                <field name="desc" expression="nav:get-metadata(ancestor::tei:TEI, 'desc')"/>      
+                <field name="collector" expression="nav:get-metadata(ancestor::tei:TEI, 'collector')"/>     
+                <field name="collRegion" expression="nav:get-metadata(ancestor::tei:TEI, 'collRegion')"/>  
+                <field name="collPlace" expression="nav:get-metadata(ancestor::tei:TEI, 'collPlace')"/> 
+                <field name="village" expression="nav:get-metadata(ancestor::tei:TEI, 'village')"/>   
+                <field name="informant" expression="nav:get-metadata(ancestor::tei:TEI, 'informant')"/> 
+                <field name="idno" expression="nav:get-metadata(ancestor::tei:TEI, 'idno')"/>
+                <field name="sgn" expression="nav:get-metadata(ancestor::tei:TEI, 'sgn')"/>      
+                <field name="poemType" expression="nav:get-metadata(ancestor::tei:TEI, 'poemType')"/>  
+                <field name="poemTypeDesc" expression="nav:get-metadata(ancestor::tei:TEI, 'poemTypeDesc')"/>  
+                <facet dimension="dateSt" expression="nav:get-metadata(ancestor::tei:TEI, 'dateSt')"/>                
+                <facet dimension="part" expression="nav:get-metadata(ancestor::tei:TEI, 'part')"/>
+                <facet dimension="number" expression="nav:get-metadata(ancestor::tei:TEI, 'number')"/>                
+                <facet dimension="collector" expression="nav:get-metadata(ancestor::tei:TEI, 'collector')"/>    
+                <facet dimension="collRegion" expression="nav:get-metadata(ancestor::tei:TEI, 'collRegion')"/>       
+                <facet dimension="collPlace" expression="nav:get-metadata(ancestor::tei:TEI, 'collPlace')"/>     
+                <facet dimension="genre" expression="nav:get-metadata(ancestor::tei:TEI, 'genre')" hierarchical="yes"/>   
+            </text>
+            <text qname="tei:div" analyzer="stdstops">
+                <facet dimension="dateSt" expression="nav:get-metadata(ancestor::tei:TEI, 'dateSt')"/>                
+                <facet dimension="part" expression="nav:get-metadata(ancestor::tei:TEI, 'part')"/>  
+                <facet dimension="number" expression="nav:get-metadata(ancestor::tei:TEI, 'number')"/>
+                <facet dimension="collector" expression="nav:get-metadata(ancestor::tei:TEI, 'collector')"/>    
+                <facet dimension="collRegion" expression="nav:get-metadata(ancestor::tei:TEI, 'collRegion')"/>     
+                <facet dimension="collPlace" expression="nav:get-metadata(ancestor::tei:TEI, 'collPlace')"/>    
+                <facet dimension="genre" expression="nav:get-metadata(ancestor::tei:TEI, 'genre')" hierarchical="yes"/>         
+            </text>            
+            <text qname="tei:l" analyzer="stdstops">
+                <inline qname="tei:hi"/>
+                <facet dimension="dateSt" expression="nav:get-metadata(ancestor::tei:TEI, 'dateSt')"/>          
+                <facet dimension="part" expression="nav:get-metadata(ancestor::tei:TEI, 'part')"/>     
+                <facet dimension="number" expression="nav:get-metadata(ancestor::tei:TEI, 'number')"/>
+                <facet dimension="collector" expression="nav:get-metadata(ancestor::tei:TEI, 'collector')"/>    
+                <facet dimension="collRegion" expression="nav:get-metadata(ancestor::tei:TEI, 'collRegion')"/> 
+                <facet dimension="collPlace" expression="nav:get-metadata(ancestor::tei:TEI, 'collPlace')"/>    
+                <facet dimension="genre" expression="nav:get-metadata(ancestor::tei:TEI, 'genre')" hierarchical="yes"/>         
+            </text>
+            <text qname="tei:person">
+                <facet dimension="dateSt" expression="nav:get-metadata(ancestor::tei:TEI, 'dateSt')"/>          
+                <facet dimension="part" expression="nav:get-metadata(ancestor::tei:TEI, 'part')"/>   
+                <facet dimension="number" expression="nav:get-metadata(ancestor::tei:TEI, 'number')"/>
+                <facet dimension="collector" expression="nav:get-metadata(ancestor::tei:TEI, 'collector')"/>    
+                <facet dimension="collRegion" expression="nav:get-metadata(ancestor::tei:TEI, 'collRegion')"/> 
+                <facet dimension="collPlace" expression="nav:get-metadata(ancestor::tei:TEI, 'collPlace')"/>    
+                <facet dimension="genre" expression="nav:get-metadata(ancestor::tei:TEI, 'genre')" hierarchical="yes"/>     
+            </text>
+            <text qname="tei:region">
+                <facet dimension="dateSt" expression="nav:get-metadata(ancestor::tei:TEI, 'dateSt')"/>          
+                <facet dimension="part" expression="nav:get-metadata(ancestor::tei:TEI, 'part')"/>  
+                <facet dimension="number" expression="nav:get-metadata(ancestor::tei:TEI, 'number')"/>
+                <facet dimension="collector" expression="nav:get-metadata(ancestor::tei:TEI, 'collector')"/>    
+                <facet dimension="collRegion" expression="nav:get-metadata(ancestor::tei:TEI, 'collRegion')"/> 
+                <facet dimension="collPlace" expression="nav:get-metadata(ancestor::tei:TEI, 'collPlace')"/>    
+                <facet dimension="genre" expression="nav:get-metadata(ancestor::tei:TEI, 'genre')" hierarchical="yes"/>
+            </text>
+            <text qname="tei:settlement">
+                <facet dimension="dateSt" expression="nav:get-metadata(ancestor::tei:TEI, 'dateSt')"/>          
+                <facet dimension="part" expression="nav:get-metadata(ancestor::tei:TEI, 'part')"/>   
+                <facet dimension="number" expression="nav:get-metadata(ancestor::tei:TEI, 'number')"/>
+                <facet dimension="collector" expression="nav:get-metadata(ancestor::tei:TEI, 'collector')"/>    
+                <facet dimension="collRegion" expression="nav:get-metadata(ancestor::tei:TEI, 'collRegion')"/> 
+                <facet dimension="collPlace" expression="nav:get-metadata(ancestor::tei:TEI, 'collPlace')"/>    
+                <facet dimension="genre" expression="nav:get-metadata(ancestor::tei:TEI, 'genre')" hierarchical="yes"/>    
+            </text>
+            <text qname="tei:msItem">
+                <facet dimension="dateSt" expression="nav:get-metadata(ancestor::tei:TEI, 'dateSt')"/>          
+                <facet dimension="part" expression="nav:get-metadata(ancestor::tei:TEI, 'part')"/>     
+                <facet dimension="number" expression="nav:get-metadata(ancestor::tei:TEI, 'number')"/>
+                <facet dimension="collector" expression="nav:get-metadata(ancestor::tei:TEI, 'collector')"/>    
+                <facet dimension="collRegion" expression="nav:get-metadata(ancestor::tei:TEI, 'collRegion')"/> 
+                <facet dimension="collPlace" expression="nav:get-metadata(ancestor::tei:TEI, 'collPlace')"/>    
+                <facet dimension="genre" expression="nav:get-metadata(ancestor::tei:TEI, 'genre')" hierarchical="yes"/>    
+            </text>
+            <text qname="tei:head"/>
+            <text qname="tei:catRef" analyzer="ws">
+                <facet dimension="dateSt" expression="nav:get-metadata(ancestor::tei:TEI, 'dateSt')"/>          
+                <facet dimension="part" expression="nav:get-metadata(ancestor::tei:TEI, 'part')"/>     
+                <facet dimension="number" expression="nav:get-metadata(ancestor::tei:TEI, 'number')"/>
+                <facet dimension="collector" expression="nav:get-metadata(ancestor::tei:TEI, 'collector')"/>    
+                <facet dimension="collRegion" expression="nav:get-metadata(ancestor::tei:TEI, 'collRegion')"/> 
+                <facet dimension="collPlace" expression="nav:get-metadata(ancestor::tei:TEI, 'collPlace')"/>   
+            </text>
+            <text qname="tei:catDesc">
+                <facet dimension="dateSt" expression="nav:get-metadata(ancestor::tei:TEI, 'dateSt')"/>          
+                <facet dimension="part" expression="nav:get-metadata(ancestor::tei:TEI, 'part')"/>  
+                <facet dimension="number" expression="nav:get-metadata(ancestor::tei:TEI, 'number')"/>
+                <facet dimension="collector" expression="nav:get-metadata(ancestor::tei:TEI, 'collector')"/>    
+                <facet dimension="collRegion" expression="nav:get-metadata(ancestor::tei:TEI, 'collRegion')"/> 
+                <facet dimension="collPlace" expression="nav:get-metadata(ancestor::tei:TEI, 'collPlace')"/>    
+                <facet dimension="genre" expression="nav:get-metadata(ancestor::tei:TEI, 'genre')" hierarchical="yes"/>    
+            </text>
+            <text match="//tei:date[@type='non_standardized']/@when">
+                <facet dimension="dateSt" expression="nav:get-metadata(ancestor::tei:TEI, 'dateSt')"/>          
+                <facet dimension="part" expression="nav:get-metadata(ancestor::tei:TEI, 'part')"/> 
+                <facet dimension="number" expression="nav:get-metadata(ancestor::tei:TEI, 'number')"/>
+                <facet dimension="collector" expression="nav:get-metadata(ancestor::tei:TEI, 'collector')"/>    
+                <facet dimension="collRegion" expression="nav:get-metadata(ancestor::tei:TEI, 'collRegion')"/> 
+                <facet dimension="collPlace" expression="nav:get-metadata(ancestor::tei:TEI, 'collPlace')"/>    
+                <facet dimension="genre" expression="nav:get-metadata(ancestor::tei:TEI, 'genre')" hierarchical="yes"/> 
+            </text>
+            <text match="//tei:date[@type='standardized']">
+                <facet dimension="dateSt" expression="nav:get-metadata(ancestor::tei:TEI, 'dateSt')"/>          
+                <facet dimension="part" expression="nav:get-metadata(ancestor::tei:TEI, 'part')"/>  
+                <facet dimension="number" expression="nav:get-metadata(ancestor::tei:TEI, 'number')"/>
+                <facet dimension="collector" expression="nav:get-metadata(ancestor::tei:TEI, 'collector')"/>    
+                <facet dimension="collRegion" expression="nav:get-metadata(ancestor::tei:TEI, 'collRegion')"/> 
+                <facet dimension="collPlace" expression="nav:get-metadata(ancestor::tei:TEI, 'collPlace')"/>    
+                <facet dimension="genre" expression="nav:get-metadata(ancestor::tei:TEI, 'genre')" hierarchical="yes"/> 
+            </text>            
+            <text match="//tei:catRef/@target" analyzer="ws">
+                <facet dimension="dateSt" expression="nav:get-metadata(ancestor::tei:TEI, 'dateSt')"/>          
+                <facet dimension="part" expression="nav:get-metadata(ancestor::tei:TEI, 'part')"/> 
+                <facet dimension="number" expression="nav:get-metadata(ancestor::tei:TEI, 'number')"/>
+                <facet dimension="collector" expression="nav:get-metadata(ancestor::tei:TEI, 'collector')"/>    
+                <facet dimension="collRegion" expression="nav:get-metadata(ancestor::tei:TEI, 'collRegion')"/> 
+                <facet dimension="collPlace" expression="nav:get-metadata(ancestor::tei:TEI, 'collPlace')"/>    
+                <facet dimension="genre" expression="nav:get-metadata(ancestor::tei:TEI, 'genre')" hierarchical="yes"/> 
+            </text>
+            <text match="//tei:titleStmt/tei:title"/>
+            <text match="//tei:msDesc/tei:head"/>
+            <text match="//tei:listPlace/tei:place/tei:placeName"/>
+        </lucene>
+        <ngram qname="tei:catDesc"/>
+    </index>
+</collection>

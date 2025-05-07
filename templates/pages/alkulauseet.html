@@ -1,0 +1,269 @@
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes"/>
+        <link rel="shortcut icon" type="image/x-icon" href="resources/images/favicon.ico"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-16.png" sizes="16x16"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-24.png" sizes="24x24"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-32.png" sizes="32x32"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-64.png" sizes="64x64"/>
+
+        <title data-template="config:app-title"/>
+        <meta name="description" content="Template for SKVR forewords"/>
+        <meta name="pb-template" content="alkulauseet.html"/>
+
+        <link rel="stylesheet" type="text/css" href="resources/fonts/font.css"/>
+        <link rel="preload" as="font" href="resources/fonts/ScalaOT.otf" type="font/otf" crossorigin="anonymous"/>    
+        <link rel="preload" as="font" href="resources/fonts/ScalaSantsOT.otf" type="font/otf" crossorigin="anonymous"/> 
+        <link rel="stylesheet" href="resources/css/theme.css"/>
+        <link rel="stylesheet" href="resources/css/skvr.css"/>        
+        <script type="module" src="pb-components-bundle.js" data-template="pages:load-components"/>
+        <script type="text/javascript">
+            document.addEventListener('DOMContentLoaded', function() {
+                var links = document.getElementById('view1').shadowRoot.querySelectorAll('.tei-ref2');
+                links.forEach(function(link) {
+                    link.addEventListener('focus', function() {
+                       link.setAttribute('css','color:#e22717;');
+                    });   
+                });
+            });
+        </script>
+        <style>
+            @font-face {
+                font-family: 'ff-scala-sans';
+                src: url('resources/fonts/ScalaSansOT.otf') format('opentype');
+                font-style: normal;
+                font-weight: normal;
+            }
+
+            @font-face {
+                font-family: 'ff-scala-sans';
+                src: url('resources/fonts/ScalaSansOT-Ita.otf') format('opentype');
+                font-style: italic;
+                font-weight: normal;
+            }
+
+            @font-face {
+                font-family: 'ff-scala-sans';
+                src: url('resources/fonts/ScalaSansOT-Bold.otf') format('opentype');
+                font-style: normal;
+                font-weight: bold;  
+            }  
+            
+            ::-webkit-scrollbar {
+                background-color: #f5f5f5;
+                border-radius: 10px;
+                width: 7px;
+                height: 2px;
+            }
+
+            ::-webkit-scrollbar-thumb {
+                background-color: #000000;
+                border-radius: 10px;
+            }
+
+            main {
+                display: flex;
+                flex-direction: column;
+            }
+            
+            main section:nth-child(1) {
+                margin-bottom: 1em;
+                padding: 20px;
+            }
+            
+            main section:nth-child(1) div {
+                font-family: 'ff-scala-sans';
+                font-size: 18px;
+            }
+            
+            main section:nth-child(2) {
+                display: grid;
+                height: 1230.158px;
+                grid-template-columns: 315px 2fr;
+                grid-template-rows: auto 1fr auto;
+                padding-left: 20px;
+            }
+
+            main paper-card {
+                width: 95%;
+                height: calc(100vh - 140px);
+                grid-column: 2/ 2;  
+                font-family: 'ff-scala-sans';
+                padding-top: 1em;    
+                padding-left: 2em;
+                margin-left: 0px;
+            }
+
+            @media (max-width: 1023px) {
+                main {
+                    display: flex !important;
+                    flex-direction: column !important;
+                    padding: 0px;
+                }
+                
+                main section {
+                    display: flex !important;
+                    flex-direction: column !important;
+                    width: 95% !important;
+                }
+                
+                main section div {
+                    width: 95% !important;
+                }
+                
+                #view {
+                    width: 95% !important;
+                    margin: 0px;
+                    display: flex;
+                    flex-direction: column !important;
+                }
+                
+                #menu {
+                    margin: 0px;
+                    padding: 0px;
+                    width: 100% !important;
+                    height: 250px !important;
+                    overflow-y: scroll;
+                }
+                
+                #contents {
+                    width: 100%;
+                    width: 100%;
+                }
+                
+                div#view p {
+                    margin-left: 1em;
+                }
+                
+                #view1 {
+                    max-width: 98%;
+                    padding: 0px !important;
+                    margin-left: 0px !important;
+                    font-size: 95% !important;
+                }
+            }
+
+            div#menu {
+                height: 1230.158px;
+                background: #FFF8F2;                 
+                width: 300px;         
+                padding: 2em 10px 10px 0px;                
+            }
+
+            ul#contents {
+                font-family: 'ff-scala-sans';
+                width: 89%;
+                padding-right: 5px;
+                list-style-type: none;
+                margin-top: 0px !important;
+                height: calc(100vh - 140px);
+                overflow-y: scroll;
+                background: #FFF8F2;                 
+            }
+            
+            ul#contents li {
+                margin-left: 0px;
+                margin-bottom: 1em;
+            }
+            
+            ul#contents li a {
+                color: black;
+                font-weight: 700;
+                font-size: 1.2rem;
+                font-family: 'ff-scala-sans';
+                text-decoration: none;
+            }
+            
+            ul#contents li pb-link:focus. ul#contents pb-link:hover {
+                color: #E22717 !important;
+                text-decoration: underline !important;
+                
+            }
+            
+            div#view p {
+                margin-bottom: 1em;
+                border: 1px solid #13985A;
+                padding: 5px;
+                width: 80%;
+            }
+            
+            #view1 {
+                font-family: 'ff-scala-sans';
+                overflow-y: scroll;
+                padding: 10px;
+                font-size: 1.2rem;
+                width: 95%;
+                height: 95%;
+            }
+            
+            h3 {
+                font-family: 'ff-scala-sans';
+            }
+
+            a:focus {
+                color: #e22717;
+            }
+            
+            paper-dropdown-menu {
+                margin-left: 1em;
+            }
+            
+            paper-dropdown-menu paper-listbox paper-item pb-link a {
+                font-family: 'ff-scala-sans';
+                color: #000 !important;
+                font-weight: 500 !important;
+                text-decoration: none;
+            }
+        </style>
+        <!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setCookieDomain", "*.aineistot.finlit.fi"]);
+  _paq.push(["setDomains", ["*.aineistot.finlit.fi"]]);
+  _paq.push(["disableCookies"]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://sks.matomo.cloud/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '26']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src='//cdn.matomo.cloud/sks.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+    </head>
+
+    <body>
+        <pb-page data-template="pages:pb-page" unresolved="unresolved">
+            <pb-document id="document1" data-template="pages:pb-document"/>
+            <app-drawer-layout force-narrow="force-narrow">
+                <app-drawer data-template="lib:include" data-template-path="templates/drawer.html"/>
+                <app-header-layout>
+                    <app-header slot="header" reveals="reveals" effects="waterfall">
+                        <app-toolbar data-template="lib:include" data-template-path="templates/menu.html"/>
+                    </app-header>
+
+                    <main>
+                        <section>
+                            <div>SKVR-kirjasarjan esipuheet sisältävät olennaista tietoa eri osien sisällöistä ja toimituksellisista ratkaisuista. Joidenkin osien loppuun on lisäksi koottu tietoja runojen laulajista ja heidän repertuaareistaan. Nämä lisät on otettu tähän sellaisenaan, sähköiseen tekstimuotoon muutettuina.</div>
+                                                    <hr/>
+                        </section>
+                        <section>
+                            <div id="menu">
+                               <ul id="contents" data-template="lib:include" data-template-path="templates/contents.html"/>
+                            </div>
+                            <paper-card id="view">
+                                <pb-view id="view1" src="document1" column-separator=".tei-cb" subscribe="transcription" emit="transcription" view="div"/>
+                            </paper-card>
+                        </section>
+                    </main>
+                     <footer class="version" data-template="templates:include" data-template-path="templates/footer.html"/>  
+                </app-header-layout>
+            </app-drawer-layout>
+        </pb-page>
+        <div class="splash"/>
+    </body>
+</html>

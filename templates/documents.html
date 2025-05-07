@@ -1,0 +1,23 @@
+<div>
+    <div data-template="browse:dispatch-action"/>
+    <div data-template="browse:list-works">
+        <table>
+            <tr>
+                <th>Osa</th>
+                <th>Numero</th>
+                <th>Paikkakunta</th>
+                <th>Kerääjä</th>
+                <th>Signum</th>
+                <th>Aika</th>                
+            </tr>
+        </table>
+        <ul class="documents" data-template="browse:browse" data-template-per-page="20">
+            <li class="document">
+                <div class="document-info">
+                    <header data-template="browse:short-header"/>
+                    <!-- TODO this toolbar should only appear once per Documents papercard -->
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>

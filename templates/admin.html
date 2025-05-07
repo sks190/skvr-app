@@ -1,0 +1,190 @@
+<html lang="fi">
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes"/>
+        <link rel="shortcut icon" type="image/x-icon" href="resources/images/favicon.ico"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-16.png" sizes="16x16"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-24.png" sizes="24x24"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-32.png" sizes="32x32"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-64.png" sizes="64x64"/>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald"/>
+
+        <title data-template="config:app-title"/>
+        <link rel="stylesheet" href="resources/css/theme.css"/>
+        <link rel="stylesheet" href="resources/css/skvr.css"/>        
+        <script type="module" src="pb-components-bundle.js" data-template="pages:load-components"/>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"/>
+        <style>
+            [unresolved] {
+                display:none;
+            }
+        </style>
+
+        <custom-style>
+            <style include="pb-common-styles">
+                body {
+                    font-family: Arial, Verdana, Tahoma, sans-serif;
+                }
+
+                main {
+                    height: 750px;
+                    padding: 1em;
+                }
+                
+                @media (max-width: 1023px) {
+                    main {
+                        margin: 0 8px 0 8px;
+                    }
+
+                }
+
+                pb-login {
+                    margin-bottom: 10px;
+                }
+
+                pb-results {
+                    overflow: scroll;
+                    margin: 0 20px;
+                    height: calc(100vh - 128px);
+                }
+
+                @media (min-width: 1024px) {
+                    .panels {
+                        display: flex;
+                        flex-direction: row;
+                    }
+
+                    .panels .doclist {
+                        flex: 2 auto;
+                        margin-right: 20px;
+                    }
+                }
+
+                .panels {
+                    margin-bottom: 40px;
+                    margin-top: 2em;
+                }
+
+                .panels .doclist {
+                    --paper-card-header: {
+                        background-color: #d1dae0;
+                    };
+
+                    --paper-card-header-text: {
+                        font-family: "Oswald",Verdana,"Helvetica",sans-serif;
+                        font-size: 16px;
+                        font-weight: 400;
+                    };
+                }
+
+                .panels .doclist .card-content {
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: space-between;
+                    padding: 0;
+                }
+
+                #document-list {
+                    flex: 2;
+                    margin-right: 20px;
+                }
+
+                .appname {
+                    margin-top: 24px;
+                    margin-bottom: 12px;
+                }
+                
+                aside {
+                    display: flex;
+                    flex-direction: column;
+                }
+
+                aside .odds, aside .upload {
+                    --paper-card-header: {
+                        background-color: #607D8B;
+                    };
+
+                    --paper-card-header-text: {
+                        font-family: "Oswald",Verdana,"Helvetica",sans-serif;
+                        font-size: 16px;
+                        font-weight: 400;
+                        color: white;
+                    };
+                }
+
+                aside .upload {
+                    width: 100%;
+                    min-width: 360px;
+                }
+
+                h1, h2, h3, h4, h5, h6 {
+                    font-family: "Oswald",Verdana,"Helvetica",sans-serif;
+                    font-weight: 400 !important;
+                    line-height: 1.2;
+                }
+
+                h5 {
+                    font-size: 16px;
+                    margin: 0;
+                }
+                
+                .appname {
+                    padding-top: 30px;
+                }
+                
+                .dropdown-content {
+                    top: 50;
+                }
+                
+                paper-listbox {
+                    padding: 0px;
+                    top: 30px;
+                }
+                
+                #fdbck ul {
+                  padding: 0px;
+                  list-style-type: none;
+                  margin-bottom: 1em;
+                }
+                
+                #fdbck ul li ul li {
+                    margin-bottom: 5px;
+                }
+                #fdbck ul li ul li span {
+                    font-style: italic;
+                }
+                
+            </style>
+        </custom-style>
+    </head>
+
+    <body>
+        <pb-page unresolved="unresolved" data-template="pages:pb-page" locales="resources/i18n/app/fi.json">
+            <pb-document id="document1" odd="teipublisher"/>
+            <app-drawer-layout force-narrow="force-narrow">
+                <app-drawer data-template="lib:include" data-template-path="templates/drawer.html"/>
+                <app-header-layout>
+                    <app-header slot="header" reveals="reveals" fixed="fixed" effects="waterfall">
+                        <app-toolbar data-template="lib:include" data-template-path="templates/menu.html"/>
+                    </app-header>
+                    <main>
+                        <section>
+                            <pb-login id="login" login-label="login.login" logout-label="login.as">
+    </pb-login>
+                            <pb-restricted login="login" group="tei">
+                            
+                                <pb-download data-template="pages:edit-odd-link" src="document1">
+                                    <iron-icon icon="icons:arrow-forward"/> <pb-i18n key="adminpage.edit-odd">Edit ODD</pb-i18n>
+                                </pb-download>
+                                <pb-download url="api/apps/download">
+                                    <iron-icon icon="icons:arrow-forward"/> <pb-i18n key="adminpage.xar-download">Download app as Xar</pb-i18n>
+                                </pb-download>
+                            </pb-restricted>
+                        </section>
+                    </main>
+                    <app-toolbar class="footer" data-template="lib:include" data-template-path="templates/footer.html"/>
+                </app-header-layout>
+            </app-drawer-layout>
+        </pb-page>
+    </body>
+</html>

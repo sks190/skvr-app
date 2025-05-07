@@ -1,0 +1,91 @@
+@font-face {
+  font-family: 'Junicode';
+  src: url('Junicode.eot');
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Junicode';
+  src: url('Junicode-Bold.eot');
+  /* IE9 Compat Modes */
+  src: url('Junicode-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('Junicode-Bold.woff') format('woff'), /* Modern Browsers */
+  url('Junicode-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('Junicode-Bold.svg#a4a3a01371cff8e72df79cb557f6a57d') format('svg');
+  /* Legacy iOS */
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Junicode';
+  src: url('Junicode-BoldItalic.eot');
+  /* IE9 Compat Modes */
+  src: url('Junicode-BoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('Junicode-BoldItalic.woff') format('woff'), /* Modern Browsers */
+  url('Junicode-BoldItalic.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('Junicode-BoldItalic.svg#f3502fc61f511459dbb2216b7fd7011f') format('svg');
+  /* Legacy iOS */
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Junicode';
+  src: url('Junicode-Italic.eot');
+  /* IE9 Compat Modes */
+  src: url('Junicode-Italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('Junicode-Italic.woff') format('woff'), /* Modern Browsers */
+  url('Junicode-Italic.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('Junicode-Italic.svg#5e709cef3c3a2fc2ffc49d7e9749cab5') format('svg');
+  /* Legacy iOS */
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ff-scala-sans';
+  src: url('ScalaSansOT.otf') format('opentype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'ff-scala-sans';
+  src: url('ScalaSansOT-Ita.otf') format('opentype');
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'ff-scala-sans';
+  src: url('ScalaSansOT-Bold.otf') format('opentype');
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'ff-scala';
+  src: url('ScalaOT.otf') format('opentype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'ff-scala';
+  src: url('ScalaOT-Ita.otf') format('opentype');
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'ff-scala';
+  src: url('ScalaOT-Bold.otf') format('opentype');
+  font-style: normal;
+  font-weight: bold;
+}

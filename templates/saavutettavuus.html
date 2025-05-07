@@ -1,0 +1,299 @@
+<html>
+
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes"/>
+    <title data-template="config:app-title"/>    
+    <link rel="shortcut icon" type="image/x-icon" href="resources/images/favicon.ico"/>
+    <link rel="shortcut icon" type="image/png" href="resources/images/favicon-16.png" sizes="16x16"/>
+    <link rel="shortcut icon" type="image/png" href="resources/images/favicon-24.png" sizes="24x24"/>
+    <link rel="shortcut icon" type="image/png" href="resources/images/favicon-32.png" sizes="32x32"/>
+    <link rel="shortcut icon" type="image/png" href="resources/images/favicon-64.png" sizes="64x64"/>
+    <link rel="stylesheet" href="resources/css/theme.css"/>
+    <link rel="stylesheet" href="resources/css/skvr.css"/>       
+    <script type="module" src="pb-components-bundle.js" data-template="pages:load-components"/>
+    <script type="text/javascript">
+        document.addEventListener('DOMContentLoaded', function() {
+            var searchBtn = document.querySelector('.menubar').querySelector('pb-search').shadowRoot.querySelector('iron-icon');
+            searchBtn.style.color = "#e22717";
+        }); 
+    </script> 
+    <custom-style>
+        <style>
+            @font-face {
+                font-family: 'ff-scala-sans';
+                src: url('resources/fonts/ScalaSansOT.otf') format('opentype');
+                font-style: normal;
+                font-weight: normal;
+            }
+
+            @font-face {
+                font-family: 'ff-scala-sans';
+                src: url('resources/fonts/ScalaSansOT-Ita.otf') format('opentype');
+                font-style: italic;
+                font-weight: normal;
+            }
+
+            @font-face {
+                font-family: 'ff-scala-sans';
+                src: url('resources/fonts/ScalaSansOT-Bold.otf') format('opentype');
+                font-style: normal;
+                font-weight: bold;
+            }        
+            
+            @font-face {
+                font-family: 'ff-scala';
+                src: url('resources/fonts/ScalaOT.otf') format('opentype');
+                font-style: normal;
+                font-weight: normal;
+            }       
+
+            @font-face {
+                font-family: 'ff-scala';
+                src: url('resources/fonts/ScalaOT-Ita.otf') format('opentype');
+                font-style: italic;
+                font-weight: normal;
+            }
+            
+            @font-face {
+                font-family: 'ff-scala';
+                src: url('resources/fonts/ScalaOT-Bold.otf') format('opentype');
+                font-style: normal;
+                font-weight: bold;
+            }         
+        
+            main {
+                padding: 20px 4rem 20px 4rem;
+                font-family: 'ff-scala-sans';
+            }
+            
+            main section {
+                font-family: 'ff-scala-sans';
+                width: 80%;
+            }
+            
+            main section a {
+                font-weight: bold;
+                text-decoration: underline;
+                color: #000;
+            }
+            
+            main section a:hover, main section a:focus {
+                color: #E22717;
+            }
+            
+            @media (max-width: 1023px) {
+                main {
+                    margin: 0 8px 0 8px;
+                }
+                .doclist {
+                    margin-bottom: 20px;
+                }
+                .documents {
+                    padding-left: 10px;
+                }
+                .documents .label {
+                    display: none;
+                }
+                .toolbar pb-search {
+                    padding-left: 0;
+                }
+                #facets {
+                    display: none;
+                }
+            }
+
+            
+            .parent-link iron-icon {
+                padding-right: 4px;
+            }
+
+            .parent-link {
+                display: block;
+                margin-bottom: 10px;
+                margin-top: 16px;
+                padding: 6px 0;
+                border-bottom: thin solid var(--paper-grey-300);
+            }
+
+            .documents ul {
+                list-style: none;
+            }
+            
+            .documents app-toolbar {
+                @apply --layout-start-justified;
+                font-size: 14px;
+                margin-top: 10px;
+                padding-left: 0;
+            }
+            
+            .documents div {
+                margin: 0;
+            }
+            
+            .documents .error {
+                color: #c02020;
+            }
+            
+            .documents a,
+            .documents a:visited {
+                color: #303F9F;
+                text-decoration: none;
+            }
+            
+            .documents li {
+                display: flex;
+                flex-direction: row;
+                margin-bottom: 10px;
+                padding: 6px 0;
+                border-bottom: thin solid var(--paper-grey-300);
+            }
+            
+            .documents li:last-child {
+                border: none;
+            }
+            
+            .documents .document-select {
+                flex: 0 0;
+                margin-right: 20px;
+            }
+            
+            h1,
+            h3,
+            h4,
+            h5,
+            h6 {
+                font-family: 'ff-scala-sans'
+                font-weight: 400 !important;
+                line-height: 1.2;
+            }
+            
+            h1 {
+                font-family: 'ff-scala' !important;
+                font-size: 1.75rem !important;
+                font-weight: 400 !important;
+                line-height: 1.2;
+            }
+            
+            h2 {
+                font-family: 'ff-scala-sans' !important;
+                font-size: 1.45rem !important;
+                font-weight: 400 !important;
+                line-height: 1.2;               
+            }
+            
+            h5 {
+                font-size: 16px;
+                margin: 0;
+            }
+
+            table {
+                border-top: 1px solid black;
+                border-left: 1px solid black;
+                border-right: 1px solid black;
+                margin-left: 15px;
+            }
+            
+            table tr {
+                border-bottom: 1px solid black;
+            }
+            table tr th {
+                text-align: left;
+                font-weight: normal;
+                font-size: 93%;
+                border-bottom: 1px solid black;
+            }
+            
+            table tr th:nth-child(1) {
+                padding-right: 10px;
+                border-right: 1px solid black;
+            }
+            
+        </style>
+    </custom-style>
+</head>
+
+<body>
+    <pb-page data-template="pages:pb-page" unresolved="unresolved">
+        <app-drawer-layout force-narrow="force-narrow">
+            <app-drawer slot="drawer" align="right" data-template="lib:include" data-template-path="templates/drawer.html"/>
+                <app-header-layout>
+                <app-header slot="header" reveals="reveals" effects="waterfall">
+                    <app-toolbar data-template="lib:include" data-template-path="templates/menu.html"/>
+                </app-header>
+
+                    <main>
+                        <article>
+                            <header>
+                                <h1>Tervetuloa, tämä on organisaation Suomalaisen Kirjallisuuden Seura saavutettavuusseloste                </h1>
+                            </header>
+                            <section class="statement__section">
+                                <p>Tämä saavutettavuusseloste koskee palvelua <a href="https://aineistot.finlit.fi/exist/apps/skvr">https://aineistot.finlit.fi/exist/apps/skvr</a> ja on laadittu 16.8.2024. Palvelua koskee laki digitaalisten palvelujen tarjoamisesta, jossa edellytetään, että julkisten verkkopalvelujen on oltava saavutettavia.                </p>
+                                <p>Olemme arvioineet palvelun saavutettavuuden itse.</p>
+                            </section>
+                            <section class="statement__section">
+                                <h2>Digipalvelun saavutettavuuden tila</h2>
+                                <p>Täyttää saavutettavuusvaatimukset osittain</p>
+                            </section>
+                            <section class="statement__section">
+                                <h2>Ei-saavutettava sisältö</h2>
+                                <section class="statement__inaccessible">
+                                    <h3>3. Verkkosivusto ei ole vielä kaikilta osin vaatimusten mukainen</h3>
+                                    <ul class="flaws">
+                                        <li class="flaw">
+                                            <h4 class="flaw__title">Ymmärrettävä: Osien kieli</h4>
+                                            <h5 class="flaw__subtitle">Saavuttamaton sisältö ja sen puutteet</h5>
+                                            <p>Sivuston osien kieltä ei ole merkitty. Puute ei ole relevantti, koska verkkojulkaisu on kauttaaltaan yksikielinen.</p>
+                                            <h5>Saavutettavuusvaatimukset jotka eivät täyty</h5>
+                                            <ul class="flaw__wcag">
+                                                <li>3.1.2 Osien kieli</li>
+                                            </ul>
+                                        </li>           
+                                        <li class="flaw">
+                                            <h4 class="flaw__title">Hallittava: Näppäimistönavigointi</h4>
+                                            <h5 class="flaw__subtitle">Saavuttamaton sisältö ja sen puutteet</h5>
+                                            <p>Aineistoluettelo- ja hakutulossivujen sivutus ei ole näppäimistönavigoitava. Käytössä oleva tekniikan rajoitteiden vuoksi ei ole mahdollista korjata.</p>
+                                            <h5>Saavutettavuusvaatimukset jotka eivät täyty</h5>
+                                            <ul class="flaw__wcag">
+                                                <li>2.1.1 Näppäimistö</li>
+                                                <li>2.1.2 Ei näppäimistöansaa</li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </section>
+                            </section>
+                            <section class="statement__section">
+                                <h2>Valvontaviranomainen</h2>
+                                <p>Jos huomaat sivustolla saavutettavuusongelmia, anna ensin palautetta meille eli sivuston ylläpitäjälle yllämainitulla verkkolomakkeella. Vastauksessa voi mennä 14 päivää. Jos et ole tyytyväinen saamaasi vastaukseen tai et saa vastausta lainkaan kahden viikon aikana, <a href="https://www.saavutettavuusvaatimukset.fi/oikeutesi/" target="_blank">voit tehdä ilmoituksen Liikenne- ja viestintävirasto Traficomiin <span class="screen-reader-text">Avautuu uuteen ikkunaan</span>
+                    </a>. Liikenne- ja viestintävirasto Traficomin sivulla kerrotaan tarkasti, miten ilmoituksen voi tehdä ja miten asia käsitellään.</p>
+                            <h2>Valvontaviranomaisen yhteystiedot</h2>
+                            <p>Liikenne- ja viestintävirasto Traficom<br/>
+                                Digitaalisen esteettömyyden ja saavutettavuuden valvontayksikkö<br/>
+                                <a href="http://www.saavutettavuusvaatimukset.fi">www.saavutettavuusvaatimukset.fi</a>  <br/>
+                                saavutettavuus@traficom.fi<br/>
+                                puhelinnumero vaihde 029 534 5000            
+                            </p>
+                            </section>
+
+                        </article>
+                    </main>
+               <footer class="version" data-template="templates:include" data-template-path="templates/footer.html"/>      
+            </app-header-layout>
+        </app-drawer-layout>
+       
+        <paper-dialog id="errorDialog">
+            <h2>
+                    <pb-i18n key="dialogs.error">Error</pb-i18n>
+                </h2>
+            <paper-dialog-scrollable/>
+            <div class="buttons">
+                <paper-button dialog-confirm="dialog-confirm" autofocus="autofocus">
+                    <pb-i18n key="dialogs.close">Close</pb-i18n>
+                </paper-button>
+            </div>
+        </paper-dialog>
+    </pb-page>
+    <div class="splash"/>
+</body>
+
+</html>

@@ -1,0 +1,30 @@
+<app-toolbar class="menubar">
+    <div id="first">
+        <a id="skvr-logo" href="/exist/apps/skvr/index.html">
+            <img src="resources/images/skvr-logo.png"/>
+        </a>
+        <a id="logo" href="https://www.finlit.fi">
+            <img src="resources/images/SKS-tunnus.svg"/>
+        </a>
+    </div>
+    <div class="toolbar">
+        <paper-menu>
+            <a href="/exist/apps/skvr/index.html" title="etusivulle">
+                <iron-icon icon="icons:home"/>
+            </a>
+            <pb-media-query query="min-width: 1024px">
+                <a href="/exist/apps/skvr/haku.html">Tekstihaku</a>       
+                <a href="/exist/apps/skvr/runoluettelo.html">Runoluettelo / Metatietosuodatus</a>    
+                <a href="/exist/apps/skvr/runotyypit.html">Runotyypit</a>
+                <a href="/exist/apps/skvr/alkulauseet/I1_alkusanat.xml">Vanhat esipuheet</a>
+                <a href="/exist/apps/skvr/runoluettelo-jr.html">Julkaisemattomat runot</a>  
+                <a href="/exist/apps/skvr/esittely.xml">Esittely</a>  
+                <a href="/exist/apps/skvr/ohjeet.html">Ohjeet</a>
+                <a href="/exist/apps/skvr/palaute.html">Palaute</a>  
+            </pb-media-query>
+            <pb-media-query query="max-width: 1023px">
+                <paper-icon-button icon="icons:menu" drawer-toggle="drawer-toggle"/>
+            </pb-media-query>   
+        </paper-menu>
+    </div>
+</app-toolbar>

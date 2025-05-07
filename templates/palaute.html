@@ -1,0 +1,268 @@
+<html lang="fi">
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes"/>
+        <link rel="shortcut icon" type="image/x-icon" href="resources/images/favicon.ico"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-16.png" sizes="16x16"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-24.png" sizes="24x24"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-32.png" sizes="32x32"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-64.png" sizes="64x64"/>
+        <meta name="description" content="Feedback form"/>
+        <meta name="pb-template" content="palaute.html"/>
+        <link rel="stylesheet" href="resources/css/theme.css"/>
+        <link rel="stylesheet" href="resources/css/skvr.css"/>        
+        <title data-template="config:app-title"/>
+        <script type="module" src="pb-components-bundle.js" data-template="pages:load-components"/>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"/>
+        <script type="text/javascript">
+            document.addEventListener('DOMContentLoaded', function() {
+                var searchBtn = document.querySelector('.menubar').querySelector('pb-search').shadowRoot.querySelector('iron-icon');
+                searchBtn.style.color = "#e22717";
+            }); 
+        </script>
+        <custom-style>
+            <style include="pb-common-styles">
+            @font-face {
+                font-family: 'ff-scala-sans';
+                src: url('resources/fonts/ScalaSansOT.otf') format('opentype');
+                font-style: normal;
+                font-weight: normal;
+            }
+
+            @font-face {
+                font-family: 'ff-scala-sans';
+                src: url('resources/fonts/ScalaSansOT-Ita.otf') format('opentype');
+                font-style: italic;
+                font-weight: normal;
+            }
+
+            @font-face {
+                font-family: 'ff-scala-sans';
+                src: url('resources/fonts/ScalaSansOT-Bold.otf') format('opentype');
+                font-style: normal;
+                font-weight: bold;
+            }        
+            
+            @font-face {
+                font-family: 'ff-scala';
+                src: url('resources/fonts/ScalaOT.otf') format('opentype');
+                font-style: normal;
+                font-weight: normal;
+            }       
+
+            @font-face {
+                font-family: 'ff-scala';
+                src: url('resources/fonts/ScalaOT-Ita.otf') format('opentype');
+                font-style: italic;
+                font-weight: normal;
+            }
+
+            @font-face {
+                font-family: 'ff-scala';
+                src: url('resources/fonts/ScalaOT-Bold.otf') format('opentype');
+                font-style: normal;
+                font-weight: bold;
+            } 
+            
+                main {
+                    min-height: 750px;
+                    padding: 20px 4rem 20px 4rem !important;
+                }
+                
+                body {
+                    font-family: 'ff-scala-sans';
+                }
+                
+                .facscaption {
+                    font-size: 75%;
+                    text-align: right;
+                }
+
+                .metadata {
+                    max-width: 20vw;
+                }
+                
+                @media (min-width: 769px) {
+
+                    #view1 {
+                        max-width: 60vw;
+                    }
+                }
+                
+                @media (max-width: 769px) {
+                    .content-body {
+                        padding: 10px 25px 10px 10px !important;
+                    }
+                    
+                    #feedback_form, #feedback_form form, #feedback_form form p {
+                        width: 100% !important;
+                    }
+                    
+                    #feedback_form form {
+                        padding-left: 0px;
+                    }
+                }
+
+                .content-body {
+                    display: flex;                    
+                    justify-content: space-between;
+                    padding: 0px 4rem 20px 4rem;
+                    font-family: 'ff-scala-sans';
+                    font-size: 80%;
+                    line-height: 140%;
+                    
+                }
+                
+                div#view {
+                    padding: 20px;
+                    font-size: 80%;
+                }
+
+                .content-body pb-view {
+                    flex: 1 1;
+                }
+
+                @media (max-width: 769px) {
+                    .content-body pb-navigation {
+                        display: none;
+                    }
+                }
+                
+                #title-view1 {
+                    visibility: hidden;
+                }
+                
+                #feedback_form {
+                    width: 100%;
+                    height: 25px;
+                    font-size: 16px;
+                    font-family: 'ff-scala-sans';
+                    line-height: 1.42857;
+                    font-weight: 300;
+                    color: #333333;
+                }
+                
+                #feedback_form form {
+                    display: block;
+                    width: 50%;
+                    margin-top: 1em;
+                    font-size: 16px;
+                    font-family: 'ff-scala-sans';
+                    line-height: 1.42857;
+                    font-weight: 300;
+                    color: #333333;
+                    padding: 5px;
+                }
+                
+                #feedback_form form p {
+                    width: 100%;
+                }
+                
+                #feedback_form form p label, #feedback_form form label {
+                    font-weight: bold;
+                    width: 20%;
+                    font-family: 'ff-scala-sans';
+                    font-size: 1.10rem;
+                    margin-right: 1em;
+                }
+                
+                input#submit {
+                    font-weight: bold;
+                    font-family: 'ff-scala-sans';
+                }
+                
+                input#name, input#email {
+                    width: 50%;
+                    height: 25px;
+                    color: #333333;
+                    background-color: #FFF8F2;
+                    border: 1px dotted #e22717;
+                    padding: 5px;
+                    font-family: 'ff-scala-sans';
+                }
+                
+                #feedback_form form textarea {
+                    height: 20em;
+                    width: 100%;
+                    font-weight: 300;
+                    color: #333333;                    
+                    display: block;
+                    background-color: #FFF8F2;
+                    border: 1px dotted #e22717;
+                    font-family: 'ff-scala-sans';
+                }
+                
+                #form_submit {
+                    font-size: 20px;
+                    display: none;
+                }
+                
+                h2 {
+                    font-family: 'ff-scala';
+                    font-size: 1.75rem;
+                }
+
+            </style>
+        </custom-style>
+<!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setCookieDomain", "*.aineistot.finlit.fi"]);
+  _paq.push(["setDomains", ["*.aineistot.finlit.fi"]]);
+  _paq.push(["disableCookies"]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://sks.matomo.cloud/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '26']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src='//cdn.matomo.cloud/sks.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+    </head>
+
+    <body>
+        <pb-page unresolved="unresolved" data-template="pages:pb-page" locales="resources/i18n/app/fi.json">
+            <app-drawer-layout force-narrow="force-narrow">
+                <app-drawer data-template="lib:include" data-template-path="templates/drawer.html"/>
+                <app-header-layout>
+                    <app-header slot="header" reveals="reveals" effects="waterfall">
+                        <app-toolbar data-template="lib:include" data-template-path="templates/menu.html"/>
+                    </app-header>
+                    <main class="content-body">
+                        <section id="feedback_form">
+                            <h2>Lähetä palautetta</h2>
+                            <form id="fdbck" method="get" action="kiitos.html">
+                                <p>
+                                    <label for="name">
+                                        Nimi: 
+                                    </label>
+                                    <input type="text" id="name" name="name" required="required"/>
+                                </p>
+                                <p>
+                                    <label for="email">
+                                        Sähköposti: 
+                                    </label>
+                                    <input type="text" id="email" name="email" required="required"/>
+                                </p>
+                                <label for="feedback">
+                                    Palaute: 
+                                </label>
+                                <br/>
+                                <textarea id="feedback" name="feedback" required="required"/>
+                                <p>
+                                    <input id="submit" type="submit" value="Lähetä" tabindex="0"/>
+                                </p>
+                            </form>
+                            
+                        </section>
+                    </main>
+                    <app-toolbar class="footer" data-template="lib:include" data-template-path="templates/footer.html"/>
+                </app-header-layout>
+            </app-drawer-layout>
+        </pb-page>
+    </body>
+</html>

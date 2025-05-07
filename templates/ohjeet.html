@@ -1,0 +1,522 @@
+<html>
+
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes"/>
+    <title data-template="config:app-title"/>    
+    <link rel="shortcut icon" type="image/x-icon" href="resources/images/favicon.ico"/>
+    <link rel="shortcut icon" type="image/png" href="resources/images/favicon-16.png" sizes="16x16"/>
+    <link rel="shortcut icon" type="image/png" href="resources/images/favicon-24.png" sizes="24x24"/>
+    <link rel="shortcut icon" type="image/png" href="resources/images/favicon-32.png" sizes="32x32"/>
+    <link rel="shortcut icon" type="image/png" href="resources/images/favicon-64.png" sizes="64x64"/>
+    <link rel="preload" as="font" href="resources/fonts/ScalaOT.otf" type="font/otf" crossorigin="anonymous"/>    
+    <link rel="preload" as="font" href="resources/fonts/ScalaSantsOT.otf" type="font/otf" crossorigin="anonymous"/> 
+    <link rel="stylesheet" href="resources/css/theme.css"/>
+    <link rel="stylesheet" href="resources/css/skvr.css"/>       
+    <script type="module" src="pb-components-bundle.js" data-template="pages:load-components"/>
+    <script type="text/javascript">
+        document.addEventListener('DOMContentLoaded', function() {
+            var searchBtn = document.querySelector('.menubar').querySelector('pb-search').shadowRoot.querySelector('iron-icon');
+            searchBtn.style.color = "#e22717";
+        }); 
+    </script> 
+     <custom-style>
+        <style>
+            @font-face {
+                font-family: 'ff-scala-sans';
+                src: url('resources/fonts/ScalaSansOT.otf') format('opentype');
+                font-style: normal;
+                font-weight: normal;
+            }
+
+            @font-face {
+                font-family: 'ff-scala-sans';
+                src: url('resources/fonts/ScalaSansOT-Ita.otf') format('opentype');
+                font-style: italic;
+                font-weight: normal;
+            }
+
+            @font-face {
+                font-family: 'ff-scala-sans';
+                src: url('resources/fonts/ScalaSansOT-Bold.otf') format('opentype');
+                font-style: normal;
+                font-weight: bold;
+            }        
+            
+            @font-face {
+                font-family: 'ff-scala';
+                src: url('resources/fonts/ScalaOT.otf') format('opentype');
+                font-style: normal;
+                font-weight: normal;
+            }       
+
+            @font-face {
+                font-family: 'ff-scala';
+                src: url('resources/fonts/ScalaOT-Ita.otf') format('opentype');
+                font-style: italic;
+                font-weight: normal;
+            }
+            
+            @font-face {
+                font-family: 'ff-scala';
+                src: url('resources/fonts/ScalaOT-Bold.otf') format('opentype');
+                font-style: normal;
+                font-weight: bold;
+            }         
+        
+            main {
+                padding: 20px 4rem 20px 0px;
+                font-family: 'ff-scala-sans';
+                display: flex;
+                justify-content: left;
+            }
+            
+            main section:nth-child(1) {
+                padding: 4rem;
+                font-family: 'ff-scala-sans';
+                width: 20%;
+            }
+            
+            main section:nth-child(2) {
+                font-family: 'ff-scala-sans';
+                width: 80%;
+            }
+            
+            main section:nth-child(2) div {
+                width: 80%;
+            }
+            main section:nth-child(2) a {
+                font-weight: bold;
+                text-decoration: underline;
+                color: #000;
+            }
+            
+            main section a:hover, main section a:focus {
+                color: #E22717;
+            }
+            
+            @media (max-width: 1023px) {
+                main {
+                    margin: 0px;
+                    display: flex;
+                    justify-content: left;
+                    padding: 15px;
+                }
+                
+                main section:nth-child(1) {
+                    display: none;
+                }
+                main section:nth-child(2), main section div {
+                    width: 100%;
+                    padding: 0px;
+                }
+            }
+
+            
+            .parent-link iron-icon {
+                padding-right: 4px;
+            }
+
+            .parent-link {
+                display: block;
+                margin-bottom: 10px;
+                margin-top: 16px;
+                padding: 6px 0;
+                border-bottom: thin solid var(--paper-grey-300);
+            }
+
+            .documents ul {
+                list-style: none;
+            }
+            
+            .documents app-toolbar {
+                @apply --layout-start-justified;
+                font-size: 14px;
+                margin-top: 10px;
+                padding-left: 0;
+            }
+            
+            .documents div {
+                margin: 0;
+            }
+            
+            .documents .error {
+                color: #c02020;
+            }
+            
+            .documents a,
+            .documents a:visited {
+                color: #303F9F;
+                text-decoration: none;
+            }
+            
+            .documents li {
+                display: flex;
+                flex-direction: row;
+                margin-bottom: 10px;
+                padding: 6px 0;
+                border-bottom: thin solid var(--paper-grey-300);
+            }
+            
+            .documents li:last-child {
+                border: none;
+            }
+            
+            .documents .document-select {
+                flex: 0 0;
+                margin-right: 20px;
+            }
+            
+            h1,
+            h3,
+            h4,
+            h5,
+            h6 {
+                font-family: 'ff-scala-sans'
+                font-weight: 400 !important;
+                line-height: 1.2;
+            }
+            
+            h2 {
+                font-family: 'ff-scala' !important;
+                font-size: 1.75rem !important;
+                font-weight: bold;
+                line-height: 1.2;
+            }
+            
+            h3 {
+                margin-top: 1.5em;
+                margin-bottom: 1em;
+            }
+            
+            h5 {
+                font-size: 16px;
+                margin: 0;
+            }
+
+            table {
+                border-top: 1px solid black;
+                border-left: 1px solid black;
+                border-right: 1px solid black;
+                margin-left: 15px;
+            }
+            
+            table tr {
+                border-bottom: 1px solid black;
+            }
+            table tr th {
+                text-align: left;
+                font-weight: normal;
+                font-size: 93%;
+                border-bottom: 1px solid black;
+            }
+            
+            table tr th:nth-child(1) {
+                padding-right: 10px;
+                border-right: 1px solid black;
+            }
+            
+            #instrMenu {
+                list-style-type: none;
+                position: fixed;
+                left: 0px;
+                top: 150px;
+                width: 95%;
+            }
+            
+            #instrMenu li {
+                margin-left: 0px;
+                padding-left: 0px;
+            }
+            
+            #instrMenu li a {
+                font-family: 'ff-scala-sans';
+                font-size: 18px;
+                color: #000;
+                text-decoration: none;
+            }
+            
+            #instrMenu li a:focus {
+                color: #E22717;
+                text-decoration: underline;
+            }
+            
+        </style>
+    </custom-style>
+    <!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setCookieDomain", "*.aineistot.finlit.fi"]);
+  _paq.push(["setDomains", ["*.aineistot.finlit.fi"]]);
+  _paq.push(["disableCookies"]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://sks.matomo.cloud/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '26']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src='//cdn.matomo.cloud/sks.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+</head>
+
+<body>
+    <pb-page data-template="pages:pb-page" unresolved="unresolved">
+        <app-drawer-layout force-narrow="force-narrow">
+            <app-drawer slot="drawer" align="right" data-template="lib:include" data-template-path="templates/drawer.html"/>
+                <app-header-layout>
+                <app-header slot="header" reveals="reveals" effects="waterfall">
+                    <app-toolbar data-template="lib:include" data-template-path="templates/menu.html"/>
+                </app-header>
+
+                <main>
+                    <section>
+                        <ul id="instrMenu">
+                            <li>
+                                    <a href="#i1">Lisenssi ja viittausohjeet</a>
+                                </li>
+                            <li>
+                                    <a href="#i2">SKVR- ja JR-korpuksen tekijyys</a>
+                                </li>
+                            <li>
+                                    <a href="#i3">Selaintuki</a>
+                                </li>
+                            <li>
+                                    <a href="#i4">Aloitussivu</a>
+                                </li>      
+                            <li>
+                                    <a href="#i5">Runoluettelot (SKVR ja JR)</a>
+                                </li>   
+                            <li>
+                                <a href="#i5b">Fasetit</a>
+                            </li>
+                            <li>
+                                    <a href="#i6">Runotyypit</a>
+                                </li>
+                            <li>
+                                    <a href="#i7">Tekstihaku</a>
+                                </li>
+                        </ul>
+                    </section>
+                    <section>
+                        <a id="i1"/>
+                        <h2>Käyttöohje</h2>
+                        <h3>Lisenssi ja viittausohjeet</h3>
+                        <div>Verkkojulkaisun XML/TEI-muotoinen data on ladattavissa ja muokattavissa avoimella lisenssillä <a href="https://creativecommons.org/licenses/by/4.0/deed.fi" target="_blank">Nimeä 4.0 Kansainvälinen (CC BY 4.0)</a>.
+                            </div>
+                        <div>
+                            <p>Tämänhetkisen käyttöliittymän viite on</p>
+                            <p>
+                                    <i>SKVR-verkkopalvelu 2024–</i>. Toimittaneet Jukka Saarinen, Niklas Alén, Maria Niku, Kati Kallio ja Eija Stark. Helsinki: SKS. <a href="https://aineistot.finlit.fi/exist/apps/skvr">https://aineistot.finlit.fi/exist/apps/skvr</a>
+                                </p>
+                            <p>SKVR-aineiston runoihin viitataan yleensä SKVR-niteen numerolla ja osalla sekä runon numerolla, esimerkiksi SKVR VI1 3837. Sähköisessä korpuksessa runoille on annettu myös näihin tunnuksiin perustuvat ID-numerot, esimerkiksi edellistä viitettä vastaa skvr06138370. Jokaisella runotekstillä on myös oma pysyvä URN-osoitteensa, kuten <a href="http://urn.fi/urn:nbn:fi:sks-kvr-026302">http://urn.fi/urn:nbn:fi:sks-kvr-026302</a>, joita kannattaa käyttää aineistoa linkitettäessä.</p>
+                            <p>SKVR-verkkopalvelu sisältää myös JR-korpuksen eli digitoidun ja muokatun SKS:n julkaisemattomien runojen kortiston. Tarvittaessa tähän korpukseen voi viitata erikseen muodossa</p>
+                            <p>JR-korpus. <i>SKVR-verkkopalvelu 2024–</i>. Toimittaneet Jukka Saarinen, Niklas Alén, Maria Niku, Kati Kallio ja Eija Stark. Helsinki: SKS. <a href="https://aineistot.finlit.fi/exist/apps/skvr">https://aineistot.finlit.fi/exist/apps/skvr</a>
+                                </p>
+                            <p>Julkaisemattomien runojen korpuksen runoihin on aiemmin viitattu kunkin runon arkistosignumilla, yleensä arkistokokonaisuuden ja tallentajan nimellä, keräelmänumerollaja tallennusvuodella, esimerkiksi SKS KRA Laiho, Aili 3517. 1942. Sähköisen korpuksen aineistoon on mahdollista viitata myös korpuskohtaisella runonumerolla, joka tälle runolle on JR 35693. Korpuksen sähköiset ID-numerot noudattelevat runonumeroita (j35693).</p>
+                            <p>SKVR-hakemistoon voi viitata hakemiston ja runotyypin nimellä, esimerkiksi SKVR-hakemisto: Maailmansyntyruno.</p>
+                        </div>
+                        <a id="i2"/>
+                        <h3>SKVR- ja JR-korpuksen tekijyys</h3>
+                        <div>
+                            <p>Aineistojen historiasta ja luonteesta kerrotaan enemmän kohdassa <a href="https://aineistot.finlit.fi/exist/apps/skvr/esittely.xml">Esittely</a>. SKVR- ja JR-aineistoon kuuluvia runoja ovat esittäneet monet tuhannet henkilöt ja tallentaneet 3228 nimettyä ihmistä tai instituutiota. Monien esittäjien nimiä ei ole tallennettu, joko heidän omasta tahdostaan tai 1800-luvun käytännöistä johtuen. Käsikirjoituskokoelmia ovat myös puhtaaksikirjoittaneet, järjestäneet, luetteloineet, arkistoineet, kopioineet ja kortistoineet lukuisat henkilöt.</p>
+                            <p>SKVR-kirjasarjaa toimittivat monet tutkijat: osat I–II. A. R. Niemi, III–V Väinö Salminen, VI Juho Lukkarinen (A. R. Niemen esitöiden pohjalta), VII1–3 A. R. Niemi, VII4–5 Kaarle Krohn ja Vihtori Alava (A. R. Niemen esitöiden pohjalta), VII Metsäsuomalaiset Väinö Salminen, VIII Y. H. Toivonen, IX Hämäläis-osakunta (Hugo Suolahti, A. A. Koskenjaakko, Martti Rapola ja Toivo Kaukoranta), X1 T. Pohjankanervo, X2 T. Pohjankanervo ja J. Lukkarinen, XI J. Lukkarinen, XII Martti Haavio, XIII–XIV Väinö Salminen, XV Matti Kuusi ja Senni Timonen.</p>
+                            <p>Kirjasarjan digitoi ja rakenteisti xml-muotoon Arvo Krikmannin johtama työryhmä Eesti Kirjandusmuuseumissa yhteistyössä SKS:n kansanrunousarkiston Jukka Saarisen ja Pasi Klemettisen kanssa. Sen jälkikäsitteli, yhtenäisti ja korjasi Jukka Saarinen. SKVR-tietokannan ensimmäinen osio julkaistiin vuonna 2004 ja koko aineisto 2006 Flow Appsin ylläpitämällä alustalla. Jukka Saarinen korjasi aineistoa vielä FILTER-hankkeessa vuosina 2021–2023. Jakob Lindström ja Roope Kotiniemi tekivät hänen johdollaan metsäsuomalaisalueiden ja Tverin karjalan pitäjäkohtaisen mappauksen.</p>
+                            <p>SKVR-tietokannan ensimmäinen osio julkaistiin vuonna 2004 ja koko aineisto 2006 Tieteen tietotekniikan keskuksen CSC:n alustalla. Vuonna 2008 aineisto julkaistiin FloAppsin Oy:n ylläpitämällä alustalla.</p>
+                            <p>SKVR-korpuksen runohakemistoa alettiin tehdä kirjasarjan osakohtaisten hakemistojen pohjalta ja monin osin uusiksi analysoiden vuodesta 1980 alkaen Matti Kuusen johdolla. Hakemiston päätoimittajia ovat Jukka Saarinen ja Senni Timonen. Sen tekemiseen ovat osallistuneet heidän ohellaan ainakin Pertti Anttonen, Maija Auramaa, Anna Hynninen, Alex Johansson, Irma-Riitta Järvinen, Liisa Kaski, Sakari Katajamäki, Matti Kuusi, Outi Lauhakangas, Ulla Lipponen, Ulla Piela, Venla Sykäri ja Lotte Tarkka.</p>
+                            <p>JR-korpuksen historiasta kerrotaan enemmän kohdassa <a href="https://aineistot.finlit.fi/exist/apps/skvr/esittely.xml?id=part10">Julkaisemattomien runojen kokoelma</a>. Julkaisemattomien runojen kortisto kuvattiin SKS:ssa ja muutettiin rakenteistettuun tekstimuotoon Eesti Kirjandusmuuseumissa Arvo Krikmannin työryhmän toimesta. Jukka Saarinen on luonut siihen paikka- ja kerääjäkoodit, lisännyt Volmari Porkan aineistoa ja korjannut ilmeisimpiä virheitä, mutta korpusta ei ole tarkistettu.</p>
+                            <p>Niklas Alén muutti SKVR- ja JR-korpukset TEI-muotoon ja työsti Saarisen kanssa esimerkiksi aikamuotoja, rivinumeroita ja alaviitteitä vuonna 2024, jolloin julkaistiin Maria Nikun rakentama SKVR-verkkopalvelu. JR-korpuksesta on mukana FILTER-hankkeen Maciej Janickin, Saarisen ja Alénin työstämä versio, jossa alle sata vuotta sitten syntyneiden informanttien tiedot on anonymisoitu. Verkkopalvelun toimitusprosessissa olivat mukana myös hanketta johtanut Eija Stark sekä esittelytekstejä aiempien pohjalta täydentänyt Kati Kallio.</p>
+                        </div>
+                        <a id="i3"/>
+                        <h3>Selaintuki</h3>
+                        <div>
+                            <p>Verkkojulkaisu toimii parhaiten Chrome-, Firefox- ja Safari-selaimilla sekä uudemmalla, Chromium-pohjaisella Microsoft Edge -selaimella. Internet Explorer -selaimen käyttöä ei suositella. Parhaan käyttökokemuksen saamiseksi on hyvä varmistaa, että käytössä on selaimen uusin versio.</p>
+                            <p>Verkkopalvelu toimii parhaiten työpöytäselaimissa. Mobiilinäkymä on yksinkertaisempi: runoja voi selailla ja suodattaa metatietojen avulla ja niihin voi tehdä tekstihakuja, mutta esimerkiksi fasetit eivät ole käytettävissä.</p>
+                        </div>
+                        <a id="i4"/>
+                        <h3>Aloitussivu</h3>
+                        <div>
+                            <p>Verkkopalvelun etusivulta pääsee suoraan aineistoon käsiksi kahta reittiä:</p>
+                            <h4>1) Haku</h4>
+                            <p>Hakukentässä voi tehdä hakuja SKVR-kokoelman runojen tekstiin (kontekstina koko teksti tai säe) sekä hakea runotyyppien otsikoita, kerääjiä, runonlaulajia, paikkakuntia ja maakuntia. Lisäksi voi tehdä hakuja esipuheisiin. Valitse yksi tai useampi hakuvaihtoehto, kirjoita hakutermi(t) ja paina enter. Ilman hakuvaihtojen valintaa haku kohdistuu SKVR-runojen koko tekstiin. Hakutulokset näkyvät uudella sivulla, jolla voi jatkaa tekemällä uusia hakuja. Tarvittaessa katso <a href="/exist/apps/skvr/ohjeet.html#haku" target="_blank">tarkemmat hakuohjeet</a>. Mikäli haluat tehdä hakuja sekä SKVR- että JR-kokoelmaan tai pelkästään JR-kokoelmaan, tämä onnistuu
+                                <a href="/exist/apps/skvr/haku.html">tekstihakusivulla</a>.
+                            </p>
+                            <h4>2) Runoluettelo</h4>
+                            <p>Linkistä "Siirry selamaan runoja metatietojen perusteella" pääsee runoluetteloon, jossa voi selata kaikkia SKVR-runoja metatietojen perusteella.</p>
+                        </div>
+                        <a id="i5"/>
+                        <h3>Runoluettelot (SKVR ja JR)</h3>
+                        <div>
+                            <p>
+                                    <a href="/exist/apps/skvr/runoluettelo.html" target="_blank">Runoluettelo / Metatietosuodatus- sivulla</a> ja <a href="/exist/apps/skvr/runoluettelo-jr.html" target="_blank">Julkaisemattomat runot -sivulla</a> voi selata kaikkia SKVR- ja JR-runoja niiden metatietojen perusteella. Luetteloiden toiminnot ovat samanlaiset sillä erotuksella, että JR-kokoelmassa ei ole runotyyppejä tai osia.</p>
+                            <p>Kunkin runon tekstin saa näkyville oikeaan laitaan klikkaamalla runon numeroa. Avautuvasta ikkunasta pääsee tarvittaessa erilliseen runonäkymään. Runoluettelon aloitusnäkymässä runot on järjestetty tunnuksen mukaan. Lajittelujärjestys-valikosta (luettelon päällä) runot voi järjestää uudelleen kerääjän, paikkakunnan tai ajan mukaan.</p>
+                            <p>Luetteloa voi suodattaa sivun vasemman laidan faseteilla runotyypin, osan, numeron, kerääjän, keräysalueen, keräyspaikan tai keräysajan mukaan. Vaihtoehtoisesti runoja voi suodattaa valitsemalla luettelon päältä Suodata-pudotusvalikosta osan, numeron, kerääjän, paikkakunnan tai ajan ja kirjoittamalla viereiseen tekstikenttään hakutermin/hakutermit. Fasetteja ja Suodatus-kenttää voi käyttää vaihtoehtoisina rajaustapoina tai samanaikaisesti. Esimerkkejä jälkimmäisestä: voit rajata runoluettelon tietyn kerääjän runoihin ja jatkaa sen jälkeen rajaamista faseteilla tai tehdä ensin fasettivalinnan ja suodattaa sen jälkeen listaa esimerkiksi aikavälihaulla. Eri hakuvaihtoehdot on listattu alempana tekstihakua käsittelevässä kohdassa.</p>
+                            <p>Koko SKVR-aineiston ja JR-aineiston saa itselleen XML-muodossa Luottelon päällä näkyvällä Data (XML) -painikkeella. Suodattamattoman tai suodatetun aineiston metatiedot saa taulukkomuodossa Data (CSV) -painikkeella.</p>
+                            <a id="i5b"/>
+                            <h4>Fasetit</h4>
+                            <p>Faseteilla voi rajata runoluetteloa metatietojen mukaan. Samalla ne tarjoavat tietoa siitä, miten aineiston runot jakautuvat esimerkiksi runotyypeittäin, kerääjittäin ja keräysalueittain.</p>
+                            <p>Runotyypeistä voi valita yhden saman tason vaihtoehdon kerrallaan: jos esimerkiksi valitset ensin vaihtoehdon "2. Lyriikka", et voi valita vaikkapa vaihtoehtoa "4. Häärunot" ennen kuin poistat edellisen valinnan. Valintaruutujen klikkaaminen avaa fasetin puumaiseksi rakenteeksi. Valinnan voi peruuttaa klikkaamalla uudestaan valintaruutua. <a href="/exist/apps/skvr/resources/images/ohjeet/runotyyppi.png" target="_blank" style="font-weight: bold;">kuva: runotyyppien valitseminen <iron-icon icon="icons:open-in-new"/>
+                                    </a>
+                                </p>
+                            <p>Muissa faseteissa voi valita yhden tai useamman vaihtoehdon. Voit valita vaihtoehtoja joko ruksittamalla valintaruutuja tai kirjoittamalla haun fasetin hakukenttään ja klikkaamalla tuloksia (valinta päivittyy hakukenttään sinisessä laatikossa). Muutokset valintaruuduissa päivittävät hakukentän ja päin vastoin. Valittuasi haluamasi vaihtoehdot paina fasetin päällä näkyvää "Päivitä fasettivalinnat"-painiketta. Valinnat saa peruttua poistamalla ruksit valintaruuduista tai tyhjentämällä fasetin hakukentän näppäimistön delete-painikkeella ja painamalla uudestaan "Päivitä fasettivalinnat"-painiketta. Kaikki fasettivalinnat saa tyhjennettyä päällä näkyvällä "Poista kaikki fasettivalinnat"-painikkeella. <a href="/exist/apps/skvr/resources/images/ohjeet/muutfasetit_checkbox.png" target="_blank" style="font-weight: bold;">kuva: valinta valintaruuduilla <iron-icon icon="icons:open-in-new"/>
+                                    </a>, <a href="/exist/apps/skvr/resources/images/ohjeet/muutfasetit_haku.png" target="_blank" style="font-weight: bold;">kuva: valinta hakukentällä <iron-icon icon="icons:open-in-new"/>
+                                    </a>
+                                </p>
+                            <p>Valintoja ei voi tehdä usean fasetin alta samanaikaisesti. Tee haluamasi valinnat yhden fasetin alta, paina "Päivitä fasettivalinnat" ja vasta sitten tee valintoja toisen fasetin alta.</p>                            
+                            <p>Jokainen valinta rajaa runoluetteloa (runot, jotka täyttävät valitun ehdon) ja päivittää fasettivalikon vastaamaan sen hetkistä valintaa. Esimerkiksi: kun valitset runotyypeistä häärunot, runoluettelo rajautuu häärunoihin. Fasettivalikko näyttää häärunojen alalajit sekä miten häärunot jakautuvat osien mukaan, kerääjittäin, keräysalueittain, -paikoittain ja keräysajan mukaan. Jos taas valitset keräysalueista Hämeen, runoluettelo rajautuu Hämeestä kerättyihin runoihin. Samalla fasettivalikko näyttää, miten Hämeestä kerätyt runot jakautuvat runotyypeittäin, osien mukaan, kerääjittäin ja niin edelleen. Kun haluat tutkia tietyn henkilön keräämiä runoja, fasettivalikosta näkee suoraan, missä ja milloin henkilö teki keräystyötään.</p>
+                            <p>Usean valinnan tekeminen tietyn fasetin sisällä muodostaa TAI-lausekkeen. Esimerkiksi: kun valitset keräysalueista Aunuksen, Itä- ja Pohjois-Inkerin ja Keski-Inkerin, muodostuu lauseke <i>Keräysalue = (Aunus TAI Itä- ja Pohjois-Inkeri TAI Keski-Inkeri)</i>. Lopputuloksena runoluettelo rajautuu Aunuksesta, Itä- ja Pohjois-Inkeristä ja Keski-Inkeristä kerättyihin runoihin. <a href="/exist/apps/skvr/resources/images/ohjeet/monivalinta.png" target="_blank" style="font-weight: bold;">kuva <iron-icon icon="icons:open-in-new"/>
+                                    </a>
+                                </p>
+                            <p>Jos taas valitset rajausvaihtoehtoja useista faseteista, on kyseessä JA-lauseke. Esimerkiksi: jos edellisten valintojen lisäksi valitset runotyypeistä loitsut, muodostuu seuraavanlainen lauseke: <i>(Keräysalue = (Aunus TAI Itä- ja Pohjois-Inkeri TAI Keski-Inkeri)) JA (Runotyyppi = Loitsut)</i>. Lopputuloksena runoluettelo näyttää loitsut, joiden keräysalue on Aunus, Itä- ja Pohjois-Inkeri tai Keski-Inkeri. (<a href="/exist/apps/skvr/resources/images/ohjeet/montafasettia.png" target="_blank" style="font-weight: bold;">kuva: esimerkki 1 <iron-icon icon="icons:open-in-new"/>
+                                    </a>) Jos seuraavaksi haluatkin tutkia kyseisten alueiden häärunoja, jätä keräysaluevalinnat paikalleen, poista valinta loitsujen kohdalta ja valitse häärunot. (<a href="/exist/apps/skvr/resources/images/ohjeet/montafasettia-esim2.png" target="_blank" style="font-weight: bold;">kuva: esimerkki 2 <iron-icon icon="icons:open-in-new"/>
+                                    </a>) Jos taas haluat edelleen tutkia loitsuja mutta vaihtaa keräysalueita, pidä runotyyppivalinta paikallaan mutta poista valinnat keräysalueista, päivitä fasettivalinnat ja valitse sen jälkeen uudet alueet. (<a href="/exist/apps/skvr/resources/images/ohjeet/montafasettia-esim3.png" target="_blank" style="font-weight: bold;">kuva: esimerkki 3 <iron-icon icon="icons:open-in-new"/>
+                                    </a>)</p>
+                            <p>Rajausvalintoja tehdessä on suositeltava edetä suuremmista yksiköistä pienempiin. Jos haluat tutkia eri runotyyppien runoja tietyn alueen eri paikkakunnilla, kannattaa valita ensin alue ja runotyyppi ja sen jälkeen paikkakunnat. Esimerkki: haluat tutkia Satakunnan eeppisiä runoja. Valitse ensin keräysalueista Satakunta ja päivitä fasettivalinnat. Valitse sen jälkeen runotyypeistä kertovat runot ja sen alta epiikka. Tässä vaiheessa Keräyspaikka-fasetti näyttää paikkakunnat, joista on kerätty eeppisiä runoja. Jos saman rajausprosessin aikana valitseekin ensin alueen, sitten joitakin paikkakuntia ja vasta sen jälkeen runotyypin, tulos saattaa olla hämmentävä - jokin paikkakunnista ikään kuin katoaa. Esimerkki: valitset Satakunnan, sen jälkeen paikkakunnista Ahlaisen, Alastaron, Eräjärven ja Euran ja viimeiseksi runotyypeistä epiikan. Tässä vaiheessa Ahlaisia ei enää näy valittujen paikkakuntien joukosta. Rajausvalinnoista muodostuva lauseke selittää ilmiön: <i>(Keräysalue = Satakunta) JA (Keräyspaikka = (Ahlainen TAI Alastaro TAI Eräjärvi TAI Eura)) JA (Runotyyppi = Kertovat runot &gt; Epiikka)</i>. Eeppisiä runoja löytyy Alastarosta, Eräjärveltä tai Eurasta mutta ei Ahlaisista, se siis poistuu tuloksista.</p>
+                            <p>Rajausvalintoja muuttaessa on suositeltava edetä pienemmistä yksiköistä suurempiin. Jos esimerkiksi haluat edellisessä kohdassa tehtyjen valintojen jälkeen siirtyä tutkimaan Satakunnan eri paikkakuntien loitsuja, poista ensin keräyspaikkavalinnat, poista sen jälkeen runotyyppivalinnat ja valitse lopuksi uusi runotyyppi. Edellisessä esimerkissä lopputuloksena olivat Satakunnan Alastarosta, Eräjärveltä ja Eurasta löytyvät eeppiset runot. Kun poistat keräyspaikkavalinnat, tuloksena on kaikki Satakunnasta kerätyt eeppiset runot. Jos edelleen poistat runotyyppivalinnat, tuloksena on kaikki Satakunnasta kerätyt runot. Kun nyt valitset runotyypiksi loitsut, runoluettelo rajautuu Satakunnasta kerättyihin loitsuihin ja Keräyspaikka-fasetti näyttää ne Satakunnan paikkakunnat, joista loitsuja löytyy. Jos taas poistat ensin runotyyppivalinnat mutta jätät keräyspaikkavalinnat paikoilleen, tulos ei olekaan sama: nyt tuloksena onkin kaikki Alastaron, Eräjärven ja Euran runot. Voit muuttaa runotyyppivalintoja, mutta uudet rajaukset kohdistuvat pelkästään Alastaron, Eräjärven ja Euran runoihin, koska ne ovat valittuina.</p>
+                            <p/>
+                        </div>
+                        <a id="i6"/>
+                        <h3>Runotyypit</h3>
+                        <div>
+                            <p>
+                                    <a href="/exist/apps/skvr/runotyypit.html">Runotyypit-sivulla</a> voi selata runotyyppejä ja lukea niiden kuvauksia klikkaamalla auki valikon otsikoita tai tehdä hakuja valikon sisältöön. Haluttuun runotyyppiin kuuluvat runot saa esille valikon rinnalle klikkaamalla runotyypin otsikkoa (järjestelmä tekee haun runotyypin tunnuksella).</p>
+                        </div>
+                        <a id="i7"/>
+                        <h3>Tekstihaku (etusivulla ja Tekstihaku-sivulla</h3>
+                        <div>
+                            <p>
+                                    <a href="/exist/apps/skvr/haku.html" target="_blank">Tekstihaku-sivulle</a> pääsee tekemällä haun verkkopalvelun aloitussivulta tai yläpalkin linkistä. Tekstihaku-sivu näyttää oletuksena edellisen haun tulokset ja käytetyt hakutermit, myös silloin kun edellinen haku tapahtui Runotyypit-sivulla. Mikäli aikaisempia hakuja ei ole, tulosluettelo näyttää kaikki SKVR-runot. Huom: mikäli olet päätynyt hakusivulle etusivulla tehdyn haun kautta ja haluat kohdistaa uuden haun samaan hakukenttään tai rajata tuloksia faseteilla, varmista että oikea hakukenttä on edelleen valittuna.</p>  
+                            <p>Tekstihaku-sivulla voi tehdä hakuja SKVR-runojen, JR-runojen tai molempien koko tekstiin tai säkeisiin, metatietoihin ja SKVR:n esipuheisiin. Valitse ensin pudotusvalikosta aineisto (SKVR, JR tai molemmat), sitten sen alta hakukenttä ja kirjoita lopuksi hakutermi(t) tekstikenttään. Ilman valintoja haku kohdistuu runojen koko tekstiin. Seuraavassa on lueteltu mahdolliset hakutavat.</p>
+                            <p>Hakutulokset palautuvat oletuksena runon numeron mukaisessa järjestyksessä. Mikäli haluat tulokset aikajärjestyksessä, klikkaa valintaruutu aivan hakukentän alla ennen haun tekemistä. Jos olet jo tehnyt haun ja haluat vaihtaa aikajärjestykseen, klikkaa valintaruutu ja tee sama haku uudestaan. Palaa takaisin numeron mukaiseen järjestykseen poistamalla valinta ja tekemällä haku uudestaan.</p>
+                            <table>
+                                <tr>
+                                    <th>
+                                        <b>merkkijono</b>
+                                    </th>	 	
+                                    <th>perushaku, palauttaa täsmälleen haetun merkkijonon</th>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        <b>merkkijono*</b>
+                                    </th>	 		
+                                    <th>hakutulokset alkavat haetulla merkkijonolla</th>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        <b>*merkkijono</b>
+                                    </th>			
+                                    <th>hakutulokset päättyvät haettuun merkkijonoon</th>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        <b>merkkijono*merkkijono</b>
+                                    </th>		
+                                    <th>hakutulokset alkavat ja päättyvät haetulla merkkijonolla</th>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        <b>merkkijono~</b>
+                                    </th>			
+                                    <th>sumea haku, hakutulokset eroavat haetusta korkeintaan kahdella merkillä</th>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        <b>"merkkijono merkkijono"~10</b>
+                                    </th>			
+                                    <th>merkkijonot ovat tietyn sanamäärän etäisyydellä toisistaan</th>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        <b>merkk?jono</b>
+                                    </th>			
+                                    <th>yksi merkkijonon merkki voi olla mikä tahansa</th>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        <b>merkkijono merkkijono</b>
+                                    </th>		
+                                    <th>haetut merkkijonot esiintyvät hakutuloksessa</th>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        <b>"merkkijono merkkijono"</b>
+                                    </th>		
+                                    <th>täsmälleen haettu fraasi</th>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        <b>merkkijono OR merkkijono</b>
+                                    </th>		
+                                    <th>hakutulokset, joissa esiintyy jokin haetuista merkkijonoista</th>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        <b>merkkijono AND merkkijono</b>
+                                    </th>	
+                                    <th>hakutulokset, joissa esiintyvät kaikki haetut merkkijonot</th>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        <b>merkkijono NOT merkkijono</b>
+                                    </th>	
+                                    <th>hakutulokset, joissa esiintyy ensimmäinen merkkijono mutta ei toinen</th>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        <b>+merkkijono</b>
+                                    </th>	
+                                    <th>merkkijonon on sisällyttävä hakutulokseen</th>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        <b>-merkkijono</b>
+                                    </th>	
+                                    <th>-merkkijonon ei saa sisältyä hakutulokseen</th>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        <b>[vvvv TO vvvv]</b>
+                                    </th>
+                                    <th>metatietojen aikavälihaku, mukaan lukien alkuvuosi ja loppuvuosi</th>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        <b>{vvvv TO vvvv}</b>
+                                    </th>
+                                    <th>metatietojen aikavälihaku, ei sisällä alkuvuotta tai loppuvuotta</th>
+                                </tr>                                
+                            </table>     
+                            <p>Erilaisia toimintoja voi yhdistellä samaan hakulausekkeeseen tietyin rajoituksin. Katkaisuhaun (*) ja sumean haun (~) merkkejä ei voi yhdistää samaan merkkijonoon. Näitä merkkejä ei voi myöskään käyttää fraasihaussa. Hakulausekkeet muotoa <i>hakutermi*~</i>, <i>"hakutermi* hakutermi*"</i> tai <i>"hakutermi hakutermi"*</i> eivät siis ole mahdollisia. Hakulausekkeen osia ryhmitellään kaarisulkeilla (esim. AND- ja OR-hakujen yhdistäminen: <i>(hakutermi OR hakutermi) AND hakutermi</i>).</p>
+                            <p>Kun haku kohdistuu runojen tekstiin (koko teksti tai säkeet) tai esipuheisiin, hakutulosluettelo näyttää hakutermin/-termit korostettuna sekä kontekstiksi tekstiä sen molemmin puolin. Kun haku kohdistuu metatietoihin, tuloksissa näkyy haettu arvo. Hakutuloskontekstit saa halutessaan pois näkyviltä yläreunan painikkeella. Runotyyppihaussa tulosluettelo näyttää runojen otsikkorivin ilman kontekstia. Mikäli teet haun sekä SKVR- että JR-aineistoon, hakutulokset näyttävät ensin SKVR-aineiston, sitten JR-aineiston tulokset.</p>
+                            <p>Hakutuloksia voi halutessaan rajata faseteilla, jotka löytyvät sivun vasemmasta laidasta hakuvaihtoehtojen alapuolelta (rullaa sivua tarvittaessa alaspäin). Fasetit toimivat samalla tavalla kuin Runoluettelo-sivuilla.</p>
+                            <p>Hakutulokset saa ladattua taulukkomuodossa yläreunan Data (CSV) -painikkeella. Hakutuloksia sisältävien runojen XML-tiedostot voi ladata Data (XML) -painikkeella.</p>
+                        </div>
+                        <h3>Runonäkymä</h3>
+                        <div>
+                            <p>Runonäkymässä on vasemmalla runon metatiedot ja SKVR-runoissa runotyyppien otsikot, oikealla rinnakkain runoteksti ja sen vieressä "Näytä erikoismerkitön teksti"-painike, jolla saa auki runotekstin ilman erikoismerkkejä. Runoihin liittyvät viitteet on merkitty punaisella risuaitamerkillä ja numerolla. Viitteet avautuvat ponnahdusikkunoihin klikkaamalla. Viitteet ovat nähtävillä myös runon jälkeen. Kullakin runolla on pysyvä URN-osoite, joka löytyy vasemmanpuoleisesta palkista metatietojen jälkeen. SKVR:n runoissa runotyyppien otsikoita klikkaamalla pääsee selamaan kaikkia samaan runotyyppiin kuuluvia runoja.</p>
+                        </div>
+                    </section>
+                </main>
+               <footer class="version" data-template="templates:include" data-template-path="templates/footer.html"/>      
+            </app-header-layout>
+        </app-drawer-layout>
+       
+        <paper-dialog id="errorDialog">
+            <h2>
+                    <pb-i18n key="dialogs.error">Error</pb-i18n>
+                </h2>
+            <paper-dialog-scrollable/>
+            <div class="buttons">
+                <paper-button dialog-confirm="dialog-confirm" autofocus="autofocus">
+                    <pb-i18n key="dialogs.close">Close</pb-i18n>
+                </paper-button>
+            </div>
+        </paper-dialog>
+    </pb-page>
+    <div class="splash"/>
+</body>
+
+</html>

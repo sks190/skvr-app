@@ -1,0 +1,9 @@
+<app-toolbar class="toolbar" sticky="sticky">
+    <a id="toolbar-parent" href="${app}/runoluettelo.html" title="takaisin runovalikkoon" data-template="lib:parse-params">
+        <paper-icon-button icon="icons:folder-open"/>
+    </a>
+    <pb-zoom emit="transcription" direction="in" icon="icons:zoom-in" title="suurenna tekstiä"/>
+    <pb-zoom emit="transcription" direction="out" icon="icons:zoom-out" title="pienennä tekstiä"/>
+    <paper-icon-button icon="icons:menu" drawer-toggle="drawer-toggle"/>
+    <pb-progress subscribe="transcription" indeterminate="indeterminate" bottom-item="bottom-item"/>
+</app-toolbar>

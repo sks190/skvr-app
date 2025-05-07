@@ -1,0 +1,563 @@
+<html>
+
+<head>
+    <meta charset="utf-8"/>
+    <title data-template="config:app-title"/>
+    <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes"/>
+    <link rel="shortcut icon" type="image/x-icon" href="resources/images/favicon.ico"/>
+    <link rel="shortcut icon" type="image/png" href="resources/images/favicon-16.png" sizes="16x16"/>
+    <link rel="shortcut icon" type="image/png" href="resources/images/favicon-24.png" sizes="24x24"/>
+    <link rel="shortcut icon" type="image/png" href="resources/images/favicon-32.png" sizes="32x32"/>
+    <link rel="shortcut icon" type="image/png" href="resources/images/favicon-64.png" sizes="64x64"/>
+    <link rel="preload" as="font" href="resources/fonts/ScalaOT.otf" type="font/otf" crossorigin="anonymous"/>    
+    <link rel="preload" as="font" href="resources/fonts/ScalaSansOT.otf" type="font/otf" crossorigin="anonymous"/>       
+    <link rel="stylesheet" href="resources/css/theme.css"/>
+    <link rel="stylesheet" href="resources/css/skvr.css"/>
+    <script type="module" src="pb-components-bundle.js" data-template="pages:load-components"/>
+    <script type="text/javascript">
+        document.addEventListener('DOMContentLoaded', function() {
+            var prev = document.getElementById('prev');
+            var next = document.getElementById('next');
+            var img = document.getElementById('carousel').querySelector('img');
+            var quote1 = document.getElementById('quote1');
+            var quote2 = document.getElementById('quote2');
+            var quote3 = document.getElementById('quote3'); 
+            
+            next.addEventListener('click', function() {
+                if (img.style.display == 'block') {
+                    img.style.display = 'none';
+                    quote1.style.display = 'block';
+                    quote2.style.display = 'none';
+                    quote3.style.display = 'none';
+                } else if (quote1.style.display == 'block') {
+                    img.style.display = 'none';
+                    quote1.style.display = 'none';
+                    quote2.style.display = 'block';
+                    quote3.style.display = 'none';                    
+                } else if (quote2.style.display == 'block') {
+                    img.style.display = 'none';
+                    quote1.style.display = 'none';
+                    quote2.style.display = 'none';
+                    quote3.style.display = 'block';                          
+                } else if (quote3.style.display == 'block') {
+                    img.style.display = 'block';
+                    quote1.style.display = 'none';
+                    quote2.style.display = 'none';
+                    quote3.style.display = 'none';                          
+                }                
+                
+            });
+            
+            prev.addEventListener('click', function() {
+                if (quote3.style.display == 'block') {
+                    img.style.display = 'none';
+                    quote1.style.display = 'none';
+                    quote2.style.display = 'block';
+                    quote3.style.display = 'none';
+                } else if (quote2.style.display == 'block') {
+                    img.style.display = 'none';
+                    quote1.style.display = 'block';
+                    quote2.style.display = 'none';
+                    quote3.style.display = 'none';                    
+                } else if (quote1.style.display == 'block') {
+                    img.style.display = 'block';
+                    quote1.style.display = 'none';
+                    quote2.style.display = 'none';
+                    quote3.style.display = 'none';                          
+                } else if (img.style.display == 'block') {
+                    img.style.display = 'none';
+                    quote1.style.display = 'none';
+                    quote2.style.display = 'none';
+                    quote3.style.display = 'block';                          
+                }
+            });            
+        });
+        
+    </script>    
+    <custom-style>
+        <style>
+            @font-face {
+                font-family: 'ff-scala-sans';
+                src: url('resources/fonts/ScalaSansOT.otf') format('opentype');
+                font-style: normal;
+                font-weight: normal;
+            }
+
+            @font-face {
+                font-family: 'ff-scala-sans';
+                src: url('resources/fonts/ScalaSansOT-Ita.otf') format('opentype');
+                font-style: italic;
+                font-weight: normal;    
+            }
+
+            @font-face {
+                font-family: 'ff-scala-sans';
+                src: url('resources/fonts/ScalaSansOT-Bold.otf') format('opentype');
+                font-style: normal;
+                font-weight: bold;
+            }
+        
+            main {
+                height: 1230.158px;
+                background: #fceee2;    
+                display: flex;
+                justify-content: center;
+                flex-direction: column;
+                --paper-checkbox-checked-color: #e22717;    
+                --paper-checkbox-label-checked-color: #e22717;
+                --paper-checkbox-checkmark-color: #fff;             
+            }
+            
+            @media (max-width: 1023px) {
+                main {
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0px !important;
+                    margin: 0px !important;
+                    overflow-y: auto;
+                }
+                
+                main section:nth-child(1) {
+                    width: 100% !important;
+                    padding-left: 1rem !important;
+                    padding-right: 0px !important;
+                    margin: 0px !important;
+                }
+                
+                main section div {
+                    position: relative !important;
+                    width: 100% !important;
+                }
+               
+                main section:nth-child(2) {
+                    max-width: 100% !important;
+                    padding-left: 0px 2rem 20px 0.5rem !important;
+                    margin: 0px !important;
+                    overflow-y: auto;
+                }
+                
+                main section:nth-child(2) div {
+                    height: 98% !important;
+                    width: 95% !important;
+                    padding: 1rem !important;
+                }
+                
+                #app-title {
+                    width: 100% !important;
+                }
+                
+                #app-title a {
+                    display: none;
+                }
+                
+                #app-title h1 {
+                    width: 100% !important;
+                }
+                
+                #carousel {
+                    display: none !important;
+                }
+                
+                #app-title hr {
+                    width: 50% !important;
+                }
+                
+                #intro {
+                    padding-bottom: 1em;
+                }
+            }
+
+            
+            .parent-link iron-icon {
+                padding-right: 4px;
+            }
+
+            .parent-link {
+                display: block;
+                margin-bottom: 10px;
+                margin-top: 16px;
+                padding: 6px 0;
+                border-bottom: thin solid var(--paper-grey-300);
+            }
+            
+            h1,
+            h3,
+            h4,
+            h5,
+            h6 {
+                font-weight: 400 !important;
+                line-height: 1.2;
+            }
+            
+            h5 {
+                font-size: 16px;
+                margin: 0;
+            }
+            
+            main section:nth-child(1) {
+                height: 38.7%;
+                position: relative;
+                display: flex !important;
+                flex-direction: row !important;
+                justify-content: space-between !important;
+                padding-left: 4rem;
+                padding-right: 4rem;
+            }
+            
+            main section:nth-child(1) #app-title {
+                height: 47.10%;
+                width: 40%;
+                position: absolute;
+                top: 8%;
+                line-height: 3.5rem;
+            }
+            
+            main section:nth-child(1) #app-title img {
+                height: 30%;
+                width: auto;
+                margin-left: 0px;
+            }
+            
+            main section:nth-child(1) #app-title h1 {
+                font-family: 'ff-scala-sans', sans-serif;
+                font-weight: bold !important;
+                font-size: 2.5rem;
+                margin-bottom: 0px;
+                padding-bottom: 0px;
+                width: 60%;
+            }
+            
+            main section:nth-child(1) #app-title h3 {
+                font-family: 'ff-scala-sans', sans-serif;
+                font-weight: bold !important;
+                font-size: 2.2rem;
+            }
+            
+            main section:nth-child(1) #app-title hr {
+                height: 0.6rem;
+                background-color: #ed7060;
+                border: 0px;
+                margin-top: -10px;
+                margin-bottom: -10px;
+                width: 30%;
+                margin-left: 0px;
+            }
+            
+            main section:nth-child(1) #app-title a {
+                font-family: 'ff-scala-sans', sans-serif;
+                font-size: 0.6rem;
+                font-weight: bold;
+                text-decoration: none;
+                padding: 10px !important;
+                background-color: #000;
+                color: #fff;
+                text-transform: uppercase;
+                letter-spacing: 0.08188rem;
+                padding-right: 0px;
+            }
+
+            #carousel {
+                width: 60%;
+                height: 100%;
+                margin: 0px;
+                position: absolute;
+                top: 0px;
+                right: 4rem;
+                display: flex;
+                justify-content: center;
+            }
+            
+            #carousel paper-icon-button {
+                background: #fff;
+                width: 70px;
+                height: 70px;
+                padding: 17px;
+                border-radius: 50%;
+                font-weight: bold;
+                font-family: 'ff-scala-sans', sans-serif;
+                vertical-align: middle;
+                z-index: 4;
+            }
+            
+            #carousel #prev {
+                position: absolute;
+                right: 40rem; 
+                top: 35%;
+                z-index: 4;
+            }
+            
+            #carousel #next {
+                position: absolute;
+                right: 1.5rem;
+                top: 35%;
+                z-index: 4;
+            }
+            
+            #carousel img {
+                height: 125%;
+                width: auto;
+                position: absolute;
+                right: 0px;
+                top: 20px;
+                z-index: 3;
+                border-radius: 3px;
+            }
+            
+            #quote1, #quote2, #quote3 {
+                position: absolute;
+                right: 8rem;
+                width: 27rem;
+                margin: 10px;
+                color: #000;
+                z-index: 3;
+                font-style: italic;
+                font-family: 'ff-scala-sans', sans-serif;
+                font-weight: normal;
+                letter-spacing: 0.07rem;
+                line-height: 2rem;
+            }
+            
+            #quote1, #quote2 {
+                top: 12%;                
+            }
+            
+            #quote3 {
+                top: 9%;
+            }
+            
+            #quote1 span:nth-child(1), #quote2 span:nth-child(1), #quote3 span:nth-child(1) {
+                font-size: 1.5rem;                
+            }
+            
+            #quote1 span:nth-child(2), #quote2 span:nth-child(2), #quote3 span:nth-child(2) {
+                font-size: 0.5rem;
+            }
+            
+            main section:nth-child(2) {
+                height: 61.3%;
+                width: 100%;
+                display: flex;
+                justify-content: center;
+                background-color: #ed7060;
+                background-repeat: no-repeat;
+                background-size: 100%;
+                background-position: center;
+                z-index: 4;
+            }
+            
+            main section:nth-child(2) div {
+                width: 75%;
+                height: 48vh;
+                position: relative;
+                margin-top: 7.5%;
+                font-weight: 400;
+            }
+            
+            main section:nth-child(2) div p, main section:nth-child(2) div p a {
+                font-family: 'ff-scala-sans', sans-serif;
+                font-weight: 400;
+                font-style: normal;
+                font-size: 1.5rem;
+                line-height: 2rem;
+            }
+            
+            main section:nth-child(2) div p span {
+                font-weight: bold !important;
+            }
+            
+            #intro h3 {
+                font-size: 1.5rem;
+            }
+            
+            #intro h3 a {
+                color: #000;
+                font-weight: 500;
+            }
+            
+            #intro p:nth-child(3) a, #intro p:nth-child(2) {
+                background: #fceee2;
+                padding: 10px;
+                margin-bottom: 2em;
+            }
+            
+            #intro p:nth-child(2), #intro p:nth-child(3) {
+                margin-bottom: 2em;
+            }
+            
+            #intro p a, #intro p h2 {
+                color: #000 !important;
+                text-decoration: none;
+                font-weight: 800;
+                font-family: 'ff-scala-sans';
+            }
+            
+            #intro p a:hover, #intro p a:focus {
+                text-decoration: underline;
+                text-decoration-thickness: 0.1rem;
+            }
+            
+            #intro p:nth-child(2) {
+                display: flex;
+                flex-direction: row;
+            }
+            
+            #intro p:nth-child(3) a {
+                background: #fceee2;
+                padding: 10px;
+            }
+            
+            #intro p:nth-child(4) {
+                background: #fceee2;
+                padding: 10px;
+            }
+            
+            #indexSearch {
+                --pb-search-label-color: #000 !important;
+                --pb-search-input-color: #000 !important;
+                --pb-search-focus-color: #e22717;
+                --pb-search-suggestions-background: #fff8f2;    
+                width: 100% !important;
+            }
+            
+            #indexSearch paper-checkbox {
+                margin-right: 1rem;
+                font-size: 1rem;
+            }
+            
+            paper-checkbox {
+            }
+            
+            paper-checkbox pb-popover {
+                margin-left: -15px !important;
+                --pb-popover-color: #E22717;
+            }
+        </style>
+    </custom-style>
+</head>
+
+<body>
+    <pb-page data-template="pages:pb-page" unresolved="unresolved">
+        <app-drawer-layout force-narrow="force-narrow">
+            <app-drawer slot="drawer" align="right" data-template="lib:include" data-template-path="templates/drawer.html"/>
+                <app-header-layout>
+                <app-header slot="header" reveals="reveals" effects="waterfall">
+                    <app-toolbar data-template="lib:include" data-template-path="templates/menu.html"/>
+                </app-header>
+                <main>
+                    <section>
+                        <div id="app-title">
+                            <img src="/exist/apps/skvr/resources/images/skvr-logo-musta.png"/>
+                            <hr/>
+                            <h1>Karjalaisten, inkeriläisten ja suomalaisten kansanrunojen verkkopalvelu</h1>
+                            <a href="#intro-text">Hae runoista</a>
+                        </div>
+                        <div id="carousel" style="display:block;">
+                            <paper-icon-button id="prev" icon="icons:arrow-back"/>
+                            <paper-icon-button id="next" icon="icons:arrow-forward"/>
+                            <img src="/exist/apps/skvr/resources/images/skvr-kirjat.png" style="display:block;" alt="Painetun SKVR-sarjan niteitä"/>
+                            <p id="quote1" style="display:none;">
+                                <span>
+                                    Sitte vanha Väinämöinen<br/>
+                                    Laati soitun sorsan luusta,<br/>
+                                    Kantelvon kalan evästä,<br/>
+                                    Hiuksista hijen immen.<br/>
+                                    Rupioovi soittamah.<br/>
+                                    Soitti päivän, soitti toisen,<br/>
+                                    Jo päivänä kolmantena<br/>
+                                    Läksi (pääsi) pursi juoksemaan.</span>
+                                    <br/>
+                                    <br/>
+                                <span>
+                                    – Tsena. Sjögren n. 418. - 1825.
+                                </span>
+                            </p>
+                            <p id="quote2" style="display:none">
+                                <span>
+                                    Saaren kukka, saaren neito,<br/>
+                                    Saaress' on hyvä elellä,<br/>
+                                    Kaunis on saaren kallahalla,<br/>
+                                    Hiekka on ranta, päivä paiste;<br/>
+                                    Ei tuo sänki säärtä pieksä,<br/>
+                                    Sirppi ei sormia sivalla.
+                                </span>
+                                    <br/>
+                                    <br/>
+                                <span>
+                                    – Narvusi. J. Länkelä. v. I 17. 1858.
+                                </span>
+                            </p>   
+                            <p id="quote3" style="display:none;">
+                                <span>
+                                    Laulelemma soittelemma<br/>
+                                    Tämän iltani ilokse<br/>
+                                    Huomenkuuroni kuluksi<br/>
+                                    Veijoseni kaunoseni<br/>
+                                    Lankoni emoni lapsi<br/>
+                                    Virren polvus polvuhini<br/>
+                                    Laulelemma soutelemma<br/>
+                                    Sanat suussani sulaisi<br/>
+                                    Kihuoisi kielelleni</span>
+                                    <br/>
+                                    <br/>
+                                <span>
+                                    – Koivuj. Genetz II, n. 53. 8/8 72.
+                                </span>
+                            </p>                            
+                        </div>
+                    </section>
+                    <section>
+                        <a id="intro-text"/>
+                        <div id="intro">
+                            <h3>Tee tässä haku SKVR-aineistoon tai siirry <a href="/exist/apps/skvr/haku.html">tekstihakusivulle</a>, jossa voit tehdä hakuja SKVR- ja JR-aineistoon.</h3>
+                            <p>
+
+                                <pb-search id="indexSearch" action="${app}/haku.html" data-template="pages:parse-params" value="${query}" place-holder="Tee haku" redirect="redirect" submit-on-load="submit-on-load">
+                                    <span style="font-size: 16px;">Hakuvaihtoehdot: </span>
+                                        <br/>
+                                    <input type="hidden" name="coll" value="main"/>
+                                    <paper-checkbox name="field" value="text">Runot (koko teksti)</paper-checkbox>
+                                    <paper-checkbox name="field" value="lines">Säkeet</paper-checkbox>
+                                    <paper-checkbox name="field" value="themes">Runotyypit</paper-checkbox>
+                                    <paper-checkbox name="field" value="collector">Kerääjät</paper-checkbox>
+                                        <pb-popover theme="light" placement="top" persistent="true">
+                                            <iron-icon icon="icons:info-outline"/>
+                                            <template slot="alternate">Karjalaisia runolaulajien nimiä haettaessa kannattaa käyttää sumean haun tildemerkkiä, esim. <span style="font-style:italic;">perttune~</span>. Tällaisten nimien ortografia vaihtelee voimakkaasti, joten perushaulla (esim. <span style="font-style:italic;">perttune</span>) eri variaatioita saattaa jäädä löytymättä, kun taas sumea haku palauttaa ne.</template>
+                                        </pb-popover>
+                                    <paper-checkbox name="field" value="informant">Runonlaulajat</paper-checkbox>
+                                    <paper-checkbox name="field" value="collPlace">Paikkakunnat</paper-checkbox>
+                                    <paper-checkbox name="field" value="collRegion">Maakunnat</paper-checkbox>
+                                    <pb-popover theme="light" placement="top" persistent="true">
+                                            <iron-icon icon="icons:info-outline"/>
+                                            <template slot="alternate">Vuosi- ja aikavälihaku. Jälkimmäisen hakulause on muoto: <i>[vvvv TO vvvv]</i> (mukaan lukien alku- ja loppuvuosi) tai <i>{vvvv TO vvvv}</i> (poislukien alku- ja loppuvuosi).</template>
+                                        </pb-popover>
+                                    <paper-checkbox name="field" value="dateSt">Vuodet</paper-checkbox>
+                                    <paper-checkbox name="field" value="esipuheet">Esipuheet</paper-checkbox>
+                                </pb-search>
+                            </p>
+                            <p>Suomen Kansan Vanhat Runot -kirjasarjassa (SKVR) julkaistiin vuosina 1908–1948 ja 1997 merkittävimmät arkistoihin tallennetut ja kirjallisista lähteistä löydetyt karjalaiset, inkeriläiset ja suomalaiset kansanrunot. Verkkopalvelu perustuu tähän teokseen. Mukaan on liitetty myös tarkistamaton julkaisemattomien runojen aineisto JR.</p>
+                            <p>
+                                <a href="/exist/apps/skvr/runoluettelo.html">
+                                        <iron-icon icon="icons:link"/> Siirry selaamaan runoja metatietojen perusteella.</a>
+                            </p>
+                        </div>
+                    </section>
+                </main>
+                <footer class="version" data-template="templates:include" data-template-path="templates/footer.html"/>      
+            </app-header-layout>
+        </app-drawer-layout>
+        <paper-dialog id="errorDialog">
+            <h2>
+                    <pb-i18n key="dialogs.error">Error</pb-i18n>
+                </h2>
+            <paper-dialog-scrollable/>
+            <div class="buttons">
+                <paper-button dialog-confirm="dialog-confirm" autofocus="autofocus">
+                    <pb-i18n key="dialogs.close">Close</pb-i18n>
+                </paper-button>
+            </div>
+        </paper-dialog>
+    </pb-page>
+    <div class="splash"/>
+</body>
+
+</html>

@@ -1,0 +1,13 @@
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>SKVR</description>
+    <author/>
+    <status>beta</status>
+    <license>GNU-LGPL</license>
+    <copyright>true</copyright>
+    <type>application</type>
+    <prepare>pre-install.xql</prepare>
+    <finish>post-install.xql</finish>
+    <target>skvr</target>
+    <permissions user="admin" group="tei" mode="rw-r--r--"/>
+    
+<deployed>2024-05-18T08:45:48.142+03:00</deployed></meta>
