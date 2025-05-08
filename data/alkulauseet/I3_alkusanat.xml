@@ -1,0 +1,366 @@
+<?teipublisher template="alkulauseet.html" odd="teipublisher.odd" view="single"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>I3: alkusanat</title>
+                <author>A. R. Niemi</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                <pubPlace>Helsinki</pubPlace>
+                <date>2024</date>
+                <availability>
+                    <p>Tekijänoikeudet: Suomalaisen Kirjallisuuden Seura</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Suoman kansan vanhat runot I. Vienan Läänin Runot. 3. Lyyrilliset, opettavaiset, miete-, 
+                        iva-, leikki- y.m. runot. Toisinnot 1273−2106.</title>
+                    <author>A. R. Niemi (toimittaja)</author>
+                    <pubPlace>Helsinki</pubPlace>
+                    <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                    <date>1919</date>
+                    <series>
+                        <title>Suomalaisen Kirjallisuuden Seuran toimituksia</title>
+                        <biblScope>121, III, IV1.</biblScope>
+                    </series>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURAN TOIMITUKSIA.</p>
+            <p>121 OSA.</p>
+            <p>
+                <hi rend="bold">III, IV1 .</hi>
+            </p>
+            <p>SUOMEN KANSAN VANHAT RUNOT I.</p>
+            <p>VIENAN LÄÄNIN RUNOT.</p>
+            <p>3.</p>
+            <p>
+                <hi rend="bold">LYYRILLISET, OPETTAVAISET, MIETE-, IVA-, LEIKKI- Y. M. RUNOT.</hi>
+            </p>
+            <p>TOISINNOT 1273—2106.</p>
+            <p>JULKAISSUT</p>
+            <p>A. R. NIEMI.</p>
+            <p>HELSINKI 1919,SUOMALAISEN KIRJALLISUUDEN SEURA.</p>
+            <p/>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURAON TOIMITUSTYÖTÄ VARTEN SAANUT AVUSTUSTA</p>
+            <p>KAUPPANEUVOS OTTO A. MALMIN</p>
+            <p>LAHJOITUSRAHASTOSTA.</p>
+            <p>HELSINKI 1919</p>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURAN KIRJAPAINO OY.</p>
+            <p>Paperi on TERVAKOSKEN paperitehtaasta.</p>
+            <p/>
+            <p>Sisällysluettelo.</p>
+            <table type="contents"> 
+                <row rend="heading"><cell><hi rend="bold">I. Erilaisia mielialoja ja tunnelmia</hi>.</cell><cell/></row>
+                <row rend="heading"><cell>LAULUN TARVE:</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Laululle lähtiessä n:t 1273—1308</cell><cell>1—15.</cell></row>
+                <row><cell>Kehotusta laulamaan n:t 1309—1344</cell><cell>15—23.</cell></row>
+                <row><cell>Laulua lopettaessa n:t 1345—1355</cell><cell>23—25.</cell></row>
+                <row rend="heading"><cell>HUOLI JA KOVA OSA:</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Ei tiiä emoton lapsi emollisen einnehiä n. 1356</cell><cell>25.</cell></row>
+                <row><cell>Ei meillä pyyllä pyhää pietty n. 1357</cell><cell>25.</cell></row>
+                <row><cell>Ei nyt äiti ääntä kuule n. 1358</cell><cell>25.</cell></row>
+                <row><cell>Ei ole sitä hevoista, ku mun huoleni vetäisi n:t 1359—1360</cell><cell>25—26.</cell></row>
+                <row><cell>Ei sula syön suruni n. 1361</cell><cell>26.</cell></row>
+                <row><cell>Elä heitä, Herra Jiesus, n:t 1362—1363</cell><cell>26.</cell></row>
+                <row><cell>En tiiä tekijätäni n. 1364</cell><cell>27.</cell></row>
+                <row><cell>Enempi minulla huolta, kun on kuusessa käpyjä n. 1365</cell><cell>27.</cell></row>
+                <row><cell>Enkä mie ennen ollunt mustin muita neitosia n. 1366</cell><cell>27.</cell></row>
+                <row><cell>Isä heitti iljenelle n:t 1367—1371</cell><cell>27—28.</cell></row>
+                <row><cell>Jo nyt heitti Herra Jiesus n:t 1372—1373</cell><cell>28.</cell></row>
+                <row><cell>Joka puu purovi milma n. 1374</cell><cell>29.</cell></row>
+                <row><cell>Jos oisin käeksi pantu n:t 1375—1376</cell><cell>29.</cell></row>
+                <row><cell>Jouvuin puulle pyörivälle n. 1377</cell><cell>29.</cell></row>
+                <row><cell>Jäin kuin jäniksen poika n. 1378</cell><cell>30.</cell></row>
+                <row><cell>Kanna, korppi, kaihojani n:t 1379—1381</cell><cell>30.</cell></row>
+                <row><cell>Koti toivo kuolleheksi n:t 1382—1383</cell><cell>30.</cell></row>
+                <row><cell>Kotihinsa muut mänöö n:t 1384—1385</cell><cell>30—31.</cell></row>
+                <row><cell>Kun mie kuolen kuulu neiti n. 1386</cell><cell>31.</cell></row>
+                <row><cell>Kuin mun kuoli kumppalini n:t 1387—1389</cell><cell>31.</cell></row>
+                <row><cell>Kun nuorra naitettih n. 1390</cell><cell>32.</cell></row>
+                <row><cell>Kun on turvani Tuonelassa n. 1391</cell><cell>32.</cell></row>
+                <row><cell>Mie hoikka huolissani n. 1392</cell><cell>32.</cell></row>
+                <row><cell>Mie laulan laitoissani n. 1393</cell><cell>32.</cell></row>
+                <row><cell>Minä kylvin kyyneleillä n. 1394</cell><cell>32.</cell></row>
+                <row><cell>Minun on tuulessa tupani n. 1395</cell><cell>32.</cell></row>
+                <row><cell>Minne milma vietäneh n. 1396</cell><cell>32—33.</cell></row>
+                <row><cell>Mistä tunnen huolellisen n. 1397</cell><cell>33.</cell></row>
+                <row><cell>Moni katso muotohoni n. 1398</cell><cell>33.</cell></row>
+                <row><cell>Oisin kuollut kolmiyönä n:t 1399—1407</cell><cell>33—36.</cell></row>
+                <row><cell>Olen joutun’ juopuneheks’ n. 1408</cell><cell>36.</cell></row>
+                <row><cell>Olin miekin ennen nuoren’ n. 1409</cell><cell>37.</cell></row>
+                <row><cell>Parempi mun ois’ omalla maalla n. 1410</cell><cell>37.</cell></row>
+                <row><cell>Parempi ois’ pajuilla maata n. 1411</cell><cell>37.</cell></row>
+                <row><cell>Poikuoni Tuonen toukoja panevat n. 1412</cell><cell>37.</cell></row>
+                <row><cell>Sainpa kiero kiertämäh n. 1413</cell><cell>37.</cell></row>
+                <row><cell>Sijan tiijän, missä synnyin n:t 1414—1415</cell><cell>37—38.</cell></row>
+                <row><cell>Soisit suohon sortuvani n:t 1416—1418</cell><cell>38.</cell></row>
+                <row><cell>Tulehenko tien tupani n:t 1419—1422</cell><cell>39.</cell></row>
+                <row><cell>Tulis’ miun huolista heponi n:t 1423—1423 b)</cell><cell>39—40.</cell></row>
+                <row><cell>Tuoll’ on vaivanen varani turvetta tukiamassa n. 1424</cell><cell>41.</cell></row>
+                <row><cell>Tuuvitti emoni milma n:t 1425—1426</cell><cell>41.</cell></row>
+                <row rend="heading"><cell>RAKKAUS:</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Ennen kuusia kumarran n:t 1427—1428</cell><cell>41—42.</cell></row>
+                <row><cell>Konsa meille kostjat tullah n:t 1429—1430</cell><cell>42—43.</cell></row>
+                <row><cell>Kun ei kuule kulta milma n. 1431</cell><cell>43.</cell></row>
+                <row><cell>Kuku, kultanen käkönen, kuku neittä nouttavaksi n. 1432</cell><cell>43.</cell></row>
+                <row><cell>Kunpa tuttuni tulisi n:t 1433—1434</cell><cell>43.</cell></row>
+                <row><cell>Kunpa saisin soapkan nähä n. 1435</cell><cell>43.</cell></row>
+                <row><cell>Lemmen saa tytöt liejumalla n. 1436</cell><cell>44.</cell></row>
+                <row><cell>Lempo menköhön leselle n. 1437</cell><cell>44.</cell></row>
+                <row><cell>Miepä jauhan Jaakolleni n. 1438</cell><cell>44.</cell></row>
+                <row><cell>Mistä tien sä tiesit tänne n. 1439</cell><cell>44.</cell></row>
+                <row><cell>Toivoisinko taattoni tulevan n. 1440—1446</cell><cell>44—47.</cell></row>
+                <row><cell>Tule illall’ igriessäh n. 1447</cell><cell>48.</cell></row>
+                <row><cell>Tullah kalevat kaupalta n. 1448</cell><cell>48.</cell></row>
+                <row><cell>Tunnen tuomeksen tulennasta n:t 1449—1449 a)</cell><cell>48.</cell></row>
+                <row><cell>Viikonko olen villapäänä n:t 1450—1451</cell><cell>49.</cell></row>
+                <row><cell>Voi, korppi lintuni, näetkö mun taattoni n. 1452</cell><cell>49.</cell></row>
+                <row><cell>TYTTÖJEN KERSKUMISIA:</cell><cell/></row>
+                <row><cell>Sivut.</cell><cell/></row>
+                <row><cell>Ei täyvy tätä tytärtä pahoille rejen pajuille n. 1453</cell><cell>49—50.</cell></row>
+                <row><cell>Käyn kun särkky säärtä lyöden n. 1454</cell><cell>50.</cell></row>
+                <row><cell>Kyllä tällä neitosella vielä lempi lentöän tuloo n. 1455</cell><cell>50.</cell></row>
+                <row><cell>Oisko meitä kaksi, kolme, järven järkähyttäsimme n. 1456</cell><cell>50.</cell></row>
+                <row><cell>Vielä näistä tyttäristä suku juopi suuret sarkat n:t 1457—1458</cell><cell>50.</cell></row>
+                <row rend="heading"><cell>PETTYMYS:</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Mikä lie minusta nähty n:t 1459—1462</cell><cell>51.</cell></row>
+                <row><cell>Muilla on sulhot muitterammat n. 1463</cell><cell>51.</cell></row>
+                <row><cell>On kukka kuihuttoassa n. 1464</cell><cell>51.</cell></row>
+                <row><cell>Petettihin pennilöillä n. 1465</cell><cell>51.</cell></row>
+                <row rend="heading"><cell>PILKKA:</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Kuin olen joutun’ juomariksi n. 1466</cell><cell>52.</cell></row>
+                <row><cell>Jouvuin maille vierahille n. 1467</cell><cell>52.</cell></row>
+                <row><cell>Sanottiin sata lasta saaneheni n. 1468</cell><cell>52—53.</cell></row>
+                <row><cell>TOIVOMUKSIA:</cell><cell/></row>
+                <row><cell>Sivut.</cell><cell/></row>
+                <row><cell>Anna, Luoja, luokosäätä n:t 1469—1472</cell><cell>53.</cell></row>
+                <row><cell>Anna vastakin, Jumala, viinat virtana vilata n. 1473</cell><cell>53—54.</cell></row>
+                <row><cell>Kuku, kultani käköni n. 1474</cell><cell>54.</cell></row>
+                <row><cell>Suo vastakin, Jumala, suo sontaista pihoa n. 1475</cell><cell>54.</cell></row>
+                <row rend="heading"><cell>VANHEMPAIN TOIVEITA:</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Äsen poika poik’ olisi, kuin leivän lehosta toisi n:t 1476—1478</cell><cell>54—55.</cell></row>
+                <row rend="heading"><cell>LAPSEN KIITOLLISUUS:</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Näkisi nämäkin silmät emosen etempeäki n. 1479</cell><cell>55.</cell></row>
+                <row rend="heading"><cell>ERILAISIA TUNNELMIA:</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Kesän vuotin kekriäni n:t 1480—1481</cell><cell>55.</cell></row>
+                <row><cell>Muoriseni, kun sä nälkäni näkisit n:t 1482—1483</cell><cell>56.</cell></row>
+                <row><cell>Sorsa soitti kanteletta n. 1484</cell><cell>56.</cell></row>
+                <row><cell>Soutelemma, luitelomma n. 1485</cell><cell>57.</cell></row>
+                <row><cell>Univirsiä n:t 1486—1487</cell><cell>56—57.</cell></row>
+                <row><cell>Varjele, vakaini Luoja n. 1488</cell><cell>57.</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">II. Määrätyissä tiloissa ja toimissa laulettuja.</hi>
+                </cell><cell/></row>
+                <row rend="heading"><cell>HÄÄVIRSIÄ:</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Kihloessa n:t 1489—1539</cell><cell>58—89.</cell></row>
+                <row><cell>Kutsujen lähtiessä ja palatessa n:t 1540—1553</cell><cell>89—93.</cell></row>
+                <row><cell>Sulhasen lähtiessä morsianta noutamaan n:t 1554—1560</cell><cell>93—96.</cell></row>
+                <row><cell>Sulhasen tullessa morsiamen kotiin n:t 1561—1596</cell><cell>97—129.</cell></row>
+                <row><cell>Morsiamen päätä pantaessa n:t 1597—1659</cell><cell>129—167.</cell></row>
+                <row><cell>Kun morsian tuodaan sulhasen kotiin n:t 1660—1744</cell><cell>167—301.</cell></row>
+                <row><cell>Häälaulajain palkka n:t 1745—1754</cell><cell>301—302.</cell></row>
+                <row><cell>Soimauslauluja:</cell><cell/></row>
+                <row><cell>Mie toivoin tukun tulevan n:t 1755—1763</cell><cell>302—305.</cell></row>
+                <row><cell>Sanottihin tääll’ olevan n:t 1764—1765</cell><cell>305.</cell></row>
+                <row><cell>Soajannaińi, syöjännaińi n. 1766</cell><cell>305.</cell></row>
+                <row><cell>Sulhanen sukapii n. 1767</cell><cell>305—306.</cell></row>
+                <row><cell>Yksinäisiä muodostumia n:t 1768—1771</cell><cell>306—308.</cell></row>
+                <row rend="heading"><cell>TANSSILAULUJA:</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Läksin tästä Roualaan n:t 1772—1773</cell><cell>308—309.</cell></row>
+                <row rend="heading"><cell>TYÖLAULUJA<hi rend="bold">:</hi>
+                </cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Heinänurmella n. 1774</cell><cell>309.</cell></row>
+                <row><cell>Kalamiehet n:t 1775—1779</cell><cell>309—310.</cell></row>
+                <row><cell>Lypsylauluja n:t 1780—1788</cell><cell>310—312.</cell></row>
+                <row><cell>Paimenlauluja n:t 1789—1790</cell><cell>312.</cell></row>
+                <row><cell>Riihellä n. 1791</cell><cell>312.</cell></row>
+                <row><cell>Vastaksessa n:t 1792—1794</cell><cell>312—313.</cell></row>
+                <row rend="heading"><cell>TUUTULAULUJA:</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Elä itke, poikuoni, n. 1795</cell><cell>313.</cell></row>
+                <row><cell>Hui, hussaa lasta n. 1796—1797</cell><cell>313.</cell></row>
+                <row><cell>Laulan, laulan, lapsellani n. 1798</cell><cell>313.</cell></row>
+                <row><cell>Mie laulan lapsellani n. 1799</cell><cell>313.</cell></row>
+                <row><cell>Millä maksan maamon vaivat n:t 1800—1801</cell><cell>314.</cell></row>
+                <row><cell>Mie se laulan lammin lummen n:t 1802—1803</cell><cell>314.</cell></row>
+                <row><cell>Miepä laulan lapselleni n:t 1804—1806</cell><cell>314—315.</cell></row>
+                <row><cell>Nuku, nuku, nurmilintu n:t 1807—1809</cell><cell>315.</cell></row>
+                <row><cell>Pai, pai, paruuskoa n:t 1810—1811</cell><cell>316.</cell></row>
+                <row><cell>Piu, pau, kirkon kellot n. 1812</cell><cell>316.</cell></row>
+                <row><cell>Piu, pau, paukkaa n. 1813</cell><cell>316.</cell></row>
+                <row><cell>Soua, soua, soutajaisen, n:t 1814—1815</cell><cell>316.</cell></row>
+                <row><cell>Soutelemme, joutelemme n. 1816</cell><cell>317.</cell></row>
+                <row><cell>Souti sotka suojat rannat n:t 1817—1820</cell><cell>317.</cell></row>
+                <row><cell>Souvamma Suomeh n:t 1821—1823</cell><cell>318.</cell></row>
+                <row><cell>Syyttä silloin lapsi itki n:t 1824—1825</cell><cell>318.</cell></row>
+                <row><cell>Tule, uni, ulkosesta n:t 1826—1831</cell><cell>318—319.</cell></row>
+                <row><cell>Tule, uni, uunin peältä n. 1832</cell><cell>319.</cell></row>
+                <row><cell>Tules tuutuhun, unonen, n:t 1833—1840</cell><cell>319—321.</cell></row>
+                <row><cell>Tuuti lasta lapsin kaksin n:t 1841—1843</cell><cell>321—323.</cell></row>
+                <row><cell>Tuuti lasta tuomariksi n:t 1844—1854</cell><cell>323—326.</cell></row>
+                <row><cell>Tuuti lasta tuutusehe n. 1855</cell><cell>326.</cell></row>
+                <row><cell>Tuuvittelen turvakseni n. 1856</cell><cell>326.</cell></row>
+                <row><cell>Tuutipa Tuonelle tytärtä n:t 1857—1859</cell><cell>326—327.</cell></row>
+                <row><cell>Tuutipa, tuuti, lastani n:t 1860—1863</cell><cell>327.</cell></row>
+                <row><cell>Tuuti, tuuti, tupakkirullaa n. 1864</cell><cell>327—328.</cell></row>
+                <row><cell>Tuuti, tuuti, tyttöäni pohatalle puolisoksi n. 1865...328.</cell></row>
+                <row><cell>Tuuti, tuuti, tyttölasta n:t 1866—1867</cell><cell>328.</cell></row>
+                <row><cell>Tuuti, tuuti, vakaista n. 1868</cell><cell>328.</cell></row>
+                <row><cell>Varis vaikku vainiolta n. 1869—1874</cell><cell>328—330.</cell></row>
+                <row rend="heading"><cell>LASTEN VIIHDYTYSLAULUJA:</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Aja, aja, heposella n. 1875</cell><cell>330—331.</cell></row>
+                <row><cell>Anna, hiiri, tyttöäs’ n. 1876</cell><cell>331.</cell></row>
+                <row><cell>Hiiri hiirtä ulos kutsui n:t 1877—1878</cell><cell>331—332.</cell></row>
+                <row><cell>Hiiri, hiiri, hikkeroini n. 1879</cell><cell>332.</cell></row>
+                <row><cell>Hiiri kaupalta tuloo n. 1880</cell><cell>332.</cell></row>
+                <row><cell>Hiiri laulelou lavossa u. 1881</cell><cell>332.</cell></row>
+                <row><cell>Hyppään hyllään n:t 1882—1882 b)</cell><cell>332—333.</cell></row>
+                <row><cell>Hyvin, hvvin, hyssyttää n. 1883</cell><cell>333.</cell></row>
+                <row><cell>Häkkärä härröö n. 1884</cell><cell>333.</cell></row>
+                <row><cell>Ken söi kesävoin n. 1885—1887</cell><cell>333—334.</cell></row>
+                <row><cell>Ken Teron tietää n. 1888</cell><cell>334.</cell></row>
+                <row><cell>Kopu, kopu, kotoo n:t 1889—1889 b)</cell><cell>335.</cell></row>
+                <row><cell>Kuka häihini tulevi n. 1890</cell><cell>335.</cell></row>
+                <row><cell>Kunne hiihat, hiiri rukka, n:t 1891—1901</cell><cell>335—340.</cell></row>
+                <row><cell>Kurik krusiivoi n. 1902</cell><cell>340.</cell></row>
+                <row><cell>Laain liiton nossakseni. (Rikoilla kuuntelija) 1903—1914</cell><cell>340—349.</cell></row>
+                <row><cell>Läksi kuoma kuomihise n. 1915</cell><cell>349.</cell></row>
+                <row><cell>Läkkämä, tsikko, Läkköläh n:t 1916—1920</cell><cell>349—351.</cell></row>
+                <row><cell>Läkkämä, sikko, Surulaan n. 1921</cell><cell>351.</cell></row>
+                <row><cell>Mentih pappilan naiset veelle n. 1922</cell><cell>351.</cell></row>
+                <row><cell>Mi tuolta näkyy n. 1923—1925</cell><cell>351—353.</cell></row>
+                <row><cell>Miepä siun sitaksi laulan n. 1926</cell><cell>353.</cell></row>
+                <row><cell>Mik’ on veion verkkosessa n:t 1927—1930</cell><cell>353—355.</cell></row>
+                <row><cell>Mikä yksi? n. 1931</cell><cell>355.</cell></row>
+                <row><cell>Missä, tšikkon’, kävit? n. 1932</cell><cell>355.</cell></row>
+                <row><cell>Neitonen, neitonen nekkarina itkee n:t 1933—1934</cell><cell>355.</cell></row>
+                <row><cell>Niin sano suutarpojat n:t 1935—1935 b)</cell><cell>355—356.</cell></row>
+                <row><cell>Näin se harakka huttuu keittää n. 1936</cell><cell>356.</cell></row>
+                <row><cell>Oh, ukko uikari n. 1937</cell><cell>356.</cell></row>
+                <row><cell>Oli ennen onnimanni n:t 1938—1940</cell><cell>356—357.</cell></row>
+                <row><cell>Oli ennen ukko, akka n:t 1941—1942</cell><cell>357—358.</cell></row>
+                <row><cell>Onneton ottaa n. 1943</cell><cell>358.</cell></row>
+                <row><cell>Pane kyly lämmitä n. 1944</cell><cell>358—359.</cell></row>
+                <row><cell>Poika läks’ nakrista varastamah n. 1945</cell><cell>359.</cell></row>
+                <row><cell>Ruotsalainen ruotakoira n:t 1946—1948</cell><cell>359—361.</cell></row>
+                <row><cell>Sanon mie saarnoo n:t 1949—1952</cell><cell>361—362.</cell></row>
+                <row><cell>Soutelemme, joutelemme n:t 1953—1957</cell><cell>362—363.</cell></row>
+                <row><cell>Suomen sukki, peikalopukki n. 1958</cell><cell>363.</cell></row>
+                <row><cell>Sylien mie nuottaa n. 1959</cell><cell>364.</cell></row>
+                <row><cell>Tapu, tapu, tappusii n. 1960</cell><cell>364.</cell></row>
+                <row><cell>Tuo venettä, tuohineiti, n. 1961</cell><cell>364.</cell></row>
+                <row><cell>Tuotih miula uusi minjä n. 1962</cell><cell>364.</cell></row>
+                <row><cell>Yksi ytti, toinen totti n. 1963</cell><cell>364.</cell></row>
+                <row rend="heading"><cell>LEIKKILUKUJA:</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>N:ot 1964—1995 a)</cell><cell>364—369.</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">III. Opettavaisia, miete-, iva-, leikki- y. m. runoja</hi>.</cell><cell/></row>
+                <row rend="heading"><cell>OPETTAVAISIA RUNOJA:</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Elä kihlo kirkkotiellä n:t 1996—2004</cell><cell>370—373.</cell></row>
+                <row><cell>Emo neuvo poikoansa n:t 2005—2007</cell><cell>373.</cell></row>
+                <row><cell>Viisaampansa vieressä yönsä maannut n:t 2008—2009</cell><cell>373.</cell></row>
+                <row><cell>Väinämöisen kiellot n:t 2010—2016</cell><cell>378—379.</cell></row>
+                <row rend="heading"><cell>SANANLASKUN TAPAISIA:</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Ei hästit häitä kiitä n. 2017</cell><cell>379.</cell></row>
+                <row><cell>Eipä maaten markat saaha n. 2018</cell><cell>379.</cell></row>
+                <row><cell>Hevosilla herrat kulki n. 2019</cell><cell>380.</cell></row>
+                <row><cell>Huolena hyvä heponen n. 2020</cell><cell>380.</cell></row>
+                <row><cell>Naipi mies pahanki naisen n. 2021</cell><cell>380.</cell></row>
+                <row><cell>Joisinpa joka oluen n:t 2022—2025</cell><cell>380—381.</cell></row>
+                <row><cell>Kyllä miekin ottaisin piian n. 2026</cell><cell>381.</cell></row>
+                <row><cell>Lämmin on kesäni päivä n. 2027</cell><cell>381.</cell></row>
+                <row><cell>Mi on kumma kuun eessä n. 2028</cell><cell>381.</cell></row>
+                <row><cell>Millä mie pahasta pääsen n:t 2029—2031</cell><cell>381—382.</cell></row>
+                <row><cell>Miten huono huonuo auttaa n. 2032</cell><cell>382.</cell></row>
+                <row><cell>Oinas itki otsaansa n:t 2033—2037</cell><cell>382.</cell></row>
+                <row><cell>Se on tuuma toisoalla n. 2038</cell><cell>383.</cell></row>
+                <row><cell>Se on oikein Otavankin tehnyt n. 2039</cell><cell>383.</cell></row>
+                <row><cell>Tuli on nuorin tyttäristä n. 2040</cell><cell>383.</cell></row>
+                <row><cell>Tuostapa tunnen tuhman miehen n. 2041</cell><cell>383.</cell></row>
+                <row><cell>Yks’ on veitsi viekkahutta n. 2042</cell><cell>383.</cell></row>
+                <row rend="heading"><cell>TILAPÄISTEN AIHEIDEN SYNNYTTÄMIÄ:</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Elä vaarisen varaja n. 2043</cell><cell>383.</cell></row>
+                <row><cell>Hikko on hil'l'a muulla työllä n. 2044</cell><cell>383.</cell></row>
+                <row><cell>Huotari huhueloo n. 2045</cell><cell>383.</cell></row>
+                <row><cell>Huoli huomenna tulee n. 2046</cell><cell>384.</cell></row>
+                <row><cell>Iivana Iron varasti n. 2047</cell><cell>384.</cell></row>
+                <row><cell>Jo on Kossi konttiloinut n. 2048</cell><cell>384.</cell></row>
+                <row><cell>Kumman Kuittijärvi n. 2049</cell><cell>384.</cell></row>
+                <row><cell>Kunne miun Pajukka sai n. 2050</cell><cell>384.</cell></row>
+                <row><cell>Kuollut naiseni koissa n. 2051</cell><cell>384.</cell></row>
+                <row><cell>Läksi Katrina kaupalle n. 2052</cell><cell>384.</cell></row>
+                <row><cell>Maaria majasta huusi n. 2053</cell><cell>385.</cell></row>
+                <row><cell>Naalu katso kallivolta n. 2054</cell><cell>385.</cell></row>
+                <row><cell>Nai vanha nuoresta n. 2055</cell><cell>385.</cell></row>
+                <row><cell>Nouse, kuoma, kosinolla n. 2056</cell><cell>385.</cell></row>
+                <row><cell>Onpa Pekalla perettä n. 2057</cell><cell>386.</cell></row>
+                <row><cell>Rukavaara ruskia n:t 2058—2059</cell><cell>386.</cell></row>
+                <row><cell>Suopo ammoi sukassa n. 2060</cell><cell>386.</cell></row>
+                <row><cell>Teppana terävä poika n. 2061</cell><cell>386.</cell></row>
+                <row><cell>Voi on voitointa kyleä n. 2062</cell><cell>386.</cell></row>
+                <row><cell>Vouti otrat ottanunna n:t 2063—2064</cell><cell>386—387.</cell></row>
+                <row rend="heading"><cell>MIETE-, IVA-, LEIKKI- Y. M. RUNOJA:</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Haikko suullani tuloo n. 2065</cell><cell>387.</cell></row>
+                <row><cell>Hiiri juoksoo hirttä myöten n. 2066</cell><cell>387.</cell></row>
+                <row><cell>Isäntä se oloista juopi n. 2067</cell><cell>387.</cell></row>
+                <row><cell>Jokihauki uipi jouten n. 2068</cell><cell>387.</cell></row>
+                <row><cell>Kiiskit on kirokalat n. 2069</cell><cell>387.</cell></row>
+                <row><cell>Kolme koskea jaloa n. 2070</cell><cell>387.</cell></row>
+                <row><cell>Kun on vanhaks’ tullun n. 2071</cell><cell>388.</cell></row>
+                <row><cell>Kuka paljon syönöö n. 2072</cell><cell>388.</cell></row>
+                <row><cell>Loukkaantuneelle pitää olla n. 2073</cell><cell>388.</cell></row>
+                <row><cell>Matopa syöpi moan vihoja n. 2074</cell><cell>388.</cell></row>
+                <row><cell>Mies laulo, järisi parta n:t 2075—2076</cell><cell>388.</cell></row>
+                <row><cell>Mikä tässä millitsekse n:t 2077—2078</cell><cell>388—389.</cell></row>
+                <row><cell>Missä, tšikkon’, kävit n. 2079</cell><cell>389.</cell></row>
+                <row><cell>Mist’ on sika silmät saanut n. 2080</cell><cell>389.</cell></row>
+                <row><cell>Mitä istut niin allapäin n. 2081</cell><cell>389.</cell></row>
+                <row><cell>Monta kertaa köyhä n. 2082</cell><cell>389.</cell></row>
+                <row><cell>Muuta myö aina muistelemma n:t 2083—2084</cell><cell>389.</cell></row>
+                <row><cell>Neuvon neitonen pitävi n. 2085</cell><cell>389.</cell></row>
+                <row><cell>Niinpä syäntäni sykertelövi n. 2086</cell><cell>.390.</cell></row>
+                <row><cell>Nouse pois, nokińi neiti n. 2087</cell><cell>390.</cell></row>
+                <row><cell>Olen mieki koiltani korea n. 2088</cell><cell>390.</cell></row>
+                <row><cell>Onnen tyttö ensimäińi n. 2089</cell><cell>390.</cell></row>
+                <row><cell>On se mehtyä yheksän n. 2090</cell><cell>390.</cell></row>
+                <row><cell>Pankoa minussa varon n. 2091</cell><cell>390.</cell></row>
+                <row><cell>Puita puuttu purren seppä n. 2092</cell><cell>390.</cell></row>
+                <row><cell>Rannat on täynnä reinikäistä n. 2093</cell><cell>391.</cell></row>
+                <row><cell>Rostuo romajaa n:t 2094—2095</cell><cell>391.</cell></row>
+                <row><cell>Susi juoksi suota myöten n:t 2096—2097</cell><cell>391.</cell></row>
+                <row><cell>Tikka se toukkia takoo n. 2098</cell><cell>391.</cell></row>
+                <row><cell>Tsiirin, tsiirin, tsiirikkäh n. 2099</cell><cell>391.</cell></row>
+                <row><cell>Tuo tuli, meri sytytä n:t 2100—2101</cell><cell>392.</cell></row>
+                <row><cell>Tämä kirja on kirjotettu n. 2102</cell><cell>392.</cell></row>
+                <row><cell>Ukko uupui, vanha vaipui n. 2103</cell><cell>392.</cell></row>
+                <row><cell>Ukko vanha kiukoalla n. 2104</cell><cell>392.</cell></row>
+                <row><cell>Vanhat piiat saa syyä n. 2105</cell><cell>392.</cell></row>
+                <row><cell>Vähällä vävyt elävi n. 2106</cell><cell>392.</cell></row>
+            </table>
+        </div></body>
+    </text>
+</TEI>

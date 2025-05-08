@@ -1,0 +1,1132 @@
+<?teipublisher template="alkulauseet.html" odd="teipublisher.odd" view="single"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>XV: alkusanat</title>
+                <author>Matti Kuusi ja Senni Timonen</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                <pubPlace>Helsinki</pubPlace>
+                <date>2024</date>
+                <availability>
+                    <p>Tekijänoikeudet: Suomalaisen Kirjallisuuden Seura</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Suomen kansan vanhat runot XV. Runoja Henrik Florinuksen, Kristfrid Gananderin, 
+                        Elias Lönnrotin ja Volmari Porkan kokoelmista. </title>
+                    <author>Matti Kuusi ja Senni Timonen (toimittaja)</author>
+                    <pubPlace>Helsinki</pubPlace>
+                    <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                    <date>1997</date>
+                    <series>
+                        <title>Suomalaisen Kirjallisuuden Seuran toimituksia</title>
+                        <biblScope>685</biblScope>
+                    </series>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div>
+            <p>SUOMEN KANSAN VANHAT RUNOT XV</p>
+            <p>Runoja Henrik Florinuksen, Kristfrid Gananderin, Elias Lönnrotin ja Volmari Porkan kokoelmista</p>
+            <p>ToimittaneetMatti KuusiSenni Timonen</p>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURA • HELSINKI 1997</p>
+            <p>Suomalaisen Kirjallisuuden Seuran Toimituksia 685</p>
+            <p>Teos on saanut avustusta Suomen kirjasäätiöltä.</p>
+            <p>Ulkoasun suunnittelu: Markus Itkonen</p>
+            <p>ISBN 951-717-778-XISSN 0355-1768</p>
+            <p>Gummerus Kirjapaino OyJyväskylä 1997</p>
+            <p/>
+            <p>Sisällysluettelo</p>
+            <table type="contents">   
+                <row rend="heading"><cell>Alkusanat (Matti Kuusi &amp; Senni Timonen) </cell><cell> XXV</cell></row>
+                <row rend="heading"><cell>Kristfrid Ganander (Matti Kuusi)</cell><cell>XLI</cell></row>
+                <row rend="heading"><cell>Volmari Porkka (Matti Kuusi)</cell><cell>XLIX</cell></row>
+                <row rend="heading"><cell>Lyhenteet ja merkintätavat</cell><cell>LXVII</cell></row>
+                <row rend="heading"><cell>I HENRIK FLORINUS</cell><cell/></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">Sananlaskurunoja</hi>
+                </cell><cell/></row>
+                <row><cell>Autuas emännän lango 1 </cell><cell>3</cell></row>
+                <row><cell>Caicki caunit kotona 2 </cell><cell>3</cell></row>
+                <row><cell>Caicki miehet mämmin päällä 3</cell><cell>3</cell></row>
+                <row><cell>Cosca laiscan työn teondo? 4</cell><cell>3</cell></row>
+                <row><cell>Cuca tiesi, cuca luuli 5</cell><cell>3</cell></row>
+                <row><cell>Cuin minä suutuin survomasta 6 </cell><cell>3</cell></row>
+                <row><cell>Cuin on lapsi vanhinbana 7</cell><cell>4</cell></row>
+                <row><cell>Ei cangas corjellen cudota 8 </cell><cell>4</cell></row>
+                <row><cell>Ei leipä leikin syödä 9 </cell><cell>4</cell></row>
+                <row><cell>Ei rico mieli miehen päätä 10</cell><cell>4</cell></row>
+                <row><cell>Ei salli savinen peldo 11 </cell><cell>4</cell></row>
+                <row><cell>Emänäll on eljet colmet 12</cell><cell>4</cell></row>
+                <row><cell>Etzei Suomet sorkeinda 13 </cell><cell>4</cell></row>
+                <row><cell>Hyvä on joucosa Jumala 14 </cell><cell>5</cell></row>
+                <row><cell>Jo minä olen colme cokenut 15 </cell><cell>5</cell></row>
+                <row><cell>Jos olis sata sadinda 16 </cell><cell>5</cell></row>
+                <row><cell>Jumalal on onnen ohjat 17-18</cell><cell>5</cell></row>
+                <row><cell>Juopuvat olutten juojat 19 </cell><cell>5</cell></row>
+                <row><cell>Kiven minä covaxi luulin 20 </cell><cell>6</cell></row>
+                <row><cell>Kyllä rucki ruan tuo 21</cell><cell>6</cell></row>
+                <row><cell>Kylmä culda cumpanixi 22 </cell><cell>6</cell></row>
+                <row><cell>Laisca lapsille parembi 23 </cell><cell>6</cell></row>
+                <row><cell>Lapset lastuiset cotonsa 24 </cell><cell>6</cell></row>
+                <row><cell>Laulaisin minä cotona 25 </cell><cell>6</cell></row>
+                <row><cell>Merestä vedet suuret 26 </cell><cell>6</cell></row>
+                <row><cell>Miehet metzästä tulevat 27 </cell><cell>6</cell></row>
+                <row><cell>Mies vieras vilusti lausui 28 </cell><cell>7</cell></row>
+                <row><cell>Mingä tähden vaimo leski? 29 </cell><cell>7</cell></row>
+                <row><cell>Mitä miehen mustuesta 30 </cell><cell>7</cell></row>
+                <row><cell>Monda muoria minulla 31 </cell><cell>7</cell></row>
+                <row><cell>Morsian murhetta saatu 32 </cell><cell>7</cell></row>
+                <row><cell>Murhe saatta mustan carvan 33</cell><cell>7</cell></row>
+                <row><cell>Mämmi mäelle saatta 34 </cell><cell>7</cell></row>
+                <row><cell>Nainen naista soimackan 35 </cell><cell>8</cell></row>
+                <row><cell>Niinivyö vyöntekiällä 36 </cell><cell>8</cell></row>
+                <row><cell>Noin sois vihan suopa 37</cell><cell>8</cell></row>
+                <row><cell>Noisa suurisa sodisa 38 </cell><cell>8</cell></row>
+                <row><cell>Olin minä colmesa covasa 39 </cell><cell>8</cell></row>
+                <row><cell>Olu ei tiedä juojans 40</cell><cell>8</cell></row>
+                <row><cell>Oluella onni caunis 41</cell><cell>8</cell></row>
+                <row><cell>Oluesa ollesani 42 </cell><cell>8</cell></row>
+                <row><cell>Paha mieli metzäitzen 43 </cell><cell>9</cell></row>
+                <row><cell>Pisti pillit säckijns 44</cell><cell>9</cell></row>
+                <row><cell>Silloin minä itkin ilmän syytä 45 </cell><cell>9</cell></row>
+                <row><cell>Sillä (köyhällä) on suru suuruxesta 46 </cell><cell>9</cell></row>
+                <row><cell>Sitte neitzy neuvottin 47 </cell><cell>9</cell></row>
+                <row><cell>Suuni itki, sydämen nauroi 48 </cell><cell>9</cell></row>
+                <row><cell>Suuruspala, cuin suitetan 49 </cell><cell>9</cell></row>
+                <row><cell>Tuuli canan kasvatta 50 </cell><cell>9</cell></row>
+                <row><cell>Vahingoxi vaimo kaunis 51</cell><cell>9</cell></row>
+                <row><cell>Vävystä vähä vara 52 </cell><cell>10</cell></row>
+                <row><cell>Vääna köysi ruumenista 53</cell><cell>10</cell></row>
+                <row><cell>Älkön olvo ikänä sytä 54 </cell><cell>10</cell></row>
+                <row><cell>Älä itke ilmän syytä 55 </cell><cell>10</cell></row>
+                <row><cell>Älä lyö lyödyn mieldä 56 </cell><cell>10</cell></row>
+                <row><cell>Älä usco uron valoja 57 </cell><cell>10</cell></row>
+                <row rend="heading"><cell>II KRISTFRID GANANDER</cell><cell/></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">Epiikkaa</hi>
+                </cell><cell/></row>
+                <row><cell>Väinämöinen ja Joukkavainen 58-59 </cell><cell>13</cell></row>
+                <row><cell>Sampo-jakso 60-61</cell><cell>15</cell></row>
+                <row><cell>Kilpakosintaruno 62</cell><cell>16</cell></row>
+                <row><cell>Väinämöisen vene ja kannel 63-68</cell><cell>16</cell></row>
+                <row><cell>Antero Vipunen 69 </cell><cell>23</cell></row>
+                <row><cell>Vellamon neidon onginta 70 </cell><cell>24</cell></row>
+                <row><cell>Venepuun etsintä ja vesillelähtö 71-72 </cell><cell>24</cell></row>
+                <row><cell>Lemminkäisen virsi 73 </cell><cell>25</cell></row>
+                <row><cell>Kalevanpojan syntymä ja kosto 74-75</cell><cell>25</cell></row>
+                <row><cell>Rutsa 76 </cell><cell>28</cell></row>
+                <row><cell>Iso härkä 77-78 </cell><cell>29</cell></row>
+                <row><cell>Luojanvirsi 79-80</cell><cell>30</cell></row>
+                <row><cell>Marketta ja Anterus 81 </cell><cell>33</cell></row>
+                <row><cell>Piispa Henrik ja Lalli 82 </cell><cell>34</cell></row>
+                <row><cell>Lohikäärme ja neito 83 </cell><cell>35</cell></row>
+                <row><cell>Elinan surma 84 </cell><cell>35</cell></row>
+                <row><cell>Varas koristeet 85 </cell><cell>35</cell></row>
+                <row><cell>Meren kosijat 86 </cell><cell>36</cell></row>
+                <row><cell>Myyty neito 87-88 </cell><cell>36</cell></row>
+                <row><cell>Lunastettava neito 89 </cell><cell>38</cell></row>
+                <row><cell>Hevosen etsintä 90 </cell><cell>38</cell></row>
+                <row><cell>Pilviin viety 91 </cell><cell>39</cell></row>
+                <row><cell>Suomeen soutu 92 </cell><cell>40</cell></row>
+                <row><cell>Nuijasodasta 93-94 </cell><cell> 40</cell></row>
+                <row><cell>Kaarle-herttuan runo 95</cell><cell>41</cell></row>
+                <row><cell>Pontuksen virsi 96 </cell><cell>41</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">Lyriikkaa ja tilannerunoutta</hi>
+                </cell><cell/></row>
+                <row rend="heading"><cell>
+                    <hi rend="i"/>
+                </cell><cell/></row>
+                <row rend="heading"><cell>
+                    <hi rend="i">Lauluja laulusta</hi>
+                </cell><cell/></row>
+                <row><cell>Alkusanoja 97-102</cell><cell>43</cell></row>
+                <row><cell>Laulaisinpa, taitaisinpa 103 </cell><cell>45</cell></row>
+                <row><cell>Omenapyörätammi 104 </cell><cell>45</cell></row>
+                <row><cell>Laulavat Lapinki lapset 105 </cell><cell>46</cell></row>
+                <row><cell>Lopetussanoja 106-109</cell><cell>46</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="i">Valituslauluja</hi>
+                </cell><cell/></row>
+                <row><cell>Alahalla allin mieli 110 </cell><cell>47</cell></row>
+                <row><cell>Jo on suussa surman suitset 111</cell><cell>48</cell></row>
+                <row><cell>Lehti puuhun, ruoho maahan 112</cell><cell>48</cell></row>
+                <row><cell>Mikä lie minua luonut 113 </cell><cell>48</cell></row>
+                <row><cell>Mitäs titität, tiainen 114 </cell><cell>48</cell></row>
+                <row><cell>Murhe mustaksi tekee 115 </cell><cell>49</cell></row>
+                <row><cell>Soisit suohon sortuvani 116 </cell><cell>49</cell></row>
+                <row><cell>Tulehenko teen tupani 117</cell><cell>49</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="i">Miestenlauluja</hi>
+                </cell><cell/></row>
+                <row><cell>Ei tiedä kotoiset vaimot 118</cell><cell>49</cell></row>
+                <row><cell>Etzei Suomet sorkeinda 119-121</cell><cell>50</cell></row>
+                <row><cell>Kun ois rauniot rahoina 122 </cell><cell>51</cell></row>
+                <row><cell>Minä mies vähävarainen 123 </cell><cell>51</cell></row>
+                <row><cell>Olin miessä nuorempana 124</cell><cell><hi rend="i">52</hi></cell></row>
+                <row><cell>Olinpa minäkin ennen 125 </cell><cell>52</cell></row>
+                <row><cell>Tule neitonen minulle 126 </cell><cell>52</cell></row>
+                <row><cell>Vanha metsämies 127</cell><cell>52</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="i">Naistenlauluja</hi>
+                </cell><cell/></row>
+                <row><cell>Ei ole pöydän päässä pättävätä 128 </cell><cell>53</cell></row>
+                <row><cell>En tuolta ennen tulle 129 </cell><cell>54</cell></row>
+                <row><cell>Itken sulhasta sulasanasta 130 </cell><cell>54</cell></row>
+                <row><cell>Jos mun tuttuni tulisi 131</cell><cell>54</cell></row>
+                <row><cell>Manalan Matti minun naipi 132 </cell><cell>55</cell></row>
+                <row><cell>Miksi ei minua naitu? 133-134 </cell><cell>55</cell></row>
+                <row><cell>Minun on turva turpaasa 135 </cell><cell>55</cell></row>
+                <row><cell>Niinpä ennen neito lauloi 136 </cell><cell>55</cell></row>
+                <row><cell>Olinpa minäkin ennen 137-138</cell><cell>56</cell></row>
+                <row><cell>Tiesinpä minäkin ennen 139 </cell><cell>56</cell></row>
+                <row><cell>Tuo Jumala tuota miestä 140 </cell><cell>57</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="i">Rukouksia</hi>
+                </cell><cell/></row>
+                <row><cell>Rukous maata mennessä 141</cell><cell>58</cell></row>
+                <row><cell>Avun Jesus antuohon 142 </cell><cell>58</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="i">Syntyvien odotusajat</hi>
+                </cell><cell/></row>
+                <row><cell>Kymmenen kuuta naurava 143 </cell><cell>59</cell></row>
+                <row><cell>Kasi kaksi, koira kolme 144</cell><cell>60</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="i">Sananlaskurunoja</hi>
+                </cell><cell/></row>
+                <row><cell>Ei ole orihin syytä 145 </cell><cell>60</cell></row>
+                <row><cell>Ei salli savinen pelto 146 </cell><cell>60</cell></row>
+                <row><cell>Ei sika sikeensä makaa 147 </cell><cell>60</cell></row>
+                <row><cell>Ei silloin siat sikiä 148 </cell><cell>61</cell></row>
+                <row><cell>En minä tikata taida 149 </cell><cell>61</cell></row>
+                <row><cell>Hauki tiesi haudan pohjan 150 </cell><cell>61</cell></row>
+                <row><cell>Haukkuu pahakin koira 151</cell><cell>61</cell></row>
+                <row><cell>Hyppyset hypertelööpi 152a</cell><cell>61</cell></row>
+                <row><cell>Hypyt, tansit tavattomat l52b</cell><cell>61</cell></row>
+                <row><cell>Hyvä mies, hyvä hevonen 153 </cell><cell>61</cell></row>
+                <row><cell>Hyvä on akka aikanahan 154</cell><cell>62</cell></row>
+                <row><cell>Hyvä on lapsen lassa olla 155 </cell><cell>62</cell></row>
+                <row><cell>Hyvä on yöllä yksin soutaa 156 </cell><cell>62</cell></row>
+                <row><cell>Jalvotoin on jalo sodasa 157 </cell><cell>62</cell></row>
+                <row><cell>Jokapa jouluhun eläisi 158 </cell><cell>62</cell></row>
+                <row><cell>Juoksee hyvä hevonen 159 </cell><cell>62</cell></row>
+                <row><cell>Kaks on meitä kaljupäätä 160</cell><cell>62</cell></row>
+                <row><cell>Kusa vaimot vatzikkahat 161</cell><cell>63</cell></row>
+                <row><cell>Kuuro päivää kuluupi 162</cell><cell>63</cell></row>
+                <row><cell>Kyllä tiedän tilkun maata 163</cell><cell>63</cell></row>
+                <row><cell>Monta kaunista kalaa 164 </cell><cell>63</cell></row>
+                <row><cell>Muon meille muonan tuopi 165 </cell><cell>63</cell></row>
+                <row><cell>Nouse pois nokinen poika 166 </cell><cell>64</cell></row>
+                <row><cell>On joukko jorottaria 167</cell><cell>64</cell></row>
+                <row><cell>Paha on pyhänä naida 168</cell><cell>64</cell></row>
+                <row><cell>Reistailee rekivetoa 169 </cell><cell>64</cell></row>
+                <row><cell>Siihen miestä merkitähän 170 </cell><cell>64</cell></row>
+                <row><cell>Sinne saari suojeleepi 171</cell><cell>64</cell></row>
+                <row><cell>Tuli aika, tulli taittu 172</cell><cell>64</cell></row>
+                <row><cell>Työläs on leskeä lepytellä 173</cell><cell>65</cell></row>
+                <row><cell>Vaivaisella vaimo kaunis 174 </cell><cell>65</cell></row>
+                <row><cell>Vedelle on venheen mieli 175 </cell><cell>65</cell></row>
+                <row><cell>Äsken poika poika olis 176</cell><cell>65</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="i">Kehto-ja viihdytyslauluja</hi>
+                </cell><cell/></row>
+                <row><cell>Isa illalla tulee 177</cell><cell>65</cell></row>
+                <row><cell>Laitilalainen sarja 178 </cell><cell>65</cell></row>
+                <row><cell>Tuuti lasta Tuonelaan 179-180 </cell><cell>66</cell></row>
+                <row><cell>Tuuti lasta turvakseni 181 </cell><cell>67</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="i">Loruja</hi>
+                </cell><cell/></row>
+                <row><cell>Hiiri ja maito 182</cell><cell>67</cell></row>
+                <row><cell>Kylvin mina kymmenen jyvää 183</cell><cell>67</cell></row>
+                <row><cell>Pakeneva 184</cell><cell>68</cell></row>
+                <row><cell>Revon valitus 185-186 </cell><cell>68</cell></row>
+                <row><cell>Vasikan valitus 187 </cell><cell>69</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="i">Leikkilauluja</hi>
+                </cell><cell/></row>
+                <row><cell>Kumman kynnet kilpistyvät 188</cell><cell>69</cell></row>
+                <row><cell>Leikarit 189</cell><cell>69</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="i">Pitolauluja</hi>
+                </cell><cell/></row>
+                <row><cell>Matkamiehen varustelu 190 </cell><cell>70</cell></row>
+                <row><cell>Jumalani jukkeroinen 191</cell><cell>70</cell></row>
+                <row><cell>Etsi yhtä ystäväistä 192 </cell><cell>70</cell></row>
+                <row><cell>Kumu kuuluvi laosta 193 </cell><cell>71</cell></row>
+                <row><cell>Sanottihin tääll olevan 194</cell><cell>71</cell></row>
+                <row><cell>Isäntäväen kiitosruno 195</cell><cell>71</cell></row>
+                <row><cell>Anna vastakin Jumala 196 </cell><cell>72</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="i">Työlauluja</hi>
+                </cell><cell/></row>
+                <row><cell>Aina minulle annetahan 197 </cell><cell>73</cell></row>
+                <row><cell>Jauhuo sinä kivonen 198</cell><cell>73</cell></row>
+                <row><cell>En minä kiveä kiitä 199 </cell><cell>73</cell></row>
+                <row><cell>Minä jauhan Jaakolleni 200</cell><cell>73</cell></row>
+                <row><cell>Ei käske rukki ruikaella 201 </cell><cell>74</cell></row>
+                <row><cell>Kehräsin tainnan kesässä 202 </cell><cell>75</cell></row>
+                <row><cell>Kun voisin vuoden olla 203 </cell><cell>75</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">Rahvaanrunoja</hi>
+                </cell><cell/></row>
+                <row><cell>Kissan virsi 204 </cell><cell>76</cell></row>
+                <row><cell>Viinasta valitusvirsi 205-206 </cell><cell>76</cell></row>
+                <row><cell>Raiskaus 207 </cell><cell>79</cell></row>
+                <row><cell>Juomari ja siat 208</cell><cell>88</cell></row>
+                <row><cell>Laulu laulettu Lapissa 209 </cell><cell>89</cell></row>
+                <row><cell>Seikkailu Naisten maassa 210</cell><cell>91</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">Loitsuja</hi>
+                </cell><cell/></row>
+                <row><cell>Tietäjän sanat 211-215 </cell><cell>94</cell></row>
+                <row><cell>Nouse luontoni lovesta 216-217 </cell><cell>97</cell></row>
+                <row><cell>Kateen sanat 218-219 </cell><cell>97</cell></row>
+                <row><cell>Kuun ja päivän päästö 220-221</cell><cell>98</cell></row>
+                <row><cell>Kiroista päästö 222-223 </cell><cell>99</cell></row>
+                <row><cell>Kiven sanat 224</cell><cell>100</cell></row>
+                <row><cell>Pakkasen sanat 225-227</cell><cell>100</cell></row>
+                <row><cell>Puun sanat 228-230 </cell><cell>102</cell></row>
+                <row><cell>Humalan ja oluen (raudan) synty 231-232</cell><cell>104</cell></row>
+                <row><cell>Raudan sanat 233-240 </cell><cell>105</cell></row>
+                <row><cell>Verensulkusanat 241-245</cell><cell>110</cell></row>
+                <row><cell>Siikasen manaus 246 </cell><cell>113</cell></row>
+                <row><cell>Tulen synty 247-252 </cell><cell>114</cell></row>
+                <row><cell>Palaneen sanat 253-257 </cell><cell>119</cell></row>
+                <row><cell>Veden sanat 258-259 </cell><cell>124</cell></row>
+                <row><cell>Ampiaisen karkotus 260-261 </cell><cell>125</cell></row>
+                <row><cell>Hämähäkin sanat 262 </cell><cell>126</cell></row>
+                <row><cell>Käärmeen sanat 263-272 </cell><cell>126</cell></row>
+                <row><cell>Vaskikäärmeen sanat 273-274</cell><cell>132</cell></row>
+                <row><cell>Sisiliskon sanat 275-277 </cell><cell>132</cell></row>
+                <row><cell>Löylyn sanat 278-279 </cell><cell>133</cell></row>
+                <row><cell>Voiteen sanat 280-285 </cell><cell>134</cell></row>
+                <row><cell>Tautienalku 286</cell><cell>137</cell></row>
+                <row><cell>Hammasmadon sanat 287-289 </cell><cell>138</cell></row>
+                <row><cell>Kalman sanat 290-291</cell><cell>139</cell></row>
+                <row><cell>Kipusanat 292-295 </cell><cell>140</cell></row>
+                <row><cell>Koin sanat 296-298 </cell><cell>142</cell></row>
+                <row><cell>Maahisen sanat 299 </cell><cell>143</cell></row>
+                <row><cell>Yösija maahiselta 300 </cell><cell>143</cell></row>
+                <row><cell>Niukahduksen (hiveltymän) sanat 301-303 </cell><cell>144</cell></row>
+                <row><cell>Painajaisen sanat 304-305 </cell><cell>145</cell></row>
+                <row><cell>Paiseen (ajoksen, ruven) sanat 306-307 </cell><cell>146</cell></row>
+                <row><cell>Pistosnuolten synty 308-311</cell><cell>147</cell></row>
+                <row><cell>Puskun sanat 312 </cell><cell>151</cell></row>
+                <row><cell>Riiden sanat 313-316</cell><cell>151</cell></row>
+                <row><cell>Ruton sanat 317-319 </cell><cell>153</cell></row>
+                <row><cell>Yskän sanat 320 </cell><cell>154</cell></row>
+                <row><cell>Ähkyn sanat 321-323</cell><cell>155</cell></row>
+                <row><cell>Metsälle lähtiessä 324 </cell><cell>157</cell></row>
+                <row><cell>Koiran sanat 325-326 </cell><cell>157</cell></row>
+                <row><cell>Peuran pyynti 327 </cell><cell>158</cell></row>
+                <row><cell>Hirven synty 328</cell><cell>159</cell></row>
+                <row><cell>Karhun karkotussanat 329-330 </cell><cell>159</cell></row>
+                <row><cell>Karhunpeijaiset: tulovirsi 331</cell><cell>162</cell></row>
+                <row><cell>Karhunkallo ikihonkaan 332 </cell><cell>162</cell></row>
+                <row><cell>Karhunnosto 333-334</cell><cell>163</cell></row>
+                <row><cell>Suden synty 335 </cell><cell>164</cell></row>
+                <row><cell>Ketunsanat 336-337</cell><cell>164</cell></row>
+                <row><cell>Saukon sanat 338 </cell><cell>167</cell></row>
+                <row><cell>Kärpän sanat 339</cell><cell>167</cell></row>
+                <row><cell>Jäniksen pyynti 340-343 </cell><cell>168</cell></row>
+                <row><cell>Oravan pyynti 344</cell><cell>170</cell></row>
+                <row><cell>Linnustajan sanat 345 </cell><cell>170</cell></row>
+                <row><cell>Kalamiehen sanoja 346-347</cell><cell>171</cell></row>
+                <row><cell>Soutajan sanat 348 </cell><cell>171</cell></row>
+                <row><cell>Karja laitumelle 349-350 </cell><cell>172</cell></row>
+                <row><cell>Karja metsänpeitosta 351 </cell><cell>173</cell></row>
+                <row><cell>Lypsäjän sanoja 352 </cell><cell>173</cell></row>
+                <row><cell>Voionnen anastus 353</cell><cell>174</cell></row>
+                <row><cell>Läävämadon (lumikon) sanat 354-356 </cell><cell> 174</cell></row>
+                <row><cell>Hevosen sanat 357-358 </cell><cell>176</cell></row>
+                <row><cell>Kuoharin sanat 359-360 </cell><cell>177</cell></row>
+                <row><cell>Sateen ja tuulen nosto 361 </cell><cell>178</cell></row>
+                <row><cell>Kasken poltto 362 </cell><cell>179</cell></row>
+                <row><cell>(Naurismadon synty)</cell><cell>179</cell></row>
+                <row><cell>Hiirten karkotus 363 </cell><cell>179</cell></row>
+                <row><cell>Lemmennosto 364 </cell><cell>180</cell></row>
+                <row><cell>Lapsivaimon sanat 365-367 </cell><cell>180</cell></row>
+                <row><cell>(Viinan keitto) </cell><cell>182</cell></row>
+                <row><cell>Varkaan sanat 368-369</cell><cell>182</cell></row>
+                <row><cell>Sotaanlähtijän sanat 370</cell><cell>183</cell></row>
+                <row><cell>Korpin sanat 371</cell><cell>184</cell></row>
+                <row><cell>Satiaisen sanat 372 </cell><cell>184</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">Irtosäkeitä</hi>
+                </cell><cell/></row>
+                <row><cell>Aarre arkkunsa avaapi - Vä-än väärään vetäsi 373 </cell><cell>185</cell></row>
+                <row><cell>III ELIAS LÖNNROT</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">Epiikkaa ja kertovia aihelmia</hi>
+                </cell><cell/></row>
+                <row><cell>Taivaan takoja 374</cell><cell>195</cell></row>
+                <row><cell>Väinämöisen miekka 375 </cell><cell>195</cell></row>
+                <row><cell>Ilmanimmen kosinta 376 </cell><cell>196</cell></row>
+                <row><cell>Kalevanpoika 377</cell><cell>196</cell></row>
+                <row><cell>Kaukamoinen 378-379 </cell><cell>196</cell></row>
+                <row><cell>Paholaisen retket 380 </cell><cell>197</cell></row>
+                <row><cell>Kiikan lapset 381</cell><cell>197</cell></row>
+                <row><cell>Katriinan poltto 382</cell><cell>198</cell></row>
+                <row><cell>Viron orjan virsi 383 </cell><cell>198</cell></row>
+                <row><cell>Kuolinsanomat 384 </cell><cell>198</cell></row>
+                <row><cell>Hyppölän tyttö 385-386 </cell><cell>199</cell></row>
+                <row><cell>Maija 387</cell><cell>199</cell></row>
+                <row><cell>Annikki 388 </cell><cell>200</cell></row>
+                <row><cell>Piika kivellä 389-392 </cell><cell>200</cell></row>
+                <row><cell>Piika suolla 393 </cell><cell>201</cell></row>
+                <row><cell>Piika metsässä makaava 394 </cell><cell>201</cell></row>
+                <row><cell>Piika huusi pinkotinta 395 </cell><cell>202</cell></row>
+                <row><cell>Vanhapiika 396</cell><cell>203</cell></row>
+                <row><cell>Akan poika 397 </cell><cell>203</cell></row>
+                <row><cell>Koinaja 398-399 </cell><cell>203</cell></row>
+                <row><cell>Vehnäterska 400 </cell><cell>204</cell></row>
+                <row><cell>Kyrpä 401-406</cell><cell>205</cell></row>
+                <row><cell>Vittu 407-411</cell><cell>207</cell></row>
+                <row><cell>Vitun ja kyrvän taistelu 412-414</cell><cell>209</cell></row>
+                <row><cell>Lappeenrannan sällin laulu 415</cell><cell>211</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">Rahvaanrunoja</hi>
+                </cell><cell/></row>
+                <row><cell>Martiska Karjalainen: Porovarkaus 416-417 </cell><cell>217</cell></row>
+                <row><cell>Petri Kettunen: Suomesta naiminen 418-420 </cell><cell>220</cell></row>
+                <row><cell>Tuntematon: Härän tappaja 421-422</cell><cell>225</cell></row>
+                <row><cell>Tatjana: Köyhän miehen naimisesta suuresta suvusta 423 </cell><cell>227</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">Lyriikkaa</hi>
+                </cell><cell/></row>
+                <row><cell>Lauluja laulusta 424-428</cell><cell>230</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="i">Valituslauluja</hi>
+                </cell><cell/></row>
+                <row><cell>Alahalla allin mieli 429-430</cell><cell>230</cell></row>
+                <row><cell>Anna huolia hevosen 431 </cell><cell>231</cell></row>
+                <row><cell>Ei ole aittaan asiaa 432-433 </cell><cell>231</cell></row>
+                <row><cell>Ei ole kurjalla koda 434-436</cell><cell>231</cell></row>
+                <row><cell>Ei sula sydän suruisen 437</cell><cell>232</cell></row>
+                <row><cell>Isä heitti, äiti heitti 438-439 </cell><cell>232</cell></row>
+                <row><cell>Mikä lie minua luonut 440-441 </cell><cell>232</cell></row>
+                <row><cell>Mistä tunnen huolellisen 442 </cell><cell>232</cell></row>
+                <row><cell>Muut ja minä 443-445 </cell><cell>232</cell></row>
+                <row><cell>Onni, lykky, osa 446-447 </cell><cell>233</cell></row>
+                <row><cell>Polin puulle pyörivälle 448 </cell><cell>233</cell></row>
+                <row><cell>Sijan tiedän, kussa synnyin 449 </cell><cell>233</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="i">Miestenlauluja</hi>
+                </cell><cell/></row>
+                <row><cell>Ei tiedä kotoiset naiset 450 </cell><cell>234</cell></row>
+                <row><cell>Elettiin ennen meillä 451 </cell><cell>234</cell></row>
+                <row><cell>En pole päätä puolisoni 452 </cell><cell>234</cell></row>
+                <row><cell>Huoleton hevoton poika 453</cell><cell>234</cell></row>
+                <row><cell>Joisipa sitä olutta 454 </cell><cell>234</cell></row>
+                <row><cell>Kun ois yö kesän pituus 455 </cell><cell>234</cell></row>
+                <row><cell>Kun olin miessä nuorempana 456 </cell><cell>235</cell></row>
+                <row><cell>Kylľ on kystä aitassani 457</cell><cell>235</cell></row>
+                <row><cell>Maammoseni, kantajani 458 </cell><cell>235</cell></row>
+                <row><cell>Miehen kolme pahaa 459 </cell><cell>235</cell></row>
+                <row><cell>Muhatellen muut tulevi 460 </cell><cell>235</cell></row>
+                <row><cell>Parempi pajuilla maata 461 </cell><cell>235</cell></row>
+                <row><cell>Pitkin on pilvet taivahalla 462 </cell><cell>236</cell></row>
+                <row><cell>Soutaisin sitä venettä 463 </cell><cell>236</cell></row>
+                <row><cell>Syöpi hauki sammakonki 464-465</cell><cell>236</cell></row>
+                <row><cell>Toruja vaimo 466-468</cell><cell>236</cell></row>
+                <row><cell>Vaunuloissa valtamiehet 469 </cell><cell>237</cell></row>
+                <row><cell>Vittu on viisas villallehen 470</cell><cell>237</cell></row>
+                <row><cell>Älä eukko ennen kuole 471 </cell><cell>237</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="i">Naistenlauluja</hi>
+                </cell><cell/></row>
+                <row><cell>Ei kysy kynsiä kylästä 472-473 </cell><cell>237</cell></row>
+                <row><cell>Hyvä tyttö tyynempänä 474 </cell><cell>238</cell></row>
+                <row><cell>Koini suuhun kosioille 475 </cell><cell>238</cell></row>
+                <row><cell>Kun oisin poikana polonen 476 </cell><cell>238</cell></row>
+                <row><cell>Kun ois tuuli mielellinen 477 </cell><cell>238</cell></row>
+                <row><cell>Kunpa se joku tulisi 478 </cell><cell>238</cell></row>
+                <row><cell>Kyllä Luoja luodun tuopi 479</cell><cell>238</cell></row>
+                <row><cell>Kun tämä kana katoopi 480 </cell><cell>239</cell></row>
+                <row><cell>Kyty kyynä kynnyksellä 481 </cell><cell>239</cell></row>
+                <row><cell>Käsikkään me kävimä 482 </cell><cell>239</cell></row>
+                <row><cell>Matala minä Matille 483</cell><cell>239</cell></row>
+                <row><cell>Mikä lie minusta nähty 484</cell><cell>239</cell></row>
+                <row><cell>Mikä lienee minulla 485</cell><cell>239</cell></row>
+                <row><cell>Miniällä mieli karvas 486 </cell><cell>240</cell></row>
+                <row><cell>Missä lie minun omani 487 </cell><cell>240</cell></row>
+                <row><cell>Pahoin teki linnan pappi 488 </cell><cell>240</cell></row>
+                <row><cell>Päivä paistaa, päätäni kivistää 489 </cell><cell>240</cell></row>
+                <row><cell>Sisarekset me kälykset 490 </cell><cell>240</cell></row>
+                <row><cell>Tule tuokkonen tuutiin 491</cell><cell>241</cell></row>
+                <row><cell>Vielä sen tulevan toivoo 492</cell><cell>241</cell></row>
+                <row><cell>Vierellä on veren vetäjät 493 </cell><cell>241</cell></row>
+                <row><cell>Vuoteilla voitettu 494-495 </cell><cell>241</cell></row>
+                <row><cell>Älä kihlo kirkkotiellä 496 </cell><cell>242</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="i">Sananlaskurunoja</hi>
+                </cell><cell/></row>
+                <row><cell>Aina kulkevalta kuluu 497</cell><cell>242</cell></row>
+                <row><cell>Anna Jesus otravuotta 498 </cell><cell>242</cell></row>
+                <row><cell>Annettiin aikoinani 499 </cell><cell>242</cell></row>
+                <row><cell>Ei armaskana anoppi 500 </cell><cell>242</cell></row>
+                <row><cell>Ei kaunis kaselle joua 501 </cell><cell>242</cell></row>
+                <row><cell>Ei oo tästä elännästä 502 </cell><cell>242</cell></row>
+                <row><cell>Ei sillä siat sikiä 503 </cell><cell>242</cell></row>
+                <row><cell>Ei sillä sukua suurta 504</cell><cell>243</cell></row>
+                <row><cell>Ei sovi sotoa kaksi 505 </cell><cell>243</cell></row>
+                <row><cell>Ei unta verosta viedä 506 </cell><cell>243</cell></row>
+                <row><cell>Hellittää hieno paita 507</cell><cell>243</cell></row>
+                <row><cell>Hoia hongaista venoa 508 </cell><cell>243</cell></row>
+                <row><cell>Hullulla hyvä hevonen 509</cell><cell>243</cell></row>
+                <row><cell>Hullu juopuu hutulta 510</cell><cell>243</cell></row>
+                <row><cell>Huoleksi hyvä hevonen 511 </cell><cell>243</cell></row>
+                <row><cell>Hyvä on neiti pyyttäissä 512-513 </cell><cell>243</cell></row>
+                <row><cell>Hyvä on suuri pirtin halko 514 </cell><cell>244</cell></row>
+                <row><cell>Hyv on tiellä tiipotella 515 </cell><cell>244</cell></row>
+                <row><cell>Jesus anna hyvää päivää 516 </cell><cell>244</cell></row>
+                <row><cell>Joka tauloa tekee 517</cell><cell>244</cell></row>
+                <row><cell>Jos sa laittanet pahoa 518 </cell><cell>244</cell></row>
+                <row><cell>Jos takki tavat sanoisi 519</cell><cell>244</cell></row>
+                <row><cell>Jumala kiven kovaksi 520 </cell><cell>244</cell></row>
+                <row><cell>Juo, juo joudat juoda 521</cell><cell>244</cell></row>
+                <row><cell>Kaikki kankaan kutoo 522</cell><cell>245</cell></row>
+                <row><cell>Kaikk muut pahat paranee 523</cell><cell>245</cell></row>
+                <row><cell>Kala kaunis keitetään 524</cell><cell>245</cell></row>
+                <row><cell>Kattila hyvä tulella 525-526 </cell><cell>245</cell></row>
+                <row><cell>Kiitä huomenna hevoista 527 </cell><cell>245</cell></row>
+                <row><cell>Kiivas akka kirnuessa 528 </cell><cell>245</cell></row>
+                <row><cell>Kolme kiirettä kesällä 529 </cell><cell>245</cell></row>
+                <row><cell>Kolme koskea kovoa 530 </cell><cell>245</cell></row>
+                <row><cell>Kovin korsku konnan ruuna 531 </cell><cell>246</cell></row>
+                <row><cell>Kun käsi hyvän tekee 532 </cell><cell>246</cell></row>
+                <row><cell>Luo Jumala vihattavaksi 533 </cell><cell>246</cell></row>
+                <row><cell>Luulin lumpehen lujaksi 534</cell><cell>246</cell></row>
+                <row><cell>Matalat jalat maolla 535 </cell><cell>246</cell></row>
+                <row><cell>Miehet mailla tappelee 536 </cell><cell>246</cell></row>
+                <row><cell>Milloin laiska työtä tekee 537 </cell><cell>246</cell></row>
+                <row><cell>Minkä vanha anto 538 </cell><cell>246</cell></row>
+                <row><cell>Mi se on pinossa puuta 539 </cell><cell>246</cell></row>
+                <row><cell>Mikä teki tämän tekonsa 540 </cell><cell>247</cell></row>
+                <row><cell>Moni neiti naitaisi 541-542 </cell><cell>247</cell></row>
+                <row><cell>Monta on kaunista kaloa 543 </cell><cell>247</cell></row>
+                <row><cell>Monta väärää vakoa 544</cell><cell>247</cell></row>
+                <row><cell>Morsian minua moitti 545 </cell><cell>247</cell></row>
+                <row><cell>Mämmi on meheva ruoka 546 </cell><cell>247</cell></row>
+                <row><cell>Niin on Hännilän hevonen 547</cell><cell>247</cell></row>
+                <row><cell>Nuo on kolme koville luotu 548 </cell><cell>248</cell></row>
+                <row><cell>Oli ruunoa oloksi 549</cell><cell>248</cell></row>
+                <row><cell>On joukossa jotai 550</cell><cell>248</cell></row>
+                <row><cell>Paha on paljo tyttäriä 551</cell><cell>248</cell></row>
+                <row><cell>Pahaki hyvennetään 552 </cell><cell>248</cell></row>
+                <row><cell>Pane kaksinki patoja 553 </cell><cell>248</cell></row>
+                <row><cell>Paremp on kyntäjän kypäri 554 </cell><cell>248</cell></row>
+                <row><cell>Parempi omalla maalla 555 </cell><cell>248</cell></row>
+                <row><cell>Parempi pajunen keppi 556 </cell><cell>248</cell></row>
+                <row><cell>Petäjäinen peikoleipä 557</cell><cell>249</cell></row>
+                <row><cell>Purnollisen puoli suora 558 </cell><cell>249</cell></row>
+                <row><cell>Puserra kiinni pusurinsuu 559 </cell><cell>249</cell></row>
+                <row><cell>Puusniekka puoli miestä 560 </cell><cell>249</cell></row>
+                <row><cell>Päin isännät, päin emännät 561 </cell><cell>249</cell></row>
+                <row><cell>Saa panna pahoa monta 562</cell><cell>249</cell></row>
+                <row><cell>Saattaa se hyvä Jumala 563 </cell><cell>249</cell></row>
+                <row><cell>Sentähen sepon venonen 564 </cell><cell>249</cell></row>
+                <row><cell>Sentään ne sepät tekee 565</cell><cell>249</cell></row>
+                <row><cell>Selkä on suora, sääret väärät 566 </cell><cell>249</cell></row>
+                <row><cell>Sika neuvo poikoansa 567 </cell><cell>250</cell></row>
+                <row><cell>Sinne söin kaloja kalki 568 </cell><cell>250</cell></row>
+                <row><cell>Sitä syntinen kysyy 569 </cell><cell>250</cell></row>
+                <row><cell>Soisi eukko tyttärensä 570</cell><cell>250</cell></row>
+                <row><cell>Soisi orja yön tulevan 571</cell><cell>250</cell></row>
+                <row><cell>Soisi soutaja venehen 572</cell><cell>250</cell></row>
+                <row><cell>Surma syömättä eleä 573 </cell><cell>250</cell></row>
+                <row><cell>Suvi pitkä suurukselta 574</cell><cell>250</cell></row>
+                <row><cell>Syököön susi sen hevosen 575 </cell><cell>250</cell></row>
+                <row><cell>Tarves on talossa vaimo 576 </cell><cell>250</cell></row>
+                <row><cell>Tavaton on taloton vaimo 577</cell><cell>251</cell></row>
+                <row><cell>Teki työtä tuhma tunto 578</cell><cell>251</cell></row>
+                <row><cell>Tikka paljon puita puipi 579 </cell><cell>251</cell></row>
+                <row><cell>Tuosta tunnen tuhman miehen 580-581</cell><cell>251</cell></row>
+                <row><cell>Tuosta tunnen tuhman naisen 582 </cell><cell>251</cell></row>
+                <row><cell>Tuppi huovilla tupana 583 </cell><cell>251</cell></row>
+                <row><cell>Tyttölöilľ on tyyry loukko 584 </cell><cell>251</cell></row>
+                <row><cell>Työnnä tyttären sylihin 585</cell><cell>252</cell></row>
+                <row><cell>Uro kulta kuoltuansa 586 </cell><cell>252</cell></row>
+                <row><cell>Urpa linnun viivyttää 587 </cell><cell>252</cell></row>
+                <row><cell>Usein oma emoni 588</cell><cell>252</cell></row>
+                <row><cell>Vaivanen vaivasta koski 589 </cell><cell>252</cell></row>
+                <row><cell>Vaivainen vakoilta naipi 590</cell><cell>252</cell></row>
+                <row><cell>Vaivaisella vaimo kaunis 591 </cell><cell>252</cell></row>
+                <row><cell>Vesille venehen mieli 592 </cell><cell>252</cell></row>
+                <row><cell>Veteläiset veikon armot 593 </cell><cell>252</cell></row>
+                <row><cell>Vilu on viitta köyhän miehen 594 </cell><cell>253</cell></row>
+                <row><cell>Voilla voian vouin rinnan 595</cell><cell>253</cell></row>
+                <row><cell>Voi tuota voitonta kyleä 596 </cell><cell>253</cell></row>
+                <row><cell>Vuoelta hevosta kiitä 597 </cell><cell>253</cell></row>
+                <row><cell>Yksin kyntäjän kypäri 598 </cell><cell>253</cell></row>
+                <row><cell>Älä haasta haisevia 599</cell><cell>253</cell></row>
+                <row><cell>Öykkärit olutta juovat 600 </cell><cell>253</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">Karjalaisia joikuja</hi>
+                </cell><cell/></row>
+                <row><cell>Astu ajatellen aitavieriä 601</cell><cell>254</cell></row>
+                <row><cell>Jauhon hienoa jauhoo 602 </cell><cell>255</cell></row>
+                <row><cell>Missä nyt Iivana itäy 603</cell><cell>255</cell></row>
+                <row><cell>Kun ei ole joukossa joikujaa 604</cell><cell>255</cell></row>
+                <row><cell>Olisko sirkun siivet 605 </cell><cell>256</cell></row>
+                <row><cell>Näkisimpä puonan partoo 606 </cell><cell>256</cell></row>
+                <row><cell>Lempoko lienee leppe’t 607</cell><cell>257</cell></row>
+                <row><cell>Olisin Olona Onton 608 </cell><cell>257</cell></row>
+                <row><cell>Voi kumman Kuittijärvi 609</cell><cell>257</cell></row>
+                <row><cell>Olin orjana pienen Outin 610 </cell><cell>258</cell></row>
+                <row><cell>On siklo Siitaria 611 </cell><cell>258</cell></row>
+                <row><cell>Loruja</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="i">Paikkakunta- ja henkilönnimiloruja</hi>
+                </cell><cell/></row>
+                <row><cell>Lohtaja, Kalajoki 612 </cell><cell>259</cell></row>
+                <row><cell>Munsalo 613 </cell><cell>259</cell></row>
+                <row><cell>Rukavaara 614</cell><cell>259</cell></row>
+                <row><cell>Heikki 615-616 </cell><cell>259</cell></row>
+                <row><cell>Kati 617 </cell><cell>260</cell></row>
+                <row><cell>Maija 618 </cell><cell>260</cell></row>
+                <row><cell>Matti 619 </cell><cell>260</cell></row>
+                <row><cell>Matti Liimatainen 620 </cell><cell>260</cell></row>
+                <row><cell>Okkolina Prikkulina 621</cell><cell>260</cell></row>
+                <row><cell>Pekka 622</cell><cell>261</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="i">Ketju- ja viihdytysloruja</hi>
+                </cell><cell/></row>
+                <row><cell>Mies joka kantoi läskin 623</cell><cell>261</cell></row>
+                <row><cell>Killi meni metsään 624 </cell><cell>261</cell></row>
+                <row><cell>Palvelin minä talonpoikaa 625-626</cell><cell>261</cell></row>
+                <row><cell>Onnimanni 627</cell><cell>263</cell></row>
+                <row><cell>Läkkä tsikko Läkkölään 628 </cell><cell>263</cell></row>
+                <row><cell>Prokko tiellä propati 629 </cell><cell>263</cell></row>
+                <row><cell>Sanon minä saarnaa 630-631</cell><cell>264</cell></row>
+                <row><cell>Ruotsin kieltä 632 </cell><cell>264</cell></row>
+                <row><cell>Yksi toksi torotina 633 </cell><cell>264</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">Leikki- ja tanssilauluja</hi>
+                </cell><cell/></row>
+                <row><cell>Hymölässä käynti 634 </cell><cell>265</cell></row>
+                <row><cell>Hanhisilla 635</cell><cell>265</cell></row>
+                <row><cell>Muorisilla 636-637 </cell><cell>265</cell></row>
+                <row><cell>Hyvä ilta lintuseni 638 </cell><cell>266</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">Pito- ja häälauluja</hi>
+                </cell><cell/></row>
+                <row><cell>Isäntäväen moitinta 639 </cell><cell>267</cell></row>
+                <row><cell>Isäntäväen ylistys 640-641 </cell><cell>267</cell></row>
+                <row><cell>Morsiamen itketys 642</cell><cell>267</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">Loitsuja</hi>
+                </cell><cell/></row>
+                <row><cell>Arpominen 643-644 </cell><cell>269</cell></row>
+                <row><cell>Kirot 645</cell><cell>269</cell></row>
+                <row><cell>Manaus 646-647</cell><cell>270</cell></row>
+                <row><cell>Kiven sanat 648 </cell><cell>270</cell></row>
+                <row><cell>Pakkanen 649 </cell><cell>270</cell></row>
+                <row><cell>Tulen synty 650 </cell><cell>270</cell></row>
+                <row><cell>Tuohen synty 651</cell><cell>272</cell></row>
+                <row><cell>Käärmeen sanat 652 </cell><cell>272</cell></row>
+                <row><cell>Hammastauti 653</cell><cell>272</cell></row>
+                <row><cell>Riisi 654</cell><cell>273</cell></row>
+                <row><cell>Siikasen synty 655 </cell><cell>274</cell></row>
+                <row><cell>Vitun vihat 656-659 </cell><cell>274</cell></row>
+                <row><cell>Yskä 660</cell><cell>277</cell></row>
+                <row><cell>Kalastajan sanoja 661 </cell><cell>277</cell></row>
+                <row><cell>Sotarukous 662</cell><cell>277</cell></row>
+                <row><cell>Varkaan loitsu 663 </cell><cell>277</cell></row>
+                <row><cell>Miehen luku 664 </cell><cell>280</cell></row>
+                <row><cell>Lemmennosto 665-674 </cell><cell>280</cell></row>
+                <row rend="heading"><cell>IV VOLMARI PORKKA</cell><cell/></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">Syntyrunoja</hi>
+                </cell><cell/></row>
+                <row><cell>Kilpalaulanta 675-677</cell><cell>293</cell></row>
+                <row><cell>Kanto meressä 678-679 </cell><cell>294</cell></row>
+                <row><cell>Päivän päästö 680-684 </cell><cell>294</cell></row>
+                <row><cell>Mereen silta 685</cell><cell>298</cell></row>
+                <row><cell>Maailman synty 686-700 </cell><cell>298</cell></row>
+                <row><cell>Tulen synty 701-703 </cell><cell>304</cell></row>
+                <row><cell>Oluen keitto 704 </cell><cell>305</cell></row>
+                <row><cell>Iso tammi 705-720 </cell><cell>305</cell></row>
+                <row><cell>Kannel 721-727 </cell><cell>313</cell></row>
+                <row><cell>Iso härkä 728-729 </cell><cell>316</cell></row>
+                <row><cell>Venepuun etsintä 730 </cell><cell>318</cell></row>
+                <row><cell>Saaren seppo &amp; Kultaneito 731-749 </cell><cell>318</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">Kullervo-eepoksen jäänteitä</hi>
+                </cell><cell/></row>
+                <row><cell>Untamo ja Kalervo 750-773 </cell><cell>328</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">Legendoja ja balladeja</hi>
+                </cell><cell/></row>
+                <row><cell>Luojan virsi 774-786</cell><cell>345</cell></row>
+                <row><cell>Jeesus juotti hevosta Jordanista 787 </cell><cell>352</cell></row>
+                <row><cell>Viron orja ja isäntä 788-800 </cell><cell>352</cell></row>
+                <row><cell>Leino leski 801-809 </cell><cell>360</cell></row>
+                <row><cell>Mataleenan virsi 810 </cell><cell>364</cell></row>
+                <row><cell>Katri ja ulaani 811</cell><cell>365</cell></row>
+                <row><cell>Marketan runo 812 </cell><cell>365</cell></row>
+                <row><cell>Annikaisen virsi 813-817 </cell><cell>365</cell></row>
+                <row><cell>Lohikäärme ja neito 818 </cell><cell>367</cell></row>
+                <row><cell>Inkerin virsi 819-821 </cell><cell>368</cell></row>
+                <row><cell>Miehentappajaneito 822-824</cell><cell>369</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">Merirunoja</hi>
+                </cell><cell/></row>
+                <row><cell>Purren itku 825-826 </cell><cell>372</cell></row>
+                <row><cell>Laivaretki 827-843 </cell><cell>372</cell></row>
+                <row><cell>Suomeen pako 844-847 </cell><cell>380</cell></row>
+                <row><cell>Saarenmaan palo 848-851</cell><cell>381</cell></row>
+                <row><cell>Laivassa surmattu veli 852-867</cell><cell>382</cell></row>
+                <row><cell>Meren ajoa odottavat 868-870 </cell><cell>392</cell></row>
+                <row><cell>Suka mereen 871-890 </cell><cell>393</cell></row>
+                <row><cell>Meren neito, metsän sulho 891-898 </cell><cell>403</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">Sotarunoja</hi>
+                </cell><cell/></row>
+                <row><cell>Sota Narvan tienoilla 899-911</cell><cell>406</cell></row>
+                <row><cell>Turkin sota 912 </cell><cell>410</cell></row>
+                <row><cell>Sotasanomat 913-930 </cell><cell>411</cell></row>
+                <row><cell>Sotamiehenotto 931-952 </cell><cell>423</cell></row>
+                <row><cell>Sodan kuvaus 953-957</cell><cell>440</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">Rakkauden kaupat</hi>
+                </cell><cell/></row>
+                <row><cell>Tytärten hukuttaja 958-981 </cell><cell>443</cell></row>
+                <row><cell>Iivana Kojosenpoika &amp; Vävyn tuomiset 982-984 </cell><cell>460</cell></row>
+                <row><cell>Ennen naidun naisen tappo 985-998 </cell><cell>461</cell></row>
+                <row><cell>Itketkö sinä minua? 999 </cell><cell>473</cell></row>
+                <row><cell>Mies tuo ruoskan tuomisiksi 1000-1001</cell><cell>473</cell></row>
+                <row><cell>Susi yhtä, sulho yhtä 1002</cell><cell>474</cell></row>
+                <row><cell>Kuolonsanomat 1003 </cell><cell>474</cell></row>
+                <row><cell>Vesitieltä pilviin viety neito 1004-1005</cell><cell>474</cell></row>
+                <row><cell>Lunastettava neito 1006 </cell><cell>475</cell></row>
+                <row><cell>Myyty neito 1007-1027 </cell><cell>476</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">Kosiorunoja</hi>
+                </cell><cell/></row>
+                <row><cell>Tuonelta kosinta 1028-1040 </cell><cell>491</cell></row>
+                <row><cell>Saaren neito 1041-1057 </cell><cell>501</cell></row>
+                <row><cell>Konnusta kosinta 1058-1059 </cell><cell>510</cell></row>
+                <row><cell>Anteruksen runo 1060-1061</cell><cell>511</cell></row>
+                <row><cell>Rutsa 1062-1074 </cell><cell>512</cell></row>
+                <row><cell>Katrina kotikananen 1075-1081 </cell><cell>518</cell></row>
+                <row><cell>Hekon runo 1082-1091 </cell><cell>522</cell></row>
+                <row><cell>Varkaalle menijä 1092-1096 </cell><cell>527</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">Katkeavat kultalangat</hi>
+                </cell><cell/></row>
+                <row><cell>Päivän kera kilpaa 1097-1100 </cell><cell>530</cell></row>
+                <row><cell>Kyynelten vierentä 1101-1110 </cell><cell>532</cell></row>
+                <row><cell>Kullan kutsut 1111</cell><cell>538</cell></row>
+                <row><cell>Varas vie koristeet 1112 </cell><cell>538</cell></row>
+                <row><cell>Elettiin ennen meillä 1113-1120 </cell><cell>539</cell></row>
+                <row><cell>Älä moiti mahtavia 1121</cell><cell>540</cell></row>
+                <row><cell>Ampuisin akat kylästä 1122 </cell><cell>540</cell></row>
+                <row><cell>Lähen läpi kyläisen 1123-1124 </cell><cell>541</cell></row>
+                <row><cell>Hevospaimenten laulu 1125-1127 </cell><cell>541</cell></row>
+                <row><cell>Hevonen katoaa veljeltä 1128</cell><cell>542</cell></row>
+                <row><cell>Syntyykö vesasta vello 1129-1130</cell><cell>542</cell></row>
+                <row><cell>Oman kylän ylistys 1131-1136 </cell><cell>543</cell></row>
+                <row><cell>Oman ja vieraan kylän pojat 1137 </cell><cell>544</cell></row>
+                <row><cell>Kolkkalassa koinettiin 1138 </cell><cell>545</cell></row>
+                <row><cell>Emo neuvoi neitoaan 1139-1141</cell><cell>545</cell></row>
+                <row><cell>Leskelle vai nuorelle pojalle 1142-1144 </cell><cell>546</cell></row>
+                <row><cell>Naittele, iso minua 1145 </cell><cell>547</cell></row>
+                <row><cell>Etsin neittä neljä vuotta 1146</cell><cell>548</cell></row>
+                <row><cell>Anni tuolta annettiin 1147 </cell><cell>548</cell></row>
+                <row><cell>Juomarin kaupunkimatka 1148 </cell><cell>548</cell></row>
+                <row><cell>Passipo Suomen papille 1149 </cell><cell>549</cell></row>
+                <row><cell>Suomen silta 1150-1151 </cell><cell>549</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">Häärunoja</hi>
+                </cell><cell/></row>
+                <row><cell>Länsi-inkeriläinen sikermä „Pulmavirret“ 1152-1168 </cell><cell>550</cell></row>
+                <row><cell>Keski-inkeriläisiä häärunoja 1169-1176</cell><cell>559</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">Lastenrunoja ja loruja</hi>
+                </cell><cell/></row>
+                <row><cell>Mikä ikkunan alla 1177</cell><cell>564</cell></row>
+                <row><cell>Mikä tuolla näkyy 1178-1179 </cell><cell>564</cell></row>
+                <row><cell>Hämeen ihmeet 1180-1182 </cell><cell>565</cell></row>
+                <row><cell>Pakeneva 1183</cell><cell>565</cell></row>
+                <row><cell>Köyhä ja rikas 1184 </cell><cell>566</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">Ilokylän laulaja</hi>
+                </cell><cell/></row>
+                <row><cell>Laulajan alkusanoja 1185-1189 </cell><cell>567</cell></row>
+                <row><cell>Laulajan kerskaus 1190 </cell><cell>568</cell></row>
+                <row><cell>Ilokylässä kasvanut 1191-1193 </cell><cell>569</cell></row>
+                <row><cell>Laulan liki kylää 1194-1195 </cell><cell>570</cell></row>
+                <row><cell>Miksi ääneni on huono? 1196-1198 </cell><cell>571</cell></row>
+                <row><cell>Käeltä laulut 1199-1204</cell><cell>572</cell></row>
+                <row><cell>Runoreki 1205-1207</cell><cell>574</cell></row>
+                <row><cell>Laulajan huolet 1208-1211</cell><cell>576</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">Kotoa toiselaan</hi>
+                </cell><cell/></row>
+                <row><cell>Oli meitä ennen paljon 1212-1213 </cell><cell>579</cell></row>
+                <row><cell>Ei ne kasva kaikki lapset 1214-1215 </cell><cell>579</cell></row>
+                <row><cell>Kasvatti emo kanoja 1216-1217</cell><cell>580</cell></row>
+                <row><cell>Hyvä on tyttönä elää 1218-1220</cell><cell>581</cell></row>
+                <row><cell>Kasvakaa kotona kauan 1221-1223 </cell><cell>583</cell></row>
+                <row><cell>Kotona ja toiselassa 1224-1231</cell><cell>584</cell></row>
+                <row><cell>Miniän palkka 1232-1233 </cell><cell>587</cell></row>
+                <row><cell>Kouluun kotoa &amp; Teräksestä kengät 1234-1238 </cell><cell>588</cell></row>
+                <row><cell>Neito kyntäjänä 1239 </cell><cell>590</cell></row>
+                <row><cell>Piika (miniä) orjuudessa 1240-1249 </cell><cell>591</cell></row>
+                <row><cell>Juomarille joutunut 1250-1252</cell><cell>599</cell></row>
+                <row><cell>Oljamissa käynti 1253-1265 </cell><cell>601</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">Äidin syytös ja kiitos</hi>
+                </cell><cell/></row>
+                <row><cell>Mahtoi emo mahona maata 1266-1271</cell><cell>611</cell></row>
+                <row><cell>Onneni ojassa - emoko laski? 1272-1274 </cell><cell>613</cell></row>
+                <row><cell>Ruma muoto - emon syytä 1275-1276 </cell><cell>614</cell></row>
+                <row><cell>Heitti pieneksi emoni 1277 </cell><cell>615</cell></row>
+                <row><cell>Oma ja vieras emo 1278-1279 </cell><cell>616</cell></row>
+                <row><cell>Emon vaivat 1280 </cell><cell>617</cell></row>
+                <row><cell>Poikako vai tyttö 1281-1284</cell><cell>617</cell></row>
+                <row><cell>Pilviin viety 1285-1297</cell><cell>620</cell></row>
+                <row><cell>Lintuparvi ja poika 1298 </cell><cell>628</cell></row>
+                <row><cell>Lauri Lappalainen 1299-1301 </cell><cell>628</cell></row>
+                <row><cell>Kolmea en unohda 1302-1303</cell><cell>630</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">Kuoleman virsiä</hi>
+                </cell><cell/></row>
+                <row><cell>Sairastava neito 1304-1315 </cell><cell>631</cell></row>
+                <row><cell>Äidinkuolo 1316-1320</cell><cell>637</cell></row>
+                <row><cell>Kun minun emoni eläisi 1321 </cell><cell>640</cell></row>
+                <row><cell>Emon haudalla 1322-1327 </cell><cell>640</cell></row>
+                <row><cell>Sanoi kuuksi kuolevansa 1328-1332 </cell><cell>645</cell></row>
+                <row><cell>Haudasta nostaisin emoni 1333-1336</cell><cell>647</cell></row>
+                <row><cell>Vasta kullan kuolettelin 1337-1342 </cell><cell>649</cell></row>
+                <row><cell>Käsikirjoitukset </cell><cell>653</cell></row>
+                <row><cell>Kirjallisuus </cell><cell>655</cell></row>
+                <row><cell>Alue- ja paikkakuntahakemisto</cell><cell>661</cell></row>
+                <row><cell>Laulajahakemisto </cell><cell>667</cell></row>
+                <row><cell>Runohakemisto </cell><cell>681</cell></row>
+            </table>
+            <p/>
+            <p>ALKUSANAT</p>
+            <p>Ajatus laulajien alkuperäisten runotekstien julkaisemisesta on <hi rend="i">Kalevalan </hi>ikäinen. Eri muodoissa sen toivat esiin jo Elias Lönnrot itse, M. A. Castrén ja D. E. D. Europaeus. Ensimmäisen virallisen aloitteen teki Otto Donner vuonna 1866. Käytännön toimeen ryhdyttiin 1870-luvun alussa. Päämääränä oli <hi rend="i">Kalevalaan</hi> liittyvien kertovien runojen julkaisu. Suunnitelma ja sen toteutus kehittyi rinnan kansanrunouden tutkimuksen maantieteellis-historiallisen menetelmän kanssa.</p>
+            <p>Havaittiin pian, etteivät käsillä olevat runot riitä. Järjestettiin mittava täydennyskeruu. Suunnitelmaa testattiin ryhmätyönä vuonna 1872 Kullervorunojen sikermään (vrt. Julius Krohnin tämän aineiston perusteella toimittama <hi rend="i">Kullervon runot</hi> 1882). Varsinaisen julkaisun ensimmäiset, samporunoja sisältävät vihkot ilmestyivät nimellä <hi rend="i">Kalevalan toisinnot</hi> Julius Krohnin (1888) ja A. A. Boreniuksen (1895) toimittamina. Hanke pysähtyi Krohnin kuolemaan ja toimitustavan perusteellisuuteen1. Työ käynnistyi Kaarle Krohnin aloitteesta uudelleen vuonna 1900. Suunnitelma laajeni koko kalevalamittaiseen kansanrunouteen, joka päätettiin julkaista maakunnittain, niiden sisällä lajeittain ja runoittain, runon sisällä maantieteellisesti, laajaa kommentointia välttäen. Pelkistettynäkin teossarjan toimitus vei kahden sukupolven parhaat vuodet. Ensimmäisen osan ensimmäinen nide, <hi rend="i">Suomen Kansan Vanhat Runot</hi> I1 ilmestyi A. R. Niemen toimittamana vuonna 1908 ja viimeinen osa XIV Väinö Salmisen toimittamana ja hänen kuoltuaan hänen vaimonsa ja tyttärensä viimeistelemänä vuonna 1948. Teoksen 14 pääosaan sisältyy 33 nidettä, näistä yhdeksän Inkeristä (III1-3, IV1-3, V1-3), viisi Venäjän Karjalasta (I1-4, II), viisi Raja- ja Pohjois-Karjalasta (VII1-5), neljä Etelä-Karjalasta (XIII1-4), kaksi Savosta (VI1-2), kaksi Pohjois-Pohjanmaalta (XII1-2), kaksi Hämeestä (IX1-2), puolitoista Satakunnasta (X1-2), yksi Varsinais-Suomesta (VIII), yksi Uudeltamaalta (XIV), puolikas Etelä-Pohjanmaalta (XI) ja Skandinavian metsäsuomalaisten runot (niteessä VII5). Yhteensä kirja sisältää 85 000 runotekstiä.2 Nyt ilmestyvä 34. nide on siis osa XV. Se nostaa tekstien kokonaismäärän runsaasti yli 86 000:n.</p>
+            <p>Alkuperäisen sarjan valmistuttua ryhdyttiin tuotapikaa puhumaan täydennyksistä. Kuluneina vuosikymmeninä oli kerätty runsaasti uutta aineistoa. Teoksessa havaittiin myös puutteita, virheitä, aikansa eläneitä valintaperusteita, epäjohdonmukaisuutta ynnä muuta keskeneräisyyttä. Merkillistä kyllä kirpein ja perusteellisin kritiikki sisältyy artikkeliin „Osviittoja Suomen kansan vanhojen runojen käyttäjille“, jonka teoksen pitkäaikaisin toimittaja Väinö Salminen julkaisi Virittäjässä 1944. Hänen mielestään puutteet johtuivat „liiallisesta kiirehtimisestä“ ja turhasta säästäväisyydestä, joista vastuussa oli Suomalaisen Kirjallisuuden Seuran johto. Seuran entinen sihteeri E. A. Tunkelo käytti samassa lehdessä 1945 tuikean puheenvuoron „Paheksumus“.3</p>
+            <p>Se missä määrin SKVR:n hutiloinnit ovat kitsaan Kaarle Krohnin maksattamien kohtuuttoman pienten työpalkkioiden syytä, missä määrin taas seurausta Väinö Salmisen yleisestä suurpiirteisyydestä, on 1990-luvun näkökulmasta enää akateeminen kysymys. SKVR on joka tapauksessa eurooppalaisessakin mittakaavassa aikaa uhmaava jättiläishanke: yritys sitoa yksiin kansiin kokonainen arkaainen runokulttuuri.</p>
+            <p>Sarjan täydennystyö muuttui puheesta toiminnaksi vuonna 1969. Suomen Akatemian tuella ja Matti Kuusen johdolla käynnistyi silloin Kansanrunousarkistossa ns. SKVR-projektien sarja. Järjestettiin julkaisemattoman runoaineiston systemaattinen poiminta käsikirjoituksista, sen puhtaaksikirjoitus ja kortistointi sekä myöhemmin myös SKVR:n yhtenäisen hakemiston laadinta. „Uutta“, SKVR:ssa julkaisematonta, monin osin tosin hyvin sekalaista runoaineistoa on tällä hetkellä Kansanrunousarkiston kortistoissa lähes yhtä paljon kuin aiemmin julkaistua.</p>
+            <p>Paljolti näiden perustöiden pohjalta lähtee nyt liikkeelle SKVR:n jatkoosien toimittaminen. Julkaisusta ei tulla tekemään yhtä mittavaa kuin aiemmasta SKVR-sarjasta - olemme entistä tietoisempia täydellisyyden suhteellisuudesta. Aineistosta pyritään valikoiden julkaisemaan eri tavoin kiinnostavia runoja; Kansanrunousarkistossa kortistot ovat kokonaisuudessaan tutkijoiden ja asianharrastajien käytettävissä. Nyt ilmestyvä ensimmäinen jatko-osa keskittyy vanhoihin keskeisaineistoihin, jotka syystä tai toisesta puuttuvat vanhasta SKVR:sta. Ne julkaistaan - SKVR:n maakunnallisesta traditiosta poiketen - neljän merkittävän kerääjän kokonaisuuksina. Henrik Florinus edustaa 1600-luvun loppupuolta vuoteen 1702, Kristfrid Ganander 1700-luvun loppupuolta vuoteen 1787, Elias Lönnrot keruuaikaansa vuodesta 1828 lähtien ja Volmari Porkka suuren Inkerin-matkansa vuotta 1883.</p>
+            <p>HENRIK FLORINUS (n. 1633-1705), Paimion papin poika, itsekin pappi ja opettaja, oli aikakautensa paras suomen kielen käyttäjä. Hän laati latinalaisruotsalais-suomalaisen sanakirjan (1678), tarkisti Raamatun (1685) ja uskontunnustuksen (1693) suomennokset ja suomensi kirkkolain (1688).4 Kiinnostuksesta kieleen nousi myös Florinuksen sananlaskuharrastus, jonka tuloksena vuonna 1702 ilmestyi teos <hi rend="i">Wanhain Suomalaisten Tawaliset ja Suloiset, SANANLASCUT, Mahdollisuden jälken monialda cootut, ja nyt wastudest ahkerudella enätyt.</hi> Florinus oli perinyt pohjakäsikirjoituksen Gabriel Tammelinukselta (Lohjan kirkkoherra, k. 1695), jonka isä Laurentius Petri Tammelinus, Tammelan kirkkoherra, jo oli keruun aloittanut. Florinuksen itsensä hankkimat „enätyt“ sananlaskut täydensivät kokoelmaa.</p>
+            <p>Florinuksen 1521 sananlaskua sisältävä kirjanen on aikansa huomattavimpia folkloristisia julkaisuja. Itse teosta on säilynyt vain kaksi kappaletta. Se on myöhemmin julkaistu 1907 fraktuurakirjaimin SKS:n Suomi-sarjassa (IV:5) sekä näköispainoksena 1987 (SKS, Toimituksia 459), ja sen sananlaskut on muiden mukana sisällytetty teokseen <hi rend="i">Vanhan kansan sananlaskuviisaus</hi> (1953). SKVR:n kokonaisuudesta ne ovat puuttuneet, ehkä siksi ettei niitä paikantamattomina ole voitu sijoittaa mihinkään maakuntaan, tai siksi että ne on luokiteltu sananlaskuiksi, ei runoiksi. Näin asianlaita useimmiten onkin. Joukossa on kuitenkin pitempiäkin tekstejä, joita voi pitää kalevalaisen lyriikkamme vanhimpana tunnettuna kerrostumana. Florinuksen sananlaskurunot on sijoitettu osan XV ensimmäiseksi jaksoksi.5</p>
+            <p>Runoiksi on tässä teoksessa, niin Florinuksen, Gananderin kuin Lönnrotin aineistoissa, laskettu kalevalamittaiset vähintään nelisäkeiset sananlaskut. Esimerkinomaisesti on Florinukselta mukana muutama lyhyempikin teksti, jolla on selviä yhteyksiä runostoon. Sananlaskurunot julkaistaan Florinuksen omassa järjestyksessä ja kirjoitusmuodossa. Kommentissa esitetään - VKS-viitteen lisäksi - 1700-luvun Florinus-tulkintaa Elias Brennerin ja Gananderin sitaatteina ja käännöksinä. Mikäli Florinuksen lähdettä edustava teksti on ollut saatavilla ja sisältää poikkeavia muotoja, nämä mainitaan. Paikannuksia tuodaan kommenteissa esiin sikäli kuin tutkimus on niitä selvittänyt.</p>
+            <p>KRISTFRID GANANDER (1741-1790, ks. lähemmin s. XLI-XLVII), Rantsilan kappalainen, oli Florinuksen lailla oman aikansa sanakirjantekijä. Edeltäjäänsä laaja-alaisemmin hän oli myös perinteentutkija, jota kiinnostivat runot siinä missä sananlaskut ja arvoitukset, mytologia siinä missä arkisen kansankielen käänteet. Hän poimi teokseensa <hi rend="i">Mythologia Fennica</hi> (1789) ja käsikirjoitukseensa <hi rend="i">Nytt Finskt Lexicon</hi> (1786-1787) esimerkkejä kansanrunoista, joita hänellä samoin kuin H. G. Porthanilla on ollut käytössään runsaasti - yhteisiä, kummankin yksityisiä, muiltakin saatuja ja kopioituja, sekä käsikirjoituksia että aikakauden tutkimuksissa julkaistuja runoja. Käsikirjoitusaineistot ovat valtaosin kadonneet tai tuhoutuneet Turun palossa. Joistakin on onnekkaasti säilynyt Gananderin omakätinen käsikirjoitus, yleensä Sakari Topelius vanhemman kokoelmassa, joistakin muiden kerääjien käsikirjoituksia. Useimmat säilyneistä teksteistä - olivat ne sitten julkaistuja tai käsikirjoituksia - ovat SKVR:n aiemmissa osissa julkaistuja ja tutkimuksessa tunnettuja runoja.</p>
+            <p>Perustutkimuksen Gananderin sanakirjassa käytetyistä lähteistä, myös kansanrunoista, teki Osmo Hormia väitöskirjassaan <hi rend="i">Gananderin sanakirjan lähteet</hi> (1961). Siinä hän selvitti myös ne Gananderin sanakirjan runoesimerkit, jotka pohjaavat meidän päiviimme säilyneeseen ja siis todistettavaan lähteeseen. Väitöskirjaa pohjustavan lisensiaatintyönsä (1960) loppuun Hormia liitti luettelon niistä sanakirjan runositaateista, joille hän ei ollut löytänyt lähdettä. Hormian työt ovat tässä teoksessa esitetyn Ganander-runoston perusta ja lähtökohta. Selvittämättömät 1646 säettä ovat odottaneet selvittäjäänsä. Martti Haavio on SKVR:n osassa XII julkaissut jonkin verran löytämiään sanakirjasitaatteja mutta ei systemaattisesti. Hän ei myöskään ole rakentanut niistä Gananderin hallussa olleiden runotekstien laajempia kokonaisuuksia. Tähän työhön on nyt SKVR XV:ssa ryhdytty. Yksinkertainen alkukysymys oli: minkä tyyppisiin yhteyksiin nämä säkeet ovat saattaneet kuulua? Työn edetessä ongelma laajeni: minkä hahmoinen oli sen runoston kokonaisuus, joka Gananderilla oli käsissään?</p>
+            <p>Hormian ylijäämäsäkeet järjestettiin temaattisiin, tietty(j)ä runo(stoj)a edustaviin sikermiin. Näitä ryhdyttiin vertaamaan tunnettuihin, enimmäkseen SKVR:ssa julkaistuihin aineistoihin. Näin Gananderin sitaatit alkoivat vertailuaineistojen avulla hahmottua kokonaisuuksiksi, tietynlaisiksi Gananderin lähdeaineistojen rekonstruktioiksi. Samalla sanakirjasta löytyi jatkuvasti uusia säkeitä, Hormian selvittämät tekstit saattoivat hajota erilaisia käsikirjoituksia edustaviksi toisinnoiksi, ja paikkaansa löytämättömien irtosäkeiden luettelo kasvoi aiheuttaen aikaa viepää pohdintaa. Työtä olisi voinut jatkaa loputtomiin, täydellistä varmuutta ei voi saavuttaa. Tietyssä vaiheessa työ päätettiin lopettaa. Selvittämättä jäävien irtosäkeiden luettelo XV 373 on kasvanut nykyiseen laajuuteensa vasta loppuharavoinnin tuloksena tuon pisteenteon jälkeen.6 Toimittajien työnjako toimi siten, että epiikka, rahvaanrunot ja loitsut ovat Marti Kuusen ja lyriikka, sananlaskurunot ja erilaiset tilannerunot Senni Timosen käsialaa.7 Työn valtaosa tehtiin Gananderin sanakirjan näköispainoksen pohjalta. Kotimaisten kielten tutkimuskeskuksessa valmistui Gananderin sanakirjakorpus SKVR-työn loppuvaiheessa, jolloin se luovutettiin käyttöömme ja oli suureksi avuksi.</p>
+            <p>Tässä teoksessa julkaistujen Ganander-runojen suhde niihin teksteihin, jotka Gananderilla 1700-luvulla oli käytössä <hi rend="i">Nytt Finskt Lexicon</hi> -sanakirjaa työstäessään, vaihtelee varmasta hyvinkin epävarmaan. Erilaisia varmuusasteita on ainakin neljä. Ensiksikin Gananderin sanakirjasitaatteihin pohjaava runo voi selkeästi ja siis varmasti edustaa jonkin tunnetun säilyneen tekstin rinnakkaiskopiota. Se on nostettu esiin SKVR XV:ssa, jos Gananderin sanakirjasitaateissa on selvempi tai kansankielisempi asu kuin SKVR:ssa aiemmin julkaistussa kopiossa. Jonkin verran vanhasta SKVR:sta kokonaan puuttuvia runoja julkaistaan tässä ensimmäistä kertaa SKVR-yhteydessä riippumatta siitä, onko Gananderin sanakirjan versio parempi kuin toinen säilynyt kopio. Huomattavin tällainen ryhmä on Porthanin kokoelmaan perustuva sananlaskurunous.8</p>
+            <p>Toiseksi: epävarmuustekijöitä ilmenee heti, kun tekstiin aletaan sisällyttää säkeitä, joita tunnetussa rinnakkaiskopiossa ei ole. Perusteena on silloin oletus eripituisista, toisistaan paljonkin poikkeavista kopioista ja kokoonpanoista, joita varhaiskeruun aikana oli tapana tehdä. Ne heijastelevat kansanrunoustieteen syntyaikoja. Hahmottaessaan tekstikriittisen menetelmän perusidean - „kokemus on minulle opettanut, että vertaamalla useita muistiinpanoja toisiinsa ne ovat palautettavissa jonkin verran eheämpään ja luontevampaan muotoon...“ - Porthan loi tekstinkäsittelyn praktiikkaa ja samalla tähän päivään saakka kantanutta suomalaisen tutkimusmenetelmän pohjaa.</p>
+            <p>Kolmanneksi: tässä julkaistu teksti voi kuvata tunnetun runon toisintoa, jolle ei löydy vanhaa rinnakkaiskopiota, mutta kuitenkin vastineita myöhemmästä perinteestä. Tällaista runoa voinee parhaiten nimittää perinteisessä mielessä rekonstruktioksi, kuitenkin sillä varauksella, että siinä esitetään vain ehdotuksena 1700-luvun käsikirjoitusta ja sen kautta mahdollisesti jopa aitoa runonlaulua edustava teksti, ei lukkoon lyöty tutkimustulos.9 Näin määritellyissä rekonstruktioissa peräkkäin esiintyvien säkeiden peräkkäisyys samoin kuin niiden kuuluminen ehdotettuun runoyhteyteen voi olla lähes varma, todennäköinen tai mahdollinen. Toimittajien kysymysmerkit tai kommentit varoittavat epävarmuuksista. Kriittinen lukija säästää aikaansa silmäämällä lähdeviitteistöä ja tarpeen mukaan myös siinä mainittuja Gananderin, Hormian, A. R. Niemen ym. kommentteja. Ellei tyydyttävää avainta ongelmaan tunnu löytyvän, on syytä turvautua SKVR:n asianomaisiin jaksoihin tai Kotimaisten kielten tutkimuskeskuksen kirjastossa säilytettyyn laajaan SKVR-pohjaiseen leikekokoelmaan.</p>
+            <p>Neljänneksi: toistuva ongelma on teksti, jolle ei löydy selvää vastinetta myöhemmästä traditiosta. Kyseessä voi (aniharvoin) olla jäljettömiin kadonnut vanha kansanruno tai Gananderin avustaja, joka pystyy sepittämään aidon makuista kalevalamittaista runoa - tai itse Ganander tai hänen avustajansa pitää (Porthanin tekstikriittistä metodia väljästi tulkiten) oikeutenaan yhdistellä eri varianteista synteettistä „muinaisrunoa“.10 Aina on sekin vaara, että aito kansanrunon siru on kuulunut muuhun yhteyteen kuin siihen mihin Ganander tai joku muu ilmoittaa sen kuuluvan.</p>
+            <p>Erityisongelma on sellainen suhteellisen yleinen tapaus, jossa Ganander tyytyy esittämään vain yhden sanan tuntemastaan runosäkeestä -joskus tilanpuutteen, usein myös laajemman sitaatin arveluttavuuden takia. Saa vaikutelman, että Gananderin itsesensuurin taustalla on paitsi johtavien kirkon- ja yliopistomiesten, toisinaan myös Ruotsin ulkopolitiikan ja lainkäyttäjien varominen. Itärajan takaiset tiedot ovat niukkoja ja varauksellisia. Lääkärin ja kuoharin praktiikkaansa liittyvää tiedostoa Ganander ei niinkään peittele.</p>
+            <p>Yleensä on toimitustyössä edellytetty rekonstruktioon käytetyltä irtosanalta taivutusmuotoa tai oheisselitystä, joka tukee sille pääteltyä runoyhteyttä. Poikkeustapauksissa on niukkapiirteisten runoreliktien selventämiseksi voitu varustaa perusmuotoinen avainsana todennäköisellä hakasulkuihin merkityllä päätteellä tai käytetty lähityyppisimmän SKVR-toisinnon säemateriaalia hakasuluissa ohjaamassa kriittistä lukijaa näin rekonstruoidun tekstinkohdan punnintaan.</p>
+            <p>Kommenteissa esitellään Gananderin sanakirjaviitteet sekä rinnakkaistekstit ja/tai vertailuaineistoa, jonka avulla tekstin olemuksen tulisi selvitä. <hi rend="i">Mythologia Fennican</hi> esimerkkisäkeitä käytetään (suluissa) silloin, kun sellaisia löytyy ja sanakirjasitaatti puuttuu. Hypoteettisesti eri toisintoihin kuuluvia säkeitä tai säeryhmiä on sijoitettu kaksoishuutomerkkien väliin yhteen tekstiin silloin, kun aineiston puute estää rakentamasta näitä vaihtoehtoja omiksi kokonaisuuksikseen. Yleiskommenteissa pyritään hahmottamaan runojen yhteyksiä alueellisiin runotraditioihin, siis varovasti paikallistamaan niitä. Yllättävän paljon Gananderilla näyttää olevan esimerkiksi vienankarjalaiseen runostoon liittyvää ainesta, samoin yhteyksiä Kesälahden ja Ilomantsin perinteeseen. Alue- ja paikkakuntahakemistoon on kirjattu kaikki nämä Gananderin runositaattien alueellisia taustoja hahmottavat viitteet11. Laulajahakemistosta puolestaan löytyvät kommenteissa esitetyt kytkennät laulajiin ja sukuperinteisiin.</p>
+            <p>Työn ulkopuolelle on rajattu sanakirjassa esiintyvä oppitekoinen kalevalamittainen runous (hajasäkeitä on toki voinut eksyä mukaan) sekä uusimittainen kansanlaulu. Sen esimerkkiaineisto olisi suhteellisen runsas, enimmäkseen kuitenkin sanakirjan myöhempien täydentäjien käsialaa. Systemaattisesti ei ole myöskään haravoitu Gananderin huomionarvoisia teoreettisia pohdintoja; joskus niitä on runojen kommenteissa siteerattu. Esimerkiksi hakusanan <hi rend="i">Synnyt</hi> yhteyteen (III-98-Ac&amp;Ba) Ganander sijoittaa merkittävän perinnelajianalyyttisen yhteenvedon:</p>
+            <p>De så kallade SYNNYT (ongines s Archaeologiae) / v gr Madon - Tulen - Raudan</p>
+            <p>- männyn - koivun - Suden Synty - &amp;r fram alstring som i troll-Runor framkomma, läsas vid tilfällen, då de tros vara betydande, värckstillande och läkande t.ex. mot ormbett, eller om någon stött sig och fått nagot sår af något järn - träd - björck - tall - vide m.m. så läses madon - raudan Synty eller det trädets Synty öfver såret eller stöten til bot och läkedom dels at stilla blodet dels ock at förtaga svedan, på lika sätt, som en gällare brukar Kuoharin Sanat</p>
+            <p>Gananderin työ kansanrunouden saralla ei siis ole tässä teoksessa loppuun käsitelty. Vaikka valtaosa Gananderin sanakirjan säkeistä nyt on sijoitettu tiettyihin runoyhteyksiin, perimmäinen tarkoituksemme ei ole lukita niiden paikkaa vaan jättää ne tietyllä tapaa avoimeen julkiseen tilaan, itsekunkin pohdittavaksi ja lisäaineistoin täydennettäväksi. Kansanrunousarkistoon osan XV sivutuotteena syntynyt Ganander-tiedosto, jonka avulla löytyy jokaisen yksittäisen sanakirjasitaatin paikka SKVR XV:n runoissa, on yksi apuneuvo työn jatkajille.</p>
+            <p>ELIAS LÖNNROT (1802-1884) ei tässä yhteydessä esittelyjä kaipaa. Aarne Anttilan elämäkerta <hi rend="i">Elias Lönnrot </hi>(SKS, 1931-1935, 2. painos 1985), kokoomateos <hi rend="i">Lönnrotin aika</hi> (Kalevalaseuran vuosikirja 64, SKS, 1984), <hi rend="i">Valitut teokset I</hi>-<hi rend="i">V </hi>(SKS, 1990-1995) ja lukuisat erikoistutkimukset sisältävät olennaisimman tiedon hänen työstään kansanrunouden kerääjänä ja julkaisijana, <hi rend="i">Kalevalan </hi>luojana, suomen kielen edistäjänä niin sanakirjan teossa kuin muissa toimissa.</p>
+            <p>SKVR-sarjan kannalta olennaista on Lönnrotin keräämä kansanrunous. Yhdellätoista tutkimusmatkallaan vuosina 1828-1844 hän keräsi Suomesta ja Venäjän-Karjalasta runoaineiston, jonka käsikirjoitukset pääosiltaan sisältyvät Kansanrunousarkiston Lönnrotiana-kokoelman 30 niteeseen. SKVR:n aiemmissa osissa Lönnrotin kokoelman runoja on julkaistu yhteensä 2034.</p>
+            <p>Kansanrunousarkiston julkaisemattoman Lönnrotianan kortisto on lähtökohtana Kaisa-Marja Perttusen työssä <hi rend="i">Lönnrotiana 1-30 Selvitys Elias Lönnrotin käsikirjoituskokoelmasta</hi> (1976). Perttusen mukaan julkaisemattomia tekstejä, joista suurin osa runoja, on kokoelmassa yhteensä 1545. Kun näistä runsaat 300 ovat uusimittaisia lauluja ja 25 oppineitten runoja, jää jäljelle 805 varsinaista kalevalamittaista runoa ja 197 rahvaanrunoa. Ylijäämäryhmässä (runsaat 200 numeroa) on itkuvirsien, joikujen, lorujen ja proosakatkelmien seassa jonkin verran varsinaiseen kalevalamittaiseen runouteenkin kuuluvaa.</p>
+            <p>Lönnrot kokosi myös huomattavan määrän sananlaskuja, joihin Kaisa-Marja Perttunen ei mainitussa työssään syventynyt. SKVR XV:n Lönnrotosan alkuytimenä olivat sananlasku(runo)t, jotka Matti Kuusi löysi kahdesta kokoelmasta. Toinen, Lönnrotiana 11, on Juteinin sananlaskukokoelman välilehditetty painos, johon Lönnrot on eri aikoina lisännyt 2673 sananlaskua.12 Toinen, Lönnrotiana 70, on yhtenäinen, aakkosiin puhtaaksikirjoitettu 822 sananlaskua sisältävä kokoelma, joka näyttää puuttuvan Lönnrotin teoksesta <hi rend="i">Suomen Kansan Sananlaskut</hi> (1842) ja siis olevan sitä myöhempi. Nämä tutkimuksen ohittamat kokoelmat sisältävät alkuperäisainesta tai siihen rinnastettavia kopioita, mutta yhtä lailla myös Lönnrotin työstämiä - muokkaamia, stilisoimia, yhdistelemiä - sananlaskuja. Rajanvetoa on usein vaikea tehdä. Tuloksena on tässä teoksessa - nelisäkeisistä tai pitemmistä sananlaskurunoista tehty - valikoima, joka sisältää molempia, kuitenkin sillä edellytyksellä, että tekstissä on oltava ainakin kaksi säettä lisää vanhaan. Kommenteissa tuodaan esiin Lönnrotin oma julkaisutoiminta ko. tekstin suhteen (Kanteletar, SKSL) sekä ne mahdolliset lähdetekstit, joita on huomattu. Paikannusten tueksi luetellaan joskus SKVR-numeroita laajemminkin.</p>
+            <p>Sananlaskujen kaksoisolemus alkuperäismuistiinpanon ja kokoonpanon rajalla luonnehtii myös julkaisemattoman Lönnrotianan varsinaisten runojen valtaosaa. Niitä on tässä ryhdytty selvittämään Kaisa-Marja Perttusen työn pohjalta.13 Perttusen (I, 87) laskelmien mukaan kokoonpanoja on näistä yhteensä 805 tekstistä runsas puolet eli 436 - nyt uudelleen arvioiden niitä on runsaat sata enemmän. Kopioita omista tai toisten kerääjien runoista on ainakin 140. Kun nämä kaksi ryhmää sekä SKVR:n julkaisualueeseen kuulumattomat rahvaanrunot lasketaan pois, jää julkaisematonta SKVR-ainesta suhteellisen vähän, satakunta muilla perusteilla karsittua runoa. Valtaosa niistä poimittiin SKVR XV:n Lönnrot-jaksoon.</p>
+            <p>Mikä on ollut aikoinaan SKVR:sta hylkäämisen syy14 silloin kun kysymyksessä ei ole rahvaanruno, kokoonpano eikä kopio?</p>
+            <p>Selkein „aitojen“ hyljeksittyjen ryhmä ovat seksuaaliaiheiset runot. Moraalisen ilmapiirin muutos on tässä suhteessa suuri. Tutkimukselle nämä runot ovat arvokas, viime vuosiin saakka syrjitty lähde. Seksuaalista aihepiiriä esiintyy Lönnrotin muistiinpanoissa monissa lajeissa: kertovissa ja lyyrisissä runoissa, loitsuissa, sananlaskurunoissa, rahvaanrunoissa joissa julkituodaan paikallisia skandaaleita. Tähän teokseen on poimittu kaikki ne Lönnrotianan seksirunot, joita on pidetty kansanrunoina. Esimerkiksi personifioitujen sukupuolielinten keskustelut ja riidat ovat teemoja, jotka ovat laajalle levinneitä ja selvästi traditionaaleja. Pois on sen sijaan jätetty, muiden rahvaanrunojen mukana, ne joissa kerrotaan paikkakunnalla tunnettujen ihmisten sukupuolisesta kanssakäymisestä.</p>
+            <p>Toinen julkaisemattomuuden syy on lajimäärityksen epämääräisyys. Sananlaskun ja runon välimuodot, uusimittaisen ja kalevalamittaisen laulun sekamuodot, joiun ja kalevalamittaisen laulun risteytymät, mitaltaan horjuvat lorut, leikki- ja tanssilaulut sijaitsevat rajamaastossa, jonka sisällyttäminen SKVR:hin on ollut epätasaista. Silti esimerkiksi vienankarjalaiset joiut osoittautuvat jopa kalevalamittaisen keskeislyriikan lähteeksi - Jos mun tuttuni tulisi -runon huomattava vienalainen kehitelmä sisältyy joikuun XV 601. Tämänkaltainen lajien raja-aines otetaan nyt mukaan, jos side kalevalamittaan tai SKVR:ssa yleensä julkaistuun ainekseen on selvä.15</p>
+            <p>Kolmanneksi: vahinkojakin on toimittajille sattunut. Esimerkiksi uusimittaisten laulujen keskessä olevat lyhyet lyyriset kalevalamittaiset runot ovat joskus jääneet huomaamatta, samoin jokunen paikantamaton teksti tai sikermä.16 Lönnrotiana on kuitenkin niin ammattitaitoisesti ja pieteetillä haravoitu, että tällaisia tapauksia näyttää olevan vähän.</p>
+            <p>Neljänneksi: toimittajien selkeä käsitys „aidon“ ja „epäaidon“ rajasta on karsinut runoja SKVR:sta muissakin kuin kokoonpanotapauksissa. Kirjoista opituksi tai itse tehdyksi tulkittu ei ole yleensä kelvannut SKVR:hin, vaikka vahingossa tällaista aineistoa on julkaistukin. Tässä kohden raja on nykyisin avoimempi, epävarmempi - onhan dialogi kirjallisen ja suullisen välillä osa suullistakin kulttuuria. Joitakin kirjallisperäisiksi tulkittuja sekä myös kansanomaiseen tyyliin tehtyjä runoja on siis ehdoin tahdoin otettu nyt mukaan; niitä voi olla mukana enemmänkin.</p>
+            <p>Myös rahvaanrunoista julkaistaan esimerkkejä. Rahvaanrunojen kansanomaisinta osaa, palkallista tilapäärunoutta, ei nykyisin enää rajata jyrkästi „oikean“ kansanrunouden ulkopuolelle.17 Osaan XV valitut runot ovat sisällöltään tyypillisiä (naima- ja eläimentappoaiheet) ja lähes kansanrunoksi muuttuneita, yhteisperinteeseen siirtyneitä tai kiinnostavasti sen pohjalta nousevia runoja. Kaikkien Lönnrotin rahvaanrunojen julkaiseminen ei tässä yhteydessä tullut kysymykseen, koska teoksen painotus olisi muuttunut.18</p>
+            <p>Joidenkin Lönnrotianan runosikermien luonne on arvoituksellinen: ne voivat olla kadonneiden muistiinpanojen kopioita tai kokoonpanoja osaksi säilyneiden, osaksi kadonneiden muistiinpanojen pohjalta. Niistä on tähän kirjaan valikoitu vain esimerkkejä runoista, jotka näyttävät sisältävän alkuperäisaineistoa.19 Kaiken tämänlaatuisen aineksen julkaiseminen edellyttäisi perustutkimusta ja laajaa kommentointia. Sama pätee enemmän tai vähemmän julkaisemattoman Lönnrotianan yli puoleen tuhanteen selvään kokoonpanoon. Näissä teksteissa piillee runsaastikin kadonneiden lähteiden jälkiä niitä metsästäville. Merkittävämpää ehkä on, että niissä näkyy kehitys <hi rend="i">Kanteleen </hi>yksinkertaisista, lähellä kansanrunoa olevista versioista <hi rend="i">Kalevalan</hi> ja <hi rend="i">Kantelettaren</hi> kerrostuneisiin maailmoihin. Lukemattomine korjauksineen, lisäyksineen ja muunnelmineen ne kertovat paljon toistaiseksi tutkimatonta Lönnrotin runoilijaminän ulottuvuuksista.20 Osaan XV on poimittu eri tyyppisiä kokoonpanoasteita edustavia näytteitä. Lönnrot-jakson päättävä lemmennostoloitsujen sikermä on rakennettu panoraamaksi, jossa esiintyy sarja monesta syystä vanhasta SKVR:sta hylättyjä tekstejä: seksuaaliaihelmia sisältäviä „aitoja“ alkuperaisrunoja tai niiden puhtaaksikirjoituksia (XV 665-66, 671-672), kirjallisuudesta mahdollisesti opittu teksti (XV 673), kopioita ja/tai kokoonpanon alkuasteita (XV 667-670). Yksiselitteinen, puhdas kokoonpano on mittava lemmennostonäytelmä XV 674, jota sitäkään Lönnrot ei ole itse missään julkaissut.21</p>
+            <p>VOLMARI PORKKA (1854-1889, ks. lähemmin s. XLIX-LXV), opettaja, kielentutkija, yliopiston suomen kielen lehtori, keräsi kesän 1883 runoja Keski- ja Länsi-Inkerin parhaista runokylistä. Kysymyksessä lienee keskitetyin, tuloksiltaan mittavin vanhan runon keruumatka. Porkan suursaarelaistausta helpotti ymmärtämistä, pikakirjoitustaito nopeutti tallennusta. Hänen käyttämänsä pikakirjoitusjärjestelmä oli yksi tuohon aikaan kokeilluista, pian uudempien tieltä syrjäytyneistä systeemeistä. Nykykäsityksen mukaan Porkka on ollut pikakirjoittajana hyvin huolellinen ja tarkka.22 Porkka puolestaan itse pahoitteli matkakertomuksessaan, ettei hän ollut voinut sisältöön keskittyessään „merkitä pienempiä äänellisiä omituisuuksia“.23 Runojen tutkimusta nämä mahdolliset puutteet tuskin haittaavat.</p>
+            <p>Porkka mainitsee, että hän on „antanut puhtaaksi kirjoittaa tai itse kirjoittanut“ 1661 runoa ja 49 loitsua. Osan runoista siis purki pikakirjoituksista joku muu, osan Porkka itse. Porkka tarkisti tekstit niin pitkälle kuin jaksoi ja ehti. Näin työstetystä aineistosta on 1693 tekstiä julkaistu SKVR:n osissa III ja IV.24</p>
+            <p>Porkka lisäsi, ettei kaikkia runoja ole purettu. Kyseinen matkakertomuksen kappale (s. 167-168, vrt. XV s. LVI), yksi SKVR XV:n synnyn alkuvirikkeistä, kuuluu kokonaisuudessaan seuraavasti:</p>
+            <p>Tämä luku ei käsitä kaikkia runoja, mitä stenogrammeissani on Muutama satamäärä löytyy vielä sen lisäksi suurimmaksi osaksi lyyrillistä laatua tai vallan vähäarvoisia, mitättömiä eepillisiä. Mitä edellisiin tulee, katsoin turhaksi puhtaaksi kirjoituttaa runoja, jotka sitä ennen niin monessa toisinnossa löytyivät täydellisempinä. En tässä kohden ole siis vallan sananmukaisesti seurannut ohjesääntöäni, jonka mukaan tuli täydellisesti puhtaaksi kirjoittaa kaikki runot, jotka eivät sanasta sanaan olleet jonkun toisen runon kaltaisia. Jos näin olisin tehnyt, niin olisi täytynyt stenogrammista selittää jok’ikinen runonpätkä, sillä kaksi eri laulajaa tuskin koskaan laulavat saman runon aivan yhdenmukaisesti: toinen laulaa jossain runossa muutaman säkeen vähemman kuin toinen, toinen taas osaa ainoastaan muutaman säkeen samasta runosta. En voi oikein käsittää, miksi hyödyksi olisi ainoastaan muutamain usein keskinäistä yhteyttä puuttuvain säkeitten puhtaaksi-kirjoittaminen, koska samat säkeet esiintyvät useammassa täydellisessä toisinnossa. Itse puolestani pelkään, että samanlaatuisia toisintoja on liiaksikin karttunut.</p>
+            <p>Nämä hyljeksityt, osaksi myös säästaväisyyssyistä purkamattomat runot piilivät Porkan kenttävihkoissa 1950-luvulle saakka. Vanhan pikakirjoitussysteemin taitajia ei ollut maassa enää monta. Yksi heistä, Outari Kallioniemi, ryhtyi työhön. Vuonna 1960 hän oli selvittänyt ja myös tarkistanut runsaat 600 tekstiä.</p>
+            <p>Vuonna 1969 aineistoa alkoi selvittää Saima-Liisa Laatunen SKVR-projektin osatyönä. Hän tutki kenttäjärjestyksessä etenevien pikakirjoitusvihkojen suhdetta julkaistuun aineistoon, kirjasi havaitsemiaan SKVR:n virheitä esim. laulajamäärittelyissa ja täydensi ne säkeet, jotka Porkka oli merkinnyt vain viivoin tai alkukirjaimin. Porkan pikakirjoitusta taitava Akseli Valta purki Saima-Liisa Laatusen kanssa vielä kymmeniä tekstejä lisää vuosina 1973- 1974. Akseli Vallan kuolema katkaisi työn.25</p>
+            <p>Aineisto julkaistaan nyt SKVR:n ensimmäisessä jatko-osassa Volmari Porkan jaksona. Saima-Liisa Laatusen konsepteja on käytetty runojen hakasulkutäydennysten pohjana. Runot on järjestetty ryhmiin, jotka noudattavat väljästi SKVR:n temaattis-maantieteellistä traditiota. Koska Inkerin runosto ei SKVR-malliin täysin asetu, ryhmien rakentamisessa on pyritty myötäilemään samalla laulajien omaa, unenomaisesti ketjuuntuvaa mielikuvien maailmaa.26</p>
+            <p>Runotekstien yhteydessä julkaistaan Porkan omat kommentit, jos niihin sisältyy lisätietoa. Epäilyttävien kohtien tarkistajaksi ja muutaman lisätekstin purkajaksi löytyi vielä Porkan pikakirjoitusta tulkitsemaan kykenevä Anna-Liisa Valta.</p>
+            <p>Nyt julkaistavat 667 runoa ovat valtaosa Porkan mainitsemista „kelvottomista“. Julkaisematta jää runsaat sata kirjallisuudesta opittua runoa (vrt. näytteitä näistä XV 1322-1327) sekä kolmen ja puolen Narvusin-vihkon purkamattomat tekstit. Toivottavasti nämäkin vielä joskus selvitetään. Porkan suurtyön arvo on sen kokonaisuudessa, ei valikoiduissa osissa. Esimerkiksi Inkerin laulajien tutkimuksen kannalta ovat olennaisia ne lisät ja oikaisut, jotka uusi aineisto nyt tuo inkeriläisten laulajien repertoaareihin. :„Kelvottomia“ eivät runotkaan enää nykynäkökulmasta ole, vaikka niiden joukossa on kieltämättä paljon katkelmia - Porkan kielellä „vaillinaisia“ tai niin samanlaisia kuin muiden laulajien laulut, ettei Porkka niitä kokonaisina merkinnyt muistiin. Mutta on paljon muutakin. Esimerkiksi Porkan „sekasotkuiksi“ määrittelemät monen aiheen ketjut ovat itse asiassa eläviä pienoisperformansseja, joissa esittäytyy laulajan ja hänen kauttaan koko laulukulttuurin assosioiva estetiikka.</p>
+            <p>TOIMITUSTYÖSTÄ todettakoon vielä seuraava:</p>
+            <p>- Käsikirjoitukset on julkaistu vanhan SKVR:n tapaan mahdollisimman tarkasti alkutekstin mukaan. Ainoastaan w on systemaattisesti muutettu v:ksi, välimerkitys ja kappalejako yhtenäistetty ja runon vasemman laidan isot kirjaimet muutettu pieniksi. Kerääjän korjaamat tekstit julkaistaan hänen korjaamassaan muodossa; yliviivatut jaksot esitetään rivikommenteissa. Kerääjän lisäykset käsikirjoituksiin - olivat ne sitten kirjaimia, sanoja, säkeitä tai säejaksoja - erotetaan perustekstistä kahdella tähdellä. Kommentissa annettua lisäyssanaa saattaa selvyyden vuoksi edeltää se sana, jonka yläpuolelle - selitykseksi tai vaihtoehdoksi - lisäys on tehty.</p>
+            <p>- Kaikki hakasuluissa oleva puuttuu alkuperäisistä käsikirjoituksista. Kysymyksessä on aina toimittajien lisäämä täydennyssäe tai päätelmä.</p>
+            <p>- Ennen runoa alkua esitetään Lönnrotin ja Porkan runoissa SKVR:n vanhaan tyyliin kursiivitekstissä perustiedot käsikirjoituksesta sekä myös keruupaikasta, -ajasta ja laulajasta silloin kun ne tiedetään tai rohjetaan päätellä. Porkan aineistossa on lisätty vielä viite siihen SKVR:n osaan, johon runo tuo täydennyksen (III tai IV).</p>
+            <p>- Kommentteja on kahta laatua. Kerääjän omat kommentit on painettu petiitillä sijaintinsa mukaisesti runon alkuun, keskelle tai loppuun. Mahdollinen toimittajien kommentti on myös petiitillä, mutta aina runon lopussa. Silloin harvoin kun kerääjälläkin on runon lopussa kommentti, se on ennen toimituksen kommenttia. Porkan kommentit vaikuttavat usein apokryfisiltä, mutta toistuessaan (esim.: „= Paroi“) avautuvat merkitsemään yleensä sitä, että Porkka ei vaivaudu kirjoittamaan runoa kokonaan, koska se pääosin muistuttaa vastaavaa (esim. Paroin) runoa. Nämä huomautukset on katsottu tarpeellisiksi ottaa mukaan, koska ne selvittävät muistiinpanon olemusta.</p>
+            <p>- Kaksoishuutomerkit Gananderin ja joskus myös Florinuksen runoissa merkitsevät sitä, että niiden välissä olevan jakson ei oleteta kuuluvan samaan toisintoon, vaan edustavan vaihtoehtoa saman runon toisesta toisinnosta.</p>
+            <p>- Tavalliset sulut Gananderin runoissa tarkoittavat, ellei toisin mainita, että ko. kohta ei esiinny sanakirjassa vaan <hi rend="i">Mythologia Fennicassa.</hi> Yksityinen kirjain suluissa voi viitata myös sanakirjan sisäiseen vaihteluun.</p>
+            <p>- Yksinäinen tähti Gananderin runonosien välissä merkitsee sitä, että kappaleet eivät toimittajien mielestä välttämättä kuulu samaan runoon, vaan ne olisi mahdollista numeroida myös erikseen.</p>
+            <p>- Katkoviivat ja kolmet pisteet, yleensä Gananderin teksteissä, merkitsevät, että välistä tulkitaan puuttuvan jotakin. Lönnrotin ja Porkan teksteissä näitä on pyritty merkitsemään vain kerääjän käsikirjoituksen mukaisesti. Lönnrotin ja Porkan samaa asiaa tarkoittavat „edl“, „jne.“, „etc.“ - merkinnät on säilytetty sellaisinaan.</p>
+            <p>- Runojen ryhmittely noudattaa väljästi SKVR:n traditiota, mutta erilaisia runostoja ei ole väkisin aseteltu samaan kaavaan. Runohakemisto auttaa löytämään yksityiset runot.</p>
+            <p>- Kirjallisuusluettelo kattaa kommenteissa ja laulajahakemistossa käytetyn kirjallisuuden, joka on lähinnä tukenut tekstien vertailua.</p>
+            <p>- Luvut „Kristfrid Ganander“ ja „Volmari Porkka“ ovat syntyneet toimitustyön oheisteksteinä. Porkan osalta luku antaa tietoa tämän huonosti tunnetun tutkijan elämästä, Gananderin osalta näkökulman hänen sanakirjatyöhönsä. Florinuksen ja Lönnrotin osalta viitataan kirjallisuuteen, jota on saatavilla riittävästi.</p>
+            <p>Tähän kirjaan on moni ihminen työn eri vaiheissa vaikuttanut. Edellä mainittujen pohjatöiden tekijöiden ja pikakirjoituksen purkajien lisäksi on mainittava atk-kirjoituksen Lönnrotin ja Porkan osalta suorittaneet Ewa Tallgren, Anneli Pitkänen ja Eija Hukka. Valtaosan Gananderin ruotsinkielisistä selityksistä tarkisti ja monessa muussakin sanakirjan tulkintaongelmassa auttoi Liisa Nuutinen Kotimaisten kielten tutkimuskeskuksessa. Mikko Europaeus avusti toimitustyön viimeisessä vaiheessa, ja alue- ja paikkakuntahakemisto on pitkälti hänen laatimansa. Irma-Riitta Järvinen, Ulla Lipponen ja Lea Timonen lukivat vedoksia ja tarkistivat numeroita. Työtoverit SKS:n kansanrunousarkistossa, kustannusosastolla, kirjastossa ja lähipiirissä ovat olleet tukena keskusteluin ja erikoisalojensa kyvyin. Kaikille kiitos.</p>
+            <p>Helsingissä 14. 9. 1997 </p>
+            <p>Toimittajat</p>
+            <p>
+                <hi rend="i">Viitteet</hi>
+            </p>
+            <p>1. Borenius sai yli kymmenessä vuodessa valmiiksi 34 tekstiä kommentteineen; tällekin antoivat painoluvan muut, ei tekijä itse. Borenius joutui vaihtamaan alaa. Tätä suuren epäonnistumisen tarinaa muistellessa usein unohtuu se paradoksaali tosiasia, että kaikki SKVR:n toimittajat joutuivat myöhemmin vanhojen aineistojen osalta tukeutumaan Boreniuksen perusselvityksiin.</p>
+            <p>2. SKVR:n XIV osan liitteenä oli Jouko Hautalan historiikki „Suomen kansan vanhojen runojen julkaisutyön vaiheita“ ynnä luettelo suurteoksen tilaajista ja myöhemmistä omistajista (1950). Oppihistoriallisissa puitteissaan runojulkaisun pitkä syntyprosessi käydään läpi myös Hautalan teoksissa <hi rend="i">Suomalainen kansanrunoudentutkimus</hi> (1954, s. 171-178, 197-203, 252-253, 337 ja 348-349) sekä <hi rend="i">Finnish Folklore Research</hi> 1828-1918 (1969, s. 60-62, 76-81, 118-120, 163, 170).</p>
+            <p>3. Syynä Väinö Salmisen reaktioon oli todennäköisesti, että juuri hänen toimittamansa Inkerin ja Etelä-Karjalan osat olivat herättäneet äreää arvostelua. Valvojassa 1932 Kaarle Krohn oli osoittanut, että E. N. Setälan teoksessaan <hi rend="i">Sammon arvoitus</hi> s. 85- 91 tärkeinä johtolankoina esittelemät SKVR-säkeet „tao kokka Tomenen päähän“ (IV 1357:47) ja „sai hän saaren salvajaksi“ (III 1206:28) perustuivat Groundstroemin käsikirjoituksen ja Porkan pikakirjoituksen virheelliseen tulkintaan: Tomenen pro tammen, saaren pro saanin. Harmistunut Setälä vaati, „että Suomalaisen Kirjallisuuden Seura, kun suuri kokoelma on kokonaisuudessaan julkaistuna, toimituttaa jälkitarkastuksen ja julkaisee sen aiheuttamat oikaisut erikseen teoksen lopussa, jotta tutkija ainakin suurin piirtein voisi täysin luottaa tähän kallisarvoiseen julkaisuun“ („Taistelu Sammosta“, Kalevalaseuran vuosikirja 1933, 336).</p>
+            <p>4. Florinuksen elämästä ja sananlaskutyöstä ks. Martti Rapola: „Henrik Florinus. Elämäkerrän ääriviivoja“ (Varsinais-Suomen maakuntakirja 3, 1929); Matti Kuusi: „Vanhin suomalaisten sananlaskujen kokoelma“ (Kalevalaseuran vuosikirja 31, 1951) ja <hi rend="i">Vanhan kansan sananlaskuviisaus</hi> (1953), 455-461; Matti Oja: „Laurentius Petri Tammelinus, sananlaskujen kerääjä“ (Lounais-Hämeen Kotiseutu-ja Museoyhdistyksen vuosikirja 37, 1968).</p>
+            <p>5. Päätös syntyi Ganander-selvityksen yhteydessä. Florinuksen sananlaskut nousivat jatkuvasti esiin Gananderin sanakirjan säemateriaalistaja tavallaan vaativat itselleen oman tilansa.</p>
+            <p>6. Runot oli tässä vaiheessa jo numeroitu, eikä niitä ei enää ollut mielekästä ryhtyä purkamaan. Irtosäkeisiin on lisätty viitteitä runoihin, joihin ne voisivat sopia tai joiden avulla niiden kontekstia voi ryhtyä etsimään.</p>
+            <p>7. Kumpikin on lisäksi kommentoinut ja paikoin työstänytkin tekstejä tämän urakkajaon ohi. Matti Kuusen tekemiä ovat yllä esitetyn työnjaon ulkopuoliset tekstit XV 184, 188, 190, 191 ja Senni Timosen vastaavasti XV 81, 205, 206 sekä joiltakin osin esim. tekstit XV 75, 79, 90, 362 ja paljolti 373.</p>
+            <p>8. Gananderilta puuttuvat kohdat on tällöin täydennetty tekstiltään lähimmässä säilyneessa kopiossa - yleensä Gottlundin tai C. H. Aspin kopioissa, joskus PJ:ssa - tavattavilla säkeillä. Syvällisempi Porthanin ja Gananderin aineistojen rajankäynti, tehtävänä ehkä mahdoton, on näissä ja koko XV-osassa jätetty tekemättä. - Porthaniin tukeutuvia tekstejä lukuunottamatta lyriikkaan ja tilannerunouteen luokitellut tekstit Ganander-jaksossa ovat ylipäänsä epävarmempia kuin epiikka ja loitsut. Tämä johtuu sekä lajien labiilista luonteesta että ko. aineiston suppeudesta Gananderin sanakirjassa.</p>
+            <p>9. Rekonstruktio-käsite tässä ei siis liity runojen muinaisuuteen projisoituun alkumuotoon.</p>
+            <p>10. Vastineettomimpia ovat rahvaanrunotekstit XV 208-210, ks. niiden kommentaaria s. 92-93.</p>
+            <p>11. Alue- ja paikkakuntahakemisto keskittyy erityisesti Gananderin osalta toimittajien kommenteissa esiin nostamiin viittauksiin. Pitäjä tasoa laajemmissa kokonaisuuksissa on noudatettu pelkistämisen periaatetta hakemiston käytön helpottamiseksi. Näin on tehty mm. silloin, kun kommentin maantieteellinen osviitta on selvästi paikallista mutta yleensä kuitenkin pitäjittäin määrittelematonta. Esim. „Vienan Karjala yleensä“ -kategoria sisältää näin viittauksia mm. alueen eteläiseen, läntiseen ja luoteiseen osaan. Vastaavasti moni runon kulttuurista taustaa hahmottava määre („itäinen“, „läntinen“, „karjalainen“ jne.) on nivottu maantieteellisiin yleiskategonoihin („Itä-Suomi“, „Länsi-Suomi“, „Karjala“).</p>
+            <p>12. Lönnrotin käsialojen vaihtelevuus kokoelmassa 11 olisi tutkimuksen aihe sinänsä. Näitä tekstejä toimitus ei ole tohtinut ajoittaa käsialan perusteella tekstien lyhyyden ja kynien ja käsialojen moninaisuuden vuoksi.</p>
+            <p>13. Perttusen työ jakaantuu kahteen osaan. I käsittelee Lönnrotiana-kokoelmaa yleisesti, II on koko Lönnrotianan numerojärjestyksessä kattava luettelo, johon on myös poimittu runoja valaisevaa tietoa kirjallisuudesta ja Boreniuksen esitöistä. Lönnrotin runojen kommenteissa SKVR XV:ssa ei systemaattisesti viittailla Perttusen osaan II, jossa monesta nyt julkaistusta runosta on jotakin sanottu, vaan pelkästään silloin kun P:n kommenttia jotenkin kommentoidaan. On siksi syytä nyt johdannoksi suositella Perttusen luettelo-osaa käsikirjana ja todeta sen hyödyllisyys myös tässä työssä.</p>
+            <p>14. Ks. myös Perttusen tiivistelmä julkaisemattomuuden syistä mts. 85-96.</p>
+            <p>15. Uusimittaisen ja kalevalamittaisen runon laajaa mitallista rajamaastoa ei ole tähän haravoitu. Mukaan on otettu sellaisia uusimittaisia tekstejä, joissa käytetaan kalevalamittaiseen runostoon sisällöllisesti kuuluvia aihelmia.</p>
+            <p>16. Ks. Perttunen mts 86-88, 92</p>
+            <p>17. Vanhaa yleiskäsitettä rahvaanrunous käytetään tässä kaikista kalevalamittaisista yksilöllisten, useimmiten nimeltä tunnettujen runoilijoiden tekemistä, mutta tyyliltään kansankulttuutin piiriin kuuluvista runoista.</p>
+            <p>18. Lönnrotiana 1-30:een sisältyvien rahvaanrunojen lisäksi Kirjallisuusarkiston Lönnrotiana-kokoelmassa on 106 rahvaanrunoa, joten Lönnrotin rahvaanrunojen kokonaismäärä on lähes 300. Ks. Kaisa-Marja Perttunen „Lönnrot ja rahvaanrunous“ (Kalevalaseuran vuosikirja 55 (1975).</p>
+            <p>19. Tällaisia ovat esimerkiksi sikermä Lönnrotiana 14:542-538 - outo sekoitus ilmeisen kirjallisperäistä ja alkuperaisen pohjoiskarjalaista perinnettä - sekä Lönnrotiana 21 kokonaisuudessaan. Edellinen on otettu mukaan kokonaisuutena (ks. XV 645 komm.), jälkimmäisestä on valittu muutama teksti (ks. XV 387 &amp; komm., 667- 669).</p>
+            <p>20. Kadonneiden lähteiden ongelmasta ks. Matti Kuusi „Viisikerroksinen Kalevala“ (Kalevalaseuran vuosikirja 64, 1984).</p>
+            <p>21. Lönnrotin runojen työstöhistoria käsikirjoituksista SKVR XV:n sivuille on monivaiheinen: 1) SKS:n konekirjoittaja Anna Laasola - käytyään vanhojen käsialojen kurssin - kirjoitti 1970-luvulla koko julkaisemattoman Lönnrotianan korteille. 2) 1970-luvun puolivälissä Kaisa-Marja Perttunen tarkisti ja korjasi konekirjoitetut tekstit käsikirjoituksiin verraten. 3) Osan XV sananlaskurunot kokoelmista Lönnrotiana 11 ja 70 Matti Kuusi kirjoitti käsin korteille 1990-luvulla. 4) Kaikki tässä teoksessa julkaistut tekstit on nyt vielä tarkistettu käsikirjoituksiin verraten. - Lönnrotin muistiinpanot eivät aina ole helppolukuisia, joten varotoimenpiteet tuskin estävät kaikkia virheitä (ks. esim. XV 605, komm.).</p>
+            <p>22. Viimeisiä tarkistuksia tehneen maisteri Anna-Liisa Vallan mielipide.</p>
+            <p>23. Esimerkiksi „äänellisten“ ja „äänettomien“ konsonanttien tai diftongien (uo, yö, ie) ja murteessa tavallisten pitkien vokaalien (esim. oo, ee, uu, ii) erot eivät Porkan mukaan näy pikakirjoituksessa (matkakertomus, Suomi II:19, 168-169). Nähtävästi runot on näiltä osin hieman eri tavoin purettu, riippuen siitä onko purkaja ollut Porkka itse vai joku muu.</p>
+            <p>24. Luku perustuu Saima-Liisa Laatusen laskelmiin. Salminen esittää <hi rend="i">Kertovien runojen historiassaan</hi> (Suomi V:8, 74) koko matkan tulokseksi 1751 tekstiä. Erot voivat johtua kirjoista opittujen ryhmästä, jota ei julkaistu SKVR:ssa sekä siitä, että Porkka ehkä vielä purki laskutoimituksensa jälkeen jonkin verran lisää tekstejä.</p>
+            <p>25. Saima-Liisa Laatusen työ on hyödyntänyt inkeriläisen kansanrunouden tutkimusta enemmänkin kuin mitä osassa XV nyt näkyy. Tärkein tulos lienee Porkan pikakirjoitusvihkojen luettelo. SKVR:ssa aiemmin julkaistu aineisto oli nimittäin 1800-luvulla valitettavasti etäännytetty kenttävihkoista niin perusteellisesti, ettei tietoa runojen keruujärjestyksestä ole ollut 13 kenttävihkon (a-k, 1-5) luettelot keruujärjestyksessä SKVR-viitteineen korjaavat tilanteen. Nämä Saima-Liisa Laatusen työstämät ja Senni Timosen täydentämät luettelot ovat konsepteina Kansanrunousarkistossa.</p>
+            <p>26. Runo-otsikon sisällä runot on järjestetty SKVR:n vanhaa maantieteellistä ajattelua noudatellen: ensisijaisesti lännestä itään, toissijaisesti pohjoisesta etelään. Runon tai aihepiirin ensimmäiseksi esimerkiksi on, tästä periaatteesta poiketen, pyritty valitsemaan mahdollisimman täyteläinen teksti.</p>
+            <p>KRISTFRID GANANDER</p>
+            <p>Kristfrid Ganander syntyi 11. 11. 1741 Haapajärven kappalaisen Tuomas Gananderin poikana. Isä oli Reinholmin mukaan yksi niistä 28 suomalaisesta Ruotsiin joutuneesta pakolaispojasta, jotka piispa Gezelius kustansi 1713 opintielle Upsalan yliopistoon, palautettaviksi 1721 Suomeen, paikoille papittomille. Ehkäpä tulevan sanakirjantekijän kielitaito ja kiinnostus eri kielten vertailuun selittyy osin isän Upsalan-taustasta.</p>
+            <p>Siihen että 10-vuotiaana isättömäksi jäänyt Kristfrid varttui sukupolvensa merkittävimmäksi suomen kielen tuntijaksi, vaikutti ratkaisevasti toinen onnekas onnettomuus. Kristfrid sijoitettiin - äidin uudelleen avioituessa - äidinisänsä Kauhajoen kappalaisen Henrik Hideenin (1680-1766) hoiviin. Neljän muun Ilmajoen pitäjän papin (Bartholdus Vhaëlin, Gabriel Peldanin, C. F. Mennanderin ja Carl Reinin) kera Hideen oli kuulunut „totisen fennofiilin“ Daniel Jusleniuksen ja hänen sanakirjahankkeensa varhaisiin tukijoukkoihin. Pelottomasta ja uutterasta, sekä suomea että ruotsia osaavasta tyttärenpojasta tuli vanhan Hideenin oikea käsi. Kristfrid pääsi 1755 Vaasan kouluun ja 1760 ylioppilaaksi Pohjalaiseen osakuntaan. Hän kirjoitti 1766 muistorunon Hideenistä ja välitti tämän kokoelmat kuraattoriveljensä H. G. Porthanin kopioitaviksi.</p>
+            <p>Kysymys oli uudesta, noin vuonna 1763 ideoidusta suomen kielen sanakirjaprojektista, uudesta Jusleniuksesta. Turussa organisoitiin aineiston keruuverkko, vaihdettiin ja yhdisteltiin löytösaaliita, luettiin kunnioittavasti Porthanin ja hänen oppilaidensa opinnäytteitä.</p>
+            <p>Merkillistä kyllä Porthanille näyttää selvinneen vasta 1780-luvulla, että syrjäisen Rantsilan kappalainen „ahkera Ganander“ oli päättänyt toteuttaa vitkaan edenneen sanakirjahankkeen omissa nimissään.</p>
+            <p>Näkemättä itse aineistoa mutta Gananderin avut ja vajavuudet tuntien Porthan oli varma siitä, että maalaispapin kyvyt eivät riittäisi akateemiset mitat täyttävään työsuoritukseen. Samaa mieltä olivat ystävät Turussa ja Upsalassa. Ongelmana oli intoa ja itseluottamusta säteilevä Kristfrid, ehkä myös hänen pohjoissuomalainen keruuverkkonsa.</p>
+            <p>Porthan valitsi pehmeän strategian. Noin vuonna 1783 hän luovutti pääosan omista aineksistaan Gananderin käyttöön. 1784 hän kirjoitti vanhalle ystävälleen arkkipiispa C. F. Mennanderille kaksi vakavaa kirjettä Rantsilan papin „tiukempaa kontrollia“ vaativasta kirjatuotannosta.</p>
+            <p>Huhti- ja lokakuussa 1784 päivättyjen kirjeiden tiedepoliittinen ydin oli sama:</p>
+            <p>- Siikajoen Rantsilassa on eräs kappalainen, maist. Ganander, joka työskentelee lujasti Jusleniuksen sanakirjan suuresti lisätyn laitoksen kimpussa; olen luovuttanut hänelle kaikki tämän alan keräelmäni. Samoin haluaa hän julkaista uudelleen Proverbiale Fennicumin, mitä tarkoitusta varten olen niinikään lähettänyt hänelle aineksia. Äskettäin hän painatti Vaasassa kokoelman suomalaisia arvoituksia, puolenkolmatta arkkia 8:o koossa. Hän on hyvin ahkera ja vahva suomalainen, mutta tiukemman kontrollin tarpeessa.</p>
+            <p>- Ahkera maist. Ganander on kovasti kartuttanut Proverbiale Fennicumia, joka nyt on tarkastettavanani; sillä tarkastamista kyllä tarvitsevat hänen työnsä, niinkuin hyvin näkyy hänen Aenigmata Fennicastaan, puolenkolmatta arkkia 8:o, Vaasa 1783, ja Uudemmista ulosvalituista saduistaan (käännoksiä, enimmäkseen suorasanaisina), sama paikka 1784, 9 1/4 arkkia 8:o ym., jotka hän on painattanut. Hänen sanakirjaansa aion kuitenkin tarkastella yhdessä joidenkin ystävien kanssa ennen sen painoon lähettämistä.1</p>
+            <p>Ilmiannon pääargumenttina oli <hi rend="i">Aenigmata Fennican</hi> tapaus. Merkillista kyllä sen luonne selvisi jälkimaailmalle vasta vuonna 1962, tutkija Leea Virtasen syventyessä Suomen enigmatologian alkuvaiheisiin.2</p>
+            <p>Vastoin yleistä luuloa Gananderin arvoituskokoelmaa on painettu kaksi erikokoista painosta. Vaasalaisessa Londicerin painossa on ensin tehty laajempi painos, jonka ainoat säilyneet kappaleet ovat päätyneet Helsingin yliopiston ja SKS:n kirjastoon. Lisäksi on tavattu kaksi sen käsin kirjoitettua kopiota. Myöhemmin samana vuonna 1783 valmistui suppeampi painos, <hi rend="i">Aenigmata Fennica, Suomalaiset Arvoituxet vastausten kansa.</hi> Siitä puuttuu 39 laajemman laitoksen arvoitusta: joukko kirkkoa, pappia ja kirkonkelloa tarkoittavia arvoituksia, ynnä arvoituksia joissa mainitaan sukupuolielämään, ulostamiseen tms. viittaava sana tai jotain muuta arkaluontoista.</p>
+            <p>Arkkipiispan reaktiosta ei tiedetä. Mikään ei viittaa siihen, että Ganander olisi joutunut julkihäpeään <hi rend="i">Aenigmata Fennican</hi> ensipainoksen takia. Kyseessä oli 1784 Porthanin varoituslaukaus, jonka varsinaisena kohteena ei ollut pikku arvoituskirja vaan puhtaaksikirjoitusvaiheeseen ehtinyt <hi rend="i">Nytt Finskt Lexicon </hi>lukemattomine rivoine tai pakanallisine hakusanoineen.</p>
+            <p>Sopuratkaisun hintana oli todennäköisesti Gananderin lupaus lähettää sanakirja heti valmistuttuaan Porthanin tarkastettavaks.</p>
+            <p>Kun „sangen runsassanainen, vielä painamaton sanakirja“ (Porthanin kuvaus) joulukuussa 1787 valmistui ja 1788 saapui Turkuun, Porthanille valkeni sangen pian, että noin 8400-palstainen vihkopino on tyyten muuta kuin mitä hän oli kuvitellut.</p>
+            <p>Yhdeksästä kokoon ommellusta vihkosta ensimmäiseen, lehtien 1-23 poikki, on tarmokas käsi vetänyt vinoviivan toisensa jälkeen. Sitten poistomerkit harvenevat ja käyvät lehden 46 jälkeen satunnaisiksi. Useimmat alun poistot kohdistuvat Gananderin kielellisiin rinnastuksiin ja etymologioihin. Hakusanan „Hakkaa päälle“ ja siihen liittyvän „Gloriosissimo Gustavo Adolpho“- hovikumarruksen poistoehdotus sivulla 97 on melko varmasti vuoden 1808 jälkeistä varovaisuutta. Myös aukean 104-105 pystyviivat (hakusanojen hamara ja hame yhteydessä) ovat ilmeisesti jonkun muun kuin alkusivujen viivoittajan tekoa.</p>
+            <p>Melko nopeasti siis H. G. Porthan (tai hänen luottomiehensä) oivalsi, ettei aika eikä kompetenssi riittänyt Gananderin monumentin purkamiseen ja uudelleen rakentamiseen. Ensi alkuun Porthan tyytyi tarjoamaan ystävilleen mahdollisuutta täydentää sanakirjavihkoja omilla lisätiedoillaan. Vain Johan Helsingberg, yksi 1760-luvun intomiehistä, käytti estottomasti tilaisuutta hyväkseen ja kylvi etenkin Laitilan ja Turun murteiden näytteitä kolmeen lainaksi ottamaansa vihkoon. Porthan itse palasi oman välilehditetyn Jusleniuksen sanakirjansa täydentelyyn.</p>
+            <p>Tasan vuoden kuluttua Gananderin kuolemasta ruotsalainen tutkija, tuleva piispa C. G. Nordin lähetti 18. 2. 1791 Porthanille erikoislaatuisen onnittelukirjeen:</p>
+            <p>On enemmän kuin hyvä, että saamme suomalaisen sanakirjan, jota kovasti tarvitsemme, ja kaikkein parasta on, jos se tulee Veljen käsitse, sillä kaikesta tiedostaan ja hyvästä tahdostaan huolimatta eivät tekijän (Gananderin) kaltaiset miehet useinkään täytä toivottavia mittoja. Nyt sitä vastoin teos tulee juuri oikeaa tietä julkisuuteen.3</p>
+            <p>Kolme vuotta myöhemmin, 4. 2. 1794, kyseli toinen tuleva piispa M. J. Alopaeus Porvoosta „Eiköhän ole toivoa, että pian saamme nähdä parannetun suomen sanakirjan painettuna? Olisi varsin hyödyllistä ja ilahduttavaa.“4</p>
+            <p>Tämänlaatuiset viestit epäilemättä häiritsivät Porthania, joka oli 1790 laatinut Åbo Tidningar -lehteen muistokirjoituksen ahkerasta kelpo maalaispapista ja keskittynyt Turun Akatemian kirjaston historian toimitustyöhön.</p>
+            <p>Aikaa myöten kyselyt harvenivat. Rantsila vaikeni. H. G. Porthanilla (1739-1804) oli suurmiehelle tarpeellinen kyky sivuuttaa asiat, joille ei voinut mitään. Vuonna 1801 hän sijoitti oppilaansa Joh. Sareliuksen suomen päämurteita käsittelevään gradu-työhön alanootiksi eräänlaisen kättenpesu-raportin:</p>
+            <p>Ennen kuolemaansa hän [G.] lähetti monien vuosien uurastuksella kerätyn ja järjestetyn, yhdeksänosaisen (kaikki osat eivät ole yhtä suuria) ja kvarttokokoisen teoksensa herra esimiehelle [P:lle] (joka oli mahdollisuuksiensa mukaan pyrkinyt edistämään hänen kiitettävää hankettaan toimittamalla hänelle tämänkaltaisia kokoelmia, joita eritoten ystävät ovat hänelle hyväntahtoisesti kaikkialta lähettäneet) pyytäen, että hän huolehtisi sen julkaisemisesta. Esimiehellä ei missään tapauksessa ole aikomusta jättää asiaa sikseen. Tosin ensin on hankittava muitakin apuneuvoja ja jatkuvasti ahkeroitava työn loppuunsaattamiseksi ja valmistamiseksi keräämällä edelleen joidenkin murteiden sanavaroja, lisäämällä tai poistamalla sanontoja, määrittämällä tarkoin sanojen merkitystä, tutkimalla sanojen alkulähteitä ja variantteja ja niin sanoakseni esittämällä niiden syntyperä, jne. Asiaintila on vaatinut häntä huolehtimaan siitä, että tätä kielemme aarteistoa toistaiseksi säilytetään Akatemian kirjastossa kunnes ilmaantuu tilaisuus sen julkaisemiseen.5</p>
+            <p>Porthan oli oppinut säilyttämään kasvonsa tiedepolitiikan ylläköissä. Hän korosti sopivissa yhteyksissä suomalaisuuttaan, mutta ei erehtynyt tehtäviin, joissa hänen suomen taitonsa olisi tullut testatuksi. Vinoviivat <hi rend="i">Nytt Finskt Lexiconin</hi> ensi vihkon alussa ynnä sanakirjasta Gananderin julkaistavaksi irrotettu <hi rend="i">Mythologia Fennica</hi> olivat riskittömän selkeä perustelu sille, miksi „kielemme aarteisto“ pantiin jäihin - toistaiseksi.</p>
+            <p>*</p>
+            <p>Kristfrid Ganander ei enää nähnyt suurteostaan. Mies ja monumentti erkanivat, alkoivat kumpikin elää omaa erillistä elämäänsä.</p>
+            <p>Myös Ganander osasi pelata aikakauden säännöilla. 28. 4. 1785 päivätty ja 1789 tekijän kustannuksella Turussa painettu <hi rend="i">Mythologia Fennica</hi> alkaa ennätyksellisen syvillä hovikumarruksilla Porthanin suuntaan ja päättyy artikkeliin „Österbotn“ ynnä maaherrain luetteloon. Niiden yhteys Suomen mytologiaan on epäselvä, kirjan painolupaan ja menekkiin ilmiselvä.</p>
+            <p>Varhainen ja yhä informatiivinen „elämäkerrallinen yritys“ on A. V. Forsmanin (Koskimies) kirjoitus „Kristfriid Ganander. Eräs Porthanin työkumppani“ Joukahaisessa 1887. Gananderin kirjailijantyötä on ehkä terävimmin valaissut Viljo Tarkiainen artikkelissa „Kristfrid Ganander, Porthanin työtoveri“ Virittäjässä 1941.6 Melko kattava bibliografia löytyy Juha Pentikäisen toimittamasta <hi rend="i">Mythologia Fennicasta</hi> 1995. <hi rend="i">Nytt Finskt Lexiconin</hi> syntyhistoriaa ovat syvälti valaisseet Annamari Sarajaksen ja Osmo Hormian väitöskirjat 1956 ja 1961.</p>
+            <p>Gananderilla oli varaa olla oma itsensä loppuiän traagisissa koettelemuksissa. Syvin ehkä oli puolison Magdalena Siniuksen kuolema 1784, lähtö siunattuun maahan, jossa odotti äitiään kaksitoista lapsivainajaa. Kristfrid oli nuoruudessaan kokeillut lapidaarisinta runouden lajia: kiveen sana sanalta hakatun suruviestin kiteytymää. Se oli 1730-luvulla tullut väliaikaisesti muotiin Ruotsissa ja Suomessa. Nyt yllättävästi maneeri kivettyi runoilijan hurjaksi persoonalliseksi yksinpuheluksi.</p>
+            <p>Esteetikot olivat toista vuosisataa ymmällä. Tarkiaisen mielestä Gananderin „hautakammio- ja kirkkomaarunoissa on suoranaista mauttomuutta esim. ruumiin mätänemistä kuvailevissa kohdissa“. Vuonna 1921 A. V. Koskimies kelpuutti yhden lapidaarinäytteen antologiaan <hi rend="i">Agricolasta Juteiniin.</hi> Sotien jälkeen lausuntataiteilija Liisa Majapuro esitti Gananderin kuolemanlyriikkaa hehkulla, joka järkytti kuulijat outoon ekstaasiin. 1963 Kai Laitisen ja Matti Suurpään toimittamassa <hi rend="i">Suomen kirjallisuuden antologia</hi> <hi rend="i">I</hi>:ssä Gananderia edustaa neljä hautarunoa, ei muuta.</p>
+            <p>Gananderista ei ole säilynyt muotokuvaa. H. A. Reinholm suunnitteli 1850-luvulla Gananderin elämäkertaa, haastatteli hänen aikalaisiaan ja merkitsi muistiin7:</p>
+            <p>„Tämän kertoi eräs vanha ukko Rantsilassa: Ganander lyhyt ja paksu mies, punertava tukka, veen karvaset hiukset, paksukasvoinen, hyvän luontonen. Oli pannut koululapsensaki vareksia pyytämään pesästä ja leikottanut vareksilta nokat poikki.“</p>
+            <p>„Vanha äijä taas sanoi: Sehän vasta oli ollut oikea filosofi ja mailman viisas.“</p>
+            <p>„Magister Alfred Keckmans upplysningar, erhållen genom förfrågningar af allmogen i Frantsila. En gång hade han, åtföljd af egen dräng, vare sig för att taga pastoralexamen, eller eljest, rest sig in till Åbo. Då skall drängen af folket i gården, der G. tagit in, hört denna opinion yttras: - Kas, tuossa koko Suomi tulee!“.</p>
+            <p>„Såsom barn, hade Ganander berättat om sig, hade han ofta suttit i sin faders famn, och han hade burit långt skägg. Sonen lät ej skägget växa.“</p>
+            <p>„Murman hörde af en g[amma]l slägtinge: Gan. samlade flitigt runor, traditioner m.m.. Af örter och koppakuorisia, til[be]redde hän läkemedel.“</p>
+            <p>„Samma dag han dog såg han frisk ut, men hade dödskänningar. Han samlade alla sina egna till andäktig aftonbön, tog ömt afsked af alla och dog par timmar derefter.“</p>
+            <p>Ganander kuoli talvella 1790 äkilliseen sairaskohtaukseen. Hautajaisista ja perunkirjoituksesta tuli ilmeisesti harvinainen kansanjuhla, jossa perilliset</p>
+            <p>yrittivät muuttaa rahaksi niin arkeologiset löydöt kuin harvinaisimmat kirjat ja kirjoitukset. Ganander-tutkimus on paljolti ollut Rantsilasta kadonneiden papereiden ja niistä eri tahoilla tehtyjen kopioiden tunnistamista.</p>
+            <p>Talon naisväen kerrottiin huolehtineen siitä, että Kristfrid-vainajan koko henkilökohtainen kirjeenvaihto poltettiin. Merillä kiertävä poika muka kuljetti Ruotsiin tai Englantiin asti arvo- ja muinaisesineitä myyntiin, mutta palasi Rantsilaan samana tyhjätaskuna kuin ennenkin.</p>
+            <p>Siikajoen nimismiehellä O. Salovilla, perunkirjoittajalla (?), näyttäisi olevan entyisansiot siinä, että huomattava erä Kristfrid Gananderin vanhoja papereita ohjautui aikaa myöten ihmisille, jotka ymmärsivät niiden arvon: Toppeliuksille, Alopaeuksille, K. F. Berghille, E. A. Crohnsille, Anders Törnuddille jne.</p>
+            <p>Turun Akatemian kirjaston palo 4. 9. 1827 merkitsi eräänlaista jumalantuomiota. <hi rend="i">Nytt Finskt Lexicon</hi> pelastui ja todistaa jälkimaailmalle Gananderin monumentaalia yhden miehen urotyötä. Todisteet Porthanin uurastuksesta korkeatasoisemman sanakirjan pohjustamiseksi tuhoutuivat - ehkä.</p>
+            <p>Kustaa Renvallin ja Elias Lönnrotin suomen kielen sanakirjat valmistuivat 1826 sekä 1874-1886 korvaamaan julkaisemattoman Gananderin aiheuttaman puutoksen. Lönnrot lausui julki ihmetyksensä siitä, ettei Ganander hoksannut rakentaa eeposta runoaineksistaan.</p>
+            <p>1937-1940 Y. H. Toivonen toimitti kolmiosaisen Gananderin sanakirjan näköispainoksen, johon SKVR XV nojaa. Teoksen viimeistelyssä oli jo apuna Liisa Nuutisen työstämä atk-pohjainen Gananderin sanakirjakorpus. Se julkaistaan kirjana syksyllä 1997.</p>
+            <p>Matti Kuusi</p>
+            <p>
+                <hi rend="i">Viitteet</hi>
+            </p>
+            <p>1. M. G. Schybergson: <hi rend="i">Henrik Gabriel Porthan. Lefnadsteckning. Senare delen</hi> (1911), 79.</p>
+            <p>2. Leea Virtanen: „’Suomalaisten Arwotusten’ eri painokset“ (Kalevalaseuran vuosikirja 42), 260-261.</p>
+            <p>3. Schybergson mts. 401.</p>
+            <p>4. Schybergson mts. 88.</p>
+            <p>5. Henrik Gabriel Porthan: <hi rend="i">Valitut teokset. Kääntänyt, esipuheen ja johdannot kirjoittanut Iiro Kajanto</hi> (1982), 325.</p>
+            <p>6. Folkloristiikan suunnalta mainittakoon esim. Martti Haavion „Mietteitä Gananderia tutkiessa“ (Sininen kirja 1930:1) ja „Rantsilan kappalainen Chr. Ganander“ (Kotiseutu 1956).</p>
+            <p>7. H. A. Reinholmin käsikirjoitus 96 („Biografiska och historiska anteckningar“) Museoviraston kirjastossa. Siteeratut muistiinpanot sivuilla 163, 166 (suomenkieliset sitaatit, joiden alla lukee: Länkelä) ja 172. Vrt. Koskimiehen suomennoksia ja referaatteja näistä muistiinpanoista SKS:n kirjallisuusarkistossa ja yllä mainitussa artikkelissa (erit. s. 45-46).</p>
+            <p/>
+            <p>VOLMARI PORKKA</p>
+            <p>Volmari Porkka oli tiettävästi ensimmäinen akateemiselle uralle lähtenyt suursaarelainen. Hänen isänsä oli talollinen Erik Porkka, mantereelta saarelle jo ainakin 1770-luvulla saapunutta merenkävijäsukua, äiti Helena Kiiski polveutui Kiiskinkylän kanta-asukkaista. Volmari syntyi evakkomatkalla Vehkalahdella 5. 8. 1854, Englannin ja Ranskan sotalaivojen piirittäessä Suomen rannikoita.</p>
+            <p>Suursaaren pappi Sillfors pani merkille kiiskinkyläläisen pikkupojan älynlahjat, ja vastoin tahtoaan Volmari vietiin syksyllä 1862 Loviisaan oppimaan ruotsia Maria Sibeliuksen alkeiskoulussa. Vuotta myöhemmin hän pääsi Loviisan alkeiskouluun ja sieltä 1869 Porvoon lukioon. Tultuaan ylioppilaaksi hän syksyllä 1872 aloitti suomen ja kreikan kielen sekä pohjoismaiden historian opinnot Helsingissä.</p>
+            <p>Varattomuus keskeytti Volmari Porkan luvut syksyllä 1874. Yliopiston vararehtori, pohjoismaiden historian professori Zachris Topelius suositteli häntä langolleen, raatimies J. A. Lybeckille, joka etsi Helsingin kouluun pyrkiville pojilleen Paulille (s. 1861) ja Mikaelille (s. 1864) kotiopettajaa. Vuosi uuskaarlepyyläisessä patriisiperheessä on ilmeisesti merkinnyt Porkalle paitsi rahantuloa myös elämäntaidon kurssia. Työsuhde loi pohjaa kestäville ystävyyssuhteille: intiimiä kirjeenvaihtoa talon tyttären Mimmi Lybeckin (s. 1851) kanssa jatkui toistakymmentä vuotta, ja tuleva merimaisemien runoilija Mikael Lybeck sai Topeliusten ja Lybeckien omistaman Alörnin saaren vesillä ylimääräistä purjehdustaidon opetusta. Pikkupoikien saapuessa syksyllä 1875 Helsinkiin olivat isoveli John (s. 1853) ja Porkka yhdessä vastassa asemalla, kertoo Erik Kihlman.1</p>
+            <p>Porkan lähimpiä tovereita näyttää tähän aikaan olleen Gustaf Richard Jansson, joka 8. 10. 1874 lähetti Volmarille Uuteenkaarlepyyhyn pitkän kirjeen; siinä hän kuvaili Kotkassa käytyä jaalojen kilpailupurjehdusta mutta myös Uusmaalaista osakuntaa, missä „ylioppilaiden iso lauma riitelee niin kuin tavallista, tätä nykyä uudesta kansanvalistusseurasta“. Etupäässä Porkalta saatuihin tietoihin nojaten nimimerkki „Rikhard“ sittemmin kirjoitti Nylands Nationin albumiin laajahkon kuvauksen Hogland-saaresta.2</p>
+            <p>SKS:n kirjallisuusarkistossa säilytetään joitakin Porkan opintojensa loppuvaiheessa laatimia, osaksi sangen persoonallisia pohtielmia: „Silmäys Suomenmaan oloihin Nierothin aikana 1710-1712“, „Olympian kilpaukset“, „Sokrateen syyllisyys“, „Klaus Eerikinpoika Fleming“ (1875), „Aiskylon runous“ (1876).</p>
+            <p>Valmistuttuaan 28. 5. 1877 filosofian kandidaatiksi Porkka kiinnitettiin maantiedon, historian ja voimistelun, sittemmin myös kreikan kielen opettajaksi Suomalaiseen alkeisopistoon. Suomen kielen opettajana hän oli kokeillut jo Uudenkaarlepyyn tyttökoulussa ja jatkoi työtä Helsingin ruotsalaisessa yksityislyseossa ja suomalaisessa tyttökoulussa. Erityisesti hän, samoin kuin samoja aineita osaksi samoissa kouluissa opettanut lehtori G. R. Jansson, harrasti kouluvoimistelun kehittämistä. Suomalaisen alkeisopiston, sittemmin Suomalaisen Normaalilyseon opettajisto muodosti yhden Helsingin keskeisistä suomenkielisistä kulttuuriahjoista; etenkin A. V. Strengiin ja Arvid Genetziin nuori Porkka solmi lujat ystävyyssuhteet. Entiset oppilaat muistelivat vielä vuosikymmeniä myöhemmin, miten heidän ihailtu opettajansa sai luokan eläytymään antiikin sankaritaruihin.</p>
+            <p>Nylands Nation oli A. O. Freudenthalin kuraattorikaudella 1868-1880 muuttumassa maltillisten fennojen osakunnasta jyrkkien „viikinkien“ linnakkeeksi. Osakuntatoveriensa, dosentti E. G. Palmenin ja amanuenssi Valfrid Vaseniuksen kanssa Volmari Porkka asettui osakunnassa „antisvekomaanisen“ vähemmistön johtoon. Historiantutkija Matti Klinge pitää merkittävänä aatteellisena käännekohtana ylioppilaskunnan 15. 11. 1878 järjestämää Topeliusjuhlaa, jossa mainitut kolme uusmaalaista, Palmén, Porkka ja Vasenius, olivat pääpuhujina: „Oli löydetty myönteinen patrioottinen sävy, jossa historiallisuus ei tukeutunut Ruotsin ajan muistojen ylistämiseen eikä torjumiseen, vaan Suomen oman 1800-luvun saavutusten tarkasteluun.“3</p>
+            <p>Myös Floran päivän juhlassa 1879 uusmaalainen Volmari Porkka sai tehtäväkseen puhua koko ylioppilaskunnan tulkkina sovinnon sanoja. Kuitenkin hän samaan aikaan varoitti oppilastaan Kustavi Grotenfeltia hakeutumasta Uusmaalaiseen osakuntaan: „Olo siinä sinua vain kiusoittaisi.“ Enemmistö näet teki parhaansa tehdäkseen kymmenien suomenkielisten aseman osakunnassa sietämättömäksi. Mutta lukuvuodeksi 1880-1881 Porkka valittiin ylioppilaskunnan varapuheenjohtajaksi, ja 1881 osakunnan suomenkielinen vähemmistö perusti hänen johdollaan yhdistyksen nimeltä „Uusmaalaiset suomenmieliset“.</p>
+            <p>Aikalaiset muistelivat kauan akateemisia puheita, joita Volmari Porkka tässä elämänsä vaiheessa joutui pitämään milloin vihkiäisissä, milloin hautajaisissa. „Nekin, jotka eivät ymmärtäneet suomea, ihastuivat tuohon erinomaisen kauniiseen, sointuvaan ääneen, tuohon vaatimattomaan, mutta samalla miehekkääseen esiintymiseen, tuohon sydämellisyyteen, joka ilmeni koko hänen olennossaan“. Niin kertoo Ester Äijälä lämminhenkisessä, paljon ensi käden tietoa sisältävässä pienoisbiografiassaan.4</p>
+            <p>Hyvin käyttäytyvistä, pelottomista, virheetöntä suomea puhuvista ja kirjoittavista maistereista ei ollut liikatarjontaa 1870-ja 1880-luvun Helsingissä. Volmari Porkasta tuli 1879 August Ahlqvistin perustaman Kotikielen Seuran varapuheenjohtaja ja samana vuonna myös Biografisen nimikirjan ensimmäinen toimittaja. Vuoden 1882 valtiopäivillä hän toimi pappissäädyn notaarina.</p>
+            <p>Kauaskantoisin aloite, johon Volmari Porkka noina elämänsä puuhakkaimpina vuosina ryhtyi, oli uuden aikakauslehden Valvojan perustaminen väsähtäneen Kirjallisen Kuukauslehden tilalle. Sen muista perustajista Valfrid Vasenius oli syntynyt 1848, E. G. Palmén 1849, O. E. Tudeer 1850 ja J. R. Danielson 1853. Tudeer muisteli 25 vuotta myöhemmin perustajapiirin kuopusta lämpimän ihailevasti:</p>
+            <p>Viidenneksi mieheksi oli toimitukseen saatu nuori lupaava kielentutkija Volmari Porkka, Suomen suomalaisen kansan keskuudesta lähtenyt mies, suursaarelainen, jonka kielitaito pulppusi tuoreena ja raittiina kansankielen syvistä suonista - kaunis, kirkasluontoinen mies, joka uhrasi henkensä Suomen sukukielten tutkimukselle ja aikaiseen temmattiin pois elävien piiristä, mutta jonka muisto elää valoisana kaikissa, jotka häntä tunsivat.5</p>
+            <p>
+                <hi rend="b">Inkerin matkamies</hi>
+            </p>
+            <p>Pedagogin ja yhteiskunnallisen vaikuttajan uralta Volmari Porkka päätyi Elias Lönnrotin ja M. A. Castrënin jäljille: rutkimusmatkailijaksi ja tutkijaksi.</p>
+            <p>Varmaan muutkin kuin mies itse olivat panneet merkille, mihin hänen lahjansa ja kokemustaustansa viittasivat. Pikkupojasta lähtien hän oli tottunut liikkuvaan, riskialttiiseen elämään. „Itse ruumiiltaan harvinaisen terve, voimakas ja kaunis: pitkä, solakka, harteva, mieleltään reipas, iloinen ja puhdas oli hänen helppo saada nuoria innostumaan kaikellaisiin harjoituksiin ja leikkeihin“, kertoo Ester Äijälä ja valaisee pikku anekdootein Porkan kykyä häivyttää kansanihmisten epäluulot ja valloittaa eritoten naisten sydämet.6</p>
+            <p>Keväällä 1882 sattui Kotikielen Seurassa, August Ahlqvistin 1876 perustamassa suomen kielen tutkijain ja opiskelijain järjestössä, yllättävä välikohtaus. Nuoret miehet A. V. Forsman (Koskimies) ja O. A. F. Lönnbohm olivat ihmetelleet sitä, miten M. A. Castrénin elämäntyö oli jäämässä unohduksiin, ja ehdottaneet perustettavaksi stipendin niitä varten, jotka halusivat seurata suuren tutkimusmatkailijan esimerkkiä. Puheenjohtaja Ahlqvist oli ollut poissa kokouksesta, mutta pöytäkirjan nähtyään hän 5. 4. 1882 käytti kiivaan, loukkaantuneen puheenvuoron. Hän toisti jo virkaanastujaisesitelmässään 1863 esittämänsä teesin, että Castrén ei ollut „käytännöllinen suomalainen“ ja että hänen kaukomaille tekemistään tutkimusretkistä ei suomen kielelle ollut juuri mitään „apua eli selitystä“. Sitten hän luetteli, mitä kaikkea yliopistossa oli saatu aikaan Castrénin kuoltua. A. V. Forsman riensi vakuuttamaan, ettei hänen eikä Lönnbohmin tarkoituksena suinkaan ollut vähätellä „niitä todellakin suuria ansioita, jotka yksityiset suomalaiset ja ulkomaalaiset ovat itselleen saavuttaneet Castrénin jälkiä kulkemalla“.7</p>
+            <p>Inkeri oli D. E. D. Europaeuksen ansiosta ollut vuodesta 1847 lähtien yhä uudelleen esillä keskusteltaessa Suomalaisen Kirjallisuuden Seuran keruuohjelmasta. Inkerin runojen vähäksyntää oli Väinö Salmisen käsityksen mukaan pitänyt yllä itsensä Elias Lönnrotin auktoriteetti. Kalevalan täydentämisen kannalta Inkerin epiikka todella oli hankalasti erilaista kuin karjalainen runosto.</p>
+            <p>Suursaarelaiselle Volmari Porkalle länsi-inkeriläiset olivat vanhoja tuttuja ja Inkeri parahultainen kynnys kohti uranuurtaja Castrénin jalanjälkiä.</p>
+            <p>Vielä kesät 1879-1881 lehtori Porkka oli lomaillut pääosin kotisaarellaan ja koettanut innostaa varovaiset kunnanmiehet oman kansakoulun rakentamiseen. Hän järjesti saarella rahankeruun, joka tuotti lähes 2000 markkaa. Rakentamispäätös kuitenkin syntyi vasta tammikuussa 1884, ja Suurkylän kansakoulu vihittiin tarkoitukseensa 25. 10. 1885. Yksi sen myöhemmistä opettajista oli Volmarin veljentytär, Suursaaren murretta tutkinut maisteri Laina Porkka.</p>
+            <p>Tässä vaiheessa syntyi myös Volmari Porkan ehkä maineikkain laaja lehtiartikkeli, kolmessa Valvojan perustamisvuoden 1881 vihkossa julkaistu „Kuvaelmia Suursaarelta“. Suomenlahden saariston luonnonsuhteiden ja elinkeinojen kuvauksena se on merkittävä dokumentti, Eljas Raussin <hi rend="i">Virolahden kansanelämää 1840-luvulla</hi> -kirjan pikkuveli. Vahvaan, draamalliseen kuvaukseensa Porkka on omaksunut joitakin Aleksis Kiven tyylikeinoja, esimerkiksi hylkeenpyynnin yhteydessä (s. 376): „He jääntelillä kuleksivat minne heitä tuuli vie, ja kauas kuuluu heidän mörinänsä“.</p>
+            <p>
+                <hi rend="b">Ensimmäinen retki</hi>
+            </p>
+            <p>Kesäretken 1882 pääsaaliina oli noin 150 itkuvirttä. SKS oli jo 1880 varannut 1000 markan matkarahan inkeriläisitkujen keräämiseksi.8 Ennestään niitä tunnettiin vain muutama Jaako Länkelän 1858 „suurella vaivalla“ kirjoittama näyte.</p>
+            <p>Porkka näyttää kesällä 1882 liikkuneen vain Länsi-Inkerissä. Aili Laiho (Simonsuuri) on selostanut kahden Viron Inkerissä tapaamansa vanhuksen, Pärtty Reijon ja Juljaana Pohjalaisen, muistoja Porkan vierailuista Narvusin suomalaiskylissä. Vahvistuu Porkan oma kertomus, että itkujen kyselijää ensi alkuun luultiin Antikristukseksi ja että hänen päämajakseen eri matkoilla vakiintui lukkari Thaluksen vieraanvarainen talo Narvusin kirkonkylässä. Volmari osasi olla „ku oman talon ihminen“; sivutöinään hän opetti yhdeksänvuotiaan Pärtyn kirjoittamaan. „Ei hää olt herraa. Hää oli yks kohalline ihmine“, todisti 77-vuotias Juljaana. Hänellä oli yhä tallella Porkan puoli vuosisataa varhemmin Helsingistä lähettämät uskonnolliset kirjat.9</p>
+            <p>Hääitkujen ohessa Porkka tuli keränneeksi myös yhden vihkollisen „pulmavirsiä“, kalevalamittaisia häärunoja. Kokoelmansa saatekirjeessä 4. 12. 1882 hän eloisasti kuvailee Julius Krohnille retkensä koettelemuksia ja opetuksia. Inkeriin lähetettävältä itkujen kerääjältä olisi vastedes edellytettävä pikakirjoitustaitoa, hän muistuttaa; „hyvä olisi myös, jos hän olisi hiukan soitannollinen mies, koska mahdollisesti tuossa pitkäveteisessä itkunuotissa saattaisi olla jotakin ominaista, jota epäsoitannollinen ei älyä“.10</p>
+            <p>Julius Krohn totesi SKS:n runoustoimikunnan nimissä Porkan saaliin „varsin arvokkaaksi, koska se on sekä itkujen paljouteen että varsinkin täydellisyyteen nähden monta vertaa parempi entisiä Seuran hallussa olevia (Länkelän ja Groundstroemin)“. Keräelmä palkittiin 300 markalla.11</p>
+            <p>Matkakokemustensa pohjalta Porkka kirjoitti Valvojaan 1883 laajahkon artikkelin „Inkerin itkuvirsistä“. Merkillistä kyllä se on vaieten sivuutettu folkloristiikan oppihistorioissa. Vasta sata vuotta myöhemmin Aili Nenola totesi artikkelin vanhenemattoman arvon: Porkka oli monessa kohden edellä aikaansa, hän käsitteli useita itkututkimuksen peruskysymyksiä, hänen ehdottamansa nelijako kuolin-, hää-, sotaanlähtö- sekä muissa vaihtelevissa tilanteissa esitettyihin itkuihin on yhä käytössä. Porkan vertailut Vanhan Testamentin, Kreikan, Rooman, Serbian ja Venäjän itkuihin ja niiden tapataustaan samoin kuin hänen havaintonsa itkujen performoinnista, kielestä ja sisällöstä osoittavat sekä lukeneisuutta että omaperäisten oivallusten kykyä.12</p>
+            <p>Herää kysymys, eikö Porkka artikkelia valmistellessaan tutkistellut aiheen väitöskirjakelpoisuutta. Seuraavan matkansa alussa hän täydensi itkukokoelmaansa vielä 50 hevaalaisitkulla mutta keskittyi sitten kalevalamittaisten runojen keruuseen.</p>
+            <p>
+                <hi rend="b">Toinen retki</hi>
+            </p>
+            <p>Suomi-sarjan niteeseen II:17 (s. 200-205) on painettu laaja ja yksityiskohtainen „miete“, nykykielellä paimenkirje, jonka Julius Krohn luki ääneen SKS:n kokouksessa 4. 4. 1883 ja „jonka Seura kaikin puolin hyväksi katsoi, päättäen lähettilääksensä ottaa filosofianmaisterin V. Porkan, joka oli ilmoittanut itsensä tähän toimeen halulliseksi, ja matkarahaksi määräten kuusisataa (600) markkaa sekä lausuen sitä mieltä (!), että hän nyt esiin tuotua ohjetta tarkasti noudattaisi“.</p>
+            <p>Pöytäkirjan sanonta tuntuu viestivän, etteivät Runoustoimikunnan päätöksentekijät Eliel Aspelin ja Julius Krohn täysin luottaneet „lähettilään“ kuuliaisuuteen. Aikaisempien runonkerääjien matkakertomuksia referoituaan Runoustoimikunta neuvoi, missä kylissä piti ja missä ei pitänyt käydä. Nimeltä lueteltiin laulajia, joiden vastahakoisuus nyt olisi voitettava. Erityisesti tähdennettiin, että kaikki toisinnot oli merkittävä täydellisinä muistiin, elleivät ne olleet sanasta sanaan identtistä. Tiedot laulajasta ja runon saantipaikasta eivät riittäneet vaan oli kysyttävä myös, oliko runo kylässä „miesmuistiin kotoinen“ vai mistä opittu. „Vielä on kysyttävä, onko laulussa aina käytetty niissä nyt käytettyjä nimiä.“ Ja niin edespäin.</p>
+            <p>Volmari Porkka viipyi toisella keruuretkellään yhtäjaksoisesti 16 viikkoa, toukokuun 15. päivästä syyskuun 4. päivään 1883. Hänen ensimmäisenä tukikohtanaan oli pastori K. A. Slöörin pappila Keski-Inkerin Serepetassa. Sieltä lähtien ja sinne palaten hän kesäkuun 27. päivään asti kierteli Hevaan ja Tyrön parhaissa runokylissä. Erityisesti Hevaan runosaalis ylitti kaikki odotukset.</p>
+            <p>Runoköyhän Kaprion kautta Porkka saapui 1. 7. Soikkolan inkeroiskyliin „iloni oli marjamiehen ilo, kun hän, kauvan käveltyään kuivaa kangasta ja sieltä täältä poimittuaan jonkun näivettyneen marjukkaisen, vihdoin näkee edessään punalta hohtavat marjamättäät“. Kortteerinaan vanhan tuttavan, paikallisen poliisin Vedatta Leontjevin talo Porkka marjasti runsaan kuukauden Soikkolan parhaita runomättäitä. Sikäläisistä laulajista matkakertomus nostaa ensi sijalle Väärnojan Katin. „Tämä hyvämuistinen, teräväjärkinen nainen antoi minulle enemmän runoja kuin kukaan muu yksityinen laulaja Inkerissä - runojen säeluku nousee 3710:een.“</p>
+            <p>Soikkolasta kerääjä vaelsi Kurkolan niemen itä- ja etelärannan kylitse Laukaanjoen suulle ja edelleen 17. 8. Narvusin kirkolle, tuttuun majapaikkaansa lukkari Thaluksen luo. Tehtyään „lyhyempiä tai pitempiä matkoja ympäri koko seurakuntaa“ ja yhytettyään vihdoin Vyötermaan kylästä Narvusin suomalaisperinteen ehkä osaavimman laulajan Maria Luukan eli Luukkalaisen Porkka syyskuun 4. päivänä aloitti kotimatkan.</p>
+            <p>„Kertomus runonkeruumatkasta, jonka v. 1883 kesällä teki Inkeriin Volmari Porkka“ painettiin 1886.13 Sekä tiedollisten että tyylillisten ansioidensa johdosta se kuuluu ahkerimmin siteerattuihin Inkeri-dokumentteihin. Väinö Salminen on käyttänyt klassista matkakuvausta mm. yleisesityksissään ja Inkerin runonlaulajien laajassa selvityksessä.14</p>
+            <p>Tarkkaillessaan valppaasti kielen ja runotaidon tilaa eri kylissä Porkka tuli peilanneeksi sekä laulajien että omia käsityksiään hyvän ja huonon runoperinteen tuntomerkeistä. Matkakertomuksen mukaan nuoret laulajat eivät yleensä vetäneet vertoja vanhoille eivätkä miehet naisille. Länsi-Inkerissä Porkkaa huoletti Europaeuksen <hi rend="i">Pienen Runon-sepän, </hi>Lönnrotin <hi rend="i">Kantelettaren </hi>ja arkkiveisujen vaikutus suulliseen perinteeseen, mutta „joka tapauksessa tämä on ilahuttavampi seikka, kuin jos nuoriso kauniitten suomalaisten runojen sijasta rupee mieltymään venäjänkielisiin, sisällykseltään usein rivoihin rallatuksiin“. Työnhaussa vierailla paikkakunnilla kierrelleiden Soikkolan naisten laulut olivat kyllä runsaita mutta eivät yhtä puhtaita ja sekaantumattomia kuin hevaalaisten, jotka siis tässä suhteessa „ansaitsevat ensi sijan“.</p>
+            <p>Hyvän laulajan - Hevaan Varvanan, Väärnojan Katin - Porkka tunnistaa siitä, että tämä on säilyttänyt jonkin muiden unohtaman tärkeän runoaihelman tai jalosäkeen. Esikuvansa Lönnrotin ja myöhempien kareliaanien tavoin Porkka etsii paitsi ihailtavia runotekstejä myös niiden ideaalilaulajaa. Siitä johtuu sekin, ettei „eräs vanha juoppo akka“ (Tönttölän Olgoi) hänen kertomuksessaan pääse etualalle, niin kuin eräät paljon lahjattomammat Hevaan laulajat.</p>
+            <p>Loitsujen keruu näkyy aiheuttaneen Porkalle erityisiä vaikeuksia. „Ennenkuin saapi kansan ilmaisemaan syntyjä syviä, täytyy kauvemmin viipyä paikallaan, jotta saavuttaisi kansan luottamuksen. Sitä paitsi useilla on se luulo, että semmoiset mahtiluvut kadottavat voimansa, jos he niitä muille ilmaisevat.“</p>
+            <p>
+                <hi rend="b">Porkka ja Krohnit</hi>
+            </p>
+            <p>Keruukertomuksensa lopussa Volmari Porkka huomautti, että „tuo alituinen samojen toisintojen paperille paneminen“ alkoi lopulta suuresti kyllästyttää häntä. Hän päätti poiketa ohjeesta, „jonka mukaan tuli täydellisesti puhtaaksi kirjoittaa kaikki runot, jotka eivät sanasta sanaan olleet jonkun toisen runon kaltaisia“. Niin jäi satoja etupäässä lyyrisiä mutta myös huonompia eepillisiä stenogrammeja tulkitsematta. Porkka ei sanonut käsittävänsä, mitä hyötyä oli „jok’ikisen runonpätkän“ selittämisestä; laulajathan tuskin koskaan laulavat täysin yhdenmukaisesti samaa runoa; hänen keräämiään toisintoja oli ehkä liiaksikin kirjoitettu puhtaaksi.</p>
+            <p>Merkillepantavaa on, että Volmari Porkka sai edellä selostetun toisen Inkerin-retkensä matkakertomuksen lähetyskuntoon vasta kahden vuoden kuluttua, Kasanissa 27. 8. 1885. Jokin runosaaliin esittelyyn (s. 164) liittyvä varaus „niin paljon kuin nykyään niitä muistelen“ paljastaa, etteivät inkeriläisrunot silloin enää olleet kirjoittajan ylettyvillä. Julius Krohnille, SKS:n runoustoimikunnan puheenjohtajalle osoitetussa lähetekirjeessä Porkka toivottaa „kunnioitettavalle sedälle nuoria, raittiita voimia jatkamaan käsillä olevaa suurta työtä“, nimittäin 1885 painettua kalevalaisen epiikan yleisesitystä. Itselleen Porkka varaa tilaisuuden vielä ennen painatusta täydentää matkakertomustaan, kotiin muistiinpanojen ääreen palattuaan.</p>
+            <p>Tähän hän todella sai tilaisuuden. Julius Krohn oli yleisesityksensä loppuluvussa liittänyt „Sisaren turmelus“ -runon selvittelyyn tylyhkön alanoottimaininnan: „Porkka sanoo Inkeristä saaneensa paremmin kehittyneen muodostuksen, jota en ole nähnyt. Kaikissa tapauksissa se on vain erehdysmuoto“15. Porkka intoutui matkakertomuksessaan (s. 165-166) torjumaan vähättelyn ja perustelemaan laajasti Maria Luukan yksin säilyttämän traagisen loppuratkaisun mahdollista alkuperäisyyttä.</p>
+            <p>Pikku sananvaihto ei ansaitsisi erityistä huomiota, ellei sitä matkakertomuksessa seuraisi tuo harmistunut irtisanoutuminen SKS:ltä saadun „ohjesäännön“ määräyksestä „selittää jok’ikinen runonpätkä“. Tieten tai tietämättään Porkka uskaltautui julkikapinaan Julius ja Kaarle Krohnin paraikaa kehitteillä olevan maantieteellis-historiallisen tutkimusmetodin yhtä vankkumatonta normia, „täydellisen toisintoaineiston“ vaatimusta vastaan.</p>
+            <p>Volmari Porkan ja Krohnien elämäkerrat leikkaavat tässä toisensa, sivistyneen vaiteliaasti mutta kohtalokkaasti.</p>
+            <p>Mikään ensi käden dokumentti ei näy antavan suoraa vastausta kysymykseen, miksi Volmari Porkka syksyllä 1883, erinomaisen tuloksekkaalta Inkerin matkalta palattuaan, jätti sikseen itkuvirret ja kalevalaiset runot ja suuntasi energiansa inkeroismurteita käsittelevän väitöskirjan valmisteluun. Kesien 1882 ja 1883 käsikirjoituksista ei tunnu löytyvän merkintöjä, jotka todistaisivat Porkan jo ennen syksyä 1883 suunnitelleen nimen omaan kielitieteellistä väitöskirjaa.</p>
+            <p>Se yliopiston opettaja, jonka olisi tuolloin kuulunut kannustaa Inkerin kansanrunouden parasta tuntijaa folkloristiseen tutkimukseen, oli dosentti, SKS:n runoustoimikunnan puheenjohtaja Julius Krohn.</p>
+            <p>Ilmeisesti juuri syksyllä 1883, maisteri Volmari Porkan tuotua Inkerin retkensä voittosaaliina laukullisen pikakirjoitettua kansanrunoutta, käytiin Suomalaisen Kirjallisuuden Seuran arkistossa, Aleksanterinkatu 14:n piharakennuksessa ankara metodinen kiista „täydellisesti“ tai valikoiden toteutettavasta runotekstien muistiinmerkinnästä ja stenogrammien puhtaaksikirjoittamisesta - sama kiista, johon fil.tri Porkka rivien välitse viittaa matkakertomuksensa lopussa, kaksi vuotta myöhemmin.</p>
+            <p>Kysymys ei ollut vain metodisista periaatteista. Nähtävästi Porkka oli 600 markan matkarahaansa vastaan sitoutunut paitsi keräämään myös työstämään arkistokuntoon runosaaliinsa. Siitä että supistettukin puhtaaksikirjoitusurakka tarkistuksineen tulisi merkitsemään kerääjälle yli kuuden vuoden ylimääräistä palkatonta tarkkuustyötä ja arkistolle seitsemän vankan sidoksen aineslisää, ei Krohnilla ja Aspelinilla tietenkään syksyllä 1883 ollut käsitystä. He toimivat kunnon velkojien tapaan: eivät tinkineet arkiston eduista eivätkä tieteen normeista.</p>
+            <p>Kun samaan aikaan Julius Krohnin poika ja Porkan entinen oppilas, 20-vuotias Kaarle Krohn oli huomattavasti runsaamman apurahan turvin lähdössä pitkälle keruumatkalle Karjalaan, Porkka osasi tehdä omat päätelmänsä Runoustoimikunnan auktoriteettien tinkimättömyydestä. Folkloristiikan perintöprinssi oli jo valittu. Sivullisen oli aika vaihtaa raidetta.</p>
+            <p>Kuitenkin Porkka oli liian ylpeä tai sisukas tai moraalinen viitatakseen kintaalla Runoustoimikunnan kehotuksille ja jättääkseen kunniavelan SKS:lle sikseen. Kun väitöskirjaprosessi keväällä 1885 oli ohi ja tutkimusmatka tšeremissien maille odotti, hän ryhtyi jälleen purkamaan puhtaaksikirjoitettujen, inkeriläisiin stenogrammeihin vertailtavien runokopioiden pinoa pöydältään. Kesäkuussa hän raportoi uskotulleen Mimmi Lybeckille, joka syystä oli huolissaan ystävänsä terveydentilasta:</p>
+            <p>Tiistai-yönä aion jättää Helsingin ja vähän aikaa oltuani Suursaaressa lähden edelleen itäänpäin. Tähän asti minulla ei ole ollut mitään ikävää aavistusta; päinvastoin olen iloinen, kun pääsen Helsingistä ja saan ryhtyä johonkin mieltä kiinnittävämpään työhön kuin runojen vertominen on, joista jo tätä ennen olen melkein „durchgeschrieben“. Riittävätkö voimat uuteen vaikeaan tehtävään, sen saa tulevaisuus päättää; tätä nykyä tunnen itseni ainoastaan onnelliseksi, että saan käyttää parhaita nuoruuden voimiani korkeaan tarkoitukseen.16</p>
+            <p>Tähän pöydän puhdistamisen vaiheeseen kuului myös vuoden 1883 matkakertomuksen viimeistely ja sen saatekirje Julius Krohnille 27. 8. 1885. Lyhyt merkintä SKS:n vuosikertomuksessa 15. 3. 1886 näyttää osoittavan, että Porkan „kotiin“ tuomasta Inkerin runosaaliista tiedettiin vain se, mitä hän oli ilmoittanut kertomuksessaan.</p>
+            <p>Volmari Porkan tyyntä asiallisuutta ovat monet muistelijat kiittäneet. Poleemiset sävyt ovat ylen harvinaisia hänen julkisissa puheissaan ja kirjoituksissaan. Parhaille ystävilleen hän kuitenkin saattoi avoimesti kuvailla mielialojaan, myös aggressioitaan. Näytteeksi sopii ote kiitoskirjeestä, jonka Porkka 1. 2. 1888 lähetti saksalaisesta Görbersdorfin parantolasta lehtori Henrik Melanderille:</p>
+            <p>Kiitän lähettämästäsi „Kalevalan Karjal.“ Kuten kirjekortissani mainitsin, olin itse sen jo vähän ennen hankkinut Helsingistä, jonka vuoksi retourneerasin sinun lähettämäsi kappaleen; toivon, että se on jo takaisin saapunut. Muuten minä olen erinomaisen suurella mielihyvällä lukenut tuon kirjan läpi, tosin en vielä oikein tutkimalla. Erittäin on toinen luku „Kalevalan kielestä“ niin vakuuttavasti ja asiallisesti kirjoitettu, ett’ei Krohnin virolaisuuden hyväksi jää murujakaan. Niistäkin sanoista (s. 5[l]), jotka Ahlqvistkin myöntää saavan selityksensä viron kielestä, voi tietääkseni vielä <hi rend="i">kaaso, </hi>kypärä (?), permanto, puuskassa, vaartaa selittää suomenkielen avulla. Erittäin minua kummastuttaa (s. 60) tuo Krohnin merkillisin kaikista Kal:n virontapaisista muodoista. En tiedä, onko minulla niin huono suomalainen korva, etten voi käsittää virontapaisia muotoja. Olen sekä opettajana että muuten lukenut monesti nuo main. muodot, mutta ei koskaan ole päähän pälkähtänyt selittää ne [loteasti, lipeästi, hapeasti - Kalevala 48:47-49] translatiiveiksi. Ahlq:n selitys on minusta niin asianmukainen ja runonmukainen, ettei niitä voi muuten kuin Wirbelteorian avulla saada kierretyksi viroon päin. Ahlq:n selitys tuntuu sitä vakuuttavammalta, kun hän tällä kertaa ei polemiseeraa niin persoonallisesti kuin esim. Kielettäressä - pieniä hauskoja leikkauksia lukuunottamatta. Tosin en ole tarkkaan lukenut Krohnin teosta, mutta arvattavasti Ahlq. on ottanut tärkeimmät kohdat esiin. Olen alusta alkain epäilyksellä katsellut noita Kr:n tuumia, monessa kohden ajatellut aivan samaa kuin Ahlq.; mutta tämän kirja on minut saattanut yhä enemmän siihen vakuutukseen, jonka jo Lönnrot aikoinaan lausui Kalev:n Karjalaisuudesta. Tämän mielipiteen puolella on myös se tärkeä seikka, että sen edustajat ovat olleet enemmän kuin muut perehtyneet kansan elämäntapoihin ja sen katsantotapaan, jota vastoin K. sen tuntee enemmän kirjallisuuden kautta, samoin kun myös tuon mahdottoman allegoriakäsityksen edustajat tai sanonko edustaja (Aspelin). - Olen laveanpuolisesti näitä asioita esitellyt, kun ne juuri näinä päivinä ovat usein olleet ajatukseni esineinä; näyttäköön tämä myös hiukkasen puolestansa, että täällä vähitellen ruvetaan heräämään horrostilasta.17</p>
+            <p>Kirje osoittaa, miten kauas Volmari Porkka oli muutamassa vuodessa etääntynyt Suomalaisen Kirjallisuuden Seuran runoustoimikunnan leiritulilta ja miten vilpitöntä mielihyvää hänelle tuotti sikäläisten auktoriteettien Julius Krohnin ja Eliel Aspelinin vanhalta hirviöltä August Ahlqvistilta saama kuritus. Itse hän puuttui Krohn - Ahlqvist -otteluun lähinnä kielentutkijan kannalta, mutta tähdensi myös Krohnin ja Aspelinin vähäistä kenttätyökokemusta. Se seikka, että Julius Krohnin metodologinen kumous tuli merkitsemään Ahlqvistin edustaman Kalevala-pohjaisen kansanrunoteorioinnin vararikkoa ja nostamaan esimerkiksi Inkeristä 1880-luvulla tallennetut runotoisinnot arvoon arvaamattomaan, ei ilmeisesti ollut valjennut Porkalle vuonna 1888.</p>
+            <p>Keskinäisen antipatian ja sympatian kolmiodraama päättyi yllättävän nopeasti melkein Shakespearen murhenäytelmien tapaan: Julius Krohn hukkui Viipurinlahteen 28. 8. 1888, August Ahlqvist kuoli 20. 11. 1889 ja Volmari Porkka 25. 12. 1889.</p>
+            <p>Kaarle Krohn peri isältään, paljon muun ohella, velvollisuuden huolehtia, että Porkka ei jättänyt kesken 1883 Inkerissä pikakirjoittamiensa kansanrunojen arkistokuntoon saattamista. Hänen Uusimaa-albumissa 1930 julkaisemaansa nekrologiin „Volmari Porkan muistolle“ sisältyy naiivissa tragikoomisuudessaan koskettava jäähyväiskuva.</p>
+            <p>Tapasin ystäväni viimeisen kerran joulukuussa 1889. Siihen aikaan helposti hoidettavan virkansa ohella hän lopetteli runokokoelmainsa kopioiden vertailemista alkuperäisiin pikakirjoituksiin. Keskustelimme tutkimuksista, joita hän varovasti työskennellen voisi hiljakseen jatkaa. Työ ei kuitenkaan ollut hänelle enää korkeinta elämässä. Taudin kärsimykset olivat opettaneet häntä työniloakin ylempää elämää ymmärtämään.</p>
+            <p>
+                <hi rend="b">Väitöskirjatyö. Kolmas Inkerin retki</hi>
+            </p>
+            <p>Samana syksynä, jona Volmari Porkan ja Suomalaisen Kirjallisuuden Seuran runoustoimikunnan välit odottamatta kylmenivät, perustettiin Helsingissä 15. 11. 1883 Suomalais-ugrilainen seura. Sen asioita valittiin hoitamaan väliaikainen toimikunta, puheenjohtajana valtiovaraintoimituskunnan päällikkö Herman Molander, varapuheenjohtajana August Ahlqvist ja sihteerinä Otto Donner.</p>
+            <p>Ensimmäinen vuosikertomus mainitsee seuran todenneen vähimmän tunnetuksi ja erityisesti tutkimisen arvoiseksi suomen sukukieleksi tšeremissin kielen. „Seura on tehnyt sen sopimuksen maisteri V. Porkan kanssa, joka on vuosikauden harjoitellut kielentutkintoja Leipzig’issä, että hänen vähintään yhden vuoden tulee oleskella Tsheremissien luona tutkien heidän kieltänsä ja keräten kielinäytteitä. Akatemiallisen opinnäytteen painamisen tähden estettynä aikaisemmin matkalle lähtemästä voinee maisteri Porkka tulevan vuoden alussa lähteä määräpaikalle.“18</p>
+            <p>Ainakin Otto Donner, August Ahlqvist ja Arvid Genetz näyttävät olleen ohjelmoimassa etevälle kieltentutkijakokelaalle puolentoista vuoden pituista tohtoroitumisprojektia. Porkka lähetettiin talveksi 1883-1884 Leipzigin yliopistoon, missä hänen oli määrä syventää tietojaan etenkin fonetiikan ja slaavilaisten kielten suunnalla. „Donner on hyvä mies, Ahlqvist sitäi parempi“, ylisti Porkka kirjoittaessaan 6. 4. 1884 ystävälleen Henrik Melanderille, joka ilmeisesti oli itse aiemmin työskennellyt Leipzigissa. Seuraavana helatorstaina Porkka luonnehti kuuluisia opettajiaan:</p>
+            <p>Leskien on opettavainen ja selvä kuin ennenkin, Curtius on hauska, vaikka hän tähän saakka on lukenut melkein yksinomaisesti sellaisia asioja, jotka jo ennalta olen tuntenut; Techmeriin en ole vielä ennättänyt ihastua. Luulen kuitenkin, että kun hän joutuu edemmäs, hänen luentonsa tulevat hauskemmiksi. Että hän tuntee aineensa, sen kyllä huomaa; vaan hän selittelee niin hirveän physikalisia (akustisia) ja anatoomisia seikkoja, että ennättää väsyä, ennenkuin tulee itse pääasiaan.19</p>
+            <p>Kesän 1884 Volmari Porkka vietti jälleen Inkerissä, nyt väitöskirjansa <hi rend="i">Ueber den ingrischen Dialekt mit Berücksichtigung der übrigen finnisch-ingermanländischen Dialekte</hi> ainespohjaa kooten.</p>
+            <p>Matkasta ei näytä olevan muita säilyneitä dokumentteja kuin väitöskirja sekä SKS:lle 1886 luovutettu keräelmä eri inkeriläismurteiden näytteiksi kerättyjä satuja. Mahdollisesti tuon keräelmän saantipaikkain järjestys kertoo jotakin kesän 1884 reitistä: Soikkolan Tarinaisi, Venakontsa, Ruutsia, Väärnoja, Metsäkylä, Loankylä, Koskinen (käsikirjoituksen sadut 1-11), Kaprion Vornasi, Taatsoi, Nesnova (12-14) sekä sikermä Tönttölästä Kapriolle tulleen kertojan satuja (15-19), Narvusin Kurkola, Kaipaala, Konnu, Hakaja, Vibiä, Hamala, Vena, Kallivieri, Kullankylä, Kosemkina, Narusi, Laukaa, Laukaansuu, Pärspää (20-58), Venjoen Vähikkälä (59), Skuoritsan Ihalaisisista (60), Tuutarin Karhelasta ja Hirvosista (61-62), Liissilä (63-66), Ropsun seutu (67-69). Näissä yleensä muiden litteroimissa tallenteissa on mukana myös sellaisia kenttämuistiinpanoja, joissa Porkka itse on pikakirjoituksen lomaan merkinnyt kiintoisimpia murremuotoja tarkekirjoituksella. Osa saduista on ehkä edellisten keruumatkojen perua. Vain viisi tekstiä sai sijansa kielennäytteinä väitöskirjan lopussa, niistä kaksi Hevaan Vepsän ja Murtoven kylistä. Kun Kaarle Krohn juuri tässä vaiheessa suunnitteli kansansatujen tieteellistä julkaisua, voi Porkan satumuistiinpanoissa nähdä eräänlaisen kädenojennuksen SKS:n suuntaan. Kuitenkaan hän ei pitänyt tarpeellisena nimetä edes parhaita kertojiaan.</p>
+            <p>Väitöskirjan muu kielitieteellinen pohja-aineisto ei näytä säilyneen. Erityisen arvokkaiksi ovat osoittautuneet Ylä-Laukaan sammumaisillaan olleen inkeroismurteen niukat merkinnät. „Aikeeni oli viime kesänä tutkia Ylä-Laukaan murretta tarkemmin, mutta ennalta arvaamattomat olosuhteet tekivät yritykseni tyhjäksi“, Porkka kertoo väitöskirjansa esipuheessa. Muistitiedon mukaan kysymys oli epäluuloisen virkavallan väliintulosta ja keruutyön keskeytyksestä.</p>
+            <p>Ystäviensä kannustamana Volmari Porkka kokosi pikavauhtia julkaisukelpoisen opinnäytteen. Johdantoluvussa käydään rajaa Inkerin eri murteiden välillä ja pohditaan niiden suhdetta mm. karjalan kieleen. Asutushistoriallisten päätelmiensä perusteluksi Porkka saattaa alanootissa (s. 16) kertoa Suomenlahden saarilla säilyneen sotatarinan tai vedota merikapteeni J. Klamilta kuulemiinsa tietoihin Länsi-Inkerin ja Virolahden entisaikaisen naistenpuvun yhtäläisyyksistä (s. 17). Köppenin etnografiseen karttaan Porkka tekee asiantuntevia tarkennuksia.</p>
+            <p>Tutkimuksen pääpaino on inkeroismurteen äänne- ja muoto-opissa. Ensin väitöskirjan tarkastuksessa 28. 3. 1885, sitten 4. 4. 1885 allekirjoittamassaan lausunnossa Otto Donner referoi suopeasti Porkan päätelmiä mutta oli eri mieltä savakkomurteen illatiivin samoin kuin Hevaan ja Soikkolan monikollisten possessiivisuffiksien suhteen. „Väitöskirjan tekijä on tavallista tyydyttävämmin ratkaissut tehtävänsä ja rikastuttanut suomen murteiden tutkimusta arvokkailla lisätiedoilla alueilta, joiden kieli vuosikymmen vuosikymmeneltä epäilemättä lähenee häviötään. Kun myös suullinen puolustus todisti aineistoon perehtyneisyyttä, katson aiheelliseksi lausua, että väitöskirja vastasi enemmän kuin riittävän hyvin tarkoitustaan.“</p>
+            <p>Myös Historiallis-kielitieteellinen osasto katsoi 9. 4. 1885 fil.kand. Porkan opinnäytteen „mer än väl hafva motsvarat sitt ändamål“.20</p>
+            <p>Paljon ankarammin piteli 21-vuotias E. N. Setälä Porkan väitöskirjaa. Inkerin murteiden erottelun hänkin hyväksyi, mutta luetteli sitten neljän sivun mitalta huomaamiaan virheitä tai tulkinnanvaraisuuksia. Opinnäytteen kelvollisuutta hän ei kuitenkaan asettanut kyseenalaiseksi. „Kaikkea kiitosta ansaitsee se tarkkuus, jolla tekijä on työnsä tehnyt, ja tekijän vakava pyrkimys lakien ja muotojen käsittämiseen“, hyvitteli ylioppilas Setälä tohtori Porkkaa.21</p>
+            <p>R. E. Nirvi on <hi rend="i">Inkeroismurteiden sanakirjaan</hi> (1971) poiminut runsaasti Porkan väitöskirjan kielenainesta, mutta jättänyt julkaisemattoman käsikirjoitusjäämistön käyttämättä. Väitöskirjan keskeistä teesiä, „että inkeroisten samoin kuin äyrämöisten ja savakkojen kieli kuuluu karjalaiseen, suppeammassa mielessä suomen murteiden itäsuomalaiseen haaraan“, yritti Lauri Kettunen horjuttaa, kun taas R. E. Nirvi on asettunut Porkan kannalle, kuitenkin johtaen sekä Karjalan että Inkerin murteet asutusvirroista, joiden lähtökohtana oli muinainen „Olhavan kulttuurikeskus“ Laatokan kaakkoispuolella.22</p>
+            <p>
+                <hi rend="b">Kärsimystie 1885-1889</hi>
+            </p>
+            <p>Lähtiessään Inkeriin Porkka oli tuntenut kulkevansa Lönnrotin, Europaeuksen ja Länkelän jäljissä. Matkalla tšeremissien keskuuteen oli vielä korkeampi tarkoitus: M. A. Castrénin työn jatkaminen koko Suomen suvun kadonneiden sirpaleiden löytämiseksi ja yhteyksien selvittämiseksi.</p>
+            <p>Marit eli tšeremissit Volgan keskijuoksun varrella olivat tutkimuskohteena jääneet lähinnä venäläisten kirkonmiesten ja unkarilaisten retkeilijäin varaan. Vain Castrén 1840-luvun lopulla ja August Ahlqvist 1850-luvun puolimaissa olivat pistäytyneet Suomesta havainnoimassa Kasanin ja Kozmodemjanskin tšeremissien kieltä ja oloja.</p>
+            <p>Merkillinen uupumus ja rintakivut olivat jo keväällä 1885 ennakoineet Volmari Porkan vaikeuksia, samoja jotka Castrén oli kohdannut syksyllä 1843 samojedien mailla. Väitöskirjatyö oli viety läpi askeettisin ponnistuksin, unesta ja normaalielämän iloista tinkien. „Mutta kun häntä kehotettiin olemaan varovainen, naurahti hän vain. Hänen, suursaarelaisen, joka lapsuudestaan oli karaistu kestämään kaikellaisia säitä, hänen pitäisi olla varovainen! Ei, sitä hän ei voinut ymmärtää.“23</p>
+            <p>Nähtävästi jo matkalla Kasaniin tauti paheni, ja Porkan oli viivyttävä kaupungissa seitsemisen viikkoa, 13. <hi rend="i">7</hi>-3. 9. 1885, umpivenäläisten parissa kielitaitoaan harjoitellen. Syyskuusta huhtikuuhun 1886 hän työskenteli Zarewo-Kokshaiskin piirikunnan niittytšeremissien alueella, Unshan ja Morkin kylissä.</p>
+            <p>Porkan ensimmäisenä ja lopulta arvokkaimpana tiedonlähteenä oli Unshan pappi Gavril Jakovlev, jonka tallentamat noin 70 kansanlaulua ja sikermän rukousloitsuja hän sai jäljennetyksi. Porkka laati myös luettelon Jakovlevin tšeremissiksi kääntämistä kirjasista, joskin ne hänen mielestään olivat ortografialtaan kovin virheellisiä ja epäjohdonmukaisia.</p>
+            <p>Kun Jakovlev niittytšeremissien pariin siirtyneenä vuoritšeremissinä ei sanakirjatyön kannalta tuntunut parahultaiselta kielenoppaalta, Porkka päätti kuuden viikon kuluttua siirtyä Morkin kylään, missä asusti kaksi seminaarin käynyttä ja siis venäjää taitavaa niittytšeremissiä. Onnettomuudeksi raittiimpi heistä sai joulun aikaan opettajan viranja muutti pois. Porkka kuvailee jäljelle jäänyttä apumiestä, virkaheittoa nimismiehen kirjuria:</p>
+            <p>Säännöllinen oli Konstantin Nikolajewitsh Burnajevkin, mutta säännöllinen ryyppäämisessä. Kahta viikkoa pitemmältä hän ei juuri jaksanut yhtämittaan työtä tehdä; silloin hänen täytyi välttämättömästi saada oikein aika humala, ja siihen ei riittänyt yksi „riimaanantai“, siihen meni useampia päiviä. Vasta silloin kun Konstantin Nikolajewitsh tuli minulta kysymään saunarahaa, tiesin että hän seuraavana aamuna taas ryhtyisi toimeen. Kun hän siis sinä päivänä oli saanut aika löylyn ja juonut pullon votkaa sauna-tuliaisiksi sekä päälle-päätteeksi levännyt vuorokauden edellisten päiväin vaivoista, niin hän seuraavana päivänä ilmestyi luokseni reippaana, pirteänä ja teki työtä oikein miehen tavalla.24</p>
+            <p>Pitkässä humoristisessa kirjeessä Henrik Melanderille 6. 1. 1886 Porkka selostaa yhteistyön saamaa farssimaista käännettä. Konstantin oli juovuspäissään loukannut kylän opettajatarta ja tuomittu kolmeksi kuukaudeksi vankeuteen. Porkka pyrki ja pääsi hänkin Morkin vankilan „koppeliin, jonka pinta-ala on hiukan toista neliösyltä“. Työolosuhteiden muutoksesta oli „se etu, että Konst. Nikolajewitsh pysyi koko ajan selvänä“. „Ylipäänsä minusta tässä jutussa on kuitenkin jotain vaihtelevaisuutta, jotain intresanttia, ja voinhan sitten puhua jollain ylpeydellä ’vankeuteni ajasta’ “.25</p>
+            <p>Vain lyhyinä viitteinä kirjeet paljastivat ystäville sen, mikä sitten osoittautui todeksi Porkan palatessa keväällä 1886 Helsinkiin: „Terveestä, voimakkaasta, reippaasta, elämää uhkuvasta nuoresta miehestä oli tullut kalpea, köykistynyt, hiljainen keski-ikäinen mies. Korkea, kaareva rinta oli painunut sisään, hengitys oli käynyt lyhyeksi, läähättäväksi ja ääni oli ainaiseksi kadottanut kirkkaan sointunsa“.26 Keuhkotautisen miehen matka ja majailu kylmissä, vetoisissa asumuksissa oli ollut sankarillista hulluutta niin terveyden kuin työn tulosten kannalta. Jotta aika ja raha ei kuluisi hukkaan, Porkka oli lavitsalla levätessään pannut apumiehen kääntämään Matteuksen evankeliumia ja venäläis-saksalaisen sanakirjan esimerkkilauseita omalle kielelleen. Myös jonkin verran sananlaskuja, arvoituksia ja muuta folklorea hän sai tallennetuksi.</p>
+            <p>Aikalaiset kunnioittivat Volmari Porkkaa tieteen marttyyrina. Hän sai hakemansa yliopiston suomen kielen lehtorin viran. Väitöskirjan ohella hänen kielitieteellisiin meriitteihinsä kuului mm. Valvojassa 1885 julkaistu suomenlahtelaisiin kenttätöihin nojaava ja käytännön kielenhuoltoon tähtäävä artikkeli „Suomenkielisiä merisanoja“.</p>
+            <p>Volmari Porkan vastusteluista huolimatta ystävät keräsivät varoja, joilla hänet kustannettiin yli kahdeksi vuodeksi Saksaan Görbersdorfin parantolaan. Kirjeenvaihto, josta edellä julkaistiin Ahlqvistin ja Julius Krohnin kiistakysymyksiin kantaa ottava näyte, kertoo enemmän Porkan kyvystä ystävystyä ja säilyttää vanhat ystävyyssuhteet kuin hänen tieteellisistä suunnitelmistaan.</p>
+            <p>Pitkällä parantolamatkallaan Porkka toipui siinä määrin, että pystyi lukuvuonna 1888-1889 hoitamaan virkaansa ja aloittamaan marien mailta tuodun aineistonsa järjestämisen. Arvid Genetzin muokkaama <hi rend="i">Volmari Porkka’s Tscheremissische Texte mit Übersetzung</hi> tuli julki vasta 1895. Genetz ei salaa, että julkaisukelpoisen teoksen muokkaaminen talvikauden 1885-1886 papereista oli epäkiitollinen tehtävä.</p>
+            <p>Varovaisestikin työskennellen talvikausi 1888-1889 koetteli ankarasti Porkan horjuvaa terveyttä. Alkukesän 1889 hän vanhan koulutoverinsa Gustaf Grönmarkin kutsusta lomaili Imatralla Siitolan kartanossa. Voimat tuntuivat palaavan, vastustamaton halu veti Porkkaa Suursaareen, missä hänen vanha isänsä yhä eli. Edellisestä käynnistä oli kulunut neljä vuotta. Sää ei suosinut vierailua, tauti yltyi. Sisukkaasti Porkka jatkoi vielä syyskaudella opetustyötään, mutta influenssaepidemia koitui hänen kohtalokseen Helsingissä joulupäivänä 1889.</p>
+            <p>Henrik Melanderin todistuksen mukaan Porkan viimeiset sanat olivat:</p>
+            <p>„Minä en kuole. Minä elän. Jeesus Kristus elää.“</p>
+            <p>Merikapteeni Vilho Porkka nouti veljensä ruumiin Helsingin eteläsatamasta, ja Volmari haudattiin kotisaareensa. Matalalle mäntykukkulalle pystytettiin toukokuussa 1897 korkea, yksinkertainen muistokivi, Suursaaren porfyyria.</p>
+            <p>Aikalaisten mieliin Porkan kuva jäi ideaalihahmona, jossa oli sekä voittoisan työn sankarin että kuolemanvarjon laaksossa kulkijan piirteitä. E. N. Setälä kiteytti tuon kauan elävänä säilyneen muistikuvan Kotikielen Seuran vuosikokouksessa 1890:</p>
+            <p>Volmari Porkka oli taistelija, yhtä hyvin kuin uljain soturi, joka tappotantereella on katsonut kuolemata silmiin, taistelija, joka haavoittuneenakin pysyi rivissä, kunnes sydänveri kuiviin ehtyi. „Minä olen tietänyt“, hän kerran lausui, „että nuoruuden ihanista unelmista niin monet tyhjiin raukeavat, mutta että yksi isku musertaisi kaikki, sitä minä en ollut osannut ajatella.“ Kovalta, katkeralta tuntui meistä hänen kohtalonsa, kun mies murtuu elämänsä keväänä, saamatta tehdä sitä työtä, johon mieli ja into palaa. Mutta mekö osaisimme arvostella, mikä on kuolevaisen korkein onni? Hän taisteli ja kaatui sankarina, me emme ole oikeutetut kadehtimaan hänen onneansa.27</p>
+            <p>Matti Kuusi</p>
+            <p>
+                <hi rend="i">Viitteet</hi>
+            </p>
+            <p>1. Erik Kihlman: <hi rend="i">Mikael Lybeck. Liv och diktning</hi> (1932), 72-73.</p>
+            <p>2. „Ur lifvet på Hogland“ (Album utgifvet af Nyländingar VI, 1875).</p>
+            <p>3. Matti Klinge: <hi rend="i">Helsingin yliopisto 1640</hi>-<hi rend="i">1990. 2. osa. Keisarillinen Aleksanterin Yliopisto 1808</hi>-<hi rend="i">1917</hi> (1989), 610-611.</p>
+            <p>4. Ester Äijälä: „Volmari Porkka“ (Eteläsuomalaisten tervehdys kotiseudulleen, 1908).</p>
+            <p>5. O. E. Tudeer: „Valvojan esihistoriaa“ (Valvoja 1906), 9.</p>
+            <p>6. Äijälä mts. 23-24.</p>
+            <p>7. Ilmari Kohtamäki: <hi rend="i">Ankara puutarhuri. August Ahlqvisf suomen kielen ja kirjallisuuden arvostelijana</hi> (1956), 363-366; Heikki Paunonen, „Kotikielen seura 1876-1976“ (Virittäjä 1976).</p>
+            <p>8. <hi rend="i">Suomi </hi>II:14, 251; II:16, 446.</p>
+            <p>9. Aili Laiho: „Muistitietoa Volmari Porkan runonkeruumatkoilta puolen vuosisadan takaa“ (Virittäjä 1937).</p>
+            <p>10. SKS:n kirjekokoelma 59, Kirjallisuusarkisto.</p>
+            <p>11. <hi rend="i">Suomi</hi> II:16, 515.</p>
+            <p>12. Aili Nenola-Kallio: <hi rend="i">Studies in Ingrian Laments</hi> (FF Communications 234, 1982), 20-23.</p>
+            <p>13. <hi rend="i">Suomi </hi>II:19, 149-169.</p>
+            <p>14. <hi rend="i">Kertovien runojen historiaa. Inkeri</hi> (Suomi IV:8, 1929), 62-74; <hi rend="i">Suomalaisten muinaisrunojen historia.</hi> I (1934), 114-121; „Inkerin runonlaulajat ja tietäjät“ (SKVRV3 s. 523-649).</p>
+            <p>15. J. Krohn: <hi rend="i">Suomalaisen kirjallisuuden historia. I. Kalevala</hi> (1885), 522.</p>
+            <p>16. Sit. Äijälä mts. 16-17.</p>
+            <p>17. Kopioita Volmari Porkan kirjeistä Henrik Melanderille v. 1884-1888. Sulo Haltsosen laatikko 17 (SKS, Kirjallisuusarkisto).</p>
+            <p>18. <hi rend="i">Suomalais-ugrilaisen Seuran aikakauskirja I, </hi>19.</p>
+            <p>19. Ks. viite 17.</p>
+            <p>20. Väitöskirjaa koskevat dokumentit: Helsingin Yliopiston arkisto.</p>
+            <p>21. E. N. Setälä: „Suomalaista kielentutkimusta“ (Valvoja 1886), 126.</p>
+            <p>22. Ks. esim. artikkelia „Inkeroismurteiden asema“ (Kalevalaseuran vuosikirja 41, 1961).</p>
+            <p>23. Äijälä mts. 17.</p>
+            <p>24. „Tohtori V. Porkan matkakertomus’. Luettu julki Suomalais-Ugrilaisen Seuran kokouksessa 17 p. Marrask. v. 1888“ (Suomalais-ugrilaisen Seuran aikakauskirja VI), 133-134.</p>
+            <p>25. Ks. viite 17.</p>
+            <p>26. Äijälä mts. 18.</p>
+            <p>27. Sit. Paunonen mts. 326.</p>
+            <p/>
+            <p>Lyhenteet ja merkintätavat</p>
+            <p>ELM = Elias Lönnrotin matkat</p>
+            <p>GSL = Osmo Hormia: Gananderin sanakirjan lähteet</p>
+            <p>HYK = Helsingin yliopiston kirjasto</p>
+            <p>IL = Väinö Salminen: Inkerin runonlaulajat ja tietäjät</p>
+            <p>Ktr = Kanteletar</p>
+            <p>MF = Christfrid Ganander: Mythologia Fennica</p>
+            <p>NFL = Christfrid Ganander: Nytt Finskt Lexicon</p>
+            <p>PF = H. G. Porthan: De Poësi Fennica</p>
+            <p>PJ = Porthanin lisäykset Daniel Jusleniuksen sanakirjan välilehditettyyn painokseen PRS = D. E. D. Europaeus: Pieni Runon-seppä</p>
+            <p>SKS = Suomalaisen Kirjallisuuden Seura</p>
+            <p>SKSL = Elias Lönnrot: Suomen kansan sananlaskuja</p>
+            <p>SKVR = Suomen Kansan Vanhat Runot</p>
+            <p>VKS = Matti Kuusi: Vanhan kansan sananlaskuviisaus</p>
+            <p>VT = Elias Lönnrot: Valitut teokset</p>
+            <p>* * </p>
+            <p>tähtien välissä olevat kohdat ovat lisäyksiä runon käsikirjoituksessa (ks. s. XXXVI)</p>
+            <p>* </p>
+            <p>tähti runonosien välissä merkitsee sitä, että jatko ei välttämättä kuulu samaan runoon (ks. s. XXXVII)</p>
+            <p>( ) </p>
+            <p>tavallisissa suluissa olevat säkeet merkitsevät Gananderin runoissa sitä, että säkeet on, ellei toisin mainita, siteerattu Mythologia Fennicasta (ks. s. XXXVII), Lönnrotin ja Porkan runoissa ne ovat kerääjän omia merkintöjä</p>
+            <p>[ ] </p>
+            <p>hakasulkujen välissä olevat kohdat ovat toimittajien täydennyksiä (ks. s. XXXVI)</p>
+            <p>!! !! </p>
+            <p>kaksoishuutomerkkien välissä olevat säkeet ja säeryhmät ovat vaihtoehtoja, joiden oletetaan periytyvän toisesta toisinnosta (ks. s. XXXVI)</p>
+            <p>- - - </p>
+            <p>katkoviiva merkitsee, että säkeiden välistä puuttuu jotakin (ks. s. XXXVII)</p>
+            <p>. . . </p>
+            <p>kolme peräkkäistä pistettä merkitsee, että ko. säkeestä alkanut jakso puuttuu (ks. s. XXXVII)</p>
+            <p>III-1-Aa </p>
+            <p>roomalainen numero + väliviiva + arabialainen numero + väliviiva + kirjainkoodit on aina viite Gananderin sanakirjan osaan, sivuun, palstaan ja palstanosaan</p>
+            <p>I1 701 </p>
+            <p>roomalainen numero + (usein) alaindeksi + arabialainen numero on aina viite SKVR:n tekstiin</p>
+        </div></body>
+    </text>
+</TEI>

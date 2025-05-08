@@ -1,0 +1,1547 @@
+<?teipublisher template="alkulauseet.html" odd="teipublisher.odd" view="single"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>V3: hakemisto</title>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                <pubPlace>Helsinki</pubPlace>
+                <date>2024</date>
+                <availability>
+                    <p>Tekijänoikeudet: Suomalaisen Kirjallisuuden Seura</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Suoman kansan vanhat runot V. Itä- ja Pohjois-Inkerin runot. 
+                        3. Parasken runot ja loitsut. Toisinnot 1−1343. Inkerin runonlaulajat ja tietäjät</title>
+                    <author>Väinö Salminen (toimittaja)</author>
+                    <pubPlace>Helsinki</pubPlace>
+                    <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                    <date>1931</date>
+                    <series>
+                        <title>Suomalaisen Kirjallisuuden Seuran toimituksia</title>
+                        <biblScope>141, III.</biblScope>
+                    </series>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div>
+            <p>Aineenmukainen luettelo Itä- ja Pohjois-Inkerin runoihin.</p>
+            <p>I. Kertovaisia runoja.</p>
+            <p>Aittaan mäelle V1 342, 344, 801, 987—1015.</p>
+            <p>Ajatteli amputauti (Hiihtävä surma) V1 1157, 1342; V3 1—2.</p>
+            <p>Annikki ja Kesti V1 1—8, (160), (450), 638.</p>
+            <p>Annukka Turusen tyttö, ks. Meren kosijat V1 512, 792.</p>
+            <p>Anterus sotahan läksi, vrt. Kuolonsanomat V1 87, 114—117, V3 165—175.</p>
+            <p>Apsolta kosinta V1 230, 233—235, 238—240, 256, 258—259, 263—268, 272, 274—275.</p>
+            <p>Eevarikko Riian neito, ks. Vedenkantaja neito.</p>
+            <p>Ei tunnu vasaran jälki V2 2584.</p>
+            <p>Elettiin ennen meillä V1 798—799,V2 2240—2241, 2253, V3, 3, 1126.</p>
+            <p>Emo(lle) marjaan, ks. Äidin kuolo.</p>
+            <p>Emo synnytti minua, ks. Suka mereen V1 872, 919, 925, 927, 930, 932, 935; V2 687—688, 840, 923, 1992.</p>
+            <p>Etsin neittä vellolleni, ks. Varkaalle menijä.</p>
+            <p>Hanhi kadonnut V1 28—40, (343), 408; V3 8—14, 66.</p>
+            <p>Hauki koristeet V1 986.</p>
+            <p>Helena hyvä emäntä V2 2042, 2255.</p>
+            <p>Henrikin surmavirttä? V3 234, 496.</p>
+            <p>Hevonen kadonnut veljeltä V1 49—69, 924, 1338—1339; V3 240.</p>
+            <p>Hevosen pedot kyntäjältä V1, 41—48; V3 129.</p>
+            <p>Hevosen varas oluen juojalta V1 70—86.</p>
+            <p>Hiihtävä surma, ks. Ajatteli amputauti.</p>
+            <p>Hirven hiihdäntää V1 1236—1238.</p>
+            <p>Hirvi hikosi juostessansa V1 5.</p>
+            <p>Hukkunut veli syötiin kalana V2 279.</p>
+            <p>Humalan ja ohran keskustelu V1 1163—1168, V2 18—22, 1039.</p>
+            <p>Hämeen ihmeet V1 1169—1187, 1856; V2 2251, 2264; V3 23.</p>
+            <p>Iivana Kojosen poika, ks. Kojosen poika.</p>
+            <p>Ilmarinen, ks. Tulen sanat V1 811—812, 1303.</p>
+            <p>Inkeri ja lalmanti V1 87—88, (1022).</p>
+            <p>Iso hauki V1 662, 868; V3 227, 1016.</p>
+            <p>Iso härkä V1 89, 235, 1173—1174, 1177, 1187; V3 23.</p>
+            <p>Iso miulle orosen osti V1 1188—1193;V2 1738.</p>
+            <p>Iso sika V1 90—97, 318, 1304—1306, 1340; V3 24—25.</p>
+            <p>Iso tammi V1 98—109, (190), (192), 1091, 1281; V3 26—30.</p>
+            <p>Itkun tiedustelu V1 114—117, 914, 930, 1341.</p>
+            <p>Jalka kiveen — Läksin koista kulkemaan V1 110—113, 678, 694, 700, 714, 1045; V3 31.</p>
+            <p>Kaksi kauppamiestä kutsui neittä korjahansa V1 1045.</p>
+            <p>Kalevanpojan kaski V1 118.</p>
+            <p>Kalevanpojan Väinämöisen leuvasta kaivettiin mato V2 2587.</p>
+            <p>Kantele-jakso V1 119—162, 232, (1064), (1077), (1080), 1343—1344; V2 1753; V3 32—36.</p>
+            <p>Karjalan kasket palavat V1 1195—1203; V2 1071.</p>
+            <p>Kasvo miull aino veikko — miirun mieltä myöten V1 871, 873.</p>
+            <p>Katri ja Riionpoika V1 801.</p>
+            <p>Katrina kotikananen V1 163—174, 253, (665—665 a), (668—674), 794, 801, 1209; V3 15—17, (112—115).</p>
+            <p>Kaukaa näkyvä talo, ks. Mikä tuolla näkyy.</p>
+            <p>Kaukamoinen V1 450; (V2 1040).</p>
+            <p>Kauno kalaan V1 175—194, (377), 1326, 1329; V3 38—42.</p>
+            <p>Kenen poikaa ikävä V1 878.</p>
+            <p>Killi kirkkoja tekee V3 997.</p>
+            <p>Kilpalaulanta V1 195—202; V3 43—45<hi rend="i">.</hi>
+            </p>
+            <p>Kirkon tarvispuun etsintä V1 203—204.</p>
+            <p>Kiskoin kivestä tuohta V1 798.</p>
+            <p>Kojosen poika V1 135, 203, 205—278, 1345; V3 46—57.</p>
+            <p>Kokko Turjanmaalta V1 903—918; V2 2592—2593.</p>
+            <p>Koljost’in kosinta V1 1345.</p>
+            <p>Kolmen käen kukunta V1 279—284, 803; V2 162, 513, 2214, 2303.</p>
+            <p>Konnulta kosinta V1 214, 216—219, 224, 227—229, 235, 239—244, 246—247, 249—250, 254—268, 270—271, 275, 950, 1193, 1225.</p>
+            <p>Koskelta, Läärältä kosinta (Ei tyttöä kaulla myyä V1 206, 220, 222, 226.</p>
+            <p>Kouluun kotonta V1 74, 285—290, 370, 372, 376, 381—382, 386—387, 389—391, 393—395, 397, 399—401, 712; V3 58.</p>
+            <p>Kukko lauloi Kuurinmaalla, vrt. Sotasanomat V1 1211—1212; V2 2260.</p>
+            <p>Kullasta saari V1 135, 813, 816.</p>
+            <p>Kullervoinen mies kuningas V1 173—174.</p>
+            <p>Kullervo-runosto, ks. Kasvatti emo kanoja osastosta Orpo, onneton ja kovaosainen, V1 120, 291—341, 606, 608, 616, 674, 767, 813, (1032), 1309, 1347; V2 (2212), (2213); V3 59—65.</p>
+            <p>Kultakangasta kutova neito, Kultalangan katkeaminen, Kyynelten vierintä V1 31 a, 32, 34—35, 37, 40, 342—350, 423, 1255 a—1256, 1875, 1880—1881, 1885; V3 66—68, (232), 1046.</p>
+            <p>Kultaneidon taonta V1 231, 235, 351—368; V3 69—75.</p>
+            <p>Kuoli meiltä kunnon rouva (naiskuningas) (Rekryyttiruno) V1 875, 879, 882, 884, 886—888, 898, 1318; V3 176—178.</p>
+            <p>Kuoli meiltä kunnon ruuna V2 929.</p>
+            <p>Kuolonsanomat V1 369—402, 686, 1354; V3 165—175.</p>
+            <p>Kyynelten vierintä, ks. Kultalangan katkeaminen V2 2025.</p>
+            <p>Kymmenen kylää kesoisna yönä V1 300, 972, 1139—1149; V2 29, 1123, 1129, 1707, 1727, 1902 a; V3 76—77.</p>
+            <p>Kynnin kymmenen vakoa V1 118, 1227—1228.</p>
+            <p>Käen kukunta V1 32, 101, 104—105.</p>
+            <p>Kävin piennä paimenessa, ks. Hevoson varas oluenjuojalta.</p>
+            <p>Kävin piennä suota myöten V1 345.</p>
+            <p>Kävin piittä pitkät matkat V1 103, 989, 1019,1068—1070, 1084, 1090; V3 718.</p>
+            <p>Kävin (menin) pilven piirtä myöten, ks. Varas koristeet V1 740, 768, 987—988, 990, 992—993, 995, 998—999, 1001, 1003, 1008, 1012,1015—1016; V3 196, 200—203.</p>
+            <p>Kävin päivän päärnikössä (Veljelle marjaan, Varkaalle menijä) V1 832, 1020—1021; V3 230.</p>
+            <p>Kävin tietä ingentingen (Veneenveisto) V1 1083, 1093.</p>
+            <p>Kävin tietä pikkaraisen (Veljelle marjaan) V1 1028, 1081.</p>
+            <p>Kävin tietä terhollista V1 113, 176, 192, 624, 633, 645, 649, 657—658, 660, 678, 1081, 1091; V2 1195 a.</p>
+            <p>Laatu poika Paussun palvelijana V2 2266.</p>
+            <p>Laivaretki, ks. Veneenveisto ja laivaretki V1 1063, 1066—1068, 1071—1076, 1080—1082, 1086—1088, 1092—1094.</p>
+            <p>Laivassa surmattu veli V1 403—407, 920—921, 927, 934, 1348; V3 78—82.</p>
+            <p>Lauloi sorsa lammin suolla V2 2245.</p>
+            <p>Lauri Lappalainen V1 (151, 211 a), 408—433, 771, 965, 1155, 1304; V3 83—86.</p>
+            <p>Lehmänluinen kantele V1 120, 139, 232.</p>
+            <p>Leino leski V1 102, 434—460, 528, 542, 1350; V3 87, 231.</p>
+            <p>Lemminkäinen leikattiin V1 118.</p>
+            <p>Lemminkäinen luottehikas V1 1077.</p>
+            <p>Lensi kukko Kuurinmaalta, ks. Sotasanomat.</p>
+            <p>Lohikäärme ja neito V1 103, 461—497; V2 2073; V3 89—93.</p>
+            <p>Lunastettava neito, vrt. Myyty neito V1 498—515, 697.</p>
+            <p>Luojan virsi V1 516—518.</p>
+            <p>Luomisruno V1 237, 519—564, 635—636, 810; V3 94—96.</p>
+            <p>Luulin lumpeen pitävän, ks. Sormin soutu V1 1324; V2 642.</p>
+            <p>Lähtään norolle nuoret V1 901.</p>
+            <p>Läksi höyhen höytämään, ks. Läksin sille maalle.</p>
+            <p>Läksin hirven hiihäntään V1 1236—1238.</p>
+            <p>Läksin koista kulkemaan, ks. Jalka kiveen V2 717.</p>
+            <p>Läksin käymään kälylle, ks. Jalka kiveen V1 697, 700.</p>
+            <p>Läksin (menin) mustalle merelle (Varas koristeet) V1 1007, 1015.</p>
+            <p>Läksin piennä kyntämähän, ks. Hevosen pedot kyntäjältä.</p>
+            <p>Läksi poika päähkenään, ks. Pilviin viety.</p>
+            <p>Läksin suolle sotkuilleni — Kolkutin kodan usta V1 28, 31—37, 40, 347—349, 565—569, 707, 709, 991, 1326; V2 2246.</p>
+            <p>Läksin suolle soutamaan V1 31, 71, 83, 85, 937.</p>
+            <p>Löi kahta kämmentä — Vrt. Sisaren turmelus V1 13, 20—22, 24—25, 259, 265, 686, 909, 961.</p>
+            <p>Maarian lapsen etso V1 516.</p>
+            <p>Mansikka mäellä huusi V1 570—577; V2 1762; V3 99.</p>
+            <p>Marjatielle kadonnut V1 580.</p>
+            <p>Marjukka meni vedelle, ks. Pilviin viety.</p>
+            <p>Marketan runo V1 (337), 581—619, 674, 801; V3 100—106.</p>
+            <p>Meni (Läksi) veljeni Virohon maarahoja maksamaan, ks. Suka mereen ja Tytärten hukuttaja.</p>
+            <p>Meren haravointi V1 1310.</p>
+            <p>Meren kosijat V1 170, 620—662, 937, 1004, (1028), V3, 107—111.</p>
+            <p>Merenkylpijä neito V1 1311.</p>
+            <p>Meren neito, metsän sulho V1 663; V2 133, 153; V3 915.</p>
+            <p>Miehentappaja neito V1 600, 664—676; V3 112—115.</p>
+            <p>Miekka, merestä V1 407, 922, 924—926, 928, 930—932, 934—938.</p>
+            <p>Mies musta hongan takana V1 644.</p>
+            <p>Mikä tuolla näkyy? V1 31a, 924, 1255—1257; V2 1875—1886; V3 37.</p>
+            <p>Miltä maalta sukuisin V1 1335.</p>
+            <p>Morsiamen kuolo V1 1258.</p>
+            <p>Myyty neito, vrt. Sinon kitkijä V1 677—701; V3 116—119.</p>
+            <p>Neito kasvoi Kaaritsassa, Saksan maassa V1 479, 702—703; V2 868, 881, 2250, 2286, 2404; V3 229.</p>
+            <p>Neitonen (morsian) mäellä itki, ks. Pahasulhollinen.</p>
+            <p>Neito rutki ruuvikossa V1 1022, 1047.</p>
+            <p>Neljä neittä ruovon niitännässä V1 1283; V2 1188.</p>
+            <p>Noidille (Viroon) kylään, Narvan tietäjille V1 10—26, 961.</p>
+            <p>Nurmi-Tuomas, ks. Luomisruno.</p>
+            <p>Oinonluinen kantele V1 119, 121, 123—126, 129—130, 133—134, 136—138, 140—144, 147—156, 158—162.</p>
+            <p>Olin orjana Virossa, vrt. Viron orja V1 121—122, 124—126, 129—130, 133, 136—138, 140, 142—144, 147, 149—150, 152, 155—158, 160, 1239, 1245; V2 908—911.</p>
+            <p>Oljamissa käynti V1 704—747, 1326, 1351; V2 658 a, 1294, 2405—2406; V3 120—124, 1235.</p>
+            <p>Oluen kerskaus V2 84.</p>
+            <p>Omenatammi V1 32, 104—107; V2 250—267.</p>
+            <p>Onko teiän Osmolassa (vrt. häärunoja) V1 1262—1263; V3 125.</p>
+            <p>Onnensa kylvettäjä ja pieksijä V1 280, 1264—1269; V2 288, 387, 706, 1187; V3 633—634.</p>
+            <p>Onni jäi kylpemättä V1 857.</p>
+            <p>Oute Koute neitsykkäinen V1 696.</p>
+            <p>Paha anoppi, vrt. Miniän runoja V1 1352.</p>
+            <p>Pahasulhollinen V1 1037, 1042, 1232, 1270—1279; V2 748, 764—765, 2407—2409; V3 126—128.</p>
+            <p>Paimenessa pillin tehnyt — Vrt. Kullervo V1 1280.</p>
+            <p>Parta kullan palmikossa V1 937.</p>
+            <p>Pedot hevosen kyntäjältä, ks. Hevosen pedot.</p>
+            <p>Pentin linna V1 1066, 1071—1075, 1080, 1082, 1085, 1087—1088, 1093.</p>
+            <p>Pesin tupani, rikat (Päivän kera kilpaa) V1 1052, 1058—1059, 1321; V2 2243; V3 239.</p>
+            <p>Pieni on paimenen tuleksi V1 1065.</p>
+            <p>Piispa Henrikin surma? V3 234, 496.</p>
+            <p>Pilviin viety V1 748—767, 952, 956, 958, 960, 963, 969—970, 972—974, 976, 985; V3 130—131.</p>
+            <p>Pilvivene V1 768—773; V3 132.</p>
+            <p>Polvenhaava V1 1062.</p>
+            <p>Pontuksen laivaretki V1 774—791, 893, 1317; V3 133—136.</p>
+            <p>Puistin maata velloltani, ks. Myyty neito V1 9.</p>
+            <p>Punaparran sota V2 2356—2357; V3 1237—1238.</p>
+            <p>Purje puhki kivisillä kengillä V3 137—142.</p>
+            <p>Purren itku V1 791, 1076, 1078.</p>
+            <p>Päivän kera kilpaa V1 792—795, 1052, 1058—1059, 1321; V2 2243; V3 239.</p>
+            <p>Päivän päästö V1 796—800, 803; (V2 1994); V3 143—144.</p>
+            <p>Pääskynen sotaan läksi, ks. Kuolonsanomat V1 115, 371, 375, 379, 383—384, 398, 907; V3 165—175.</p>
+            <p>Pääskyseksi muuttunut tyttö V2 934, 2252.</p>
+            <p>Rautapaita, -kypärä V3 235.</p>
+            <p>Revon itku V1 1284—1294, 1353; V2 920, 1774, 2410—2411; V3 236.</p>
+            <p>Riion poika ja Katri V1 801.</p>
+            <p>Ristitty metsä V1 802—803, 1313; V3 496.</p>
+            <p>Saarenmaan palo V1 804—809.</p>
+            <p>Saaren neito, vrt. Luomisruno V1 232, 237, 273, 305, 810—824; V3 146—150.</p>
+            <p>Sairastava neito V1 825—835, 1127; V2 639, 2412; V3 151—152.</p>
+            <p>Satoi ukko uutta lunta V1 838; V2 2306—2309.</p>
+            <p>Sinon kitkijä, vrt. Myyty neito V1 9, 941; V3 237.</p>
+            <p>Sisaren turmelus V1 364—368, 839—856; V2 1197; V3 153—160, (675).</p>
+            <p>Sodan kuvaus V1 116, 464, 468—470, 472, 474, 476, 478—481, 483—485, 491—495, 528, 542, 878, 894; V2 31, 1096.</p>
+            <p>Soitan suolla mennessäni V1 120; V2 246.</p>
+            <p>Soljella sotaan V1 857—858.</p>
+            <p>Sormin soutu V1 859—869, 1077, 1315—1316, (1324), 1327, V2 419 a, 1036, 2413—2414; V3 161—164, 358.</p>
+            <p>Sorsan laulu V2 2245.</p>
+            <p>Sota hävitti, tappoi, siksi meitä näin vähäisen V2 593, 629, 792, 796.</p>
+            <p>Sotamiehen otto, rekryyttirunot V1 870—902, 1317—1318, 1328; V2 360, 1093, 1096, 1099, 1101, 2397; V3 176—178.</p>
+            <p>Sotasanomat V1 904—918, 930, 1194, 1354; V3 179—183.</p>
+            <p>Sotkin koito kostelii, ks. Oljamissa käynti.</p>
+            <p>Suka mereen V1 407, 919—938, 1319; V3 184—190.</p>
+            <p>Sulhon kylvettäjä V1 4, 176—190, 192—194, 1326.</p>
+            <p>Suomeen pako V1 157, 1085—1086, 1088.</p>
+            <p>Suomenmaan palo V3 191—192.</p>
+            <p>Suomen noidat V2 2258.</p>
+            <p>Suomen pojat miekka vyöllä V2 2344.</p>
+            <p>Suomet, Saaret, Pohjanmaat käynyt V2 718.</p>
+            <p>Taivaankappalten kosinta V1 170—174, 237, 253, 939—940, 996; V3 193, 229.</p>
+            <p>Taivaassa kaari, pilvi, lampi, ks. Pilvivene.</p>
+            <p>Tapanin virsi V1 517—518.</p>
+            <p>Tarnalainen tapettiin, leikattiin Lemminkäinen V1 118.</p>
+            <p>Tiaisen olut V1 1176, 1181.</p>
+            <p>Torajoelle lähdetään riitelemään V1 232, 1222; V2 2289, 2448; V3 237.</p>
+            <p>Tuhma Tuuteri V3 238.</p>
+            <p>Tuli veikko vierahaksi, ks. Hevonen kadonnut.</p>
+            <p>Turun tyttö, saaren neito V1 202, 740, 792, 987, 996, 999.</p>
+            <p>Turun uusi tupa V1 1312.</p>
+            <p>Tuurikkainen V1 88.</p>
+            <p>Tuurikkainen alkoi syötellä oroista V1 269.</p>
+            <p>Tytärten hukuttaja V1 (213), 754, 856, 941—985; V3 194—195.</p>
+            <p>Uottelin mie velloani, ks. Oljamissa käynti.</p>
+            <p>Uottelin opin orosta, ks. Oljamissa käynti.</p>
+            <p>Varas koristeet V1 696, 986—1017; V3 196—203.</p>
+            <p>Varkaalle menijä neito V1 215, 662, 832, 1018—1028; V3 204—206.</p>
+            <p>Vedelle neito kultareunalla kupilla V1 29.</p>
+            <p>Vedenkantaja neito V1 1030—1044; V2 2303.</p>
+            <p>Veneen pohja puhki kivisillä kengillä V1 773, 1022, 1045—1061, 1078, 1089, 1320—1321.</p>
+            <p>Veneenveisto ja laivaretki V1 434, 450, 784, 1062—1094, 1281—1282; V3 207—213.</p>
+            <p>Veneeseen pyrkivä neito V1 1095—1104.</p>
+            <p>Venepuun etsintä V1 (190, 192), 1066—1068, 1281—1282.</p>
+            <p>Venäläinen vainolainen V1 613.</p>
+            <p>Venäläisen venheessa neito V1 501—502, 504—507, 509—510, 512, 514—515, 697, 1065, 1097—1099; V3 214—218.</p>
+            <p>Veri tippui vempeleestä V1 68, 113, 211 a, 215, 228, 233, 241—243, 245, 248, 252, 255, 260—261, 267, 270—271 a, 275, 277, 559; V2 130.</p>
+            <p>Vetoisaine vieträ piika kasvoi kauan kotona V3 15—17.</p>
+            <p>Vipusen poika virsikäs V1 1077, 1080.</p>
+            <p>Viron orja V1 10, 1105—1132; V3 219—221.</p>
+            <p>Väinämöinen kielsi V2 2587.</p>
+            <p>Väinämöinen kysyy V1 850.</p>
+            <p>Väinämöinen väköväinen kuningas V1 1322.</p>
+            <p>Väinämöinen vävyni V1 220, 225, 1323.</p>
+            <p>Väinö väsy käyessään V1 1322.</p>
+            <p>Vävyn tuomiset, ks. Kojosen poika V1 168.</p>
+            <p>Yli meren menijä V1 1133—1138.</p>
+            <p>Yöjalassa kymmenen kylää käynyt, ks. Kymmenen kylää kesoissa yönä.</p>
+            <p>Äidin kuolo V1 9—27, 754, 1336—1337; V3 4—7.</p>
+            <p>Äidin vaivojen palkinto V1 1150—1156; V2 355; V3 222—225.</p>
+            <p>II. Kertovia runo-aihelmia.</p>
+            <p>Ahvenilta aitan poltan V1 798; V2 246.</p>
+            <p>Aloin syötellä oroja V1 1158.</p>
+            <p>Anni tuolta annettiin V1 224, 241—244, 246, 254, 257, 262—264.</p>
+            <p>Aunuksen väliä ajelin V2 1108.</p>
+            <p>Ei manalle taudin tappamatta V3 226.</p>
+            <p>Ei ole sääli Suomen maita V1 885; V2 641.</p>
+            <p>Ei ollut sitä tytärtä, kenen en vieressä venynyt, vrt. Kymmenen kylää käynyt kesoissa yönä V2 1128 a, 1129.</p>
+            <p>Ei piä lukea Luojan töitä V1 771; V2 598, 2203, 2297.</p>
+            <p>Ei taitu talven selkä, pakkasen paksu niska V1 771.</p>
+            <p>Ei tallo taimia, rutvo rukiita veli V2 2254.</p>
+            <p>En lähde kyntäjälle V1 832.</p>
+            <p>Ennen tehdyille teloille hyvä palatakseni V1 5.</p>
+            <p>Etsi korvesta kiviä, ks. Hullu poika, villi kerta.</p>
+            <p>Hepo juoksi tie heläji V1 68—69, 113, 230, 273—275, 541, 545, 559, 817—818, 821, 1188, 1190; V2 1294, 2244.</p>
+            <p>Hevonen syö kaurat räystäältä, veden pilvistä vetää V1 73, 75, 78.</p>
+            <p>Hiirenkarvanen hevonen, Vesi tippu vempeleestä V2 130, 845.</p>
+            <p>Hirviä (Hiiden) ja peuroja miehet pesevät V1 768, 771.</p>
+            <p>Hirviä onko salossa V1 1236—1237.</p>
+            <p>Hullu poika villipyörä, etsi korvesta kiveä V1 1159—1162; V2 1271, 2074, 2256—2257.</p>
+            <p>Häätupa (Ihmetupa) V1 274; V2 12, 1856—1857, 1863—1864, 2048, 2302.</p>
+            <p>Ikkunattomassa, ovettomassa huoneessa V1 23, 25—26; V2 2263.</p>
+            <p>Isä minulle orosen osti V1 1167; V2 999—1004, 1023, 1048, 2295.</p>
+            <p>Jaaman tammat tappelivat V1 1308.</p>
+            <p>Jauhaminen anopille V1 231, 409, 412, 415, 417, 421, 428—429, 432, 652, 964, 966, 1155; V2 901.</p>
+            <p>Jouduin juomaan kylään V2 1902 a.</p>
+            <p>Juomarin menettely V2 115—117, 120—121.</p>
+            <p>Jänis sanoi pojalleen V3 228, 1015.</p>
+            <p>Kaaloin kerran Karjalassa V1 1320.</p>
+            <p>Kivellä soutu V1 1047.</p>
+            <p>Kivestä voita kirnusi Helina hyvä emäntä V2 2042.</p>
+            <p>Kolme on aittaa aholla V1 1205; V2 1009.</p>
+            <p>Kolme on lehmää läävässä V1 1204—1205.</p>
+            <p>Kolme on riihtä rinnakkain, ruunaa, lehmää V1 1204—1205.</p>
+            <p>Kolm’ on ruunaa rupulla V1 1204—1205.</p>
+            <p>Kolmet kosjomiehet meiän portin eessä V2 697.</p>
+            <p>Korppi kalujen tekijä V1 1332.</p>
+            <p>Kukkalatva kuusi V1 1206—1210; V2 2287.</p>
+            <p>Kukon tappo ja paistaminen V1 1251—1253.</p>
+            <p>Kultakenkiä ompelevat miehet V1 772—773.</p>
+            <p>Kurjet soilla riitelevät V1 473, 1179—1181, 1213—1215, 1217—1220, 1223—1224; V2 513, 2214, 2289.</p>
+            <p>Kuulin kuin orava laulo V1 1225—1226 a.</p>
+            <p>Käin ulkona usein uutta kuuta katsomassa V1 543—544, 547—548, 550—552, 555.</p>
+            <p>Kävin piennä paimenessa V1 73, 91—93,120, 232, 273, 303, 309, 814—818, 822, 824, 850, 1305.</p>
+            <p>Kävin piennä Pirttilässä (Varas koristeet) V1 1000.</p>
+            <p>Laatokka kun sulaisi V1 785.</p>
+            <p>Lesken poika pani paarmat kyntämään V1 1225.</p>
+            <p>Lintuna lensin isän sattuu, ks. Kysyin kyntörastahalta V1 558, 1272—1273; V2 364, 400, (687, 688), 919, 1200, 2412; V3 193.</p>
+            <p>Lintunen lehossa lauloi V1 374, 535, 1029, 1229—1234, 1345—1346; V2 304, 446, 1246—1259; V3 88.</p>
+            <p>Liuvuin surman suun eteen V1 771.</p>
+            <p>Läksi kummat kulkemaan sepän akasta V1 136.</p>
+            <p>Läksi lintu lentämähän V1 1235.</p>
+            <p>Läksin linnahan likaksi V1 134, 148, 153—154, 159, 161, 1010, 1239—1249; V2 2249, 2269; V3 97—98.</p>
+            <p>Läksin neittä noutamaan V1 254, 1250.</p>
+            <p>Läksin rannalle merelle, ei ollut meressä vettä V1 1311, 1314, 1320—1321; V2 2267; V3 137—139.</p>
+            <p>Läksin ruohon niitäntään V1 1205.</p>
+            <p>Läksin sorja soutamaan V1 404, 1056.</p>
+            <p>Läksin (t. soua laiva) sille maalle, missä puut punaiset V1 13, 108, 285, 416, 752, 850, 863, 1235; V2 517 a, 639, 2179, 2303; V3 1004, 1132.</p>
+            <p>Läksi poika kuuvalolla neittä noutamahan V2 2295.</p>
+            <p>Läks tuo poika nuori neittä noutamaan V1 621.</p>
+            <p>Läksi veikkoni kosiin V1 948, 950.</p>
+            <p>Löysin (Näin) karjan kankahalta V1 1046, 1048—1051, 1060, 1311, 1320; V2 2035, 2041.</p>
+            <p>Löysin kultaisen munasen — kukko tapetaan V1 522.</p>
+            <p>Löysin kultaisen omenan V1 1251—1253.</p>
+            <p>Löysin neitosen lehosta, vrt. Kantelejakso V1 250, 1190, 1326.</p>
+            <p>Löysin verkaa palasen V1 523, V2 1079.</p>
+            <p>Mari marjasta tulee — Anna, Mari, marjoja V1 578—679.</p>
+            <p>Melkein on meressä vettä, kaksi kauhallista V2 2212—2213.</p>
+            <p>Menin linnaan likaksi, ks. Läksin linnaan likaksi.</p>
+            <p>Meri on niellyt monta miestä V1 1053, 2142.</p>
+            <p>Meri syötti, meri juotti V1 200; V2 1051, 2133, 2141.</p>
+            <p>Miehet sodassa V1 791.</p>
+            <p>Miks on maa murun näköinen V1 1183, 1216, 1221.</p>
+            <p>Mitä silloin mietitään, kun vesi venettä viepi V1 867, 1315—1316, 1325; V2 2248.</p>
+            <p>Neidon linna, ks. Neitojen lauluja.</p>
+            <p>Neitonen norosta nousi V3 233.</p>
+            <p>Nousin suurelle mäelle — näin purjeen V1 1055.</p>
+            <p>Nyt anto (kovat) ajat Jumala V1 885, 895 a, 902.</p>
+            <p>Olin etsivä oroista V1 1259—1261.</p>
+            <p>Olkinen oronen V2 12.</p>
+            <p>Oravia, näätiä liekö Savon salossa V2 246.</p>
+            <p>Ostin mettä, join olutta V1 1312.</p>
+            <p>Paimenen papiksi, ks. Läksin rannalle merelle.</p>
+            <p>Pauloja punova paha mies V1 1281—1282.</p>
+            <p>Portin — Kyll tunnet meiän portin V1 1325.</p>
+            <p>Puut punaiset, hopeaiset hongan oksat, ks. Läksin sille maalle.</p>
+            <p>Päänpesu lipeällä V1 1283.</p>
+            <p>Rajamaat riitaiset V2 1225, 2291, 2298.</p>
+            <p>Rikat — pesin tuvan, lakasin (Päivän kera kilpaa) V1 792—795, 1052, 1058—1059, 1321; V2 2243; V3 239.</p>
+            <p>Saarenmaan saunat lämpiävät V1 1314; V2 1053, 2272.</p>
+            <p>Saksan salmille syville V2 1208.</p>
+            <p>Sika neuvo porsastaan V1 1194; V2 503.</p>
+            <p>Sineen ja mataraan V1 465, 469, 473—474, 483, 488—489, 493, 836—837.</p>
+            <p>Siso minut silkkipussissa mereen, muutuin pääskyseksi V2 934.</p>
+            <p>Soua laiva sille maalle, missä puut punaset, ks. Läksin sille maalle.</p>
+            <p>Suotta on tehty Suomen linna V1 880.</p>
+            <p>Susi lausui lampahalle V2 2293.</p>
+            <p>Syntyykö syvälle mennä V2 2262; V3 149 a.</p>
+            <p>Syöttelin ison sikoja, luulin turkit annettavan V1 1324; V3 897, 902.</p>
+            <p>Taarasta kosii tytärtä V1 1225.</p>
+            <p>Tule, pursi, tehdyille teloille V1 1049, 1079; V3 137, 139, 142, 239.</p>
+            <p>Tuli veikko vierahiksi kahdelle kananmunalle V1 1324.</p>
+            <p>Turun uudessa tuvassa olutta join V1 1312.</p>
+            <p>Täti hanhen tuomisiksi V1 30.</p>
+            <p>Valkea vasikka Viipuriin — Eilen meillä lehmä poiki V1 41—42, 44—47, 70—74, 77, 80—84, 86, 568, 986, 1174, 1256; V2 1023.</p>
+            <p>Varain on varis jalalla (Yli meren menijä) V1 1133—1138.</p>
+            <p>Varis, korppi lauloi tautivuotta V2 614.</p>
+            <p>Verka Saksan räätälille V1 523, 810.</p>
+            <p>Vieläkö vellokset elää, kutoo verkkoa, vrt. Tulen synty V1 336; V2 1003.</p>
+            <p>Vilppo saunan selkähänsä V1 857—858.</p>
+            <p>Virossa, suolakaupungissa, viikon viivyin V1 142.</p>
+            <p>Vuohen kanssa voittosilla V1 1280.</p>
+            <p>Vuohenvoin pieksijä V1 1310.</p>
+            <p>III. Tunnelmarunoja.</p>
+            <p>
+                <hi rend="b">Laulu</hi>.</p>
+            <p>Laulajan alkusanoja V2 1—17, 128—138, 154, 107, 197, 597, 1070, 1080, 1198, 2288, 2293; V3 58, 241—258.</p>
+            <p>Aamen on aina virren päässä V2 1048.</p>
+            <p>Aikanaan laulettava V2 23, 92—101, 163, 206, 212, 369, 643, 2055, 2423; V3 330—333, 424.</p>
+            <p>Avaan arkun kannen, virren laatikon V2 1, 12, 32, 42, 85, 131, 135, 156, 230; V3 251, 314.</p>
+            <p>Ei ilo ilolle tunnu, (ellei Väinämöinen laula) V2 11, 280; V3 241—243, 258.</p>
+            <p>Ei kumaja kuiva (voiton) kurkku V2 18—19; V3 259—261.</p>
+            <p>Eikös näin hyvä olisi V2 280.</p>
+            <p>Ei lau’at laula, ellei laualliset V2 20—25, 1975—1976; V3 264—266.</p>
+            <p>Ei meillä surulla syyvä V2 87—88; 873—874; V3 281—282.</p>
+            <p>Ei minun laulaman pitäisi V1 721; V2 9, 26—33, 35, 83, 149, 163, 166, 279, 459, 469—470, 521, 541, 545, 592, 607, 938, 1107, 2415—2416.</p>
+            <p>Ei mun suutani sulettu V1 283; V2 147.</p>
+            <p>Ei ole hullun kieltäjää V2 52, 64, 101, 161, 287, 294; V3 286.</p>
+            <p>Ei ole laiskan laulettava V2 2195.</p>
+            <p>Ei ole laulut lauenneet V2 279 a.</p>
+            <p>Ei ole vielä virttä tehty (minusta) V2 725.</p>
+            <p>Ei ole virttä mietittynä V2 167, 271.</p>
+            <p>Ei sanat puhellen puutu V1 185; V2 42, 161, 1271; V3 298—300, 372.</p>
+            <p>Ei virret Virosta puutu V3 302—303.</p>
+            <p>Emme vesillä laula V2 280.</p>
+            <p>Emoni ei saanut laululla rahoja V2 3, 41—42, 61—62, 65 a, 66, 68—69, 72, 75, 77, 80, 161; V3 276, 279—280.</p>
+            <p>En huoli, jos on köyhä vuosi V2 1.</p>
+            <p>En ilolla laula V2 28, 34—37, 474, 495, 572, 592, 617, 641; V3 268—270 a, 404.</p>
+            <p>Ennen ei sulettu toisen suuta V2 737.</p>
+            <p>Ennen lauloin V2 45—53, 194, 288, 341, 575, 869.</p>
+            <p>Ennen metsä puita puuttuu kuin sisot sanoja V1 489; V2 157, 288; V3 296—304, 372.</p>
+            <p>En ole hullu, jos mie huudan V2 106.</p>
+            <p>En ole huora, vaikka huudan, laulan V2 858.</p>
+            <p>En ole laulajan lajia V2 38—44, 505, 732; V3 262, 280, 288.</p>
+            <p>En ole opissa ollut V1 285; V2 40, 50, 54—60, 150, 182, 233, 239—240, 271, 288, 640, 1951; V3 272—275.</p>
+            <p>En rahatta laula V2, 19, 45, 47, 61—80; V3 276—280.</p>
+            <p>Harvoin hanot yhessä V2 51.</p>
+            <p>Hullu lauloi pitkän virren V2 284, 302.</p>
+            <p>Humalassa luulevat huutavani V2 1110, 2421.</p>
+            <p>Iloitkaa, iloiset nuoret (Ilo jäi ison kotiin) V2 170, 1519.</p>
+            <p>Ilolla laulaja V2 9, 81—91, 917, 2417; V3 281—283, 328, 536.</p>
+            <p>Iso kielsi iloitsemasta V2 938.</p>
+            <p>Isoni ilon tekijä, minä pitäjä V2 9, 81, 86.</p>
+            <p>Jo on laulut lauenneet V1 45—46, 185; V2 46, 279 a, 295—298, 309, 547, 575, 594, 616, 1048, 2418.</p>
+            <p>Jouduin nuori nuoristoon V2 271.</p>
+            <p>Kaikki laulan katkismukset V2 3.</p>
+            <p>Kehannenko suurta suutani avata (Sopineekos, syntyneekös) V2 42, 1473, 2039, 2232; V3 254—255, 270.</p>
+            <p>Kehoitus (aikanaan) laulamaan V2 92—101, 169, 959, 2422, 2441; V3 284.</p>
+            <p>Kerin virteni kerälle V2 134, 137, 235, 237, 239—240, 243, 248—249, 269, 299—300, 623, 1707, 2059; V3 309, 345, 356.</p>
+            <p>Kesen heitti kehno tyttö V2 197, 943.</p>
+            <p>Kielitaitoinen laulaja V2 58.</p>
+            <p>Kielsi iso, emo, pere laulamasta V2 90, 300, 933.</p>
+            <p>Kolkan käännän V2 138, 277, 1049, 1123, 2238; V3 373.</p>
+            <p>Kuka kuoltuani laulaa V2 102, 177, 312.</p>
+            <p>Kukkua käki lupasi, minä laulaa V2 51, 2419.</p>
+            <p>Kukkuu käkeä kolme V2 286.</p>
+            <p>Kun tulin tupaan, toin laulut tullessani V2 13; V3 283.</p>
+            <p>Kutsumattomana ei laulaja olisi tullut V2 124.</p>
+            <p>Käki kun olisin, kukkuisin joka petäjän V2 263; V3 262, 397—400.</p>
+            <p>Käki on luotu kukkumaan, ks. Mie oon luotu laulamaan.</p>
+            <p>Käykää langot laulamaan V2 14, 2441.</p>
+            <p>Laiska on luotu laulamaan V2 8, 104—107; V3 289.</p>
+            <p>Lakituvassa laulan V2 17.</p>
+            <p>La koettelen ääntäni V2 108—112; V3 287.</p>
+            <p>La laulan suusta kuin sulan nenästä V2 15.</p>
+            <p>La laulan tähän talohon V1 101—102, 104—107, 279, 444, 740; V2 509.</p>
+            <p>La mie laulan lammin sorsa V2 125, 509, 961, 2178.</p>
+            <p>La mie laulan laualleni V2 20, 22—23, 25, 1978.</p>
+            <p>La mie laulan liirittelen l. lallittelen V2 131, 138, 161.</p>
+            <p>La mie laulan pienen virren V2 15—16.</p>
+            <p>La mie laulan pitkän virren V2, 6, 132.</p>
+            <p>La mie laulan surussa V2 122—126.</p>
+            <p>La mie laulan uutta virttä V2 846.</p>
+            <p>La mie laulan voiessani V2 95 a, 96—97, 99, 101, 163, 2055.</p>
+            <p>La(s) mie laulan laitettava V2 3.</p>
+            <p>Larin Paraske lauloi V2 305—306, 1592.</p>
+            <p>Laulaisin kotona, en kylässä V2 287—288; V3 357, 359.</p>
+            <p>Laulaisin kylässä, en viitsi (velloltani) vierahilta V2 104—105, 105 a, 107, 341; V3 246, 359.</p>
+            <p>Laulaisin ma, taitaisin ma V2 19, 35, 42, 47, 63—65, 74, 76, 78, 104, 130, 190, 291, 545; V3 286, 286 a.</p>
+            <p>Laulajaa miehekseen toivova V2 949 a.</p>
+            <p>Laulaja joutuu juomarille V2 113—121, 688, 974, 1410; V3 295.</p>
+            <p>Laulajan kerskauksia V2 58, 85, 89, 128—170, 182, 185, 187, 227—228, 251—252, 269, 271, 274, 279, 281, 288, 509, 794, 1048, 2039, 2178, 2299; V3 251, 272, 296—329, 358.</p>
+            <p>Laulakaamme lasta kaksi V2 6, 138, 959; V3 247—248.</p>
+            <p>Laulakaa nyt (meiän) vellon lapset V2 46, 94, 103; V3 285.</p>
+            <p>Laulan niin että sulhasen sydän syttyy V2 879.</p>
+            <p>Laula, laula suu suruinen V2 98, 100, 643.</p>
+            <p>Laulan laiha poika V2 4—5, 127, 129, 182, 275, 282; V3 288—294.</p>
+            <p>Laulan langoissani, en Venäjällä V3 244.</p>
+            <p>Laulan laulajan jälestä, ellen osaa V3 336.</p>
+            <p>Laulan suulla surkealla V2 126, 591.</p>
+            <p>Laulan tähän talohon, ks. Tammen laulan tanhualle V1 444, V2 509, 1751.</p>
+            <p>Laulavat Lapinkin lapset V2 94, 179—181, 282, 540.</p>
+            <p>Laulelen liki kotia V2 171—177, 324—325, 837, 2420—2421.</p>
+            <p>Lauloi kaksi laulajaa, kaksi käkeä kukkui V2 73, 2206, 2212, 2214.</p>
+            <p>Lauloin ennen, taisin ennen (lapsempana), vrt. En rahatta laula V2 45—46, 52—53, 163, 166, 201, 309, 493, 594, 616, 1275, 2396; V3 334—336, 410.</p>
+            <p>Lauloin paimenessa V2 785—786.</p>
+            <p>Lauluist ei lakiin käydä V3 943, 946.</p>
+            <p>Lintu lauloi liiritteli V2 2206.</p>
+            <p>Lintu lauloi, lehti liekkui V2 2, 306.</p>
+            <p>Luvan laulaa antoi iso V2 9, 272.</p>
+            <p>Lähtään langot laulamahan V1 8, 185; V2 8, 126; V3 249—250, 252.</p>
+            <p>Menen metsään kesällä V2 29, 288, 411, 494, 507, 519, 525 a, 526, 571—576, 637, 1459; V3 421.</p>
+            <p>Mie kullan kuolettelin V2 2430.</p>
+            <p>Mie kun laululle lassein; säännyn laulamaan, ks. Laulajan kerskauksia.</p>
+            <p>Mie laulan pitkän virren V2 6.</p>
+            <p>Mie oon luotu laulamaan, Minun laulaa tulee V1 284; V2 5, 125, 137 a, 161—162, 254, 286.</p>
+            <p>Mie oon vissiin virrenseppä V2 271.</p>
+            <p>Mie synnyin ilomäellä (laulukallahalla) V2 82—83, 86—89, 91, 657, 763, 784, 917, 1270; V3 243.</p>
+            <p>Mie toin virret tullessain V2 155; V3 272.</p>
+            <p>Miksei laula meijän lapset V2 178—181.</p>
+            <p>Miksei soi sorja ääni V2 190, 199, 642; V3 259.</p>
+            <p>Miksi eivät muut laula — Yhä yhtä laulattaat V2 182—184.</p>
+            <p>Mikä sorti suuren (sorjan) äänen, Mikä kumma kulkullani V2 108, 111, 112, 161, 191—207, 284, 410, 584, 766, 2292, 2296; V3 336—344.</p>
+            <p>Mitä laulan, kuta laulan V2 2, 271.</p>
+            <p>Mitä mietin, kun laulan V1 1329; V2 185—190; V3 345—346.</p>
+            <p>Mitäs tuosta, jos laulan — ei kyty kysele V2 9, 35, 281, 285, 288; V3 323.</p>
+            <p>Moittimisia V2 208.</p>
+            <p>Mullan alla kieli saa levätä (Laula laula kieli) V2 93, 98, 100, 122—123, 322.</p>
+            <p>Niin puran puhetta kuin punakerää V2 30.</p>
+            <p>Nyt mie joudan laulamaan (Silloin laulan, konsa jouan) V2 153, 163, 209—222, 239—240, 244, 248, 268, 288, 308, 949 a, 1049; V3 310, 355.</p>
+            <p>Nyt mie väännän toisen värssyn V2 1540.</p>
+            <p>Omat on virret oppimani V2 54, 59—60, 137, 150, 169, 233—234, 239, 288, 640.</p>
+            <p>Onhan miull virtosii kuin seinän histosii V2 40, 134, 139, 146, 197, 210, 212, 221, 268, 276, 288.</p>
+            <p>Onko ääneni entisellään, ks. La koettelen ääntäni.</p>
+            <p>Paimenessa lauloin liirittelin V2 970; V3 97, 572.</p>
+            <p>Palkka kun pantaisi, laulaisin V2 19.</p>
+            <p>Passipo emolle, kun antoi mokoman äänen V2 108, 158—159, 168.</p>
+            <p>Pilli ei perettä toita, kannel kansaa elätä V2 1048, 1225, 2140; V3 262—263.</p>
+            <p>Pois huorat huutamasta V2 1463.</p>
+            <p>Runoreki V2 83, 138, 163, 223—249, 288; V3 145.</p>
+            <p>Ruvenenkos, ruohtinenkos V3 254—255.</p>
+            <p>Saanko huutaa hovissa, laulaa lakituvassa V2 284; V3 941.</p>
+            <p>Seinäkellot, tunnit, jos olisi, laulaisin paremmin V2 17.</p>
+            <p>Sen mä tiiän selvälleen V2 8.</p>
+            <p>Silloin laulan, konsa joudan V2 242; V3 309—311.</p>
+            <p>Soi ennen sorja ääni, kun emo voilla voiteli V2 29.</p>
+            <p>Soi metsä, kumaja korpi V2 865, 2091; V3 347.</p>
+            <p>Soisin aina soitettavan, laulettavan V2 88, 714, 1140; V3 348.</p>
+            <p>Sopineeko suurta suutani avata V2 9—10, 283.</p>
+            <p>Sopineeko virren arkkua avata V2 1.</p>
+            <p>Sorian ääni soisi V3 349.</p>
+            <p>Sormet soittajan kuluvat, Väki laulajan väsyy V2 40, 43—44, 58; V3 280.</p>
+            <p>Sorsa soitti kanteleella V2 178, 2040.</p>
+            <p>Suomen sulhot laaut laulamaan V2 278.</p>
+            <p>Suotta läksin Suomen maasta virsiä virkkamaan V2 293, 1102—1103.</p>
+            <p>Surussani suotta laulan V2 521, 524.</p>
+            <p>Suru sorti sorjan äänen V2 29.</p>
+            <p>Suru virret suuhun tuopi V2 309 a; V3 410.</p>
+            <p>Sutta rutta suotta laulan V2 79.</p>
+            <p>Tammen laulan tanhualle V1 32, 101—107; V2 250—267, 509, 1724, 1751; V3 26—30, 350.</p>
+            <p>Tiiän miekin minkä tiiän V2 8, 16.</p>
+            <p>Tuhman tuppeen panevat (Tuleneeko tuhman käydä) V2 943, 2232, 2274.</p>
+            <p>Tulin ihmisten iloksi, en oluen halulla V2 84—85, 90.</p>
+            <p>Tulkaa virteni tupahan V2 40, 42, 134, 186, 220, 268—271, 288; V3 309, 345, 356.</p>
+            <p>Tupa on täynnä tuppisuita, ei laulun alkajaa V2 13, 85.</p>
+            <p>Tuutiellessaan emo lauloi V2 165.</p>
+            <p>Tyylen lyylen virren jatko V3 351—352.</p>
+            <p>Viel on virret laulamatta V2 32, 156, 1123, 1170; V3 312—313.</p>
+            <p>Virret ei laulaen vähene V3 297—300.</p>
+            <p>Vuoro laulaa V2 91, 272—277, 741, 852, 2232; V3 291—292, 294, 353—354.</p>
+            <p>Vähä virren väärin lauloin V2 158, 433, 441, 505, 732, 3138, 1227, 1285, 2154.</p>
+            <p>Väinämöinen laulajaksi V2 11, 280; V3 241—242, 258.</p>
+            <p>Yhä yhtä laulattavat V2 161, 182—184.</p>
+            <p>Äijä on ääneni kulunut V2 197; V3 341.</p>
+            <p>Älkää ouoksi otelko minun lapsen lauluja V2 9, 294, 732; V3 378—379.</p>
+            <p>Äänen (laulajan) kehunta V2 133, 138, 140.</p>
+            <p>Äänen sorjan, mikä sorti, ks. Mikä sorti äänen sorjan.</p>
+            <p>Ääni vieno, pieni, piennä putosin V2 133, 154, 198 a, 200, 272, 635, 2287.</p>
+            <p>Laulua lopettaessa: V2 289—312, 1094, 1123; V3 356, 368.</p>
+            <p>Hevonenkin hengästyy (Tulonenkin tummenoo) V2 292, 308, 1095, 2232; V3 366—367, 376.</p>
+            <p>Kesen heitit, et kehant V2 2207.</p>
+            <p>Kyll on, kyll on, täys on V2 281; V3 369—370.</p>
+            <p>Olkoon sille, jääköön tälle V2 168, 307, 310—311, 597, 851; V3 372, 374—375, 465.</p>
+            <p>Pian piisaapi minusta V2 185.</p>
+            <p>Vieläk’ laulan, vain on kyllä V1 58, 1326; V2 124, 152, 162, 185, 862, 1163; V3 312, 371—372.</p>
+            <p>Virsi loppu, kun lopetan V1 107, 486, 1001, 1205; V2 212, 233, 289—290, 571 a, 630, 1163; V3 373, 377.</p>
+            <p>Älä suutu suusanoista, virsistä V2 60, 677, 732, 1102, 1321; V3 380, 943—945, 947.</p>
+            <p>
+                <hi rend="b">Huoli itku ja suru</hi>.</p>
+            <p>Alahall on allin mieli, armottoman alempana V2 486; V3 382—383.</p>
+            <p>Annan huolia hevosen V3 608, 610, 612, 643, 844.</p>
+            <p>Annan itkeä itikan V2 537.</p>
+            <p>Ei itke iso minua V2 5, 2303.</p>
+            <p>Ei ne kasva kaikki lapset, ks. Kasvoin kuin putki puuta vasten.</p>
+            <p>Ei ole kurjalla kotia, ks. Korvessa on minun kotini.</p>
+            <p>Ei ole ilta, kun en itke V1 721 V2 327, 401, 512, 641.</p>
+            <p>Ei ole sitä oroista, joka mieleni vetäisi V2 510, 534, 537, 539, 547, 612.</p>
+            <p>Ei ole sitä sisosta, kelle haastelen haluni V2 573—576, 592, 637, 914.</p>
+            <p>Ei sula (syän) snruni V2 124, 487—491, 612, 618, 1271, 2297; V3 384—386.</p>
+            <p>Ei tiedä yksikään, mitä mielessäni V2 602, 617, 628, 639, 1110, 1199; V3 390—392.</p>
+            <p>Ei tule uni usein huolellisen huonehesen V3 393.</p>
+            <p>Enemmän huolta kuin kuusessa käpyjä V2 492—495, 538, 543, 612, 688; V3 394, 415.</p>
+            <p>En ole luonnon musta V2 496—503, 529, 532, 556, 642—643; V3 389, 404.</p>
+            <p>En ole luonnon (hoikka) kaita V2 510, 556; V3 393, 395, 413.</p>
+            <p>En tiedä tekijätäni — Mikä luonut, tetri, varis V2 504—509, 538, 544, 744, 947, 1263; V3 425, 478—479, 705.</p>
+            <p>Harmit olkoot haastamatta V2 975.</p>
+            <p>Huolet V2 510—513, 533, 610—612, 688; V3 387—404.</p>
+            <p>Huolet hoikaksi vetävät V2 500—503, 596; V3 395, 413.</p>
+            <p>Huolet monenlaiset, isän, emon, sisaren V2 35, 496—497, 500, 535, 537, 542—547, 552, 596, 612.</p>
+            <p>Ikävä on illat pitkät V2 600, 641; V3 l.</p>
+            <p>Itke en itseäni, lapsiani V2 972.</p>
+            <p>Itkin ilman syyttä ison sylissä V1 520—521, 525 a, 540, 575, 637, 2443; V3 407—409.</p>
+            <p>Itkuisat minun iloni V2 36, 2416.</p>
+            <p>Itkusta V1 721, 914, 930; V2 5, 401, 456, 514—527, 536—537, 599, 640, 748, 767, 1161, 1566; V3 335, 403, 405—412, 465.</p>
+            <p>Jos en itse voivottaisi, voivottavat vuoteheni V2 636.</p>
+            <p>Kaksi on meitä kanaista, toinen pois meneepi V2 604.</p>
+            <p>Kanna korppi kaihojani V2 58, 497, 501, 510, 512, 528—540, 543—544, 547, 552, 556, 637; V3 394, 404, 413—415.</p>
+            <p>Kelle itken, haastan tuskat V2 521, 525 a; V3 421.</p>
+            <p>Kolmenlaiset huolet V2 35, 541—547.</p>
+            <p>Kukkuu käköä kolme, ks. Kertov. runoja: Kolmen käen kukunta.</p>
+            <p>Kun käki kukahtelevi, syän syttyy tulelle V1 802; V2 124, 611, 2304; V3 422.</p>
+            <p>Kylmä syän kyyhkysellä V2 574, 578.</p>
+            <p>Mahtoi ennen mun emoni V1 835; V2 350, 403, 548—570, 587, 641, 767; V3 416—418.</p>
+            <p>Miehen kuoletellut, ks. Naisten lauluja, Kullan kuoletellut.</p>
+            <p>Mie kun mietin entistä elämääni V3 405—406.</p>
+            <p>Mieleni kuin syksyinen yö pimeä V2 577—581.</p>
+            <p>Mieli musta V2 559, 579—580; V3 390, 489.</p>
+            <p>Miks on silmäni kipeät, ks. Silmät kipeät.</p>
+            <p>Mikä luonut, ks. En tiedä tekijätäni.</p>
+            <p>Millä lienen surman suututtanut V2 582—591, 620, 634; V3 419—420.</p>
+            <p>Mistä tunnet huolellisen V2 122, 511, 513; V3 397.</p>
+            <p>Muilla päivät murkinassa V2 976.</p>
+            <p>Oisin kuollut kolmiöissä V2 582, 643; V3 430—434.</p>
+            <p>Olisin luotu käeksi V2 511.</p>
+            <p>Silmät kipeät, itkin kuollehia V1 406—407, 934; V2 383, 592—600.</p>
+            <p>Sukat surmalle lupasin V2 587, 625, 629, 634; V3 420.</p>
+            <p>Suren suurta surmavuotta V2 614, 625.</p>
+            <p>Suru, murhe V2 499, 518, 536, 601—617, 628, 640, 688; V3 387—388.</p>
+            <p>Surusta suitset V2 341, 487, 618—634, 643, 656, 716, 744; V3 427—428, 543.</p>
+            <p>Sydän tietää paljo syytä, pää pahaa mieltä V3 426.</p>
+            <p>Syntymättä parempi V3 429—434.</p>
+            <p>
+                <hi rend="b">Orpo, onneton ja kovaosainen</hi>.</p>
+            <p>Armoton, isoton, emoton V1 1195; V2 378, 390, 393, 396—398, 459—461, 464, 467, 467 a, 468—486, 575, 653, 767, 1172, 1546, 1548, 1600, 2443; V3 435, 465, 513.</p>
+            <p>Ei se surma suorin tehnyt V2 288, 1848; V3 436—437.</p>
+            <p>Emo (iso) kuollut kuusi vuotta V1 745; V3 438—441, 485.</p>
+            <p>Emon (ison) haudalla V2 313—327, 408—413, 415, 415 a, 417—418, 420—422, 425, 426 a, 467, 481, 1600, 2301; V3 438—442, 497, 499.</p>
+            <p>Emo jos eläisi, en nukkavierussa nutussa V2 942; V3 98.</p>
+            <p>En luullut joutuvani V3 443—445.</p>
+            <p>Jo ois suoneet sortuvani V2 729, 2425; V3 446—451, 482.</p>
+            <p>Jo ois suoneet Suomen noidat V3 446—448, 449 a, 450 a, 482, 567.</p>
+            <p>Jouduin kylmään kylään V2 481.</p>
+            <p>Jouduin puille pyöriville V2 328—330, 337; V3 452—454.</p>
+            <p>Jänön jäljille, revon rekeen V1 412, 419, 1045, 1284, 1293; V2 331—341, 414, 544, 639, 688, 863; V3 455—462.</p>
+            <p>Kaikki olen katala nähnyt V2 342—344, 391, 477, 585, 658 a, 770—774, 776; V3 463—469, 525—526.</p>
+            <p>Kasvatti emo kanoja parven V1 588, 716, 765; V2 345—365, 658 a, 1725.</p>
+            <p>Kasvoin kuin putki puuta vasten V2 450—453, 467, 519, 566, 617, 1096.</p>
+            <p>Koira haukkui korven rannat, luulin emon tulevan V2 392, 395, 397, 469, 485, 1546, 1548, 2439; V3 515—516, 931.</p>
+            <p>Kolme on viel kokemattain V2 218, 288, 343, 658 a, 770—776; V3 463, 466—467.</p>
+            <p>Korvess on minun kotini (Kotihensa muut menevät) V1 1164; V2 18, 366—377, 445—446, 454—455, 641, 1121, 1195 a, 1263, 1322, 2112, 2304; V3 470—473.</p>
+            <p>Kun minun emoni eläisi V2 378—386, 427, 942, 1600, 2428; V3 474.</p>
+            <p>Kun tulisi Nurmi-Tuomas, vrt. Luomisruno V3 475.</p>
+            <p>Kuolen lintu liioin surmin V2 930; V3 476.</p>
+            <p>Kurjalla ei kotia V1 1164; V2 641.</p>
+            <p>Läksin kurja kulkemaan V3 519.</p>
+            <p>Mehiläinen maasta nousi, vrt. Häärunoja V1 741; V2 420, 1600—1607, 2301.</p>
+            <p>Mie olin toisen orja V2 335, 433, 603.</p>
+            <p>Miull on turva turpehessa V2 540; V3 486.</p>
+            <p>Moni veistään vetää kurkulleni V3 480—481.</p>
+            <p>Ohitseni onni kävi V2 390.</p>
+            <p>Oisit suoneet suohon sortuvani, ks. Jo ois suoneet.</p>
+            <p>Onnensa pieksijä V1 1264—1269; V2 288, 387, 706, 1187; V3 633—634.</p>
+            <p>Onnesta V1 283; V2 165, 389, 856; V3 483, 633—634.</p>
+            <p>Onni ei ostettava — Kun ois onni ostannassa V1 1264, 1266—1269; V2 151, 387, 585, 945, 1016, 1215; V3 483, 634.</p>
+            <p>Orvon kohtalo V2 391—397, 642; V3 484—493.</p>
+            <p>Osallisen onni valvoi V1 1326; V2 151, 288; V3 634.</p>
+            <p>Osasi (emo) omenan tehdä; ks. Häärunot V2 398—406, 640, 692—693, 767, 912—914, 1187, 1218, 1221, 1247, 1690, 2051; V3 429, 494—496.</p>
+            <p>Piennä petti mun emoni V1 1319; V2 125, 322, 407—427, 468, 481, 738 a, 1606; V3 497—502.</p>
+            <p>Pimeä isoton pirtti V2 385, 407, 428; V3 503—504.</p>
+            <p>Puhu Jumala puolestani V3 505—507.</p>
+            <p>Pyy pesoton lintu V2 951, 1263; V3 470—471.</p>
+            <p>Raha vieri, rauta vieri V1 1215; V2 124, 358, 428—441, 457, 971, 2176.</p>
+            <p>Sijan tiiän, kussa synnyin V2 442—449, 1200, 2144; V3 508—509, 518.</p>
+            <p>Sois orja yön tulevan V2 466.</p>
+            <p>Sorja suomalainen korjasi V2 475, 1232—1233.</p>
+            <p>Sudet ulvovat armottomalle V3 443, 445.</p>
+            <p>Suku ei surisi kuolemaani V2 606, 609, 613.</p>
+            <p>Suku suuttui, heimo heitti V2 156; V3 465, 498.</p>
+            <p>Suku ois suonut suohon sortuvani V2 729, 956, 1024, 2425; V3 446—451, 482.</p>
+            <p>Suku surmaksi rupesi V2 517; V3 510.</p>
+            <p>Syntymättä parempi V2 1221.</p>
+            <p>Tehnenkö tuvan tuleen V3 511—512.</p>
+            <p>Tunnen tuulet, tunnen tyynet V2 391, 392 a, 465, 477, 655, 658 a—661, 663, 768, 1024; V3 467, 469.</p>
+            <p>Veli auttoi armotonta V2 558.</p>
+            <p>Vieraalle maalle joutunut V2 124, 126, 423, 971, 1096, 1099, 1161; V3 465, 475, 521, 1140—1143.</p>
+            <p>Vieras emo V2 392, 394—395, 458, 475, 486, 509, 2434—2435.</p>
+            <p>Vierin kuin puu pinosta, ks. Jouduin puille pyöriville V2 328—330, 358, 431, 433, 457, 482—483, 517,1024, 1096, 2159.</p>
+            <p>Älköön emoton kuunnelko käkoä V2 486.</p>
+            <p>Älköön emo pitsilakkia pitäkö kadottuani V1 933, 948; V2 3, 930; V3 476.</p>
+            <p>Älä heitä, herra Jeesus V2 558; V3 465, 498, 501.</p>
+            <p>
+                <hi rend="b">Lasten ja vanhempien suhde</hi>.</p>
+            <p>Ei itke iso minua V2 527, 582, 1123, 1210—1228, 2303; V3 401—402, 695.</p>
+            <p>Ei ne vaali kaikki vaimot V1 1327; V2 168, 355, 566, 1213—1228, 1240, 1263, 1283—1287, 1597, 1798, 2674.</p>
+            <p>Ei ollut emoni kuin nykyiset naiset V3 692—694.</p>
+            <p>Ei sitä emo toruisi V2 32.</p>
+            <p>Ei tiedä tekijä vaimo V1 835; V3 696—699.</p>
+            <p>Ei tullut emolle turva V2 1229—1231, 1286.</p>
+            <p>Emoani ensin kiitän V2 2443.</p>
+            <p>Emo erotti muista lapsista V1 191; V2 358, 384, 655, 658, 660—661, 663—664, 1024, 1243; V3 708—709.</p>
+            <p>Emo kotona uottelee V2 1234.</p>
+            <p>Emon elättäjää, maahansaattajaa tuleeko pojasta V1 2444.</p>
+            <p>Emo neuvoi lapsiansa V2 714.</p>
+            <p>Emon, ison pää alennetaan, jos lapset pahoin tekevät V2 1282; 1799; V3 714.</p>
+            <p>Emon kiellot V2 272.</p>
+            <p>Emoa ei unohtaminen, Emo on nähnyt suuren vaivan V1 1327; V2 1235—1242, 1263; V3 420, 700—701, 918.</p>
+            <p>Emo tuuti (poikoansa) turvaksensa V1 450; V2 168, 349, 983, 1212, 1217, 1223, 1226—1228, 1268, 2437; V3 420, 695.</p>
+            <p>Emo tuuti turvattomalle V2 951; V3 495.</p>
+            <p>Evästä emo minua muille maille paremmille V2 3.</p>
+            <p>Huora, kurva miun emoni V2 476, 1233.</p>
+            <p>Hyvä on lassa lapsen olla V3 702—704.</p>
+            <p>Hyvä vaimo minunki vaali V3 705.</p>
+            <p>Isä kuoli, itkin äiän V2 5, 523—524; V3 403.</p>
+            <p>Isän pään jos poljen V2 955.</p>
+            <p>Kun emo tuuti V1 925.</p>
+            <p>Kun poika näkisi emon vaivat V3 706—707.</p>
+            <p>Lapsia, jos olisi, olisi emolla hyvät olot V2 2371.</p>
+            <p>Luuli emo turvansa tulevan V3 710.</p>
+            <p>Millä maksan maamon maion V1 1150—1156; V2 355, 1211, 1263—1264.</p>
+            <p>Mistä emoa kiitän, (vrt. Neitojen lauluja, Muodosta) V2 1265—1276; V3 711—713, 719.</p>
+            <p>Mistä isoa kiitän V1 45—47; V2 1277—1280.</p>
+            <p>Niin sanoi minun emoni V2 1281.</p>
+            <p>Nykyiset neidot (pojat) alentavat emon päätä V2 1282, 1799; V3 714.</p>
+            <p>Näkisin ison (emon) tulevan, virstan vastaan V2 420, 1246—1259, 1605.</p>
+            <p>Oma ja vieras emo V2 379, 475, 509, 648, 653, 743, 1272; V3 560, 715—716.</p>
+            <p>Pieni oli ennen miun emoni V2 1283—1287.</p>
+            <p>Soisi emo tytön itseään paremmaksi V2 1288; V3 720.</p>
+            <p>Sorea meressä sorsa, soreampi soutajani V2 350, 1284, 1588, 1591, 1598—1599, 2422; V3 429, 495, 705.</p>
+            <p>Suutuin emolle, kun nuorena naittoi V2 515, 748, 1200.</p>
+            <p>Tuhma mihin lienen tullut, en vanhempiini V2 509, 1260—1262, 1591.</p>
+            <p>Tule taatto Tuuterista V3 718.</p>
+            <p>Vanhempien häpäiseminen V2 955.</p>
+            <p>Veteläiset vellon armot V2 1289—1290.</p>
+            <p>Villainen emosen vitsa V2 347—348, 475, 2442; V3 503, 717.</p>
+            <p>Älköön toinen emonen tuuvitelko V3 721.</p>
+            <p>Äsken poika poik’ olis, tekisi uuden tuvan V2 2441.</p>
+            <p>
+                <hi rend="b">Lemmenlauluja</hi>.</p>
+            <p>Ajattelen ken ajaa V2 1155.</p>
+            <p>Anto synti, Luoja oman osani V2 1208.</p>
+            <p>Ei kuulu kullaistani V2 1138, 1154, 1171—1172; V3 387, 678.</p>
+            <p>Ei tiedä kotoiset vaimot, missä miehet V3 680.</p>
+            <p>Ei tällä rannalla rakasta V2 1201.</p>
+            <p>En kukoista kullalleni V2 735.</p>
+            <p>Ennen heitän herkkuruuat ennenkuin herttaseni V2 732, 1139.</p>
+            <p>Hyvää iltaa Ievalleni V2 1140—1142, 2052.</p>
+            <p>Ihalaistain on ikävä, Ikävä on ihanaistani V2 928, 1103; V3 387, 679—680.</p>
+            <p>Illan tullen on ikävä V2 1206; V3 678.</p>
+            <p>Jos mun tuttuni tulisi V1 1292; V2 288, 735, 1143—1163, 2429; V3 88, 521, 681—682.</p>
+            <p>Jos saisin sorean sulhon V3 683—685.</p>
+            <p>Kun mie saisin suuren sulhon V2 1164—1170; V3 684.</p>
+            <p>Kun ois kulta kuulemassa V2 368, 1171—1172.</p>
+            <p>Kun ois tuuli mielellinen V2 1173—1176, 2002—2003.</p>
+            <p>Kuulin äänen kullaltani V1 937; V2 1163, 1189.</p>
+            <p>Lennä, lennä lintunen V2 1203.</p>
+            <p>Missä lienee miun omani V2 1163, 1177.</p>
+            <p>Muill on kultaset kotona V3 678.</p>
+            <p>Nuoren miehen mieli tekee V3 686.</p>
+            <p>Oli tietty tietyssäni (Onpa miulla mielitietto) V2 1178—1182.</p>
+            <p>Orahall on minun omani V2 1183.</p>
+            <p>Parin puut, parin petäjät V2 1184—1187, 2104, 2294, 2672; V3 687— 691.</p>
+            <p>Soria olla sorian kanss V2 1207.</p>
+            <p>Tee liitto, lintuseni, missä yhdymme V2 1200, 2053.</p>
+            <p>Tule kultanen kosihin V2 1179, 1188—1190.</p>
+            <p>Tule tuttu lintuseni V1 1096; V2 1162.</p>
+            <p>Tule tänne ystäväni V2 1191—1192.</p>
+            <p>Uni petti vuoe voitti V2 1077, 1193—1194, 1529.</p>
+            <p>Yö tulevi, ilta saapi V2 1195—1196.</p>
+            <p>
+                <hi rend="b">Miniänä moitittuna ja sananalaisena</hi>.</p>
+            <p>Akat saakelit sanovat V2 106, 731.</p>
+            <p>Ampukoon Turun rutto akat kylästä V2 716, 788.</p>
+            <p>Anopin apuna jos voisin vuoden olla V2 649, 655—656.</p>
+            <p>Anopin susilla syötän V2 671, 675, 686, 746 a, 774.</p>
+            <p>Anoppi ja appi V2 644—656, 746 a, 751, 944—945, 1200; V3 468, 522—524.</p>
+            <p>Emo kysyy tuulelta, miten miehelässä, vrt. Kysyin kyntörastahalta V2 696.</p>
+            <p>Emännän kolme kieltä V2 352—353, 355—356, 364, 657—664, 1024, 2301; V3 469, 525—526.</p>
+            <p>En itke emoni päälle naimiskauppojani V3 527.</p>
+            <p>Ennen toivoin torstakia V2 750.</p>
+            <p>Harvoin orjaa kiitetään, miniää ei milloinkaan V2 745, 2301; V3 528, 530.</p>
+            <p>Jauhamassa miniänä, ks. osasto II: Jauhaminen anopille.</p>
+            <p>Kaikk’ sannoot, kaikk pannoot V2 721, 727, 731, 734—735, 738, 852.</p>
+            <p>Kotona — toiselassa V2 402, 419 a, 501, 633, 658 a, 667—683, 686, 691—714, 743—769, 949 a, 1245.</p>
+            <p>Kotona kasvanneen neidon lempi-, miniän haukkumanimet V2 666—667, 670—672, 675, 678—681, 683, 686, 699—701, 753—754, 1245.</p>
+            <p>Kyll mie kuulin kuin sanoivat — Olin oven takana V2 106, 723, 732, 851, 949 a, 1140, 2434.</p>
+            <p>Kyllä tunnen orjan vaivat V2 2440.</p>
+            <p>Kysyin kyntörastahalta, kotonako vai miehelässä parempi V2 39, 687—714, 744, 912, 919, 1277; V3 530.</p>
+            <p>Käly pahempi kuin anoppi V2 654.</p>
+            <p>Kälyä kälyksi kutsun V3 531—532.</p>
+            <p>Mie olen sattunut sanoille V2 478, 720.</p>
+            <p>Mitä huolin sanoista V2 720, 723, 726, 733.</p>
+            <p>Miniä — orja V2 745, 2301; V3 528—530, 556—558.</p>
+            <p>Monta on muoria minulla V2 747; V3 533—534.</p>
+            <p>Neidon haukkumanimet, ks. Kotona kasvaneen neidon.</p>
+            <p>Saakoot sanojaseni V2 558, 724, 732, 739.</p>
+            <p>Sananalaisena V2 32, 519, 559, 567, 627, 715—742, 782, 857, 914, 922, 936, 1136, 2247, 2422; V3 493, 495, 535—544.</p>
+            <p>Soisit suohon sortuvani V2 729, 2425.</p>
+            <p>Söin kirotun leivän V3 545.</p>
+            <p>Vello kengitti pahalle sulholle V2 918, 926.</p>
+            <p>Älä appi ärjähtele V1 1038.</p>
+            <p>Älä miniä pyri vielä emännäksi V2 651.</p>
+            <p>
+                <hi rend="b">Naisten lauluja</hi>.</p>
+            <p>Kontinkantajien vuoksi ei naitu naapuriin V2 950; V3 588—589.</p>
+            <p>Kullan (Miehen) kuoletellut (Ei se mitään tiedä) V2 46, 597, 607, 611, 614, 633, 638, 1226, 2290; V3 355, 477.</p>
+            <p>Kyllä kuulin, kun kukko lauloi V2 281, 967, 971.</p>
+            <p>Liekos J—la luonut joka vuosi poikimaan V3 615.</p>
+            <p>Mie kun tyttönä elelin V2 974.</p>
+            <p>Mies merellä V2 602.</p>
+            <p>Mies minulle annettiin mieletön V2 962, 966, 1218.</p>
+            <p>Miestä vastaan merellä ja ulkotöissä V3 612.</p>
+            <p>Miks minua mies toruisi V2 658, 963—964; V3 604—605, 1095.</p>
+            <p>Muut kun sukivat sulhojansa, minä vanhajani V3 614.</p>
+            <p>Naisten askareista V3 597—601, 692—694.</p>
+            <p>Nauran naimiskauppojani V3 574.</p>
+            <p>Nuori sulhanen nukutti V2 1077, 1193—1194, 1529.</p>
+            <p>Paha mies V2 968.</p>
+            <p>Pahoin tein miehelleni V2 2427.</p>
+            <p>Pian nainen vanhenee V3 602—603.</p>
+            <p>Sulhoni toivoisin hirtettävän, poltettavan, leikattavan (vrt. Pahasulhollinen) V2 748, 966.</p>
+            <p>Toisin toivoin, toisin luulin V3 606—608.</p>
+            <p>Uu, uu ukkosein V2 2282.</p>
+            <p>Venäjälle naimisiin joutunut V2 969.</p>
+            <p>
+                <hi rend="b">Neitojen lauluja</hi>.</p>
+            <p>Aina soivat sorjan korvat, ks. Pojat sorjat soittelevat.</p>
+            <p>Ainoan pojan akaksi toivoin V2 944—945.</p>
+            <p>Ajat armaat menevät naimattomana V2 18, 167, 303.</p>
+            <p>Ajattelen aikojani V2 601, 617, 643, 758—759.</p>
+            <p>Annan veikolle palttinaisen paidan V1 343.</p>
+            <p>Ei hyvä hylyksi jouda V3 588.</p>
+            <p>Ei ne kasva kaikki lapset V1 1327; V2 841, 843, 2285.</p>
+            <p>Ei tule suru suvulle V3 592.</p>
+            <p>Ei piä uskoo urroon puheita V2 955, 970; V3 389, 583.</p>
+            <p>Ei täy’y tätä tytärtä rengille V1 657, 820; V2 869.</p>
+            <p>Eletään tytöt hyvästi V2 935.</p>
+            <p>Emo, suku neittä neuvotteli, V1 1023.</p>
+            <p>Emon eläissä kävin kukkana kujalla V2 942.</p>
+            <p>Emo synnytti minua, mie syäntä V1 872, 919, 925, 927, 930, 932, 935; V2 923.</p>
+            <p>En itke isoni maita V2 941.</p>
+            <p>En lähe Tuuteriin V1 703; V2 841.</p>
+            <p>En mie huoli huitukoista V2 837, 857.</p>
+            <p>En tiedä, missä liikkunee lihani V2 927.</p>
+            <p>Hyvä on tyttönä elellä V2 838, 887—889.</p>
+            <p>Hyvä on ukko huononenkin V3 599.</p>
+            <p>Ikävä oman puolen poikasia V1 1226 a.</p>
+            <p>Ison kotona V2 279 a, 570.</p>
+            <p>Isä toivoi rikkahalle, itse soreahalle V2 931 a.</p>
+            <p>Joko meiät halla hautoi V1 185; V2 793, 795.</p>
+            <p>Joko ommella osaat V1 217, 1188, 1191.</p>
+            <p>Jos saisin mokoman sulhon, hirsipuuhun, Pahasulhollinen V1 185.</p>
+            <p>Juomarille joutumasta varjelkoon J—la V2 937, 960.</p>
+            <p>Kontinkantajien vuoksi ei otettu omille maille V3 588—589</p>
+            <p>Kuku kultainen käkönen V2 777—778</p>
+            <p>Kun mie kestikengät saisin V2 953</p>
+            <p>Kun mie voisin vuoden olla V2 649, 655—656; V3 556—559</p>
+            <p>Kun mokoman saisin, sylissäin syöttelisin V1 252, 805, 807</p>
+            <p>Kun ne soisi kirkon kellot V2 32, 571 a, 779—782; V3 561.</p>
+            <p>Kun olin ison kotona (voissa vuoteheni) V1 283, 931; V2 41, 279 a, 378, 655, 658 a, 665—686, 885, 890—891, 949 a; V3 546—560.</p>
+            <p>Kussa seisoin, seinä paistoi V1 286, V2 668, 682, 842 a, 881.</p>
+            <p>Kylän ämmät varajavat poikiansa V2 925, 958.</p>
+            <p>Kävi kymmenet kysyjät V1 558, 822, 940.</p>
+            <p>Köyhäll on tytöt soreat V2 842, 851, 1060; V3 514.</p>
+            <p>Köyhän neito kaunis V2 875, 2371.</p>
+            <p>Lempo menköhön leselle V2 731, 783—787, 916, 1414, 2437; V3 562—563.</p>
+            <p>Luuletkos poika luttuhattu V2 1140—1141, 2431.</p>
+            <p>Luulin nuorra naitavan V2 788—789.</p>
+            <p>Lähtään mustat muille maille V1 1196—1198, 1327; V2 715, 791, 1071, 2289, 2671; V3 1131.</p>
+            <p>Meidän neidot osaavat ovissa käydä V2 939.</p>
+            <p>Mie oon mustalle mukia V2 2296.</p>
+            <p>Mihin meiltä miehet saivat V1 890; V2 1118; V3 613.</p>
+            <p>Miks ei miuista naia V1 253, 721, 798—801, 2432—2433.</p>
+            <p>Miks ei sulhaset suvaitse V2 132; V3 593.</p>
+            <p>Miks on meitä näin vähäisen V2 792—797.</p>
+            <p>Mikä tulee minusta? Linnan lippa V1 1328.</p>
+            <p>Millä maksan naisten naurun V2 929.</p>
+            <p>Mistä emoista kiitän; laitto piennä paimeneen V1 688.</p>
+            <p>Mitä huolin piika nuori V2 600, 858, 865—866, 876, 1187, 2058, 2420; V3 571.</p>
+            <p>Mitä minulla mielessäni? — Mikko, Antti V2 2424.</p>
+            <p>Mitä myö sisot suremme V1 874, 881; V2 534 a, 802—809, 2143, 2436, 2449; V3 565.</p>
+            <p>Mitä tehhä, kun ei naia V2 957.</p>
+            <p>Mitä työ pojat surette piikojen pienuutta V2 885.</p>
+            <p>Moisioa ken ei muuta, ei mitään tiedä V2 569.</p>
+            <p>Muodon moittiminen V2 842, 851, 2433.</p>
+            <p>Muodosta V2 551, 719, 852, 862, 864—865, 870, 876, 882, 949 a, 961, 1214; V3 574—582.</p>
+            <p>Muut saivat soreat sulhot V2 925, 954, 959.</p>
+            <p>Muut surevat suuruuttansa V2 2290.</p>
+            <p>Naikaa piikatyttölöjä V2 857.</p>
+            <p>Neidolla suurin huoli morsiuskapioista V2 124.</p>
+            <p>Neidon linna V1 283, 486, 1264; V2 163, 810—832, 1291, 2037; V3 564.</p>
+            <p>Neidon pidettävä pää tarkka tania mieli V3 583—585.</p>
+            <p>Neitojen kerskauksia V1 185, 558, 822, 940; V2 600, 784, 833—882, 1099, 2297, 2396; V3 97—98, 539, 565—573, 615.</p>
+            <p>Neito kotona kuin kuningas linnassansa V2 124, 691, 697, 699—700, 702—703, 708—714, 747, 2160; V3 530, 555.</p>
+            <p>Neito kyntää, kylvää itse V3 591.</p>
+            <p>Nevan puolen neidot V2 795.</p>
+            <p>Niinpä ennen neito lauloi V2 132, 798—801.</p>
+            <p>Nykyisistä neidoista V2 1070, 1282.</p>
+            <p>Oisit, neito, piikueen pitänyt V1 475.</p>
+            <p>Olin ennen ison koissa vallaton V2 955.</p>
+            <p>Olin hoppa huoletonna V3 586—587.</p>
+            <p>Olin kuin tuores tuomen kukka V2 1181, 1224.</p>
+            <p>Olin nokka nuorempana, vrt. Poikien lauluja V2 341, 585, 848 a, 849, 883—907.</p>
+            <p>Olin orjana, Virosta ostin alaset, yliset V2 908—911.</p>
+            <p>Olin orja vellolleni, Pyysin kunniaa V1 381, 952, 979, 983; V2 768, 896—907.</p>
+            <p>Olin yksi eukolleni, maksoin kaksi V1 100; V2 585, 752, 762, 883, 890, 899, 905, 2253; V3 495, 595.</p>
+            <p>Olisi minua naitu näön kautta V2 839.</p>
+            <p>Olisi minussa ollut paremman (paikan) väärti V2 839, 877—878, 925, 962, 1516, 1671 a, 1686.</p>
+            <p>Osajaisin miekin olla talontyttärien tavalla V2 879.</p>
+            <p>Paha lienen papiksi V1 1057.</p>
+            <p>Panin paimenen papiksi V1 1135, 1311, 1320.</p>
+            <p>Parempi pajulla maata kuin kyntäjän kylessä V1 215; V2 915—916.</p>
+            <p>Pelkäävät poikiansa, ks. Kylän ämmät varajavat poikiansa.</p>
+            <p>Piikuutensa pitänyt V2 855, 867, 958.</p>
+            <p>Poika jos olisin V2 874, 880, 941, 1013; V3 611, 1110, 1130.</p>
+            <p>Pois mie heitän potrueni, helmeni V2 935.</p>
+            <p>Pojat naivat rikkaita V2 715, 842.</p>
+            <p>Pojat sorjat soittelevat V2 1084—1087 a.</p>
+            <p>Pyysi minua pyssyseppä V3 364, 838, 917—919, 1294.</p>
+            <p>Silloin hoppa huoletonna, kun ohjat ostamatta V2 895.</p>
+            <p>Soi, soi kirkonkello, ks. Kun ne soisi kirkon kellot V2 571 a, 781.</p>
+            <p>Soisin olevani soria V2 932, 1140.</p>
+            <p>Sormet soitukkaiset V2 850—851.</p>
+            <p>Sulhoa toivova V2 787, 848, 953, 957, 1714.</p>
+            <p>Sulhon saapi surematta V2 91, 804, 807, 809, 949; V3 573.</p>
+            <p>Sulhot jäävät suremaan, kun mie kana katoon V2 835 a.</p>
+            <p>Suomen poikasille auttakoon J—la V2 732.</p>
+            <p>Suomen puolen ja meidän neidot V2 946 a.</p>
+            <p>Suomesta sulhot (tulevat) V2 796, 857, 860.</p>
+            <p>Surma tappoi sulhasein V2 167, 731.</p>
+            <p>Tahtoi taattoni minulle mieheksi talonpoikaa — laulajaa V2 949 a.</p>
+            <p>Teill on neito, meill’ o. n. neito kaikelle kylälle V1 467, 471.</p>
+            <p>Tiiv on tyttönä elellä V2 859, 867, 888, 1279, 2433; V3 596, 702.</p>
+            <p>Tuoss on neito kaunokkainen V2 920—922.</p>
+            <p>Tuota toivoin tuon iän, ainoalle pojalle V2 944—945, 948.</p>
+            <p>Tytöt tuumaa pitää V1 338.</p>
+            <p>Täss’ on tykky tyttölöjä, — neljä neittä V2 810—813, 816, 817, 819, 821—822, 825, 828—832.</p>
+            <p>Vasta minulla varsan länget V2 947.</p>
+            <p>Veli tuo ummiskengät V1 924; V2 845.</p>
+            <p>Venan neidot halla hautoi V2 1069.</p>
+            <p>Viidestä veljeksestä vanhimmalle toivova V2 654, 656, 931, 940.</p>
+            <p>Viikon etsin verraistain, Viipurista löysin V2 861.</p>
+            <p>Viilsin viikate olalla V1 941.</p>
+            <p>Volin antoi emoni V2 2034, 2436.</p>
+            <p>Älkäät minua vihatko V2 2284.</p>
+            <p>Älköön turnus tulkokaan V2 833, 840, 923—924.</p>
+            <p>
+                <hi rend="b">Poikien lauluja</hi>.</p>
+            <p>Ajaisin juoksevaa hevosta, naisin nauravaa naista V3 618.</p>
+            <p>Ei huoli huima poika naapurin tytöistä V2 277.</p>
+            <p>Ei ole poika tuulen tuoma V3 674.</p>
+            <p>Ei soriat sotaan kuole V2 1094, 1096—1097.</p>
+            <p>Ei tieä emo poikiansa mihin vierevät V1 762.</p>
+            <p>Ei tiiä tekijä vaimo V1 835.</p>
+            <p>Eletään pojat hyvästi V1 883, 891, 897, 899.</p>
+            <p>Emo neuvo poikiansa — sodassa V1 1328; V2 977—978, 1099, 2438; V3 619.</p>
+            <p>Emo neuvo poikaansa — naima-asioissa V2 979—984, 987—988, 990, 2372.</p>
+            <p>Emo toruisi, jos toisin riitelevän nuorikon V2 991—998.</p>
+            <p>En naisi, jos tietäisin pahoin käyvän V2 1056—1057.</p>
+            <p>En oo voitettu orolla, kaarrettu kapalla V2 1040.</p>
+            <p>En sure sotakesoista V2 2303.</p>
+            <p>Entiset ja nykyiset miehet V2 1037 a, 1038.</p>
+            <p>Hattu, mikä minulla, ei kaikki kanna V2 168, 500.</p>
+            <p>Hoppu huorille tulevi, etteivät pojat lähde V2 1034.</p>
+            <p>Hurja olen ja juoppo V2 508.</p>
+            <p>Ikävä omia neitoja V3 622.</p>
+            <p>Iso minusta miestä toivoi, ks. Mies oli ennen miun isoni V1 896; V2 1013, 1120.</p>
+            <p>Iso neuvoi poikaansa V1 213, 1194; V2 985—986, 988—989, 2303; V3 620.</p>
+            <p>Isäni oli ikinen köyhä V1 96; V2 1005—1009, 1023.</p>
+            <p>Isäntä jos itse oisin V2 1043.</p>
+            <p>Isästä V2 1114.</p>
+            <p>Jo oli maattu marjueni V3 623.</p>
+            <p>Jos olisin syömäri, koinari V2 869, 1035—1036, 1041, 1044; V3 642.</p>
+            <p>Jos tulee tapella tarvis V3 624—627.</p>
+            <p>Jos tyttönä olisin V2 1052.</p>
+            <p>Jouduin juomaan kylälle V3 628—630.</p>
+            <p>Jääkää likat hyvästi V1 900.</p>
+            <p>Kas ne pojat, jotka meillä, ks. Meidän pojat.</p>
+            <p>Kaunista neitoa ei naitava V1 948; V2 1068, 1113; V3 575, 580—581.</p>
+            <p>Kiitos emolle, kun teki mokoman V2 1051.</p>
+            <p>Kokolla kolme vuotta, kolme kosissa V2 1082.</p>
+            <p>Konsa kosiin lähemme V1 185.</p>
+            <p>Kuin mie saisin, naisin kolme naista V2 662, 1054, 1059.</p>
+            <p>Kuka miun kullallein V1 185.</p>
+            <p>Kuin mokoman saisin, sylissäni syöttelisin V1 344, 740, 805, 807, 990, 992—993, 996, 1002, 1010—1012, 1014, 1107, 1283; V2 1205.</p>
+            <p>Kun mie voisin vuoden olla, ostaisin orin V2 1056.</p>
+            <p>Kun tietäisin kuka makasi kultani V2 1064, 1066, 1953; V3 623.</p>
+            <p>Lähe neitonen minulle, Yhen lehmän lypsäjäksi V1 557.</p>
+            <p>Lähetään läpi rukiin V1 1327.</p>
+            <p>Lähetään, nuoret miehet, Läärän maalle V2 1047.</p>
+            <p>Lähetään pois pojat kotihin V2 1121, 1234.</p>
+            <p>Malta kysyn Marilta V2 1132, 1136.</p>
+            <p>Mariseni, marjaseni V1 1206—1210.</p>
+            <p>Meidän miehiä ei viina visko V2 1102.</p>
+            <p>Meidän pojat syövät saikkaa salissa V2 1032—1033, 3048; V3 590, 631—632.</p>
+            <p>Mie ammun aidaksella V1 117, 141, 147; V2 1098; V3 640.</p>
+            <p>Mie metonen mielestäni V3 675.</p>
+            <p>Mie olen mies metsänkävijä V1 1254.</p>
+            <p>Mie olen talon isäntä V1 1228.</p>
+            <p>Mie oon noijan nuorin poika, ks. Loitsuja, Tietäjän kerskauksia V1 202.</p>
+            <p>Mies oli ennen minun isäni V2 168, 1020—1026, 1282, 1285, 1740; V3 637.</p>
+            <p>Mihin panen rahani V2 1058, 1115.</p>
+            <p>Mihin pojat lähemme — Lämpsälään V2 1142.</p>
+            <p>Miss olit tämän kesosen V1 90.</p>
+            <p>Missä olit menneenä kesänä V1 162.</p>
+            <p>Missä sie Mari makaat V2 1074, 1077—1078.</p>
+            <p>Miten olen musta, en emooni V2 642.</p>
+            <p>Mistä mie isää kiitän V1 820.</p>
+            <p>Mitä huolin hotari (poika nuori) V2 6, 1031—1032, 1048, 1050, 1052, 2288.</p>
+            <p>Mitä myö pojat suremme V2 1049.</p>
+            <p>Moni luuli lurjukseksi V1 1046, 1049—1051, 1054, 1060; V2 2033; V3 137—141.</p>
+            <p>Muut naivat soriat piiat V2 1067, 1091, 1109—1110, 1221, 1480; V3 628—630.</p>
+            <p>Neito neuvoi: Käy yksin yöjalassa V2 980 a.</p>
+            <p>Nyt on tytöt tyhjän potrat V2 1110.</p>
+            <p>Näin mie neion kasvavaksi V1 272, 1023, 1158.</p>
+            <p>Näin mie piian pitkällään V2 1123, 1133, 1137.</p>
+            <p>Näit sie neion kasvavaksi, linnatiellä V1 272.</p>
+            <p>Oisin luotu lukkariksi V2 1119.</p>
+            <p>Olin miekin mies mokoma V1 185.</p>
+            <p>Olin nokka nuorempana V1 286, 302, 866, 1326, 1328; V2 1042, 1052, 1099; V3 162—164.</p>
+            <p>Olin poika ollessani paimenena V2 1027—1031, 1048.</p>
+            <p>Osaisin olla jouten V2 1122.</p>
+            <p>Pahoin tein vaimolleni V3 635—636.</p>
+            <p>Pidetty piika V2 1083; V3 621.</p>
+            <p>Piika juoksi pitkin suota V2 1134, 2271; V3 647.</p>
+            <p>Pikkarainen Pirini V2 1039.</p>
+            <p>Poikien kerskauksia V1 1157, V2 1032—1055; V3 637—642.</p>
+            <p>Poikien naimatuumia V1 643—647.</p>
+            <p>Pois tuli pojille lähtö V1 894.</p>
+            <p>Pojat neidoista V2 1069—1083; V3 648—657.</p>
+            <p>Pojat tuumaa pitävät V1 898.</p>
+            <p>Potra poikana elää V2 1037, 1054—1055; V3 641.</p>
+            <p>Puura, miksi toit torujan vaimon, vrt. Häärunoja V3 658—659.</p>
+            <p>Pyhät juoksin pyyn jälessä V2 1106.</p>
+            <p>Pääsin kolmesta pahasta V2 181, 1035—1036, 1088—1091; V3 660—663.</p>
+            <p>Sain kerran kesässä naida V2 1124—1126, 1130.</p>
+            <p>Selin syö, selin makaa V1 185.</p>
+            <p>Situn Suomen tyttölöi V2 2272.</p>
+            <p>Soria on sodassa olla V1 894; V2 1094—1095, 2305.</p>
+            <p>Soriat viiään sotaan V1 894.</p>
+            <p>Sotamiehenä V2 1092—1099, 1107; V3 664—665.</p>
+            <p>Sotamiehet pilasi piiat V2 1080—1101.</p>
+            <p>Suomalaista, miksi eivät tytöt suvaitse V2 1072.</p>
+            <p>Suomesta nain sorean V2 1071, 1079, 1131, 1487.</p>
+            <p>Suotta rikoin rekeni V3 676, 982.</p>
+            <p>Tein mie kuusesta korotan V2 1076.</p>
+            <p>Tein mie tielle tetrin ansan V1 832, 1025, 1027; V2 1200.</p>
+            <p>Tiirin liirin tenkan löysin V1 141—142, 1227; V2 1104—1105.</p>
+            <p>Tuhma ja pysty nainen V2 1081.</p>
+            <p>Tule neitonen minulle V1 1192.</p>
+            <p>Tule yöllä yksinäsi kätkyen tekoon V1 657.</p>
+            <p>Tunnen tupakan syödä V3 677.</p>
+            <p>Täss on mennyt märkähäntä V2 1075.</p>
+            <p>Täss on polkka poikasia V2 1061, 1113.</p>
+            <p>Täss on terve Suomen poika V2 1045—1046, 2298.</p>
+            <p>Uuen linnan urvotsikat hyvästelivät V2 2281.</p>
+            <p>Vanha tyttö vankunokka V2 2283.</p>
+            <p>Viipurissa viikon viivyin V2 1110.</p>
+            <p>Viron huorat ja venakot pojille poukut pesee V2 1103.</p>
+            <p>Voi meitä meren sikoja V3 666.</p>
+            <p>Yöjalalla V2 642, 1065, 1112, 1117, 1123, 1127, 1129, 1133, 1142, 1195 a, 2052, 2339—2341; V3 667—669.</p>
+            <p>Älköön isoton poika pyhänä menkö kosiin V3 670—673.</p>
+            <p>Älä lyö emo minua V2 1106—1108.</p>
+            <p>
+                <hi rend="b">Koti ja kotiseutu</hi>.</p>
+            <p>En itke isoni maita V2 941; V3 1110.</p>
+            <p>Heliät hiekkarannat omassa kylässä V2 1047.</p>
+            <p>Hyvä meillä on elellä V2 2133—2134, 2136, 2176; V3 1112—1125.</p>
+            <p>Hyvä on olla Hympyrällä V2 1859—1862; V3 1127.</p>
+            <p>Hyvä on tässä neion olla V2 2130—2131, 2139, 2141.</p>
+            <p>Ikävä isäni maita V2 368.</p>
+            <p>Ison koti näkyy V2 1245, 2141.</p>
+            <p>Isän kodin ikävöinti V1 5.</p>
+            <p>Itkevät isoni pellot V3 1128.</p>
+            <p>Kiitän meiän maita, missä puut punaiset V2 40, 124.</p>
+            <p>Kylän alta kylmä juoksi (Sopii sorsan uia) V2 160, 378, 1260, 2076, 2153, 2305.</p>
+            <p>Liki linnaa myö elämme V2 2140.</p>
+            <p>Maat kasvaa maatessain V3 1133, 1192.</p>
+            <p>Meidän pellot päivärinnat V2 2298.</p>
+            <p>Meill on sievät sienimetsät V2 1073.</p>
+            <p>Meri meille näkyy V1 200; V2 1083, 2133, 2135—2136, 2141—2142, 2155, 2179.</p>
+            <p>Miksi meiän maat matalat? V1 466, 2118, 2158, 2161, 2303.</p>
+            <p>Miksi on köyhä miun kotini V2 1107, 2123, 2288; V3 1134.</p>
+            <p>Ohhoh kullaista kotia V2 2132.</p>
+            <p>Oma koti V2 2130—2142; V3 517.</p>
+            <p>Oman kylän ylistys V2 272, 2141, 2143—2155.</p>
+            <p>Oma maa V2 358, 368, 2156—2180; V3 496, 1117, 1122—1125.</p>
+            <p>On maata muuallai V3 1141.</p>
+            <p>Puista puute, puura tuopi talvella V2 2138.</p>
+            <p>Raukat rannalla elävät V2 2181—2182.</p>
+            <p>Sinis itken näitä maita, kun näkyy V3 496.</p>
+            <p>Sopii tuossa sorsan uia, vrt. Kylän alta kylmä juoksi V1 1162.</p>
+            <p>Sorea olla Suomen maassa V2 1320.</p>
+            <p>Sorja Suomessa elellä V2 2183—2187.</p>
+            <p>Suku suomalaista, itse inkerikko V3 1137.</p>
+            <p>Varjele J—la Vuoleen rajoilta V2 2147.</p>
+            <p>Voi meiän hyviä maita V2 1136, 2161, 2163—2164, 2174, 2176—2177, 2180, 2303; V3 1118—1120.</p>
+            <p>
+                <hi rend="b">IV. Määrätyissä tiloissa ja toimissa.</hi>
+            </p>
+            <p>
+                <hi rend="b">Häärunot</hi>.</p>
+            <p>Tupakoilla ja liitoilla V2 871, 874, 1291—1292; V3 722—726.</p>
+            <p>Luulin tuulen tuulevaksi V2 1293—1297; V3 727—730.</p>
+            <p>Lensi kokko halki korven V1 903, 1298—1299.</p>
+            <p>Mahtuuko vävy tupahan V2 1300—1307; V3 731—732, 973.</p>
+            <p>Hyvää iltaa vierahalle V2 1308—1309, 1441.</p>
+            <p>Mistäs tunsit meille tulla V2 1179, 1301, 1310—1323, 1317, 1692; V2 733—736.</p>
+            <p>Luulin päivän paistavaksi V2 1305, 1307, 1434—1435; V3 737—738.</p>
+            <p>Kävitkö eilen seppälässä V2 1337—1346, 1443, 1464, 1565; V3 740.</p>
+            <p>Sulhon hevonen suojaan V2 1300, 1304, 1324—1325.</p>
+            <p>Missä vello viikon viivyit V2 1294—1295, 1326—1332.</p>
+            <p>Sulhanen leski V2 1347—1348; V3 741.</p>
+            <p>Lähteä tytön tulee V2 1313, 1318, 1321, 1349—1354, 1371; V3 742—743.</p>
+            <p>Suostu meiän suolohimme, ota otrikkoa V2 1371; V3 744.</p>
+            <p>En luullut lähteväsi V1 259; V2 1317, 1375—1388, 1464—1465, 1557, 2245; V3 745—750.</p>
+            <p>Kerranjuonti, morsiamen (pöydän-)lunastus V2 1106, 1333—1336; V3 751—752.</p>
+            <p>Tytöt lähtiessä V2 1389—1399, 1564; V3 820—825.</p>
+            <p>Joko on valmis valvattini 259, 1345—1346; V2 1317, 1375—1388.</p>
+            <p>Morsiamen kehunta V2 1442, 1511—1523, 1576; V3 753—765.</p>
+            <p>Morsiamen moittimisia V2 746 a, 1475—1510, 1585; V3 766—780.</p>
+            <p>Morsiamen neuvokkivirsiä V2 655, 1371, 1524—1556; V3 896—915.</p>
+            <p>Sulhon kehunta V2 1433—1437, 1532; V3 932—936.</p>
+            <p>Sulhon moittimisia V2 1320, 1400—1432, 1584; V3 805—813.</p>
+            <p>Sulhon neuvokkivirsiä V1 966; V2 1300—1301, 1303, 1316—1317, 1319—1321, 1431, 1438—1474; V3 791—804.</p>
+            <p>Yhenmuotoiset molemmat V2 1303, 1571—1585; V3 814—815.</p>
+            <p>Orvolle morsiamelle V1 741; V2 420, 1356, 1600—1609, 2447; V3 816—819.</p>
+            <p>Morsiamen äidille V2 1586—1599, 1715—1717.</p>
+            <p>Lähtiessä V2 1557—1570, 1603; V3 826—831.</p>
+            <p>Tunge tulta sukkahasi V2 1024, 1608—1609.</p>
+            <p>Niele noiat nuolinensa V2 1562, 1565.</p>
+            <p>Älä nouse nostamatta V2 1562, 1614; V3 847.</p>
+            <p>Eihän meihin piikit pysty V3 841—844.</p>
+            <p>Morsiamen lähdettyä V3 845—846.</p>
+            <p>Maan tervehtiminen V2 1615; V3 866.</p>
+            <p>Tuokaa tulta V2 1293; V3 867.</p>
+            <p>Hiljaa hiljaa nuohinaiset V3 868.</p>
+            <p>Onni uuteen tupaan V2 1616.</p>
+            <p>Sulhastaloon tullessa V2 1617—1620; V3 869—875.</p>
+            <p>Kävitkö tiesi tervehenä V2 1621—1625; V3 876.</p>
+            <p>Näytä päivä silmiäsi V2 1626—1629.</p>
+            <p>Tänne kontit kannettiin V3 877—888.</p>
+            <p>Missä vello myöhään viivyit V2 1617—1620; V3 889—895.</p>
+            <p>Kotona — toiselassa V2 1565, 1567, 1630—1638; V3 781—790.</p>
+            <p>Lahjoja jakaessa V2 1639—1641; V3 916—917.</p>
+            <p>Emoa älä unohda V3 918.</p>
+            <p>Kaasolle V2 1642—1645; V3 919—922.</p>
+            <p>Nuoteille V2 1645—1648; V3 923—924.</p>
+            <p>Puhemiehille V2 1329, 1649—1650.</p>
+            <p>Anopista V3 925—930.</p>
+            <p>Hyvä on meillä orjan olla V2 746, 876, 1669—1670, 1673, 1676, 1679; V3 949—950, 954.</p>
+            <p>Sulhon kodin ja sen elämän ylistys V2 1532, 1667—1679; V3 948—954.</p>
+            <p>Sulhon kodin moittiminen V2 1565, 1680—1692, 2450; V3 955—956.</p>
+            <p>Sulholle, joka menee kotivävyksi V2 1380, 1653.</p>
+            <p>Suuri kiitos sulholle V2 1651—1652; V3 529.</p>
+            <p>Suuri kiitos äidille, anopille pojasta V 647, 657, 1278, 1571, 1586, 1597, 1707.</p>
+            <p>Ei ole ruunan syy V1 269; V2 397, 994, 1055; V3 516.</p>
+            <p>Onko teiän Osmolassa V1 1261—1263, 1659—1666.</p>
+            <p>Hunnutus ja itkettämisvirsiä V2 537, 1306, 1355—1374; V3 832—840.</p>
+            <p>Sulholle V3 937—939, 974—975.</p>
+            <p>Lapsi emintimälle V3 931.</p>
+            <p>Kuokkijat V2 1654—1655.</p>
+            <p>Laulaja häissä V2 1656—1658; V3 940—947.</p>
+            <p>Kiitos kestityksestä V2 1639, 1696—1699.</p>
+            <p>Kylvystä tulon jälkeen V2 1693.</p>
+            <p>Myö menemme sinut jätämme V2 571 a, 1709.</p>
+            <p>Lähdetään läävätöille V2 1694—1695; V3 967.</p>
+            <p>Arki aamulla tulee V2 1700—1701; V3 968—969.</p>
+            <p>Mitä häissä syötetään V3 957.</p>
+            <p>Morsiamen äidille saattajat V2 1702—1706, 2294; V3 970—972.</p>
+            <p>Häiden lopussa V3 970—972.</p>
+            <p>Erilaisia häärunoja V2 1707—1726; V3 848—865, 958—966.</p>
+            <p>
+                <hi rend="b">Juhlapäiviin liittyviä</hi>.</p>
+            <p>
+                <hi rend="i">Joulu:</hi>
+            </p>
+            <p>Join jouluna olutta V1 1167—1168.</p>
+            <p>Jo meille joulu joutu V1 1052, 1058—1059, 1321; V2 1745, 2243; V3 239.</p>
+            <p>Jo on joulu joutumassa V2 1744.</p>
+            <p>Kun Jumala joulun toisi V2 1743, 1746.</p>
+            <p>Tule juhla, jouvu joulu V3 991.</p>
+            <p>Tule tänne Tuomas kulta V3 992.</p>
+            <p>
+                <hi rend="i">Juhannustulilla:</hi>
+            </p>
+            <p>Syty syntynen tulonen V3 989.</p>
+            <p>Tulkaa tyttäret tulelle V2 2091, 2105; V3 990.</p>
+            <p>
+                <hi rend="i">Pidoissa:</hi>
+            </p>
+            <p>Ei pidot piätä V3 993</p>
+            <p>Hyvä ilta, terve tänne V2 1750.</p>
+            <p>Jääkäätte hyvästi V2 1747.</p>
+            <p>Kuokkimaan tulin V2 1749.</p>
+            <p>Kutsumatta en olisi tullut V2 1748.</p>
+            <p>Virpominen, palmusunnuntaina V2 2690—2691.</p>
+            <p>
+                <hi rend="i">Laskiaisena:</hi>
+            </p>
+            <p>Aja laukki laatusasti V2 2261.</p>
+            <p>Avatkaa aitojanne V2 1727.</p>
+            <p>Ennen väkeä vähennä kuin väsytä 1739—1740.</p>
+            <p>Hevonen, piä varrais V2 1732.</p>
+            <p>Hyvä mies, hyvä hevonen V2 1729, 1731, 1741.</p>
+            <p>Juokse, juokse, musta ruuna V2 1727, 1730, 1733, 2244, 2686—2687.</p>
+            <p>Ken ei laula laskiaissa V2 1736; V3<hi rend="i"> </hi>979—980<hi rend="i">.</hi>
+            </p>
+            <p>Käy oro omille maille V2 1739.</p>
+            <p>Lipo, lipo liinaa V3 981.</p>
+            <p>Lähe auksein Jumala V2 1732, 1737.</p>
+            <p>Mitä puuta rekeni V2 1116.</p>
+            <p>Nuu, nuu, orosueni V2 1004, 1732, 1741, 2451; V3 983—984.</p>
+            <p>Oro, oro piä varasi V2 232, 1732, 1734, 1740, 1742, 2689; V3 978, 863, 986, 988 a.</p>
+            <p>Se oro, mikä sinulla V2 1729, 1731—1732, 1742; V3 983, 986—987.</p>
+            <p>Suotta rikoin rekeni V3 676, 982.</p>
+            <p>Tungin tulta sukkaheini V2 1734.</p>
+            <p>
+                <hi rend="b">Kehtolauluja ja viihdytyslukuja</hi>.</p>
+            <p>Aa, aa aakunaa V2 1834.</p>
+            <p>Elä itke pieni lapsi V2 1835.</p>
+            <p>Emo lasta tuuvitteli V2 1836.</p>
+            <p>Emo tuuti turvaksensa V2 1752.</p>
+            <p>Heija, heijaa Heikin lasta V2 1778.</p>
+            <p>Isä meni Riigaan V2 1783.</p>
+            <p>Isä tuuti poikoansa kyntäjäksi V2 1796.</p>
+            <p>Jo meille ero tulee V2 1816.</p>
+            <p>Kanteloinen tuo minulle V2 1753.</p>
+            <p>Laulo ennen miun emoni V2 1754—1757.</p>
+            <p>Lennätän vettä, liekutan lasta V2 1837.</p>
+            <p>Lieku lintu, soua sorsa V2 1758—1761.</p>
+            <p>Makaa pois, kun marjat joutuu V2 1762—1764.</p>
+            <p>Mie laulan lapsen virren V2 1764—1767.</p>
+            <p>Mie se laulan lapselleni V2 282.</p>
+            <p>Mie tuudin poikajani minjäntuojaksi V2 650.</p>
+            <p>Mie tuuvin poikoani, ks. Tuuvin t. tyttölasta.</p>
+            <p>Nuku, nuku, nurmen lintu V2 1770—1772; V3 1007—1008.</p>
+            <p>Nuku pois, mie nukutan V2 1839.</p>
+            <p>Nukuta Jumala lasta V2 1768—1769 b.</p>
+            <p>Nurmi-Tuomas, sido lapsen silmät V3 1024.</p>
+            <p>Pääskyläinen päivälintu, tie pellolle pesäsi V2 1773.</p>
+            <p>Repo itki rellitteli, ks. Kertovia runoja.</p>
+            <p>Soua lasta sontioksi V2 1775—1776.</p>
+            <p>Soua soutaja venonen V3 1016.</p>
+            <p>Tule surma suota myöten V2 1781.</p>
+            <p>Tule nukku naapurista V2 1781.</p>
+            <p>Tule tuutuhun unonen V2 1832.</p>
+            <p>Tule uni ukkolasta V2 1825.</p>
+            <p>Tule uniukko tänne V2 1771, 1817—1821.</p>
+            <p>Tule uni ulkomaalta V2 1826—1827.</p>
+            <p>Tuuti lasta Tuonelaan V2 1777—1782 a.</p>
+            <p>Tuuti, tuuti lasta V2 1783—1785, 1945.</p>
+            <p>Tuuti tuuti tuomen kukka V2 1786—1787.</p>
+            <p>Tuuvin lasta turvakseni V2 1788—1800; V3 1022.</p>
+            <p>Tuuvin, tuuvin tyttölasta, paremmin poikaa V2 1801—1816.</p>
+            <p>Uniukko, sido lapsen silmät kiinni V2 1771, 1817—1821; V3 1024—1025.</p>
+            <p>Uni ulkonta kysyvi V2 1822—1832; V3 1026.</p>
+            <p>Älä tule tupahan V1 1296—1302; V2 1833; V3 1029.</p>
+            <p>
+                <hi rend="b">Lasten lauluja, loruja, hokuja ja ketjurunoja</hi>.</p>
+            <p>Aa, aa Aatamii V2 1936.</p>
+            <p>Anu tanu talleroinen V2 1934—1935.</p>
+            <p>Ennen oli ämmällä harmaa pukki V2 1943.</p>
+            <p>Hiirenpoika naitettiin V2 1854, 2452; V3 994.</p>
+            <p>Hiiri hiireltä kysyvi V2 1840.</p>
+            <p>Hiiri metsähän menee V1 204; V2 1841—1853; V3 995.</p>
+            <p>Ihmetupa V2 1856—1857, 1863—1864.</p>
+            <p>Isä illalla tulee V1 1307.</p>
+            <p>Isä istui penkillä V2 1864.</p>
+            <p>Isä meitän istui puussa V2 1865; V3 996.</p>
+            <p>Jänis juoksi jäätä myöten V2 1869.</p>
+            <p>Kile kirkoista tekee V3 997.</p>
+            <p>Kilk kolk kotasia V2 1868; V3 998.</p>
+            <p>Kips kilo karjaan V2 1866.</p>
+            <p>Kissa juoksi kiikisteli V2 1867.</p>
+            <p>Kissa laulo kiukovalla V2 1944.</p>
+            <p>Kiuru, kiuru, missä kävit V2 1942.</p>
+            <p>Kolkun, kolkun kotasii V2 1868; V3 998.</p>
+            <p>Kukko ja kana meni saunaan V2 1917 a.</p>
+            <p>Kyll mie siulle neuvon keksin V3 999.</p>
+            <p>Kävin pyhät pyssyn kanssa V2 1869.</p>
+            <p>Körö körö kirkkoon V2 1000—1001.</p>
+            <p>Lirpu, larpu jalkojain V3 1003.</p>
+            <p>Läksi höyhen höytämään vrt. Kertov. runoja V3 1004.</p>
+            <p>Läksin tästä Läkkälähän V2 1870.</p>
+            <p>Löysin kultaisen omenan V1 1251—1253; V2 1871—1872.</p>
+            <p>Matin maat, Matin hevoset V2 1923.</p>
+            <p>Matti tatti lehmälöllö V2 1937.</p>
+            <p>Meillä kukko tapettiin V2 1873.</p>
+            <p>Miehet metsästä tulevat V2 1002.</p>
+            <p>Mie se keträän keikuttelen V2 1874.</p>
+            <p>Mikkel kokkel Konnun poika V2 1938—1940.</p>
+            <p>Mikset nukka meille tullut illalla V2 946.</p>
+            <p>Mikä tuolla näkyy V1 31 a, 342, 344, 346, 350, 924, 1255—1257; V2 1875—1886.</p>
+            <p>Missä olit tämän kesoisen V1 162; V3 1005—1006.</p>
+            <p>Missä voi? V2 1887—1889 a.</p>
+            <p>Mistä miehet tulevat V2 1924.</p>
+            <p>Mitkä tuolla uivat V1 1255.</p>
+            <p>Montako teitä on V2 1925.</p>
+            <p>Mää sika metsään V2 1964.</p>
+            <p>Niin on, noin on niityn aita V2 1931.</p>
+            <p>Nippos, nappos naulatuoli V2 1923.</p>
+            <p>Nyt on kauppa kattiloilla V3 1011.</p>
+            <p>Nyt on meillä lysti leikki V2 1009.</p>
+            <p>Närpiläss on nälkävuosi V2 2300.</p>
+            <p>Onnimanni V2 1890—1894.</p>
+            <p>Otin mie merestä kalan V2 1895.</p>
+            <p>Paista kännä kakkaraa V3 1010.</p>
+            <p>Pakeneva V1 307; V2 1896—1914; V3 1012—1014.</p>
+            <p>Palvelin talonpoikaa V2 1915—1916.</p>
+            <p>Pukki istuu puussa V2 1926.</p>
+            <p>Pukki meni metsään V2 1917.</p>
+            <p>Pupu pupu poikaseni V3 228, 1015.</p>
+            <p>Repo itki poikiansa V1 920, 1284—1294, 1353, V2 920, 1774, 2410—2411; V3 236.</p>
+            <p>Repo neuvo poikiansa V1 1284—1294.</p>
+            <p>Repo paimenessa V2 1918.</p>
+            <p>Ristolassa riitelevät V2 1927.</p>
+            <p>Soua lasta Sorolaan V2 1928—1929.</p>
+            <p>Susi lausui lampahalle V1 1295.</p>
+            <p>Tiirin liirin tikka tanssi V2 1920.</p>
+            <p>Tii tii tikanpoika, teki nauriin V2 1941.</p>
+            <p>Tule isä Tuuterista V2 1930.</p>
+            <p>Tule mamma marjallesi V3 1017—1018.</p>
+            <p>Tule taatto Tuuterista V3 1019—1021.</p>
+            <p>Tule täti tälle maalle V2 1921—1922.</p>
+            <p>Uupu ukko, vaipu vanha V3 1027.</p>
+            <p>Vasikkainen vaikeroitti V2 1932.</p>
+            <p>Veä, veä nuottaa V3 1028.</p>
+            <p>
+                <hi rend="b">Karkelo ja leikki</hi>.</p>
+            <p>Karkelolauluja:</p>
+            <p>Ai ai, kun akka tanssi V2 1973.</p>
+            <p>Alottakaa aika tantsu V3 1042.</p>
+            <p>Annatko tuvaista tanssiin V2 1048, 1947—1952.</p>
+            <p>As sun herja, kun on sorja V2 2054.</p>
+            <p>Avataan aamenportit V3 1030.</p>
+            <p>Avatkaa usta, ettemme hiostu V2 1995.</p>
+            <p>Ei ole huolta hoipakolla V3 1031—1032.</p>
+            <p>Ei ole nykyiset naiset V2 2051.</p>
+            <p>Ei pidä leikissä levätä V2 1973—1974, 1994.</p>
+            <p>Ennen teistä lohko loppuu V3 1033.</p>
+            <p>Et sie tiedä poika parka V3 1034.</p>
+            <p>Etsin yhtä ystävää V2 1953—1958; V3 1053.</p>
+            <p>Harvoin hanot yhessä V3 1035—1037.</p>
+            <p>Heitä pois heinäkengät V3 1038.</p>
+            <p>Hyppää nukke, karkaa nukke V2 1960—1969; V3 1040.</p>
+            <p>Hyvä meillä orjan olla, on olutta V3 1041.</p>
+            <p>Ilosta tanssissa V3 1042—1044.</p>
+            <p>Jo on viety Vernitsalle V3 1045.</p>
+            <p>Kas ne pojat, jotka meillä V3 1046.</p>
+            <p>Kehotus ilonpitoon V2 1970—1980.</p>
+            <p>Keltä kysyn tuvaista V3 1047—1051.</p>
+            <p>Kenen akka noin kepiä V2 1978.</p>
+            <p>Kiistalaulu tanssissa V3 1052.</p>
+            <p>Kultani koriasti tanssii V2 2057.</p>
+            <p>Kyll mie kuulin kukko laulo V3 1054.</p>
+            <p>Kävin mie kaunista kangasta myöten V2 2045.</p>
+            <p>Käyään illan istuntoon V2 1979.</p>
+            <p>Leikistä pois lähtiessä V2 2059; V3 1055—1056.</p>
+            <p>Lähtään rinkiin tanssimaan V2 2046.</p>
+            <p>Läksin rannalle merelle V1 1311, 1314; V2 2035.</p>
+            <p>Meidän pojat taipuu tanssimaan V2 2056.</p>
+            <p>Mie en tunne tuota miestä V2 2047; V3 1057, 1135.</p>
+            <p>Mikseivät pojat taivu tanssimaan V2 876.</p>
+            <p>Miks on meitä näin vähäisen V3 1058—1059.</p>
+            <p>Mitäs tuosta, jos tanssin V3 1061.</p>
+            <p>Milloin iloita, ellei nuorella iällä V2 1980.</p>
+            <p>Mitä poika potristelet V2 1992—1997.</p>
+            <p>Neito tanssi tammikossa V3 1061—1062.</p>
+            <p>Neitsyet ovat ringissä V3 1063.</p>
+            <p>Noill on Luoja varren luonut V3 1064—1065.</p>
+            <p>Nyt käski iso iloita V2 1970.</p>
+            <p>Nyt sä tanssian tapasit V2 1978.</p>
+            <p>Pidetään piikaset iloa V2 1971—1972.</p>
+            <p>Pojat, miksi ette taivu tanssimaan V2 1992—1997.</p>
+            <p>Pyöri kultasi perään V2 2001—2006.</p>
+            <p>Soltin poltin porstuani V2 2299.</p>
+            <p>Tanssi, tanssi V2 2015—2020.</p>
+            <p>Tule meille tanssimaan V2 1977.</p>
+            <p>Tuossa tanssivat tasaiset V2 2021—2032 a.</p>
+            <p>Volin antoi iso, emo V2 2034, 2436.</p>
+            <p>Leikkilauluja:</p>
+            <p>Arvoitusleikki V3 1066.</p>
+            <p>Hirvisillä V2 1959.</p>
+            <p>Leikarit V2 1981—1986; V3 1067—1068.</p>
+            <p>Oli täällä oiva otus herran tarhassa V2 2049.</p>
+            <p>Orosilla, Olin etsivä oroista V2 1998—2000; V3 1069—1070.</p>
+            <p>Ostan, ostan kullakkaisen V2 2050.</p>
+            <p>Pakoon juostessa V3 1071.</p>
+            <p>Rikas ja köyhä V2 2007—2011.</p>
+            <p>Sanakiista V3 1072.</p>
+            <p>Sikasilla V1 97; V2 2012; V3 1073—1074.</p>
+            <p>Simo Serra V2 1987—1991.</p>
+            <p>Sormileikki V2 2013.</p>
+            <p>Sure, sure hyvä rouva V2 2014.</p>
+            <p>Tehdään liitto lintuseni V2 1200, 2053.</p>
+            <p>
+                <hi rend="b">Liekkulauluja</hi>.</p>
+            <p>Kätkyen (liekun) tekoon kehoitus V2 2074.</p>
+            <p>La mie koitan liekkujani V2 2061—2067; V3 1075.</p>
+            <p>Liekku älä langettele V2 2068—2071 b; V3 1076.</p>
+            <p>Läksin suolle sotkullein V2 2072.</p>
+            <p>
+                <hi rend="b">Paimenten lauluja</hi>.</p>
+            <p>Emo, keitä voinen putro V2 2078.</p>
+            <p>Emo tee paimenelle parempi paita V1 139, 1004, 1309; V2 1243—1244, 1247, 2076—2079, 2088, 2303; V3 1077.</p>
+            <p>Hei lehmäni leholle V1 587; V2 2080—2084.</p>
+            <p>Heilo, leilo lehmiäni V2 2103.</p>
+            <p>Jää hyvästi järven rannat V3 1078.</p>
+            <p>Katso Kiesus karjajani V2 2085—2087, 2096, 2103.</p>
+            <p>Kulje päivä kuusikkoon V3 1079.</p>
+            <p>Kävin piennä paimenessa V2 2088—2089; V3 1080.</p>
+            <p>Läksin suotta suon perälle V3 1081.</p>
+            <p>Mene päivä männikölle V1 325; V2 2100—2102.</p>
+            <p>Meni lehmäni leholle V2 973.</p>
+            <p>Mie yksin yötä vietän V2 2104.</p>
+            <p>Murrui metsään, karja kotiin V3 1082.</p>
+            <p>Muut toivovat kesää V3 1083—1084.</p>
+            <p>Oro tulee heinille kotihin V2 2090.</p>
+            <p>Paha on olla paimenena V2 2091—2096; V3 1085—1086.</p>
+            <p>Paista päivä paimenelle V2 2097—2099; V3 1089.</p>
+            <p>Paimeniako olette V3 1087—1088.</p>
+            <p>Soitin suolle mennessäni V3 1090.</p>
+            <p>Syökää juokaa, lehmueni V3 1091—1092.</p>
+            <p>Tule ilta illotellen V3 1093.</p>
+            <p>Tule tänne, tyttöpaimen V2 2103—2105.</p>
+            <p>Tuurin luurin tulkaat V2 2106; V3 1094.</p>
+            <p>Uutti uimaan rupes V2 642.</p>
+            <p>
+                <hi rend="b">Työlauluja</hi>.</p>
+            <p>Avatkaa ikkunat, lämmin (talkoo-tanssissa) V3 1106.</p>
+            <p>Jauhan Jaakolleni V3 1099.</p>
+            <p>Kenen koti näkyy V3 1096.</p>
+            <p>Keträtessä V3 1103—1105.</p>
+            <p>Kivi suuri, orja pieni V2 251.</p>
+            <p>Laulan liki kotia V3 1097—1098.</p>
+            <p>Luulin riihen riskavaks V3 1100.</p>
+            <p>Nyt sie kylvit kylmän saunan V3 1101.</p>
+            <p>Onko kystä keitettynä V3 1109.</p>
+            <p>Seppien laulu V3 1102.</p>
+            <p>
+                <hi rend="b">Talkoolauluja</hi>:</p>
+            <p>Isäntä, onko kystä keitettynä V2 2112.</p>
+            <p>Jo ois aika kottii mennä V2 2109.</p>
+            <p>Juokse, juokse ruuna kotiin V2 2108.</p>
+            <p>Kiitos talkookestityksestä V2 2111.</p>
+            <p>Lähtään pois pojat kotiin V2 2113.</p>
+            <p>Talkoihin tapa vetää V3 1108.</p>
+            <p>Ulos ukko uunin päältä V2 2110.</p>
+            <p>Ylös eukko kiukoalta V3 1107.</p>
+            <p>Ylös yri kiukaalta V2 2107.</p>
+            <p>
+                <hi rend="b">V. Tilaspäisluonteisia ja nimiin liittyviä sepitelmiä.</hi>
+            </p>
+            <p>Akat kun poikia tekee, ne hovin kutsareiksi V2 2115, 2118—2119.</p>
+            <p>Ei huoli hovissa käydä V2 2120.</p>
+            <p>Herran vallan naiset V2 2114.</p>
+            <p>Hovista ja vallasta V1 889; V2 2114—2123.</p>
+            <p>Huokea hovin ropotti orjuuden ajan jälkeen V2 2121.</p>
+            <p>Häissä häpeät tehnyt V2 2310—2320.</p>
+            <p>Juomareista ja juomingeista V2 115—117, 120—121, 937, 952, 960, 965, 1003, 1010—1019, 1709, 2286, 2304, 2321—2334.</p>
+            <p>Kepyt on Keltossa elellä V1 1198; V2 2124—2131, 2303.</p>
+            <p>Kristillisaiheinen sepitelmä V2 616.</p>
+            <p>Meiän pappi paksuvatsa V1 1333—1334; V2 1124—1126, 1128, 2268.</p>
+            <p>Nimiin liittyviä sepitelmiä V1 185; V2 17, 732, 849, 1062, 2285, 2335—2336, 2338, 2341—2342, 2345—2350, 2352—2370, 2375, 2378—2403; V3 1226—1245.</p>
+            <p>Tilapäissepitelmiä V1 418, 1124—1137; V2 12, 1198—1199.</p>
+            <p>Tule tänne Turkin Elli V1 819, 2275—2276.</p>
+            <p>Entinen ja nykyinen aika:</p>
+            <p>Entinen aika V2 521, 2188—2192.</p>
+            <p>Nyt ei ajat niinkuin ennen V2 2191.</p>
+            <p>Näin ennen isot elivät V2 2188, 2192.</p>
+            <p>Oli muinoin muotiloja V2 2189.</p>
+            <p>Sananlaskurunoja:</p>
+            <p>Sananlaskusarjoja V2 860, 1055, 1123, 1556, 2204, 2206, 2211—2215, 2226; V3 261, 1148, 1151, 1172, 1192, 1214.</p>
+            <p>Sananlaskuja laulusta V2 2195; V3 360—365.</p>
+            <p>Sananlaskuntapaisia V1 185, 191, 430, 551, 1060, 1063, 2116; V2 8, 36, 164, 178, 283, 288, 558, 621, 662, 706, 738 a, 883, 894, 973, 1055, 1225, 2193—2239, 2242, 2297; V3 261, 398, 1148—1234.</p>
+            <p>VI. Loitsut.</p>
+            <p>Tietäjän kerskauksia ja varauksia V2 2455, 2479—2480, 2483—2484.</p>
+            <p>Mie olen noidan nuorin poika V1 202; V2 1024, 1737, 1740.</p>
+            <p>Nouse luontoni lovesta V2 2456, 2477, 2655.</p>
+            <p>Nouskaa kalmat kankahasta V2 2457.</p>
+            <p>Tunge tulta sukkahasi V2 1024, 1608—1609, 2454.</p>
+            <p>Kateet, kirot ja manaukset.</p>
+            <p>
+                <hi rend="i">Kateet</hi>
+            </p>
+            <p>V2 2456—2470, 2646; V3 1246—1247.</p>
+            <p>
+                <hi rend="i">Kirot</hi>
+            </p>
+            <p>V2 2459, 2464, 2470—2480; V3 1249.</p>
+            <p>
+                <hi rend="i">Manauksia</hi>
+            </p>
+            <p>V2 2459—2461, 2469—2471, 2473—2485, 2578, 2584, 2590—2592, 2594, 2599, 2605, 2614—2619, 2621, 2625—2626, 2629, 2631—2632, 2657—2658; V3 1249—1250, 1255—1256<hi rend="i">,</hi> 1292—1294, 1312.</p>
+            <p>
+                <hi rend="b">II. Loukkaantumat ja viottumat.</hi>
+            </p>
+            <p>Kiven vihat V2 2486—2488.</p>
+            <p>Loukkaantuneelle V3 1254.</p>
+            <p>Niukahdus V1 1117, 1125, 1127, (1129); V2 2489—2499; V3 1251—1253.</p>
+            <p>Pakkasen ja palentuneen jälki V2 1738, 2301, 2500—2505; V3 1255—1257.</p>
+            <p>Puun vihat V2 2506—2509; V3 1258—1262.</p>
+            <p>Raudan sanat ja veren sulku V2 2510—2527; V3 1263—1272.</p>
+            <p>Tuli ja palanut V1 811—812, 1303; V2 2528—2553; V3 3273—1284.</p>
+            <p>
+                <hi rend="b">III. Puremat.</hi>
+            </p>
+            <p>Karhun purema V2 2554.</p>
+            <p>Konnan purema V2 2555.</p>
+            <p>Käärmeen sanat V1 577, 2556—2578; V3 1285—1290.</p>
+            <p>Metsäisen purema V2 2582.</p>
+            <p>Suden purema V2 2579—2581, 2583.</p>
+            <p>
+                <hi rend="b">IV. Taudit, kivut ja tartunnat.</hi>
+            </p>
+            <p>Ammus V2 2485, 2584—2585; V3 1291.</p>
+            <p>Hammas V2 2586—2589.</p>
+            <p>Haukkeet V3 1304—1305.</p>
+            <p>Kaulan lukko (struuma) V2 2590.</p>
+            <p>Kohtaus V2 2591—2593.</p>
+            <p>Maahinen V2 2594—2595.</p>
+            <p>Nikotus V2 2596.</p>
+            <p>Painajainen V2 2597.</p>
+            <p>Paise V2 2598—2604; V3 1292—1294.</p>
+            <p>Pelästynyt V2 2605—2608; V3 1295.</p>
+            <p>Pistos V2 2609—2613; V3 1296.</p>
+            <p>Raani, ruusu V2 2614—2619.</p>
+            <p>Riisi V2 2620—2633; V3 1297—1298.</p>
+            <p>Suutelukset V2 2634.</p>
+            <p>Syylä V2 2635.</p>
+            <p>Tartunta V2 2636—2640.</p>
+            <p>Voiteen luku V2 2641—2642; V3 1299.</p>
+            <p>Voiteen tuojana mehiläinen V2 2509, 2513, 2527—2528, 2531, 2568, 2642, 2670; V3 1268, 1282, 1292, 1294, 1299—1303.</p>
+            <p>Yskä V2 2643.</p>
+            <p>Äkköös V2 2644.</p>
+            <p>
+                <hi rend="b">V. Karjanhoito.</hi>
+            </p>
+            <p>Lehmiltä kun maito häviää V2 2645—2646.</p>
+            <p>Läävämato V2 2654.</p>
+            <p>Metsän nittiä (kontiota) vastaan V2 2648—2651.</p>
+            <p>Para V2 2647.</p>
+            <p>Sutta vastaan V2 2652—2653.</p>
+            <p>
+                <hi rend="b">Metsänkävijän lukuja.</hi>
+            </p>
+            <p>Karhun kaadannassa V2 2695; V3 1327—1330.</p>
+            <p>Metsähiselle V3 1327—1328, 1334.</p>
+            <p>Metsämiehen pyyntilukuja V2 1018, 2042, 2694, 2696—2699.</p>
+            <p>Mielly metsä, kostu korpi V2 1018, 2042.</p>
+            <p>Mie olen mies metsän kävijä V2 2042, 2694; V3 1331—1333.</p>
+            <p>Susia vastaan V3 1335.</p>
+            <p>
+                <hi rend="b">Eri tiloissa.</hi>
+            </p>
+            <p>Kaalin tyrä V2 2692.</p>
+            <p>Kaskea viertäessä V3 1306.</p>
+            <p>Kuun tervehtiminen V3 1308.</p>
+            <p>Käen kukuttaminen V2 777—778; V3 1318—1319.</p>
+            <p>Lammasta keritessä V3 1320.</p>
+            <p>Lapsen yöitku V2 2677—2684; V3 1342—1343.</p>
+            <p>Lapsia pelotellaan V2 1321.</p>
+            <p>Laskiaisena V2 2686—2689.</p>
+            <p>Lasta kylvöttäessä V2 2655—2658; V3 1310—1317.</p>
+            <p>Lasta synnyttäessä V2 2633—2669, 2671; V3 1322—1324.</p>
+            <p>Lemmen nosto V2 2670—2674.</p>
+            <p>Löylyn tervehyttäminen V2 2659—2662; V3 1309.</p>
+            <p>Maan tervehtiminen V2 2473, 2646, 2675; V3 1325—1326.</p>
+            <p>Onnen seulominen morsiamelle V2 2676.</p>
+            <p>Puukko pilvistä putosi V2 2280.</p>
+            <p>Ruualle ruvetessa V3 1336.</p>
+            <p>Sade poistetaan V3 1337—1338.</p>
+            <p>Tulen vaaraa vastaan V3 1339—3341.</p>
+            <p>Varkaan luku V2 2693.</p>
+            <p>Virpominen V2 2690—2691.</p>
+        </div></body>
+    </text>
+</TEI>

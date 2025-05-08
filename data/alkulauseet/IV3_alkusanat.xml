@@ -1,0 +1,99 @@
+<?teipublisher template="alkulauseet.html" odd="teipublisher.odd" view="single"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>IV3: alkusanat</title>
+                <author>Väinö Salminen</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                <pubPlace>Helsinki</pubPlace>
+                <date>2024</date>
+                <availability>
+                    <p>Tekijänoikeudet: Suomalaisen Kirjallisuuden Seura</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Suoman kansan vanhat runot IV. Keski-Inkerin runot. 3. Toisinnot 2763−4807.</title>
+                    <author>Väinö Salminen (toimittaja)</author>
+                    <pubPlace>Helsinki</pubPlace>
+                    <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                    <date>1928</date>
+                    <series>
+                        <title>Suomalaisen Kirjallisuuden Seuran toimituksia</title>
+                        <biblScope>140, III.</biblScope>
+                    </series>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURAN TOIMITUKSIA.</p>
+            <p>140 OSA. III.</p>
+            <p>SUOMEN KANSAN VANHAT RUNOT IV.</p>
+            <p>KESKI=INKERIN JA VATJALAISET RUNOT. 3.</p>
+            <p>TOISINNOT 2763—4807.</p>
+            <p>JULKAISSUT</p>
+            <p>VÄINÖ SALMINEN.</p>
+            <p>HELSINKI 1928,</p>
+            <p>SUOMAILAISEN KIRJALLISUUDEN SEURA.</p>
+            <p>HELSINKI 1928,</p>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURAN KIRJAPAINON OY.</p>
+            <p/>
+            <p>Sisällysluettelo.</p>
+            <table type="contents">
+                <row rend="heading"><cell>Sivut</cell><cell/></row>
+                <row rend="heading"><cell>Alkulause</cell><cell/></row>
+                <row><cell>Aineenmukainen luettelo Keski-Inkerin runoihin</cell><cell>IX—XLVII</cell></row>
+                <row rend="heading"><cell>Julkaistut kokoelmat:</cell><cell/></row>
+                <row><cell>J. Fr. Ruotsalainen n:t 2763—3066</cell><cell>1—88</cell></row>
+                <row><cell>A. Haltsonen n:t 3067—3213</cell><cell>89—160</cell></row>
+                <row><cell>Väinö Salminen n:t 3214—3410</cell><cell>161—219</cell></row>
+                <row><cell>P. Inki n:t 3411—3442</cell><cell>220—234</cell></row>
+                <row><cell>A. Kupri n:t 3443—3529</cell><cell>235—269</cell></row>
+                <row><cell>F. Kärki n:t 3530—3785</cell><cell>270—358</cell></row>
+                <row><cell>K. A. Patomäki n:t 3786—3830</cell><cell>359—373</cell></row>
+                <row><cell>T. Kurikka n:t 3831—3835</cell><cell>374—380</cell></row>
+                <row><cell>P. Niukkanen n:t 3836—3839</cell><cell>381</cell></row>
+                <row><cell>I. Kuha n:t 3840—3860</cell><cell>382—393</cell></row>
+                <row><cell>J. Lukkarinen n:t 3861—3906</cell><cell>394—410</cell></row>
+                <row><cell>Lyyli Ikonen n:t 3907—3908</cell><cell>411—412</cell></row>
+                <row><cell>A. Iho n:t 3909—3922</cell><cell>413—417</cell></row>
+                <row><cell>J. Lorvi n:t 3923—3942</cell><cell>418—427</cell></row>
+                <row><cell>S. Paturi n:t 3943—3964</cell><cell>428—437</cell></row>
+                <row><cell>J. Riippinen n:t 3965—3971</cell><cell>438—440</cell></row>
+                <row><cell>J. Tikka n:t 3972—3985</cell><cell>441—445</cell></row>
+                <row><cell>K. Tynni n:t 3986—4002</cell><cell>446—456</cell></row>
+                <row><cell>V. Alava n:t 4003—4165</cell><cell>457—547</cell></row>
+                <row><cell>Eino Räikkönen n:t 4166—4183</cell><cell>548—554</cell></row>
+                <row><cell>Joh. Häyhänen n:t 4184—4195</cell><cell>555—561</cell></row>
+                <row><cell>Loitsut n:t 4196—4579</cell><cell>563—661</cell></row>
+                <row><cell>H. Laitinen n:t 4580—4ö92</cell><cell>662—669</cell></row>
+                <row rend="heading"><cell>Vatjalaiset runot:</cell><cell/></row>
+                <row><cell>Fr. Trefurt n:o 4593</cell><cell>673</cell></row>
+                <row><cell>A. J. Sjögren n:t 4594—4596</cell><cell>674—675</cell></row>
+                <row><cell>Rein ja Groundstroem n:t 4597—4605</cell><cell>676—685</cell></row>
+                <row><cell>Elias Lönnrot n:t 4606—4635</cell><cell>686—719</cell></row>
+                <row><cell>Aug. Ahlqvist n:t 4636—4669</cell><cell>720—732</cell></row>
+                <row><cell>O. Groundstroem n:t 4660—4679</cell><cell>733—738</cell></row>
+                <row><cell>A. A. Borenius n:t 4680—4689</cell><cell>739—746</cell></row>
+                <row><cell>O. A. F. Mustonen n:t 4700—4701</cell><cell>747</cell></row>
+                <row><cell>E. N. Setälä n:t 4702—4709</cell><cell>748—750</cell></row>
+                <row><cell>V. Alava n:t 4710—4779</cell><cell>751—771</cell></row>
+                <row><cell>Väinö Salminen n:t 4780—4794</cell><cell>772—775</cell></row>
+                <row><cell>Lauri Kettunen n:t 4795—4807</cell><cell>776—780</cell></row>
+            </table>
+            <p/>
+            <p>Keski-Inkerin runoja kokoelmittain julkaistessa on muutamissa kohden poikettu aikajärjestyksestä. Niinpä V. Alavan kokoelma on sijoitettu lopummalle siitä syystä, ettei maisteri Alava aikanaan ennättänyt verrata kopioita alkuperäisiin stenogrammeihin. H. Laitisen runot ovat saaneet paikan vasta loitsujen jäljessä sen vuoksi, että ne arkistossa oli sidottu savolaisten runojen keskelle, josta professori A. R. Niemi ne huomasi vasta sitten, kun tätä nidettä oli painettu vatjalaisiin runoihin asti.</p>
+            <p>Vatjalaisista muistiinpanoista on yksityiskohtaisia tietoja saatavissa julkaisijan kirjoittamassa ja piakkoin aikakauskirjassa „Suomi“ ilmestyvässä tutkimuksessa „Vatjalaiset runot“.</p>
+            <p>Kiitollisuudella mainitsen, että ministeri, professori <hi rend="italics">E. N. Setälä </hi>ja prof. <hi rend="italics">Lauri Kettunen</hi> ovat korjausvedoksina tarkistaneet vatjalaiset muistiinpanonsa.</p>
+            <p>Aineenmukainen runomotiiviluettelo on toimitettu yleensä samoja periaatteita noudattaen kuin Länsi-Inkerin aineenmukainen luettelo. Vatjankielisiä runoja siihen ei ole otettu, niistä kun on yksityiskohtainen selvittely äsken mainitussa tutkimuksessa.Helsingissä marraskuun 2 p:nä 1927.</p>
+            <p>
+                <hi rend="b i">Julkaisija.</hi>
+            </p>
+        </div></body>
+    </text>
+</TEI>

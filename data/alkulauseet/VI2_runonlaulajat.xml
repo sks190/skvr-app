@@ -1,0 +1,315 @@
+<?teipublisher template="alkulauseet.html" odd="teipublisher.odd" view="single"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>VI2: runonlaulajat</title>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                <pubPlace>Helsinki</pubPlace>
+                <date>2024</date>
+                <availability>
+                    <p>Tekijänoikeudet: Suomalaisen Kirjallisuuden Seura</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Suoman kansan vanhat runot VI. Savon runot. 1.</title>
+                    <author>J. Lukkarinen (toimittaja)</author>
+                    <pubPlace>Helsinki</pubPlace>
+                    <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                    <date>1934</date>
+                    <series>
+                        <title>Suomalaisen Kirjallisuuden Seuran toimituksia</title>
+                        <biblScope>142, II.</biblScope>
+                    </series>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div>
+            <p>V. LIITE.</p>
+            <p>
+                <hi rend="b">Savon laulajia.</hi>
+            </p>
+            <p>Seuraavassa esitetään lyhykäisiä henkilötietoja niistä savolaisista laulajista, joilta saatuja runoja on Gottlundin, Arvidssonin—Crohnsin, Lönnrotin ja Sjögrenin kokoelmissa, sekä samalla mainitaan ne numerot, joista kunkin laulajan sanelemat runokappaleet julkaisusta löytyvät. Milloin ei ole muita henkilötietoja kuin kertojan nimi, mainitaan se ja hänen laulamansa n:ot. Gottlundin laulajista mainitaan nekin hänen nimeltä ilmoittamansa henkilöt, joilta hän sanoo runoja saaneensa, vaikk’ei julkaisijalla ole tarkempaa tietoa siitä, mitä runoja heiltä kultakin on ehkä kirjaanpantu. Silloinkun on kysymyksessä Grottlundin laulaja, ei ole muistiinpanijaa erikoisesti mainittu. Samaten, milloin Gottlundin laulaja on kotoisin Juvan pitäjästä niinhän ne useimmat ovatkin — ei ole pitäjän nimeä toistettu. Jos hän on muualta, on se aina sanottu. Toisten tässä mainittujen kerääjäin kertojista on kunkin nimen jälkeen ne henkilötiedot, joita julkaisijalla on ollut käytettävissään. — Joissakin yksityistapauksissa eroaa tämän liitteen tiedot runotekstin otsikoissa olevista maininnoista. Tässä olevat tiedot ovat myöhemmin tarkistettuja lisäkyselyjen y.m. avulla ja ovat siis päteviä. — Grottlundin laulajain nimen jälkeen sulkuihin merkitty vuosiluku on G:n ilmoittama laulajan tapaamisvuosi. — Tutkijain varalta mainittakoon, että Seuran arkistossa on tietoja monen muunkin kerääjän laulajista, vaikk’ei niitä tässä yhteydessä julkaista.</p>
+            <p>
+                <hi rend="b">Antikainen, Matti</hi> (1816), Kuopion pit., Rytiniemen kylä.—759, 3308, 4522, 5342.</p>
+            <p>
+                <hi rend="b">Arkelin, Kalle Fredrik</hi>, — „Gossen Archelin“ —, (1816) suutarinpoika, Tuhkala. S. 1802 Mikkelissä, josta muutti vanhempiensa mukana Juvalle 1814, ja sieltä Sulkavalle n. v. 1822. — 309, 329.</p>
+            <p>
+                <hi rend="b">Arminen, Antti</hi> (1815), S. 1789. Pappilan torppari; kirkonkirjoissa merkintä: „bet. 29/5 1832 att få pass till Pet. burg, död 1832 i Pumala“. — Vaimo Anna Maria Korpinen, s. 1772; muutti Pietariin 21/9 1834. — 325, 611, 649, 672.</p>
+            <p>
+                <hi rend="b">Brandström, Anna Maija</hi>, ks. Ranström.</p>
+            <p>
+                <hi rend="b">Eronen, Anni</hi> (1816), s. Rantasalmella 1786, jonne muutti takaisin 1816. Oli palvelijattarena Juvan pappilassa.</p>
+            <p>
+                <hi rend="b">Esaias</hi>, nähtävästi joku mökkiläinen, sillä 9/6 1815 G. kertoo hänen luonansa olleen joukon torppareita, joilta hän kirjoitti „en hop Noiut och Kuoharin lukuia“. — 3152.</p>
+            <p>
+                <hi rend="b">Falck, Jaakko</hi>, lääninviskaali, maanviljelijä, s. 1785 Kerimäellä, muutti Ilomantsiin n. 1804, jossa kuoli 1854. — Sjögren: 3, 12, 117, 3149, 3284, 3808, 3809, 4715, 4828 5405, 6393. —Lönnrot: 4, 5, 11. — Gottlund: 2, 3148, 4827, 6394.</p>
+            <p>
+                <hi rend="b">Haloinen, Antti</hi> (1824), Rantahalola. S. 1793, k. 9/10 1858. Vaimo Anna Repoinen, s. 29/6 1796, k. 21/12 1857. — 728, 3381.</p>
+            <p>
+                <hi rend="b">Hamuinen, Anna Maria</hi>, —„Maja“ — (1816), torpparin tytär, s. 1793; kävi rippikoulua 1816, vihittiin 5/1 1817 Petter Savolaisen kanssa, joka s. 1786. Kuoli 22/10 1818.</p>
+            <p>
+                <hi rend="b">Hamuinen, Greta</hi> — „Margreta“ — s. 30/10 1798, k. 23/1 1828. Mies torppari Matti Holopainen, s. 1798, muutti Puumalaan 1848. — G. laulatti tätä „Randa-Purrholassa“ 1816.</p>
+            <p>
+                <hi rend="b">Heikkinen, Gustaf</hi> (1817), s. Ristiinasta (Korhola),. G. käyttää hänestä myös nimiä Pardon ja Patron, joka tarkoittanee H:n sotilasnimeä. H. palveli näet Uplannin rykmentissä — „boende i Kalmar socken &amp;Visby“. —366.</p>
+            <p>
+                <hi rend="b">Heiskanen, Antti</hi> (1817), vanha sotamies (G. kirjoittaa: „Anders Häiskinen (N:o 47) Svahn, torsalon kylestä ja Randasalmin pitästä“, tai: „Anders Svan Heiskanen“, tai: „Anders Svan“), jonka G. tapasi Upsalassa. — 3248, 4017, 4639.</p>
+            <p>
+                <hi rend="b">Heiskainen, Niilo</hi> (1823), Kiiskilän kylä, s. 1760, k. 14/4 1824. Vaimo Anna Järveläinen, s. 1760, k. 19/4 1823. — 3085, 3292, 4015, 4474, 4638.</p>
+            <p>
+                <hi rend="b">Hensius, Paul</hi>, ks. Hentius.</p>
+            <p>
+                <hi rend="b">Hentius</hi>, kapteeni, Kumpu, jonka luona G. mainitsee käyneensä 14/3 1816 ja saaneensa tältä „suomalaisia runoja“ lienee edellämainittu Paul Hensius, joka nimimerkki on G:lle laulanut 11/3 1816. —2845, ja nähtävästi myös: 3380.</p>
+            <p>
+                <hi rend="b">Hotakka, Sohvi</hi> (1815), o.s. Veijalainen, s. 1783, k. 22/2 1837. Oli kahdesti naimisissa. 1. mies „Jägare“ Aatami Hotakka, sotaväessä nimenä En, s. 1786; kuolemaa ei merkitty. — 2. mies n. v:sta 1820 Lauri Kristianinpoika Hulkkoinen, s. 1771, k. 1829. —377, 639, 865.</p>
+            <p>
+                <hi rend="b">Huhtinen, Heikki</hi> (1824), pappilan torpparin poika, s. 12/1 1810. Muutti naimatonna Sulkavalle 2/11 1838. Kirjoissa merkintä: „klockare candidat“. Hänen sanelemansa lienee —193.</p>
+            <p>
+                <hi rend="b">Huhtinen, Yrjänä</hi> (Jöran, Georg; 1816), pappilan torppari, s. 1780, k. 19/9 1831. Vaimo Katariina Ulmainen, s. 24/3 1788. — 124, 227 (kk:n Huohtinen t. Huchtinen tarkoittanee tässä mainittua H:ta).</p>
+            <p>
+                <hi rend="b">Hukkainen, Juhana Matinp</hi>. (1815) Pohjoiskylä. S. Rantasalmella 1791, josta tuli Juvalle 1815. Eli torpparina ja k. 3/11 1840. Vaimo Elisabet Hämäläinen, s. 1795, k. 24/11 1858. — 199.</p>
+            <p>
+                <hi rend="b">Hukkanen, Paavo</hi>, talollinen Kiuruveden Lapinsalon kylästä, s. 1764, k. 1822. Arvidsson näyttää hänet tavanneen elokuun lopulla 1819. — 41, 5412. — Lisäksi ks. Sjögrenin kopioita Arvidssonin käsikirjoituksista, joissa on ainakin kaksi H:n laulamaa runoa ja jotka ovat jääneet ottamatta tähan (n:t 434, 438, ks. A. R. Niemi, A. J. Sjögrenin kansanrunokokoelma. Suomi III 15. 1898).</p>
+            <p>
+                <hi rend="b">Hurri, Aatami</hi> (1815), renki, s. Mikkelissä 15/3 1795, jonne näyttää takaisin siirtyneen n. v. 1815— 1816. G. mainitsee Hurrin olleen niiden rippikoululaisten joukossa, jotka lauloivat v. 1815 hänelle runoja. — 405.</p>
+            <p>
+                <hi rend="b">Hämäläinen, Ingeborg</hi> (1816) Pajusalmelta, s. 1/3 1796, k. 8/3 1875. Mies talollinen Juhana Juhananpoika Purhoinen, s. 22/1 1792, k. 22/2 1838.</p>
+            <p>
+                <hi rend="b">Hämäläinen, Martti Paavonp</hi>. (1816) Pihlansalosta, s. 15/6 1795, k. 24/7 1825. Renki, myöhemmin torppari. Vaimo Maria Kaipainen, s.1794.</p>
+            <p>
+                <hi rend="b">Hänninen, Heikki Kristerinp</hi>. (1815), talollisen poika Nääringistä, s. 1791. Vaimo Anna Muikkuinen, s. 1803. Muuttivat Sulkavalle 9/2 1839. —483.</p>
+            <p>
+                <hi rend="b">Härköinen, Abraham</hi> (1815), Kaskis, s. 1784. Muutti Puumalaan v. 1819.</p>
+            <p>
+                <hi rend="b">Härköinen, Juhana</hi> (1816), Laukkala, talollinen, s. 1789, k. 3/1 1845. Käytti myöhemmin nimeä „Antonen“. — 577.</p>
+            <p>
+                <hi rend="b">Härköinen, Kaisa</hi> (1816), Järvenpää, s. 1790, k. 28/2 1853. Mies Antti Rimpi, s. 1792, k. 26/6 1866.</p>
+            <p>
+                <hi rend="b">Ihalainen, Juhana</hi> (1834), Riistavesi. — 3311, 3506, 3847, 4525, 4647, 5083, 5242, 5457.</p>
+            <p>
+                <hi rend="b">Immoinen, Matti</hi> (1816), Ronkala. Ronkalassa oli kirjoilla kolme Matti Immoista, nimitt. M. Sigfridinp. s. 1782, k. 3/2 1832; M. Matinp. s. 1746, eli vielä v. 1820; M. Matinp. s. 29/11 1780, k. 14/4 1827. Toistaiseksi jää ratkaisematta kuka näistä oli G:n sanelijana. —26, 3179, 3980, 4013, 4056, 4116,4288,4344, 4345, 4507, 4836, 5885, 5886.</p>
+            <p>
+                <hi rend="b">Inkinen, Heikki</hi> (1816), mökkiläinen Juvan Vehmaisten kylästä; lienee muuttanut Taipalsaarelta. — 82.</p>
+            <p>
+                <hi rend="b">Jauhiainen, Mikko Sakarinp</hi>., torpparinpoika Iisalmen Ahmonsaaren Ulmalasta, n. 7, s. 1782, muutti Nilsiään 9/7 1832. Kirkonkirjoissa 1816—19 mainitaan torppariksi. Vihkossa 486: 1, jonka ensilehden yläreunassa on: „Michel Jauhiain 18 1/9 19“, lienevät n:ot 1—12 kaikki hänen laulamiansa. Arvidsson ja Crohns: 3219, 3335, 3448, 3449, 3493, 3517, 3560, 3773, 3860, 3993, 5309, 5310.</p>
+            <p>
+                <hi rend="b">Järveläinen, Aatami Tapaninp</hi>. (1817), Soiniemi, s. 1772, k. 30/1 1840; isä oli talollinen. — Vaimo Anna Pulliainen, s. 1789, k. 13/4 1856. —3615, 3817, 4445.</p>
+            <p>
+                <hi rend="b">Kaipainen, Pekka Paavonp</hi>. (1815 ja 1816), talollinen, Tyrynmäki, 8. 11/8 1781, k. 22/5 1847. —412, 717, 3182, 3820, 3981, 4510, 4617.</p>
+            <p>
+                <hi rend="b">Kaipainen, Piatta Sofia</hi> (1815), torpparintytär Tuhkalasta, s. 1798, k. 15/9 1820. Oli G:n laulattamien rippikoululaisten joukossa. —407.</p>
+            <p>
+                <hi rend="b">Kantoinen, Kaisa</hi> (1815), Näärinki, s. 1795, k. 14/10 1862. Mies Juhana Inkinen, s. 1794, k. 27/11 1860. Kuului G:n mainitsemiin rippikoululaisiin. — 276, 317.</p>
+            <p>
+                <hi rend="b">Karvinen l. Karvoinen, Matti</hi>, pappilan renki (1815), s. 1789, k. 7/2 1872. Sukunimi kirkonkirjoissa ensin Karfvin, myöhemmin Karvoin. — Vaimo Kristiina Kiiskinen, s. 24/2 1796, k. 2/12 1878. — 526, 643, 680, 753.</p>
+            <p>
+                <hi rend="b">Kekäläinen, Toppi</hi>, Pohj.-Savo. Vihko 486: 8, jonka alkulehden ylälaidassa on: „af Toppi Kekäläinen“, on nähtävästi kokonaan (n:ot 1—9) hänen sanelemiansa. — Arvidsson ja Crohns: 3336, 3451, 3606, 4161, 4488, 4489, 4490, 4659, 6402. — Niinikään on 486: 11, n. 2:n alkuun „Mehtän sanoja“, myöhemmin lisätty: „(enligt Toppi Kekäläin)“, joten seuraavat kolme lukua ovat nähtävästi häneltä saatuja. —4945, 5014, 5041.</p>
+            <p>
+                <hi rend="b">Kiiskinen, Lassi Pekanp</hi>. (1815), Kiiskilänniemi, s. 29/12 1795, k. 6/1 1826. — 581.</p>
+            <p>
+                <hi rend="b">Kiiskinen, Paavo</hi>, 8. 12/7 1758 Kiiskilänniemellä (n. 1), jossa isä Grels Kiiskinen oli talollisena. Äiti Katariina, o.s. Mulli, oli kotoisin Rantuen talosta n:o 1. K. kastettiin 14/8 1758 ja hänen kummeinaan olivat: herra Lauri Poppius, kersantti Gust. Dunckert ja neiti Maria Eleonora Chrons.</p>
+            <p>K. kuului Joroisten komppaniaan n:olla 126 ja sieltä sai nimen G i r s, jota käytti sukunimenään kuolemaansa saakka. Hän kuoli naimatonna 9/4 1819; kuoleman syyksi on merkitty kihti.</p>
+            <p>Tällä miehellä oli kolmaskin nimi, K ö p p ö, joka näyttää olleen yleisimmin käytetty ja jota Gottlundkin useimmiten käyttää. K. on tunnetuista vanhemmista runonlaulajistamme huomattavimpia ja G:n tapaamista huomattavin. K:n tietäjämaine lienee aikanaan ollut suuri, koskapa sen kaikuja Juvalla kuultiin viela viime vuosisadan loppupuolella (prof. V. Tarkiaisen suullisen tiedonannon muk.). K. näyttaä olleen levoton eläjä. Kirkonkirjoissa on vuosilta 1806—1814 merkinnät: „vandrar ikring, ostadig, lefvat olofligen med Sofia Ruotsalain (s. 1759) abr 31/1 1808, 3 oägta barn m. Sofia Buotsalain.“ Ja vuosilta 1815—1819 on merkintä: „vandrar omkring.“ On mahdollista, että K. noidan ammatissaan juuri joutui paljon liikkumaan. — 23, 104, 337, 373, 411, 613, 653 a, 3032, 3108, 3180, 3288, 4014, 4472, 4884, 5034, 5057, 5085, 5417, 5458, 5737, 5853, 6055, 6136, 6281, 6361, 6363.</p>
+            <p>
+                <hi rend="b">Kinnunen, Matti</hi>, Savo? K., koulunkäymätön kansanmies, on lähettänyt useita runotoisintoja. Julkaisijalle on tuntematonta, onko hän runot kirjoittanut omasta muististaan vai muualta kuullut. — Arvidsson ja Crohns: 9, 165, 343, 381, 675 a, 3161, 3224, 3866, 4045, 4088, 4112, 4180, 4542, 4871, 5013, 6284, 6403.</p>
+            <p>
+                <hi rend="b">Kiukas, Anna Liisa Abrahamintytär</hi> (1815), 8. 3/11 1798, k. 9/10 1867.</p>
+            <p>Isä oli torppari. Mies Juhana Abrahaminp. Purainen, s. 1801, k. 1846. — 593.</p>
+            <p>
+                <hi rend="b">Kokkoinen, Leena</hi> (&lt; Helena; 1816), talollisen tytär Visalasta, s. 1800, k. 1/6 1861. Mies taloll. Pekka Laamainen, s. 18/12 1795, k. 23/5 1858. — 338.</p>
+            <p>
+                <hi rend="b">Kolehmainen, Hanno</hi>, torppari, s. 1779, k. hukkumalla 30/6 1840. Asui Karttulan pitäjän Punnonmäen kylassä Kalliorannan talon (n. 17) torpparina. Kirkonkirjoissa mainitaan, että hän elää luvatonta yhdyselamää Liisa Kekkoisen kanssa, s. 1782, josta molempia sakotettu Kuopion kihlakunnan käräjillä 1832 4 ruplaa. 80 kopeekkaa.</p>
+            <p>Karttusen arvelun mukaan G. sai K:n runot vuoden 1834 jälkeen. — 3475, 4645, 5445.</p>
+            <p>
+                <hi rend="b">Korpelainen, Juhana</hi>, Kiuruveden Hautakylä. Vihkon 486: 12, joka on Crohnsin käsialaa, ensilehden ylälaidassa on merkintä: „Enligt *Johan* Korpelain Kiuruvesi 18 15/8 19.“ Vihko sisältää seuraavat runot: — 54, 55, 69, 518, 3008, 3222, 3452, 3561, 3669, 3774, 4190, 4628, 4660, 4889, 5413.</p>
+            <p>
+                <hi rend="b">Kotalainen, Heikki</hi> (1818), Inkilä. — 378, 620, 630.</p>
+            <p>
+                <hi rend="b">Kovainen, Mikko</hi> (1816), torppari Tuhkalasta, s. 1778, k. 11/1 1849. Vaimo Anna Auvinen, g. 11/2 1775, k. 17/5 1850. — 514.</p>
+            <p>
+                <hi rend="b">Kärkkäinen, Pekka</hi> (1816), talollinen, Härkälänniemi, s. 1778, k. 7/12 1819. —3034, 4346, 4508, 4900, 6056.</p>
+            <p>
+                <hi rend="b">Kärkkäinen, Ulriikka</hi> (1815) Järvenpäästä, s. 1801; muutti Sulkavalle n. v. 1816.</p>
+            <p>
+                <hi rend="b">Kärri, Heikki</hi> (1815), pappilan torppari, s. 17/3 1773, k. 23/1 1838. Sukunimi on näihin asti luettu väärin: Käni, &lt;Käni&gt;. — Vaimo Anna Abrahamintytär Purainen, s. 38/3 1788, k. 30/5 1868. —3581, 4218.</p>
+            <p>
+                <hi rend="b">Kääriäinen, Jaakko</hi> (1816), torppari, Remojärvi, s. 1796. Muuttanut Mikkelistä Juvalle n. v. 1817— 1818, jossa kuoli 21/3 1868. — Vaimo Anna Katarina Ikoinen, s.1800, k.1875. —25, 43, 372, 464.</p>
+            <p>
+                <hi rend="b">Laitinen, Hannes</hi> (1815), pappilan torppari, s. 1750, k. 8/4 1822. — 17, 621, 3501, 3582, 3614, 3979, 4055, 4443, 4637, 5434, 5435, 5854.</p>
+            <p>
+                <hi rend="b">Laukkainen, Olli</hi> (1815) Mäköisistä. Kirkonkirjoissa on kaksi Olli L:sta, nimittäin Olli Ollinp. L., s. 1756, k. 26/6 1840 ja Olli Paavonp. L., s. 21/9 1785, k. 30/8 1857.</p>
+            <p>Toistaiseksi jää selvittämättä, kumpiko näistä G:lle runoja saneli. — 651, 2992, 4955.</p>
+            <p>
+                <hi rend="b">Lautiainen, Pekka</hi> (1815), torppari, Ahola, s. 26/6 1783, k. 4/8 1835. — 449, 702.</p>
+            <p>
+                <hi rend="b">Leskinen, Tapani</hi>, Maaninka, Käärmetlahti. 488 c, n. 9 a—9 b irtolehti, jonka ylälaitaan on kirjoitettu: „Af Staffan Leskinen.“ — Arvidsson ja Crohns: — 4872.</p>
+            <p>
+                <hi rend="b">Loukiainen, Olli</hi>. — 687.</p>
+            <p>
+                <hi rend="b">Luukkoinen, Fiina</hi>. —352.</p>
+            <p>
+                <hi rend="b">Makkonen, Pekka</hi>, Kiuruvesi. Vihkon 486: 15, joka on Arvidssonin käsialaa, alkulehden ylälaidassa on samanaikainen merkintä: „Petter Mackonen, 96 år gl. 18 16/8 19.“ Ja nimen alla: „(opålitlig)“. Vihkon loppulehden alareunassa on erilaisella musteella ja nähtävästi jonkunverran myöhemmin Arvidssonin kirjoittama: „Alla dessa af Mackonen, äro osäkra.“ — 3264, 3338, 3670, 3864, 4007, 4189, 4491, 4661, 5305, 5306, 6401.</p>
+            <p>
+                <hi rend="b">Marttinen, Maria</hi> (1816), talonemäntä, o.s. Inkinen, 8. 1761, k. 2/2 1836. — Mies talollinen Matti M., s. 20/6 1761, k. 18/6 1836. Otti rakuunana osaa 1788 vuoden sotaan. —368.</p>
+            <p>
+                <hi rend="b">Miettuinen, Pekka</hi> (1815), torppari, Murtois, s. 24/7 1780, k. 5/4 1829.— 559, 3240, 3285, 3815, 4505, 4957.</p>
+            <p>
+                <hi rend="b">Montoinen, Antti</hi> (1815), renki, Näärinki, s. 1793, k. 11/11 1828. — 5027.</p>
+            <p>
+                <hi rend="b">Montoinen, Matti </hi>(1824), Pihlansalo. — 2863.</p>
+            <p>
+                <hi rend="b">Muikkunen, Kalle</hi> (1815), Näärinki, s. 25/6 1790, k. 16/11 1846. — Vaimo Maria Pitkonen, s. 1784, k. 5/4 1852. — 615.</p>
+            <p>
+                <hi rend="b">Muikkuinen, Maija Stiina</hi> (1816), piika, Suurniemi, s. 1795. Muutti Rantasalmelle 1820. — 586.</p>
+            <p>
+                <hi rend="b">Muikkuinen, Paavo</hi> (1815), Näärinki. — 2797.</p>
+            <p>
+                <hi rend="b">Muikkuinen, Pekka</hi> (1815). — 3031.</p>
+            <p>
+                <hi rend="b">Mulli, Mikko</hi> (1815), torppari, Murtois, s. 5/10 1779, k. 1/10 1837. — 670.</p>
+            <p>
+                <hi rend="b">Naukkainen, Matti</hi> (1816). — 396.</p>
+            <p>
+                <hi rend="b">Nikkinen, Anna</hi> (1815), leski, o.s. Kauppinen, 8. 1776. Oli toisissa naimisissa torppari Jonas Ahlblomin k., s. 13/3 1754, k. 6/11 1831. Toistamiseen leskeksi jäätyään muutti Pietariin 14/2 1835. —570.</p>
+            <p>
+                <hi rend="b">Nikkinen, Maija Stiina</hi> (1815), piika, kirkonkylä, s. 1803; muutti Rantasalmelle 7/2 1825, tuli takaisin seuraavana vuonna ja vihittiin 1827 Matti Hamusen kanssa, s. 1798. Muutti Pietariin 25/2 1832, jonne hänen miehensä oli siirtynyt sotapalvelukseen. —261, 946.</p>
+            <p>
+                <hi rend="b">Nikulainen, Eeva</hi> (1816), pappilan torpparin tytär Papinsalosta, s. 1793. Vihitty loisen Paul Sopasen kanssa, joka s. 1795, k. 7/12 1844. — 294.</p>
+            <p>
+                <hi rend="b">Nikulainen, Leena Tuomaantytär</hi> (1816), „pig“, Papinsalo, s. 1793, k. 18/3 1833. — Mies torppari Yrjö Parkkinen, s. 1782, k. 23/3 1833. — 673.</p>
+            <p>
+                <hi rend="b">Nikulainen, Stiina</hi> (1815), Läskelä, s. 1790, k. 22/2 1866. Mies Pekka Hiihtanen (myös kirj. Hichtoin),</p>
+            <p>s. 1782, k. 26/2 1857. —678.</p>
+            <p>
+                <hi rend="b">Niloinen, Kalle</hi> (1815), Särkijärvi, s. 1795. Vaimo Helena Lipsainen, s. 1801. N. oli aikaisemmin renkinä ja myöhemmin „pitäjänräätäli“. Muuttivat Leppävirroille 31/1 1836. —324, 389, 671.</p>
+            <p>
+                <hi rend="b">Nopoinen, Tuomas</hi> (1815), pappilan torppari Papinsalosta, s. 1781, k. 14/2 1860.—105, 251, 361, 513, 882, 3580.</p>
+            <p>
+                <hi rend="b">Nissinen, Lauri</hi> (1816) Kaitaisten kylastä Joroisissa. Joroisten kirkkoherran viraston tiedonannon mukaan asui v. 1815 sanotun kylän n:olla 5 kaksi samannimista henkilöä: taloll. Lauri Kissinen, s. 3/1 1763, k. 4/6 1835, ja tämän poika Lauri, s. 19/11 1786, k. 30/1 1859. G:n mainitsemaa Kauppinen-nimeä ei kirjoissa näy; eikä suvun nykyään elävät jäsenet sellaisesta tiedä. — 516, 752, 951, 3394, 4973.</p>
+            <p>
+                <hi rend="b">Oinoinen, Antti Jaakonp</hi>. (1820) rusthollari Oinola, s. 29/9 1751, k. 30/11 1827. — Vaimo Aliisa Mulli, s. 6/1 1752, k. 1813. —3291.</p>
+            <p>
+                <hi rend="b">Oinoinen, Heikki Jaakonp</hi>. (1815), taloll. Mäköisistä, s. 1782, k. 15/4 1853. — 253.</p>
+            <p>
+                <hi rend="b">Oinoinen, Lauri Laurinp</hi>. (1815), rippikoululainen Inkilästä. Ks. Pajainen, Lauri.</p>
+            <p>
+                <hi rend="b">Oinoinen, Lauri</hi> (1815), torppari, Lehkola, s. 1791, k. 1871. —Vaimo Anna Tarkiainen, s. 1789, k. 19/6 1866.</p>
+            <p>
+                <hi rend="b">Paindinen, Pekka</hi> (1824), Kiiskilänniemi. — 295.</p>
+            <p>
+                <hi rend="b">Pajainen, Lauri Laurinp</hi>. (1815), Inkilä. Myöhemmin kirjoitettu Paajanen. On nähtävästi G:n mainitsema Lauri Oinoinen. Juvan kirkkoherran virasto ilmoittaa asiasta näin:“—on kirkonkirjoissa ensin erehdyttävästi merkitty erään Lars Oinosen pojaksi, mutta myöhemmin muutettu Lars Pajasen pojaksi; rippikoululuettelon mukaan ei sinä vuonna ollut koulussa Inkilästä muuta Lars’ia kuin tämä yllämainittu;“ synt. 1798, ollut myöhemmin merkintä ’åldersman å Siikakoski såg i Ingilä’ —;</p>
+            <p>myös merkintä ’byaman’. Kuoli 24/4 1866. — Vaimo Sohvi Purhoinen, s. 1797, k. 15/5 1842. — 506.</p>
+            <p>
+                <hi rend="b">Pajainen, Leena Sofia</hi> (1815), Järvenpää, s. 27/9 1798. Vihitty „aikanaan“ Pekka Halisen kanssa, josta merkintä: „gått i Rysk Krigstjänst 1831.“—Vaimo siirtyi passilla Kronstadtiin 18/4 1835.</p>
+            <p>
+                <hi rend="b">Pajainen</hi>: „Lena Paioins doter“ (1816) Järvenpää = Helena Sohvia Pajainen, s. 1798; äiti Helena P.</p>
+            <p>
+                <hi rend="b">Pannoinen, Juhana Laurinp</hi>. (1817), pappilan torppari, Eerikkala, s. 27/10 1784, k. 28/1 1832 naimatonna. —4901.</p>
+            <p>
+                <hi rend="b">Parkkinen l. Parkkoinen, Maija</hi> (1816), Mattila. Nähtävästi = Margareta P., joka oli Sofia P:n sisar (muuta Maija P:tä ei 1816 esiinny Mattilan asujamiston luettelossa), s. 1769, k. 25/6 1845. — Mies Vinsentius Repoinen, s. 1763, k. 10/5 1837.</p>
+            <p>
+                <hi rend="b">Parkkinen l. Parkkoinen, Sofia Klaeksentytär</hi> (1816), Mattila, s. 6/1 1777, k. 9/2 1849. — Mies Antti Härköinen, s. 12/8 1768.</p>
+            <p>
+                <hi rend="b">Parkkoinen, Juhana</hi>. — 4708.</p>
+            <p>
+                <hi rend="b">Partanen, Lassi</hi>, nähtävästi torppari Iisalmen Haapajärveltä (n. 9), 8. 1764, k. 21/2 1833. Vihkon 371:10, joka on Crohnsin käsialaa, alkulehden yläreunassa on: „af Lars Pardanen.“ Saman sanelema on nähtävästi vihkossa oleva toinenkin luku. Siis —3217, 3339.</p>
+            <p>
+                <hi rend="b">Pasainen, Kalle Heikki</hi> (1815), kirkonkylä, s. 12/12 1787, k. 21/5 1847; torppari, myöhemmin loinen. —299, 300, 5121, 5739.</p>
+            <p>
+                <hi rend="b">Pasainen, Risto</hi> (1815), torppari, Inkilä, s. 6/3 1783, hukkui 20/? 1820. —177.</p>
+            <p>
+                <hi rend="b">Pastinen, Antti Juhana Mikonp</hi>. (1815), sahatyömiehenpoika Inkilästä, s. 1798, k. 18/4 1831 „krossadi qvarnen“. —Vaimo Kristiina Pirhoinen, s. 1802.</p>
+            <p>
+                <hi rend="b">Pastinen, Mikko</hi> (1818), Inkilä. — 333.</p>
+            <p>
+                <hi rend="b">Pastinen, Piata Matintytär</hi> (1815), Vuorilahti, s. 15/8 1798, k. 11/4 1836. — Mies Matti Turakainen, s. 10/3 1797; muutti Puumalaan 25/11 1842. — 263.</p>
+            <p>
+                <hi rend="b">Pannoinen, Juhana</hi>. — 4901.</p>
+            <p>
+                <hi rend="b">Pekurinen, Anni Heikintytär</hi> (1816), „Kerris piga“, s. 28/4 1797, muutti Leppävirroille n. v. 1816 „med Fieandt“. — 86.</p>
+            <p>
+                <hi rend="b">Puhakainen, Juhana Matinp</hi>. (1816), rusthollari, Kiiskilänniemi, s. 26/9 1752, k. 15/9 1823. —Vaimo Anna Hakulinen, s. 2/4 1755, k. 28/4 1822. — Heillä oli poika Juhana, s. 16/3 1783, k. 27/4 1832. — Vaimo Sofia Kärkkäinen, s. 1789, k. 4/6 1822. — Selvittämättä jää toistaiseksi kumpiko näistä oli G:n laulaja. —254, 367, 580, 587, 619, 647, 704, 705, 718.</p>
+            <p>
+                <hi rend="b">Puhakainen, Niilo</hi> (1816), talollinen, s. 1783, hirttäytyi 5/2 1848. — Vaimo Kaisa Pasainen, s. 1788, k. 21/6 1863. — 4058, 4093, 4120, 4283, 4427.</p>
+            <p>
+                <hi rend="b">Puikkoinen, Antti Matinp</hi>. (1816), renki, Ollikkala, s. 3/1 1790, k. naimatonna 27/7 1843. — 106, 192, 480.</p>
+            <p>
+                <hi rend="b">Pulliainen, Jaakko</hi> (1815), talollinen, Kiiskilänniemi, s. 1796, k. 23/1 1878. — Vihittiin 15/11 1818 Eeva Sofia Pekantytär Kiiskiseen, s. 1794, k. 10/4 1862.</p>
+            <p>
+                <hi rend="b">Purainen, Liisa Tuomaant</hi>. (1815), s. 25/9 1794, k. 9/10 1867. — Mies pappilan torppari Risto Ulmainen, s. 6/12 1791, k. 28/10 1851. Hän toimi myös pitäjäntuvan lämmittäjänä ja haudankaivajana.</p>
+            <p>
+                <hi rend="b">Purhoinen, Anna Maija Juhanant</hi>. (1816), Ranta-Purhola, s. 1805, k. 1/3 1838. Isä oli rusthollari. — Mies Pekka Pylkkäinen, s. 1790, muutti Mikkeliin 7/8 1844.</p>
+            <p>
+                <hi rend="b">Purhoinen, Liisa Abrahamintytär</hi> (1816), Ranta-Purhola, 8. 5/4 1798. eli ainakin 11/1 1841. — Vihittiin Kalle Ollinp. Laukkaiseen 24/6 1819, joka s. 18/12 1783, k. 26/1 1838. — 612, 679.</p>
+            <p>
+                <hi rend="b">Purhoinen, Matti</hi> (1815), Ollikkala. Kirkonkirjoissa on kolme samannimistä miestä, nimittäin: renki Matti P., s. 1765, k. naimatonna 2/11 1823; Matti Laurinp. P., s. 17/6 1793, k. 1/2 1835; ja Matti Matinp. P., s. 25/4 1774, k. 31/8 1846. Vastaiseksi jää määrittelemättä kuka näistä oli G:n laulaja. — 493, 635.</p>
+            <p>
+                <hi rend="b">Pylkkäinen, Antti Juhananp</hi>. (1815), Pylkkälänniemi, s. 6/6 1795. Kirkonkirjoissa on hänen kohdallaan merkintä: „Sveaborg“, ja seuraavasta kirkonkirjasta ei häntä enää löydy. — 402, 522.</p>
+            <p>
+                <hi rend="b">Pylkkäinen, Paavo</hi> (1816), Pylkkälänniemi —sotäväessä nimi Söder —, s. 1782; katoaa kirkonkirjoista. —Edellisen isä oli Paavo P., s. 19/3 1753, k. 17/3 1829. G. antaa laulajalleen myös nimen Försten. Tarkoittaako hän sillä isää vai poikaa, ei ole tässä ratkaistavissa, samaten kun sekäan kumpiko oli G:n laulaja. — 726, 3181, 3583, 3823, 4184, 4473, 4509, 4579, 4837, 4959, 5436, 5699.</p>
+            <p>
+                <hi rend="b">Pätyinen, Antti</hi> (1815), Näärinki. Tämännimisiäkin esiintyy kaksi: talollinen Antti Laurinp. P., s.3/2 1755, k. 18/4 1824 (vaimo Anna Skadevits, s. 1778, k. 14/3 1838) ja hänen poikansa Antti P., s. 24/8 1791, k. 11/4 1874 (vaimo Anna Kaartinen, 8. 25/1 1791, k. 18/6 1879). Viimemainitusta on merkintöjä „byaman“, „byaupplysningsman och kyrko Sexman“. — 380.</p>
+            <p>
+                <hi rend="b">Ranström, Anna Maria</hi> (1815), myöhem. korjattu Margaretaksi, Kilpola, s. 24/2 1799, k. 28/5 1843 Nähtävästi on G:n mainitsema rippikoululainen „A¤na Maja Brandström, Kapaka“ sama. — Mies Antti Eroinen, s. 1787, k. 20/2 1854. — 623.</p>
+            <p>
+                <hi rend="b">Repo, Juhana Heikki</hi>, talollinen Iisalmen, nyk. Sonkajärven, Vänninmäeltä (n. 2), s. 1759, k. 12/2 1823. Vihkossa 371: 10, joka on Crohnsin kirjoittama, on n:o 12 kohdalla Arvidssonin lisays „Johan Henrik Repo“, ja mahdollista on, että vihkon seuraavat runotkin ovat saman kertojan sanelemia, siis n:ot 12—37. Jos tämä olettama pitää paikkansa, ovat Revon laulamia —2982, 2983, 3026, 3045, 3263, 3447, 3516, 3525, 3557, 3558, 3559, 3667, 3862, 3992, 4087, 4181, 4540, 4625, 4870, 5244, 5308, 5410, 5777, 5803, 5804, 6283 γ, 6334.</p>
+            <p>
+                <hi rend="b">Repoinen, Anna Maija</hi> (1815), Maivola, s. 1799, k. 24/3 1872 naimatonna.</p>
+            <p>
+                <hi rend="b">Rimpi, Matti</hi> (1816), taloll. Teivas, s. 1783, k. 4/8 1858. — Vaimo Sofia Härkönen, s. 1793, k. 3/11 1866. — 3033.</p>
+            <p>
+                <hi rend="b">Riipinen, Maija Liisa</hi> (1816), „pig“ Pylkkälänniemi, s. 9/12 1796 Joroisissa. Ei löydy merkintaä poismuuttamisesta tai kuolemasta; viimeinen merkintä ehtoollisella käynti 15/8 1819. Toisena sukunimenä Rapp. —252, 262, 277.</p>
+            <p>
+                <hi rend="b">Ronkainen</hi>, seppä (1815), Suuriniemi. Tämän G:n mainitseman tietomiehen ja metsänkävijän henkilöllisyyttä ei ole toistaiseksi voitu määritellä sen vuoksi, että Suuriniemellä tuohon aikaan eli useita R:ia, eikä ketään niistä ole sepäksi merkitty. — 3153, 4876.</p>
+            <p>
+                <hi rend="b">Rouhiainen, Niilo</hi> (1816), pappilan torppari, Hyötylä, s. 1790, k. 24/5 1854; isällä oli sama ammatti. — Vaimo Anna Kaipainen, s. 1793, k. 10/8 1863. — 318, 800.</p>
+            <p>
+                <hi rend="b">Ruskoinen, Niilo</hi> (1815 ja 1816), talollisen vävy, s. 1778, k. 4/7 1830. Asui ensin Laukkalassa, sitten Härkälässä.</p>
+            <p>
+                <hi rend="b">Ruotsalainen l. Ruth, Pekka</hi> (1816), sotamies, Näärinki. Henkilöllisyyttä ei ole voitu määritellä, koska kirjoissa löytyy useita Ruotsalaisia. Ruth-perhe toi Juvalle muuttokirjansa Rantasalmelta 1824. — 408, 2994, 3060, 3241, 4057, 4885.</p>
+            <p>
+                <hi rend="b">Skadewits, Maija</hi> (1815), Hietajärvi, s. 1798, vihitty talollisen pojan Pekka Jantusen vaimoksi 15/12- 1816. J. oli Sulkavan Ruottilasta, jonne muuttokirja otettu 23/3 1817. — 631, 640, 657.</p>
+            <p>
+                <hi rend="b">Summainen</hi> (1816), Kupsalanniemi. Sanotun paikan kirjoilla esiintyy 1816 ainoastaan talollisen leski, Karin Tirroinen, o.s. Summainen, s. 1757, k. 23/9 1832.</p>
+            <p>
+                <hi rend="b">Söderström, Anna Tuomaant</hi>. (1817), torpparintytär, Uimasalo, s. 1785, muutti Puumalaan 30/11 1833. Kirkonkirjoissa on sukunimi: Cederström ja Sederström. —228, 383, 409.</p>
+            <p>
+                <hi rend="b">Tarkiainen, Niilo</hi> (1815), torppari, s. 14/7 1791, k. 29/8 1859. — Vaimo Liisa Leikas, s. 1803, k. 26/10 1874.</p>
+            <p>
+                <hi rend="b">Taskinen, Kaisa Antintytär</hi> (1816), s. 17/1 1796, k. 12/8 1829. — Mies Olli Hämäläinen, s. 1794, k. 20/12 1840. Sofia T. oli hänen sisarensa.</p>
+            <p>
+                <hi rend="b">Taskinen, Sofia Antint</hi>. (1816), s. 6/7 1798, k. sokeana 9/1 1874. —Mies Antti Muukkoinen, s. 1792, k.17/10 1869.</p>
+            <p>
+                <hi rend="b">Torvelainen, Mikko</hi> (1815). —2993, 3283, 4883, 4895.</p>
+            <p>
+                <hi rend="b">Tuovinen, Heikki</hi>, Pohj.-Savo? Vihko 486: 13 sisältää vain kaksi lukua. Sen alkuun on merkitty: „Henrik Tuovinen. 18 23/8 19. — 80 år gl.“ — Arvidsson ja Crohns 3223, 4006.</p>
+            <p>
+                <hi rend="b">Vakkinen, Antti</hi> (1815), torpparin vävy, Vuorilahti, s. 1794, k. 20/1 1858. —200, 360.</p>
+            <p>
+                <hi rend="b">Valkoinen, Kaisa Heikint</hi>. (1815), rippikoululainen, Murtois, s. 1801, k. 8/6 1856. Vihitty Matti Mikonp. Pesosen vaimoksi 1820. P. oli s. 28/1 1798, k. 22/4 1833. —229.</p>
+            <p>
+                <hi rend="b">Valkoinen, Kalle Tapaninp</hi>. (1816), talollisen veli, Murtois, s. 1794, k. 12/1 1837.</p>
+            <p>
+                <hi rend="b">Vallentin, Kaisa</hi> (1816), Ranta-Purhola, s. 27/9 1800, k. 29/7 1873. Vihitty Heikki Ollinp. Laukkaisen, s. 24/10 1793, kanssa; miehestä merkintä: „bortrymd redan 1837, vandrat i Sulkava.“ G. kirjoittaa sukunimen: Valtina.</p>
+            <p>
+                <hi rend="b">Valtina, Kaisa</hi>, ks. Vallentin, Kaisa.</p>
+            <p>
+                <hi rend="b">Vartiainen, Antti,</hi> renkimies Kiuruveden Remekselän kylästä, s. 1763 t. 1764. Kuoli ruotivaivasena sanotun kylän Paaraniemessä 5/2 1833. Oli aikoinaan tunnettu karhunkaataja. Arvidsson laulatti häntä 30/8 1819. Vihkossa 486: 6 lienevät hänen sanelemiansa seuraavat: — 20, 40, 3086, 3861, 4025, 4380, 4435, 4539, 4607, 4627, 4658, 4913, 5207, 5411. Lisäksi on arveltu, että vihkon 371:10 loppupuolella olevat n:ot 38 ja 39 olisivat Vartiaisen laulamat (= 3218 ja 3863). Kirjaanpano on jonkun kansanmiehen.</p>
+            <p>
+                <hi rend="b">Veijalainen, Ulriikka Matint</hi>. (1815) Nääringistä, s. 1797. Isä oli rusthollari. Vihittiin sulkavalaisen talollisenpojan Martti Heikinp. Löppösen vaimoksi 22/6 1818.</p>
+            <p>
+                <hi rend="b">Vilska, Eerikki</hi> (1815). — 3287.</p>
+            <p>
+                <hi rend="b">Väisäinen, Pentti</hi>, talollinen, Lemetti, s. 1764, k. 7/1 1826; oli kahdesti naimisissa. —382, 756, 3104, 3135, 3379, 4834, 4835 a, 4838, 4933, 4958, 5855.</p>
+            <p>
+                <hi rend="b">Väänäinen, Matti</hi> (1815), renki Kaskisista, s. 1790, k. 13/11 1828. — Vaimo Katariina Manninen. Miehestä merkintä: „jäg., vandrar i kring.“ — 404.</p>
+            <p>
+                <hi rend="b">Väänänen, Pietari</hi>, talollinen, valtiopäivämies ja herastuomari, s. 1764 Nilsiän pitäjän Murtolahden kylässä. Kuoli Taipalsaarella 1846, jossa hänen poikansa (muuttonimi: Venell) oli pappina. V:n laulamia näyttävät olevan: — 3006, 3210, 3307, 4938.</p>
+        </div></body>
+    </text>
+</TEI>

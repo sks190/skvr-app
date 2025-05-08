@@ -1,0 +1,72 @@
+<?teipublisher template="alkulauseet.html" odd="teipublisher.odd" view="single"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>I2: alkusanat</title>
+                <author>A. R. Niemi</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                <pubPlace>Helsinki</pubPlace>
+                <date>2024</date>
+                <availability>
+                    <p>Tekijänoikeudet: Suomalaisen Kirjallisuuden Seura</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Suoman kansan vanhat runot I. Vienan Läänin Runot. II. Kalevalan-aineiset kertovaiset runot. Toisinnot 701−1027.</title>
+                    <author>A. R. Niemi (toimittaja)</author>
+                    <pubPlace>Helsinki</pubPlace>
+                    <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                    <date>1908</date>
+                    <series>
+                        <title>Suomalaisen Kirjallisuuden Seuran toimituksia</title>
+                        <biblScope>121, II.</biblScope>
+                    </series>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURAN TOIMITUKSIA.</p>
+            <p>
+                <hi rend="bold">121 OSA.</hi>
+            </p>
+            <p>
+                <hi rend="bold">II.</hi>
+            </p>
+            <p>SUOMEN KANSAN VANHAT RUNOT I.</p>
+            <p>VIENAN LÄÄNIN RUNOT.</p>
+            <p>II.</p>
+            <p>
+                <hi rend="bold">KALEVALAN-AINEISET KERTOVAISET RUNOT.</hi>
+            </p>
+            <p>TOISINNOT 701—1027.</p>
+            <p>JULKAISSUT</p>
+            <p>A. R. NIEMI.</p>
+            <p>HELSINKI 1908,</p>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURA.</p>
+            <p>HELSINKI 1908,</p>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURAN KIRJAPAINON OSAKEYHTIÖ.</p>
+            <p/>
+            <p>Sisällysluettelo.</p>
+            <p>Sivut</p>
+            <table type="contents">
+                <row><cell>17. Lemminkäisen virsi n:t 701—857</cell><cell>1 — 325</cell></row>
+                <row><cell>18. Hiiden hirven hiihdäntä n:t 858—882</cell><cell>327 — 348</cell></row>
+                <row><cell>19. Ison härän runo n:t 883—905</cell><cell>349 — 360</cell></row>
+                <row><cell>20. Ahdin ja Kyllikin runo n:t 906—907</cell><cell>361 — 364</cell></row>
+                <row><cell>21. Kalevanpojan kosto n:t 908—953</cell><cell>365 — 401</cell></row>
+                <row><cell>22. Sisaren turmelus n:t 954—992</cell><cell>403 — 457</cell></row>
+                <row><cell>23. Kuolon sanomat n:t 993—1007</cell><cell>459 — 468</cell></row>
+                <row><cell>24. Sekavia muodostuksia n:t 1008—1018</cell><cell>469 — 492</cell></row>
+                <row><cell>25. Kalevalasta opittuja n:t 1019—1027</cell><cell>493 — 519</cell></row>
+            </table>
+            <p>Alkulause sekä käsikirjoitusten ja laulajain luettelot, jotka koskevat myös tätä osaa, löytyvät teoksen I:sen osan alussa.</p>
+            <p>[HUOM. Alkusanat on skannattu Vienan läänin runot 2 –sidoksesta (1908) joka ei sisällä vielä u muita kuin Kalevalanaiheiset runot (701-1027). Siksi vuosiluku on tavallisesti käytössä olevasta SKVR-sidoksesta poikkeava (1908 -&gt; 1917) eikä tässä ole sisällysluetteloa loppuosalta.]</p>
+        </div></body>
+    </text>
+</TEI>

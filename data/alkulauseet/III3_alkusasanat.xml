@@ -1,0 +1,75 @@
+<?teipublisher template="alkulauseet.html" odd="teipublisher.odd" view="single"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>III3: alkusanat</title>
+                <author>Väinö Salminen</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                <pubPlace>Helsinki</pubPlace>
+                <date>2024</date>
+                <availability>
+                    <p>Tekijänoikeudet: Suomalaisen Kirjallisuuden Seura</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Suoman kansan vanhat runot III. Länsi-Inkerin runot. 3. Toisinnot 2581−4634.</title>
+                    <author>Väinö Salminen (toimittaja)</author>
+                    <pubPlace>Helsinki</pubPlace>
+                    <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                    <date>1924</date>
+                    <series>
+                        <title>Suomalaisen Kirjallisuuden Seuran toimituksia</title>
+                        <biblScope>139, III.</biblScope>
+                    </series>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURAN TOIMITUKSIA.</p>
+            <p>139 OSA.</p>
+            <p>III.</p>
+            <p>SUOMEN KANSAN VANHAT RUNOT III.</p>
+            <p>LÄNSI=INKERIN RUNOT. </p>
+            <p>3.</p>
+            <p>TOISINNOT 2581—4634.</p>
+            <p>JULKAISSUT</p>
+            <p>VÄINÖ SALMINEN.</p>
+            <p>———</p>
+            <p>HELSINKI 1924.</p>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURA JA SUOMALAISEN KIRJALLISUUDEN SEURAN KIRJAPAINON O/Y.</p>
+            <p>HELSINKI 1924,</p>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURAN KIRJAPAINON O/Y.</p>
+            <p/>
+            <p>Sisällysluettelo.</p>
+            <p>Sivut</p>
+            <p>Alkulause</p>
+            <p>Aineenmukainen luettelo Länsi-Inkerin runoihin ....…… IX—XLIX</p>
+            <p>Julkaistut kokoelmat:</p>
+            <p>V. Tarkiainen n:t 2581—2593 ....................…………………. 1—8</p>
+            <p>J. Fr. Ruotsalainen n:t 2594—3141 ................……………….. 9—245</p>
+            <p>Väinö Salminen n:t 3142—3418 ....................…………….. 246—350</p>
+            <p>J. Lukkarinen n:t 3419—3578 ....................……………….. 351—425</p>
+            <p>J. Länkelä n:t 3579—4254 ......................………………….. 426—657</p>
+            <p>Oikaisuja ja lisäyksiä n:roina 83—452 (I osassa) julkais-tuun Länkelän kokoelmaan ....................…………………… 658—671</p>
+            <p>Johannes Granö n:t 4255—4280 ..................……………….. 672—685</p>
+            <p>Loitsut n:t 4281—4630 ............................………………….. 687—782</p>
+            <p>Lisiä n:t 4631—4634 ..............................…………………… 782—783</p>
+            <p>„Suomen kansan vanhain runojen“ III osasto, osat 1—3, sisältää kaikki tähän asti tiedossamme olevat, Länsi-Inkeristä muistiin kirjoitetut, vanhalla runomitalla sepitetyt runot ja loitsut. Julkaisematta on jätetty vain kirjasta opitut toisinnot sekä tilapäisrunot, jotka ilmeisesti ovat vain paikkakunnittaisia ja samanluontoisia (individuaalisia) kuin savolaisten runoniekkojen sepitelmät. Kirjasta opittujen runojen lähteenä on useimmiten ollut Europæuksen „Pieni runonseppä“. Jos laulaja kirjasta opittuun on lisännyt jonkun kappaleen tahi tuntuvammin muunnellut oman kylänsä toisintojen mukaiseksi, on eroavat kohdat julkaistu.</p>
+            <p>Ensimäisen niteen käyttäjän on otettava huomioon, että J. Länkelän kokoelma on III 3:ssa uudelleen julkaistu lehtori Länkelän kuolinpesästä v. 1916 löytyneen, alkuperäisen käsikirjoituksen mukaan. Aikaisemmin noudatettu käsikirjoitus on suureksi osaksi kokoonpanoa. Se sisältää, paitsi loitsuja, vain 370 toisintoa, myöhemmin löytynyt 859 vanhaa runoa. Vain 183 numeroa on voitu jättää uudelleen julkaisematta, mutta niitäkin käytettäessä on tehtävä tässä osassa sivuilla 658—671 mainitut oikaisut ja lisäykset. Kaikki muut toisinnoista 83—452, paitsi äskenmainituilla sivuilla oikaistut, ovat siis tutkijalle käyttökelvottomia kokoonpanoja eri paikkakuntien runoista. Silti saattaa niissä olla joitakuita säkeitä, joita ei tavata alkuperäisessä käsikirjoituksessa, josta muutamia lehtiä on hävinnyt. Länkelän muistiinpanoista huomattakoon sitä paitsi, että käsikirjoitus monissa paikoin, osaksi lyijykynällä kirjoitettuna, on siksi nuhjautunut tahi muuten on niin epäselvä, että julkaisijan lukutapa paikoin on epävarma.</p>
+            <p>Nyt valmistuneen kolmen osan julkaisutapaa on moitittu siitä, ettei toisintoja ole järjestetty aineenmukaisesti, vaan kokoelmittain siinä järjestyksessä, missä kerääjä ne on paperille pannut. Moittijat unohtavat tarkata Länkelän kokoonpanoja ja lyyrillisiä runoja, jotka jo laulajat ovat yhdistelleet mitä erilaisimmista aineksista, joten ryhmittely ei tutkijaa suuresti auttaisi.</p>
+            <p>Kokoelmittaisella julkaisulla on myöskin etunsa. Monissa kokoelmissa on vain ani harvoja muistiinpanopaikkoja. Kun kukin käsikirjoitus on julkaistu alkuperäisessä järjestyksessään, saattaa tutkija itse arvostella alkuperäisiinkin muistiinpanoihin turvautumatta, onko julkaisija osunut muistiinpanopaikkaa määrätessään oikeaan. Sama huomautus koskee myöskin laulajia.</p>
+            <p>Aineenmukaisen ryhmittelyn on julkaisija koettanut korvata tämän osan loppuun liitetyllä, mahdollisimman yksityiskohtaisella sisällysluettelolla. Kun muiden alueitten ryhmittelyistä ja sisällysluetteloista selviää vain, mihin tyyppiin jokin runo pääasiallisesti kuuluu, on tässä luettelossa yritetty saada tutkijalle helpommin löydettäviksi myöskin toisiin runoihin liittyneet katkelmat.</p>
+            <p>Kiitollisuudella mainitsen, että minulla runoainesten luetteloa laatiessani on ollut käytettävänäni professori KAARLE KROHNin Länsi-Inkerin runoista tekemät luettelot. Niistä olen voinut poimia jo tutkimuksissa vakiintuneita tahi käytettyjä runojen nimiä. Mutta monia, etenkin lyyrillisiä runoja, ei ole vielä ollenkaan tutkimuksissa käsitelty eikä niille nimiä annettu. Silloin on täytynyt turvautua sisällystä kuvaaviin nimityksiin tahi tyypillisimpiin iskusäkeihin. Myönnän, että tällaisten uusien nimien suhteen saatetaan olla eri mieltä ja keksiä uusia sattuvampia. Paljo on kumminkin jo voitettu sillä, jos luettelon avulla tutkija löytää etsimänsä runot ja niiden katkelmat muista runoista.</p>
+            <p>Helsingissä maaliskuun 7:ntenä 1924.</p>
+            <p>
+                <hi rend="italics">Julkaisija.</hi>
+            </p>
+        </body>
+    </text>
+</TEI>

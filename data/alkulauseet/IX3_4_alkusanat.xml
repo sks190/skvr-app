@@ -1,0 +1,736 @@
+<?teipublisher template="alkulauseet.html" odd="teipublisher.odd" view="single"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>IX3, IX4: alkusanat</title>
+                <author>Hämäläis-osakunta Suomen yliopistossa</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                <pubPlace>Helsinki</pubPlace>
+                <date>2024</date>
+                <availability>
+                    <p>Tekijänoikeudet: Suomalaisen Kirjallisuuden Seura</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Suomen kansan vanhat runot IX. Hämeen runot. 3. Etelä- ja Keski-Hämeen loitsut. 
+                        4. Pohjois-Hämeen loitsut.</title>
+                    <author>Hämäläis-osakunta Suomen yliopistossa (toimittaja)</author>
+                    <pubPlace>Helsinki</pubPlace>
+                    <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                    <date>1917</date>
+                    <series>
+                        <title>Suomalaisen Kirjallisuuden Seuran toimituksia</title>
+                        <biblScope>146, III, IV.</biblScope>
+                    </series>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURAN TOIMITUKSIA.</p>
+            <p/>
+            <p>146 OSA.</p>
+            <p/>
+            <p>III, IV.</p>
+            <p/>
+            <p>SUOMEN KANSAN VANHAT RUNOT IX.</p>
+            <p/>
+            <p>HÄMEEN RUNOT.</p>
+            <p/>
+            <p>3. ETELÄ- JA KESKI-HÄMEEN LOITSUT.</p>
+            <p/>
+            <p>4. POHJOIS-HÄMEEN LOITSUT.</p>
+            <p/>
+            <p>JULKAISSUT HÄMÄLÄIS-OSAKUNTA KEISARILLISESSA SUOMEN ALEKSANTERIN YLIOPISTOSSA.</p>
+            <p/>
+            <p>HELSINKI 1917, SUOMALAISEN KIRJALLISUUDEN SEURA.</p>
+            <p/>
+            <p/>
+            <p/>
+            <p>ERIPAINOS</p>
+            <p/>
+            <p>HÄMÄLÄIS-OSAKUNNAN JULKAISUSTA</p>
+            <p/>
+            <p>
+                <hi rend="b">MONVMENTA TAVASTICA I — HÄMEEN MUISTOMERKKEJÄ I.</hi>
+            </p>
+            <p>
+                <hi rend="b"/>
+            </p>
+            <p>JYVÄSKYLÄ 1915—1916,</p>
+            <p/>
+            <p>K. J. GUMMERUS OSAKEYHTIÖ;</p>
+            <p/>
+            <p>Sivut I—XX painanut HELSINGISSÄ 1917 SUOMALAISEN KIRJALLISUUDEN SEURAN KIRJAPAINON O/Y.</p>
+            <p/>
+            <p>Paperi on TERVAKOSKEN paperitehtaasta.</p>
+            <p/>
+            <p/>
+            <p>Historiallisesta Hämeen maakunnasta saadut „Suomen kansan vanhain runoin“ ainekset oli alkuaan aiottu jakaa samanlaisen maantieteellisen jakoperusteen mukaan, jota noudatetaan esim. Inkerin ja Karjalan runojen julkaisemisessa, kahdeksi osastoksi siten, että Pohjois-Hämeen alueelta saadut runotoisinnot muodostaisivat toisen (IX), Etelä- ja Keski-Hämeen runot toisen (X). Painatustyön aikana ilmestyneiden paperinsaantivaikeuksien y. m. ennakolta arvaamattomien seikkain takia olisi tämän ohjelman noudattaminen kuitenkin vienyt siihen, että runosarjan jakaminen tilaajille olisi joksikin ajaksi keskeytynyt. Sen vuoksi on suunnitelmaa sikäli muutettu, että koko Hämeen runot julkaistaan samana koko sarjan osastona IX, jakamalla se kahdeksi siteeksi sisällyksen mukaisesti siten, että loitsut, jotka muodostavat osaston 3:nnen ja 4:nnen osan ja ovat aikaisemmin valmistuneet painosta, ilmestyvät nyt toisena puoliskona ja myöhemmin maakunnan muut runot, Hämeen runoston 1:nen ja 2:nen osa, toisena.</p>
+            <p>Kun tämän osaston runoaineistoa ei ole voitu numeroida yhtenäisellä järjestysnumerojaksolla, on lähdeviittauksissa osaston järjestysnumeron (IX) ohella mainittava myös sen osan järjestysnumero (1, 2, 3 tai 4), johon kulloinkin tarkoitettu runotoisinto kuuluu; esim. SKVR IX <hi rend="b">3</hi>, 308 a 1—5 = Suomen kansan vanhain runoin IX osaston 3:nnen osan 308:nnen („Lisissä“ julkaistun) a-toisinnon alkusäkeet 1—5.</p>
+            <p>Tähän siteeseen kuuluvain „Hämeen runojen“ 3:nnen ja 4:nnen osan suhteesta Hämäläis-Osakunnan viime lokakuussa julkaisemaan „Hämeen muistomerkkein“ sarjan I osaan, josta tämän sisällys on eripainoksena otettu, on huomautettava, että osakunnan julkaisussa Hämeellä tarkoitetaan koko „virallista jakamatonta Hämäläis-Osakunnan aluetta“, s. o. historiallista Hämeen „maakuntaa sekä niitä osia muinaista, vanhaa Hämettä, jotka tavallisesti nykyiseen Satakunnan maakuntaan luettuina ovat liitetyt Hämeen ja Vaasan lääneihin.“ Kun taas „Suomen kansan vanhain runoin“ osastojako perustuu yleiseen historialliseen maakuntajakoon, tulee „Hämeen muistomerkkien“ I osan alaosasto</p>
+            <p>II. Tampereen seudun seutujen loitsut</p>
+            <p>„Suomen kansan vanhain runoin“ sarjassa julkaistavaksi muiden Satakunnan runojen yhteydessä, siis osana koko sarjan XII osastoa.</p>
+            <p>Näin ollen on</p>
+            <p>SKVR IX<hi rend="b"> 3 </hi>= Hämeen muistomerkkejäI 1, ja</p>
+            <p>SKVR IX<hi rend="b"> 4 </hi>=„,,,,I 3.</p>
+            <p/>
+            <p>Sisällysluettelo on yhdistelmä „Hämeen muistomerkkein“ I osan juuri mainittujen alaosastojen sisällysluettelosta.</p>
+            <p>Sisällysaineiston lähteistä, järjestelyperusteista, toimitustavasta, toimittajista ja avustajista viitataan tämän osaston myöhemmin ilmestyvän siteen alkuun, johon Hämäläis-Osakunnan asettaman toimituskunnan „Hämeen muistomerkkien“ I osaan kirjoittama esipuhe liitetään.</p>
+            <p>Helsingissä tammik. 2 p:nä 1917.</p>
+            <p/>
+            <p>
+                <hi rend="b i">Suomalaisen Kirjallisuuden Seuran sihteeri.</hi>
+            </p>
+            <p>
+                <hi rend="b"/>
+            </p>
+            <p/>
+            <p>SISÄLLYSLUETTELO.</p>
+            <p/>
+            <p>#1 L. tarkoittaa „Lisinä“ (<hi rend="b">3</hi> s. 297—307,<hi rend="b"> 4 </hi>s. 413—7) julkaistuja toisintoja.</p>
+            <p/>
+            <p>Alkulause s. V. — Sisällysluettelo s. VII. — Lyhennysten ja merkkien luettelo s. XVII. — Korjauksia ja huomautuksia s. XIX.</p>
+            <p/>
+            <p>
+                <hi rend="b">Tietäjän varustauminen</hi>:<hi rend="b"> 3 </hi>s. 3,<hi rend="b"> 4 </hi>s. 5.</p>
+            <p/>
+            <p>Tietäjän luonnon hankkiminen <hi rend="b">4</hi> 1—6. — Tietäjän voiman lisääminen<hi rend="b"> 4 </hi>7. — Loitsimispaikan voiman ottaminen<hi rend="b"> 4 </hi>8. — Menetetyn luonnon palauttaminen<hi rend="b"> 4 </hi>9. — Luonnon nostatus<hi rend="b"> 4 </hi>10—20, L 12 a. — Kirkonhaltian saaminen avuksi<hi rend="b"> 4 </hi>21—4. — Paholaisen saaminen avuksi<hi rend="b"> 3 </hi>1,<hi rend="b"> 4 </hi>25. — Veden ja metsän haltiain saaminen avuksi<hi rend="b"> 4 </hi>26. — Vainajan saaminen avuksi <hi rend="b">4</hi> 27—9. — Kadesuolojen valmistaminen<hi rend="b"> 4 </hi>30. — Arvan sanat<hi rend="b"> 4 </hi>31—2. — Tuuliaispäässä kulkevan paholaisen manaaminen<hi rend="b"> 3 </hi>2.</p>
+            <p/>
+            <p>
+                <hi rend="b">Tietäjät suhteessa toisiinsa</hi>:<hi rend="b"> 3 </hi>s. 3,<hi rend="b"> 4 </hi>s. 14.</p>
+            <p/>
+            <p>Alkuloihtu kahden tietäjän yhtyessä<hi rend="b"> 4 </hi>33. — Varautuminen toisia loitsijoita vastaan<hi rend="b"> 4 </hi>34—5. — Varautuminen kadetta vastaan<hi rend="b"> 3 </hi>3—5,<hi rend="b"> 4 </hi>36—42. — Varautuminen uhkaavaa noitaa vastaan<hi rend="b"> 4 </hi>43. — Varautuminen tuuliaispäässä kulkevaa lappalaista vastaan<hi rend="b"> 4 </hi>44. — Kateen karkottaminen<hi rend="b"> 3 </hi>6—8,<hi rend="b"> 4 </hi>45—7. — Noidannuolien karkottaminen<hi rend="b"> 3 </hi>L 8 a. — Pahan kostaminen<hi rend="b"> 4 </hi>L 47 a, b.</p>
+            <p/>
+            <p>
+                <hi rend="b">Vainajat</hi>:<hi rend="b"> 3 </hi>s. 4,<hi rend="b"> 4 </hi>s. 18.</p>
+            <p/>
+            <p>Varautuminen vainajia vastaan<hi rend="b"> 3 </hi>9, <hi rend="b">4</hi> 48—52. — Vainajan pysyttäminen haudassaan<hi rend="b"> 4 </hi>53—4. — Vainajan nostatus pahaa tekemään<hi rend="b"> 4 </hi>55—6. — Vainajan nostatus tauteja panemaan<hi rend="b"> 4 </hi>57—8. —Vainajan nostatus kummittelemaan<hi rend="b"> 4 </hi>59—60. — Vainajan karkottaminen takaisin hautaan<hi rend="b"> 4 </hi>61—4. — Vainajan suojeleminen pahalta<hi rend="b"> 4 </hi>65—6.</p>
+            <p/>
+            <p>
+                <hi rend="b">Ihmisten taudit</hi>:<hi rend="b"> 3 </hi>s. 5,<hi rend="b"> 4 </hi>s. 23.</p>
+            <p/>
+            <p>
+                <hi rend="i">Varautuminen tauteja vastaan.</hi>
+            </p>
+            <p/>
+            <p>
+                <hi rend="i">Erinäiset taudit.</hi> Hammasruoste<hi rend="b"> 4 </hi>67. — Itkettäjä<hi rend="b"> 4 </hi>68—70. — Pahan tarttuma<hi rend="b"> 3 </hi>10. — Selän kuoleentuminen<hi rend="b"> 3 </hi>11—5. — Tartunnainen<hi rend="b"> 4 </hi>71.</p>
+            <p/>
+            <p>
+                <hi rend="i">Eläinten puremat ja pistot.</hi> Ampiaisen lumous<hi rend="b"> 3 </hi>16—66, L 53 a,<hi rend="b"> 4 </hi>72—157, L 109 a, 110 a. — Kirpun karkotus<hi rend="b"> 4 </hi>158. — Käärmeen lumous<hi rend="b"> 3 </hi>67—146, L 136 a, b, c,<hi rend="b"> 4 </hi>159—69, L 160 a. — Luteen karkotus<hi rend="b"> 3 </hi>147—52, L 151 a,<hi rend="b"> 4 </hi>170—2. — Muurahaisen lumous<hi rend="b"> 4 </hi>173—4. — Sisiliskon pidätys<hi rend="b"> 3 </hi>153—4,<hi rend="b"> 4 </hi>L 174 a.</p>
+            <p/>
+            <p>
+                <hi rend="i">Loukkaantumat ja viottumat.</hi> Jalan loukkaantuminen<hi rend="b"> 3 </hi>155—7,<hi rend="b"> 4 </hi>175—8. — Kiven jälki<hi rend="b"> 4 </hi>179. — Löylyn lumous<hi rend="b"> 3 </hi>158—72, L 160 a,<hi rend="b"> 4 </hi>180—200. — Pakkasen jälki<hi rend="b"> 3 </hi>173—9,<hi rend="b"> 4 </hi>201—30. — Puun jälki<hi rend="b"> 3 </hi>180. — Piiskattavan selän suojeleminen<hi rend="b"> 4 </hi>231—2. — Raudan lumous<hi rend="b"> 3 </hi>181—7,<hi rend="b"> 4 </hi>233—7, L 236 a. — Tulen lumous<hi rend="b"> 4 </hi>238—45.</p>
+            <p/>
+            <p>
+                <hi rend="i">Tautien nostattaminen.</hi>
+            </p>
+            <p/>
+            <p>
+                <hi rend="i">Erinäiset taudit.</hi> Ajos<hi rend="b"> 3 </hi>188,<hi rend="b"> 4 </hi>246—7. — Itkeväinen<hi rend="b"> 3 </hi>189—91. — Kuukautiset<hi rend="b"> 3 </hi>192. — Paise (ks. ajos) <hi rend="b">4</hi>. — Päänsärky<hi rend="b"> 3 </hi>193. — Tuulimato<hi rend="b"> 4 </hi>248. — Umpitauti<hi rend="b"> 4 </hi>249. — Vesihiisi<hi rend="b"> 4 </hi>250.</p>
+            <p/>
+            <p>
+                <hi rend="i">Eläinten puremat ja pistot.</hi> Ampiaisen nostatus<hi rend="b"> 3 </hi>194—200, L 196 a,<hi rend="b"> 4 </hi>251—8, L 256 a. — Käärmeen nostatus<hi rend="b"> 3 </hi>201,<hi rend="b"> 4 </hi>259—62. — Luteen nostatus<hi rend="b"> 3 </hi>202.</p>
+            <p/>
+            <p>
+                <hi rend="i">Loukkaantumat ja viottumat.</hi> Raudan nostatus<hi rend="b"> 3 </hi>203,<hi rend="b"> 4 </hi>263—5.</p>
+            <p/>
+            <p>
+                <hi rend="i">Tautien parantaminen.</hi>
+            </p>
+            <p/>
+            <p>
+                <hi rend="i">Yleisiä tautien lukuja.</hi> Taudin paikan selville saanti<hi rend="b"> 4 </hi>266. — Taudin alkuperän tiedustelu<hi rend="b"> 4 </hi>267—72. — Taudin synnyn tiedustelu arpomalla<hi rend="b"> 3 </hi>204. — Tautien syntysanoja<hi rend="b"> 4 </hi>273—6. — Ukon avuksi pyytö sairasta parannettaessa<hi rend="b"> 4 </hi>277—8. — Neitsyt Maarian avuksi pyytö parantamaan ruvetessa<hi rend="b"> 4 </hi>279. — Kaikkien tautien parantaminen<hi rend="b"> 4 </hi>280—1. —Epätietoisten tautien parantaminen<hi rend="b"> 4 </hi>282. — Yleisiä taudin hengen manauksia sairaasta<hi rend="b"> 4 </hi>283—303, L 291 a, 292 a, 293 a. — Nostatetun taudin manaaminen lähettäjäänsä<hi rend="b"> 4 </hi>304—5. — Pesuveden valmistaminen ja sairaan pesentä<hi rend="b"> 4 </hi>306—11. — Tautisuolojen valmistaminen<hi rend="b"> 4 </hi>312—4. — Voiteen luku<hi rend="b"> 4 </hi>315—9. — Voitelusanat<hi rend="b"> 4 </hi>320. — Päätössanat sairasta parannettaessa ks.<hi rend="b"> 4 </hi>308. — Terveyden saaminen lähteeseen uhraamalla<hi rend="b"> 3 </hi>205.</p>
+            <p/>
+            <p>
+                <hi rend="i">Erinäiset taudit.</hi> Ajettuma (<hi rend="b">3</hi> ks. koi)<hi rend="b"> 4 </hi>321. — Ajos<hi rend="b"> 3 </hi>206—37,<hi rend="b"> 4 </hi>322—48. — Ammus<hi rend="b"> 3 </hi>238—9. — Eltta<hi rend="b"> 4 </hi>349. — Erilaisia tauteja<hi rend="b"> 3 </hi>240—1. — Hammassärky<hi rend="b"> 3 </hi>242—63,<hi rend="b"> 4 </hi>350—63, L 349 a. — Harakannäppy (ks. syylä) <hi rend="b">4</hi>. — Hulluus (ks. mielenvikaisuus) <hi rend="b">4</hi>. — Huulen kipu<hi rend="b"> 4 </hi>364. — Huunpurema (ks. tuuleinen) <hi rend="b">4</hi>. — Ilmannuoli<hi rend="b"> 4 </hi>365. — Itkettäjä<hi rend="b"> 4 </hi>366—70. — Itkeväinen<hi rend="b"> 3 </hi>264—6. — Jalan kipu ks.<hi rend="b"> 4 </hi>278. — Kaatuvatauti<hi rend="b"> 3 </hi>267,<hi rend="b"> 4 </hi>371—2. — Kalman tarttuma<hi rend="b"> 4 </hi>373—4. — Kasvannainen<hi rend="b"> 3 </hi>268,<hi rend="b"> 4 </hi>375—80. — Kesakot (ks. teerenpilkut) <hi rend="b">3</hi>. — Kielenrakko<hi rend="b"> 3 </hi>269—73. — Kierosilmä (ks. silmäin kierous) <hi rend="b">4</hi>. — Kirkonväen vaiva<hi rend="b"> 4 </hi>381—2. — Kirot<hi rend="b"> 3 </hi>274—85,<hi rend="b"> 4 </hi>383—4. — Kohtaus<hi rend="b"> 3 </hi>L 285 a,<hi rend="b"> 4 </hi>385—91. — Koi<hi rend="b"> 3 </hi>286—311, L 308 a, b, (ks. myös syövämadot),<hi rend="b"> 4 </hi>392—406. — Koisa, koiska(nen). (ks. koi) <hi rend="b">3</hi>. — Kolotustauti<hi rend="b"> 4 </hi>407. — Kuoleskeleva<hi rend="b"> 4 </hi>408. — Kuppa<hi rend="b"> 4 </hi>409. — Kurkkutauti<hi rend="b"> 3 </hi>312—3,<hi rend="b"> 4 </hi>410. — Köhä (ks. yskä) <hi rend="b">3</hi>. — Lapsivaimon sanat<hi rend="b"> 3 </hi>314—7,<hi rend="b"> 4 </hi>411—24. — Leini (<hi rend="b">3</hi> ks. luuvalo)<hi rend="b"> 4 </hi>425. — Liika, liikanen (ks. kasvannainen, koi, syylä) <hi rend="b">3</hi>. — Luuvalo<hi rend="b"> 3 </hi>318—9. — Lävys<hi rend="b"> 4 </hi>L 425 a, b. — Maahiainen, maahinen<hi rend="b"> 3 </hi>320—5,<hi rend="b"> 4 </hi>426—36. — Maanpitävä<hi rend="b"> 4 </hi>437—44. — Maantarttuma, maanvaiva (ks. maanpitävä) <hi rend="b">4</hi>. — Maanviho, maista, maiste, maisto (ks. maahinen) <hi rend="b">3</hi>. — Metsännenä (ks. tuulenlento) <hi rend="b">3</hi>. — Metsänvaiva<hi rend="b"> 4 </hi>445. — Mielenvikaisuus<hi rend="b"> 4 </hi>446—8. — Naarannappi<hi rend="b"> 3 </hi>326—34. — Naarannäppy (ks. näärännäppy) <hi rend="b">4</hi>. — Nari<hi rend="b"> 3 </hi>335—76, L 340 a, 369 a, b,<hi rend="b"> 4 </hi>449—63, L 454 a. — Narri, naru (ks. nari). — Nikka, nikotus<hi rend="b"> 3 </hi>377—443, L 419 a, 440 a,<hi rend="b"> 4 </hi>464—6. — Niskan kipu<hi rend="b"> 4 </hi>467. — Nurri (ks. nari). — Nyppylät<hi rend="b"> 3 </hi>444—5. — Näri (ks. nari) <hi rend="b">3</hi>. — Närä, närästys<hi rend="b"> 3 </hi>446—79,<hi rend="b"> 4 </hi>468. — Näärännäppy (<hi rend="b">3</hi> ks. naarannappi)<hi rend="b"> 4 </hi>469—80. — Oksennustauti (ks. puhti) <hi rend="b">3</hi>. — Otannainen (ks. ruusu) <hi rend="b">3</hi>. — Pahan särettävä<hi rend="b"> 4 </hi>481—2. — Pahka (ks.<hi rend="b"> 3 </hi>567 sekä syylä). — Painainen, painajainen<hi rend="b"> 3 </hi>480—90,<hi rend="b"> 4 </hi>483—502. — Paise (ks. ajos). — Pasko<hi rend="b"> 3 </hi>491. — Pelkääväinen<hi rend="b"> 4 </hi>503. — Pelästys<hi rend="b"> 3 </hi>492—504, (<hi rend="b">4</hi> ks. säikähdys). — Pirtti(näinen)<hi rend="b"> 3 </hi>505—6. — Pistos<hi rend="b"> 3 </hi>507—16,<hi rend="b"> 4 </hi>504—37. — Puhallus ks. <hi rend="b">4</hi> 374. — Puhti<hi rend="b"> 3 </hi>517. — Pukama (ks. ajos) <hi rend="b">3</hi>. — Päänsärky<hi rend="b"> 3 </hi>518—20,<hi rend="b"> 4 </hi>538. — Pöhöttyminen<hi rend="b"> 4 </hi>539. — Ranska<hi rend="b"> 4 </hi>540. — Revehtymä (ks. tyrä) <hi rend="b">3</hi>. — Riisi<hi rend="b"> 3 </hi>521—5,<hi rend="b"> 4 </hi>541—60. — Rinnanpolte<hi rend="b"> 4 </hi>561—2. — Rohtuma, ruohtuma<hi rend="b"> 3 </hi>526,<hi rend="b"> 4 </hi>563—7. — Ruohunnainen (ks. ruohtuma) <hi rend="b">4</hi>. — Rupeus (ks. ruohtuma) <hi rend="b">4</hi>. — Rupi<hi rend="b"> 3 </hi>527,<hi rend="b"> 4 </hi>ks. 325. — Rutto<hi rend="b"> 4 </hi>568. — Ruumiin kalma (ks. kalma) <hi rend="b">4</hi>. — Ruumiin sanat ks.<hi rend="b"> 3 </hi>530, 592—3. — Ruuppa (ks. syylä) <hi rend="b">3</hi>. — Ruusu<hi rend="b"> 3 </hi>528—30. — Ryyhtymätauti<hi rend="b"> 4 </hi>569. — Sampaat<hi rend="b"> 3 </hi>531—4,<hi rend="b"> 4 </hi>570—2. — Savipuoli(nen)<hi rend="b"> 3 </hi>535—7. — Silmätauti<hi rend="b"> 4 </hi>573—4. — Silmäin kierous<hi rend="b"> 4 </hi>575. — Sivujen pakotus<hi rend="b"> 4 </hi>576. — Sormen särky<hi rend="b"> 3 </hi>538—9. — Spitali (ks. ranska) <hi rend="b">4</hi>. — Synnytyssanat (ks. lapsivaimon sanat). — Syplä (ks. syylä) <hi rend="b">4</hi>. — Syyhelmä<hi rend="b"> 3 </hi>540—5,<hi rend="b"> 4 </hi>577—80. — Syylä<hi rend="b"> 3 </hi>546—83,<hi rend="b"> 4 </hi>581—7. — Syöpä (ks. koi)<hi rend="b"> 3 </hi>ja<hi rend="b"> 3 </hi>L. — Syövämadot (= koi)<hi rend="b"> 3 </hi>584. — Säikähdys<hi rend="b"> 4 </hi>588—91. — Sätky, sätkä (ks. riisi). — Tarttuma<hi rend="b"> 3 </hi>585—93. — Teerenpilkut<hi rend="b"> 3 </hi>594. — Tiisat<hi rend="b"> 4 </hi>592. — Tulimaahinen (ks. maahinen) <hi rend="b">4</hi>. — Tuuleinen<hi rend="b"> 4 </hi>593—612. — Tuulenlento<hi rend="b"> 3 </hi>595, (ks. myös metsännenä)<hi rend="b"> 4 </hi>613. — Tuulennoidat<hi rend="b"> 3 </hi>596. — Tuulenpurema (ks. tuuleinen) <hi rend="b">4</hi>. — Tuulenrokko<hi rend="b"> 3 </hi>597. — Tuuliainen ks.<hi rend="b"> 4 </hi>612. — Tuulikas ks.<hi rend="b"> 4 </hi>374. — Tuulikko<hi rend="b"> 4 </hi>614. — Tuulimato (ks. tuuleinen) <hi rend="b">4</hi>. — Tyrä<hi rend="b"> 3 </hi>598—9. — Umpitauti<hi rend="b"> 4 </hi>615—6. — Valvottaja<hi rend="b"> 4 </hi>617—9. — Variksenvarpaat<hi rend="b"> 3 </hi>600. — Varkauden paha<hi rend="b"> 4 </hi>620. — Vatsatauti<hi rend="b"> 4 </hi>621—3. — Vedestä noussut, veden jälki (ks.<hi rend="b"> 4 </hi>374 ja vesihiisi). — Vesihiisi<hi rend="b"> 4 </hi>624—9. — Vesimaahinen (ks. maahinen) <hi rend="b">4</hi>. — Vesitauti (ks. pöhöttyminen) <hi rend="b">4</hi>. — Vieras (ks. koi) <hi rend="b">3</hi>. — Vilutauti<hi rend="b"> 3 </hi>601. — Väsymys<hi rend="b"> 3 </hi>602. — Vääräpäisyys lapsessa<hi rend="b"> 4 </hi>630. — Yskä<hi rend="b"> 3 </hi>603—4,<hi rend="b"> 4 </hi>631—6. — Ähky<hi rend="b"> 3 </hi>605—18, L 605 a,<hi rend="b"> 4 </hi>637—64. — Äkkitauti<hi rend="b"> 4 </hi>665—6. — Äkämä (ks. ajos) <hi rend="b">3</hi>. — Ääni painuksissa<hi rend="b"> 4 </hi>667.</p>
+            <p/>
+            <p>
+                <hi rend="i">Eläinten puremat ja pistot.</hi> Ampiaisen pisto<hi rend="b"> 3 </hi>619—20. — Käärmeen purema<hi rend="b"> 3 </hi>621—709, L 652 a, 679 a, 682 a,<hi rend="b"> 4 </hi>668—727, L 676 a, 677 a, 684 a. — Muurahaisen kirvelmä<hi rend="b"> 3 </hi>710. — Sisiliskon purema<hi rend="b"> 4 </hi>728—31.</p>
+            <p/>
+            <p>
+                <hi rend="i">Loukkaantumat ja viottumat.</hi> Hivellys (ks. niukaus). — Karva kurkussa<hi rend="b"> 4 </hi>732. — Kiven vihat<hi rend="b"> 3 </hi>711—3,<hi rend="b"> 4 </hi>733—55. — Kylmän vihat (ks. pakkasen vihat) <hi rend="b">4</hi>. — Lasten loukkaantuma<hi rend="b"> 3 </hi>714—7,<hi rend="b"> 4 </hi>756. — Löylyn vihat<hi rend="b"> 3 </hi>718—21. — Neulan nieleminen<hi rend="b"> 4 </hi>757. — Nimetön (ks. siikasen sanat) <hi rend="b">4</hi>. — Niukaus <hi rend="b">3</hi> 722—84, L 775 a,<hi rend="b"> 4 </hi>758—88. — Nivellys (ks. niukaus) <hi rend="b">4</hi>. — Nyrjähdys, nyrjäys (ks. niukaus)<hi rend="b"> 3 </hi>L, <hi rend="b">4</hi>. — Pakkasen vihat <hi rend="b">3</hi> 785—6,<hi rend="b"> 4 </hi>789—93. — Palanut (ks. tulen vihat) <hi rend="b">4</hi>. — Paleltunut (ks. pakkasen vihat) <hi rend="b">4</hi>. — Palohaava (ks. tulen vihat) <hi rend="b">4</hi>. — Pikkuhaava<hi rend="b"> 3 </hi>787. — Puun vihat<hi rend="b"> 3 </hi>788—92,<hi rend="b"> 4 </hi>794—824. — Raudan haava: a. Raudan vihat<hi rend="b"> 3 </hi>793—817, L 812 a,<hi rend="b"> 4 </hi>825—64. — b. Veren pidätys<hi rend="b"> 3 </hi>818—936,<hi rend="b"> 4 </hi>865—938. — Siikasen sanat<hi rend="b"> 4 </hi>939—96, L 949 a. — Silmän roskat<hi rend="b"> 3 </hi>937—8. — Tikku<hi rend="b"> 3 </hi>939,<hi rend="b"> 4 </hi>997. — Tulen vihat<hi rend="b"> 3 </hi>940—78,<hi rend="b"> 4 </hi>998—1066. — Valkean vihat (ks. tulen vihat) <hi rend="b">4</hi>. — Venähdys (ks. niukaus) <hi rend="b">4</hi>. — Vihneen sanat (ks. siikasen sanat) <hi rend="b">4</hi>.</p>
+            <p/>
+            <p>
+                <hi rend="b">Elinkeinot</hi>.</p>
+            <p/>
+            <p>
+                <hi rend="b">1. Metsästys</hi>:<hi rend="b"> 3 </hi>s. 162,<hi rend="b"> 4 </hi>s. 273.</p>
+            <p/>
+            <p>
+                <hi rend="i">Metsäonnen hankkiminen.</hi>
+            </p>
+            <p/>
+            <p>Metsän suostutus<hi rend="b"> 4 </hi>1067—71. — Jumalan avuksi pyytö metsälle lähtiessä<hi rend="b"> 4 </hi>1072. — Metsämiehen vala<hi rend="b"> 4 </hi>1073. — Metsäkoiran lumous<hi rend="b"> 4 </hi>1074—5. — Pyssyn saanti tappavaksi<hi rend="b"> 4 </hi>1076. — Ilveksen metsästys<hi rend="b"> 4 </hi>1077. — Jäniksen metsästys<hi rend="b"> 3 </hi>979—81,<hi rend="b"> 4 </hi>1078—95. — Karhun metsästys<hi rend="b"> 3 </hi>982,<hi rend="b"> 4 </hi>1096—1101. — Ketun metsästys<hi rend="b"> 4 </hi>1102. — Linnun metsästys<hi rend="b"> 4 </hi>1103—5, L 1102 a.</p>
+            <p/>
+            <p>
+                <hi rend="i">Pilatun metsäonnen parantaminen.</hi>
+            </p>
+            <p/>
+            <p>Pyssyn päästö pilauksesta<hi rend="b"> 4 </hi>1106—7. — Rautojen päästö pilauksesta<hi rend="b"> 4 </hi>1108. — Pyydyksestä varastetun linnun saaminen takaisin<hi rend="b"> 4 </hi>1109—10. — Lintuvarkaan kostaminen<hi rend="b"> 4 </hi>1111.</p>
+            <p/>
+            <p>
+                <hi rend="i">Metsäonnen pilaaminen.</hi>
+            </p>
+            <p/>
+            <p>Metsäkoiran pilaus<hi rend="b"> 4 </hi>1112—3. — Pyssyn pilaus<hi rend="b"> 3 </hi>983—4,<hi rend="b"> 4 </hi>1114—29.</p>
+            <p/>
+            <p>
+                <hi rend="b">2. Kalastus</hi>:<hi rend="b"> 3 </hi>s. 164,<hi rend="b"> 4 </hi>s. 292.</p>
+            <p/>
+            <p>
+                <hi rend="i">Kalaonnen hankkminen.</hi>
+            </p>
+            <p/>
+            <p>Kalastuksen menestyminen<hi rend="b"> 3 </hi>985—90,<hi rend="b"> 4 </hi>1130—1. — Onkiminen<hi rend="b"> 3 </hi>991—1030,<hi rend="b"> 4 </hi>1132—67, L 1149 a. — Nuotan veto<hi rend="b"> 3 </hi>1031,<hi rend="b"> 4 </hi>1168—72. — Uistimen veto<hi rend="b"> 3 </hi>1032,<hi rend="b"> 4 </hi>1173. — Verkolla kalastaminen<hi rend="b"> 4 </hi>1174—6. —Nuotan ja verkon kutominen<hi rend="b"> 4 </hi>1177—8. — Kutupaikan muuttaminen<hi rend="b"> 3 </hi>1033. — Varautuminen kadetta vastaan<hi rend="b"> 3 </hi>1034—5.</p>
+            <p/>
+            <p>
+                <hi rend="i">Pilatun kalaonnen parantaminen.</hi>
+            </p>
+            <p/>
+            <p>Kalaveden päästö pilauksesta<hi rend="b"> 4 </hi>1179. — Uistimen päästö pilauksesta<hi rend="b"> 4 </hi>1180. — Kalavarkaan kostaminen ks.<hi rend="b"> 4 </hi>1111.</p>
+            <p/>
+            <p>
+                <hi rend="b">3. Karjanhoito</hi>:<hi rend="b"> 3 </hi>s. 169,<hi rend="b"> 4 </hi>s. 300.</p>
+            <p/>
+            <p>
+                <hi rend="i">Hevoshoito.</hi>
+            </p>
+            <p/>
+            <p>
+                <hi rend="i">Hevosen menestyminen.</hi> Hevosen menestykseksi yleensä<hi rend="b"> 4 </hi>1181. — Hevosen pysyminen terveenä<hi rend="b"> 3 </hi>1036. — Sanat hevosta laitumelle laskettaessa<hi rend="b"> 4 </hi>1182—3. — Sanat hevosta talliin pantaessa<hi rend="b"> 4 </hi>1184—7. — Sanat köyrinä<hi rend="b"> 4 </hi>1188—90. — Sanat hevosta uuteen talliin vietäessä<hi rend="b"> 4 </hi>1191. — Sanat hevosta vaihdettaessa<hi rend="b"> 4 </hi>1192. — Hevosen ruokahalun hankkiminen ja palauttaminen<hi rend="b"> 3 </hi>1037, <hi rend="b">4</hi> 1193—6. — Hevosen saaminen lihavaksi ja sulavakarvaiseksi<hi rend="b"> 4 </hi>1197—8. — Uuden hevosen pysyttäminen kotona<hi rend="b"> 4 </hi>1199. — Hevosen saaminen nöyräksi kiinni otettaessa ja kengitettäessä<hi rend="b"> 4 </hi>1200—1. — Hevosen saaminen nöyrästi juoksemaan<hi rend="b"> 4 </hi>1202. — Hevosen saaminen vihaiseksi<hi rend="b"> 4 </hi>1203. — Maan voiman saaminen hevosen avuksi kynnettäessä<hi rend="b"> 4 </hi>1204. — Varsan menestyminen<hi rend="b"> 4 </hi>1205. — Hevosen kengittäminen<hi rend="b"> 3 </hi>1038. — Hevosen kuohiminen<hi rend="b"> 3 </hi>1039—44, L 1043 a,<hi rend="b"> 4 </hi>1206—27. — Hevososton onnistuminen<hi rend="b"> 3 </hi>1045. — Syntyväin hevosten sukupuolen määrääminen<hi rend="b"> 3 </hi>1046.</p>
+            <p/>
+            <p>
+                <hi rend="i">Hevosen suojeleminen vahingoilta.</hi> Hevosen suojeleminen karhulta ks.<hi rend="b"> 4 </hi>1306. — Hevosen suojeleminen kateelta<hi rend="b"> 4 </hi>1228. — Hevosen varaaminen maanpitävää vastaan<hi rend="b"> 4 </hi>1229. — Hevosen varaaminen näkkiä vastaan<hi rend="b"> 4 </hi>1230. </p>
+            <p/>
+            <p>
+                <hi rend="i">Pahan poistaminen hevosesta.</hi> Hevosen löytäminen metsänpeitosta<hi rend="b"> 4 </hi>1231. — Kateen karkottaminen<hi rend="b"> 3 </hi>1047. — Näkin karkottaminen<hi rend="b"> 4 </hi>1232.</p>
+            <p/>
+            <p>
+                <hi rend="i">Hevosonnen pilaaminen.</hi> Karhun nostatus ks.<hi rend="b"> 4 </hi>1356, 1358, 1362, 1364. — Kuoleman toivottaminen<hi rend="b"> 3 </hi>1048. — Painajaisen nostatus<hi rend="b"> 4 </hi>1233.</p>
+            <p/>
+            <p>
+                <hi rend="i">Lehmikarjan hoito.</hi>
+            </p>
+            <p/>
+            <p>
+                <hi rend="i">Karjan menestyminen.</hi> Loitsu karjan menestymiseksi yleensä<hi rend="b"> 4 </hi>1234. — Hyvän karjaonnen toivotus<hi rend="b"> 4 </hi>1235—6. — Sanat karjaa laitumelle laskettaessa<hi rend="b"> 3 </hi>1049—50. — Ruokahalun hankkiminen karjalle<hi rend="b"> 4 </hi>1237—43. — Karjan ruokahalun säilyttäminen<hi rend="b"> 3 </hi>1051—3. — Lehmän saaminen lihavaksi<hi rend="b"> 4 </hi>1244. — Karjan menestyminen<hi rend="b"> 3 </hi>1054, L 1054 a. — Karjan menestyminen laitumella<hi rend="b"> 4 </hi>1245—6. — Kellokkaan seuraaminen<hi rend="b"> 3 </hi>1055—7. — Kellokkaan seuraaminen. Karjan koossa pysyminen<hi rend="b"> 4 </hi>1247—54. — Karjan saaminen laitumelta kotia<hi rend="b"> 3 </hi>1058—61,<hi rend="b"> 4 </hi>1255—9. — Karjan löytäminen metsänpeitosta<hi rend="b"> 3 </hi>1062. — Lehmän kuljetus<hi rend="b"> 4 </hi>1260—6. — Lehmän pysyminen uuden omistajansa luona<hi rend="b"> 3 </hi>1063—74,<hi rend="b"> 4 </hi>1267—73. — Lehmän menestyminen uuden omistajansa luona<hi rend="b"> 4 </hi>1274. — Lehmän estäminen potkimasta lypsettäessä<hi rend="b"> 4 </hi>1275—6. — Karjan lisääntyminen<hi rend="b"> 3 </hi>1075—8,<hi rend="b"> 4 </hi>1277—8. — Syntyvän karjan sukupuolen määrääminen<hi rend="b"> 3 </hi>1079—88,<hi rend="b"> 4 </hi>1279. — Lehmän poikimisen menestyminen<hi rend="b"> 4 </hi>1280. — Vasikan menestyminen<hi rend="b"> 3 </hi>1089—99,<hi rend="b"> 4 </hi>1281—4. — Poikineen lehmän menestyminen<hi rend="b"> 3 </hi>1100—1,<hi rend="b"> 4 </hi>1285—92. — Sonnin saaminen karjaaksi<hi rend="b"> 4 </hi>1293. — Sonnin kuohiminen<hi rend="b"> 3 </hi>1102,<hi rend="b"> 4 </hi>ks. 1222.</p>
+            <p/>
+            <p>
+                <hi rend="i">Karjan suojeleminen vahingoilta.</hi> Karjan suojeleminen kateelta ja pahansuovalta<hi rend="b"> 4 </hi>1294—7. — Karjan suojeleminen vainajalta<hi rend="b"> 4 </hi>1298. — Karjan suojeleminen metsäneläimiltä, karhulta ja sudelta<hi rend="b"> 3 </hi>1103—35,<hi rend="b"> 4 </hi>1299—1314, L 1313 a. — Karjan suojeleminen muulta vahingolta<hi rend="b"> 3 </hi>1136—40. — Karjan suojeleminen muulta vahingolta metsässä<hi rend="b"> 4 </hi>1315—6. — Paimenen varautuminen karhua vastaan<hi rend="b"> 3 </hi>1141.</p>
+            <p/>
+            <p>
+                <hi rend="i">Pahan poistaminen karjasta.</hi> Kiiran karkottaminen<hi rend="b"> 4 </hi>1317—8. — Lehmän löytäminen metsänpeitosta<hi rend="b"> 4 </hi>1319—34. — Lehmien saaminen kotiin metsiä harhailemasta<hi rend="b"> 4 </hi>1335. — Rullin kostaminen<hi rend="b"> 4 </hi>1336—9. — Karhun asettaminen<hi rend="b"> 4 </hi>1340—2. — Karhun lähettäminen nostattajansa päälle<hi rend="b"> 4 </hi>1343—5. — Kateen karkottaminen<hi rend="b"> 3 </hi>1142—4. — Väiveiden karkottaminen<hi rend="b"> 4 </hi>1346. — Muun pahan karkottaminen<hi rend="b"> 3 </hi>1145—6. — Muun pahan poistaminen<hi rend="b"> 4 </hi>1347—9.</p>
+            <p/>
+            <p>
+                <hi rend="i">Karjaonnen pilaaminen.</hi> Huonon karjaonnen toivotus ks.<hi rend="b"> 4 </hi>1235—6. — Onnen pidättäminen lehmää myytäessä<hi rend="b"> 3 </hi>1147. — Lehmä ehtymään<hi rend="b"> 3 </hi>1148—9. — Karjan loitsiminen metsänpeittoon<hi rend="b"> 4 </hi>1350—1. — Rullin varustauminen<hi rend="b"> 4 </hi>1352. — Metsän elikon lähettäminen karjaan<hi rend="b"> 3 </hi>1150. — Karhun nostattaminen karjaan<hi rend="b"> 3 </hi>1151—4,<hi rend="b"> 4 </hi>1353—76.</p>
+            <p/>
+            <p>
+                <hi rend="i">Karjantuotteiden menestyminen ja lisääminen.</hi> Maito-onnen hankkiminen<hi rend="b"> 3 </hi>1155—7,<hi rend="b"> 4 </hi>1377—82. — Maholehmä lypsämään<hi rend="b"> 4 </hi>1383—4. — Maidon pilauksen estäminen<hi rend="b"> 3 </hi>1158. — Pilatun maito-onnen palauttaminen<hi rend="b"> 3 </hi>1159—62,<hi rend="b"> 4 </hi>1385. — Voi- ja maito-onnen hankkiminen<hi rend="b"> 3 </hi>1163—84, L 1180 a. — Paran synnyttäminen<hi rend="b"> 3 </hi>1185—98, L 1194 a,<hi rend="b"> 4 </hi>1386—93.</p>
+            <p/>
+            <p>
+                <hi rend="i">Lampaiden hoito.</hi>
+            </p>
+            <p/>
+            <p>
+                <hi rend="i">Lampaiden menestyminen.</hi> Syntyväin lampaiden sukupuolen määrääminen ks.<hi rend="b"> 3 </hi>1080—1, 1084—6, 1088. — Lampaiden menestyminen<hi rend="b"> 3 </hi>1199—1208,<hi rend="b"> 4 </hi>1394. — Lampaiden pysyminen metsässä<hi rend="b"> 4 </hi>1395. — Lampaiden saaminen laitumelta kotia<hi rend="b"> 4 </hi>1396. — Lampaiden lisääntyminen<hi rend="b"> 4 </hi>1397. — Villojen kasvaminen<hi rend="b"> 4 </hi>1398—9. — Lampaiden suojeleminen <hi rend="b">3</hi> 1209—12. — Lammasonnen pilaaminen<hi rend="b"> 3 </hi>1213.</p>
+            <p/>
+            <p>
+                <hi rend="i">Pahan poistaminen lampaista.</hi> Huonon lammasonnen parantaminen. Lammasonnen tuominen muualta<hi rend="b"> 4 </hi>1400—1. — Väiveiden karkottaminen ks.<hi rend="b"> 4 </hi>1346. — Lammasnaveton päästö pilauksesta<hi rend="b"> 4 </hi>1402.</p>
+            <p/>
+            <p>
+                <hi rend="i">Sikojen hoito.</hi>
+            </p>
+            <p/>
+            <p>Sikojen menestyminen<hi rend="b"> 3 </hi>1214, L 1214 a.</p>
+            <p/>
+            <p>
+                <hi rend="i">Siipikarjan hoito.</hi>
+            </p>
+            <p/>
+            <p>Kanojen menestyminen<hi rend="b"> 3 </hi>1215.</p>
+            <p/>
+            <p>
+                <hi rend="i">Tautien nostattaminen eläimiin.</hi>
+            </p>
+            <p/>
+            <p>Painajainen ks.<hi rend="b"> 4 </hi>1233. — Umpitauti ks.<hi rend="b"> 4 </hi>249.</p>
+            <p/>
+            <p>
+                <hi rend="i">Eläinten tautien parantaminen.</hi>
+            </p>
+            <p/>
+            <p>
+                <hi rend="i">Epätietoiset taudit.</hi> Hevosen sairaus<hi rend="b"> 4 </hi>1403. — Lampaan sairaus<hi rend="b"> 4 </hi>1404.</p>
+            <p/>
+            <p>
+                <hi rend="i">Erinäiset taudit.</hi> Ammus<hi rend="b"> 4 </hi>1405—6. — Amputauti (ks. lento) <hi rend="b">3</hi>. — Halvaus ks.<hi rend="b"> 3 </hi>1216, 1220. — Hiirenpesäin syömisestä tarttunut tauti<hi rend="b"> 4 </hi>1407. — Ilmannuoli ks.<hi rend="b"> 4 </hi>365. — Kohtaus<hi rend="b"> 4 </hi>1408. — Laaki (ks. lento) <hi rend="b">3</hi>. — Lennos<hi rend="b"> 4 </hi>1409—10. — Lento<hi rend="b"> 3 </hi>1216—49. — Letti, letty (ks. lento) <hi rend="b">3</hi>. — Maanpitävä ks.<hi rend="b"> 4 </hi>1568. — Mara (ks. painajainen) <hi rend="b">3</hi>. — Nuolen lento ks.<hi rend="b"> 3 </hi>1248. — Painajainen<hi rend="b"> 3 </hi>1250—4,<hi rend="b"> 4 </hi>1411. — Puhti ks.<hi rend="b"> 3 </hi>1227. — Puru<hi rend="b"> 4 </hi>1412. — Pääntauti<hi rend="b"> 4 </hi>1413. — Rutto ks.<hi rend="b"> 3 </hi>1243. — Sairaan hevosen parantaminen<hi rend="b"> 3 </hi>1255. — Tuulen lento ks.<hi rend="b"> 3 </hi>1226. — Tuulimato<hi rend="b"> 4 </hi>1414. — Ummettu (ks. umpitauti) <hi rend="b">3</hi>. — Umpitauti<hi rend="b"> 3 </hi>1256, ks.<hi rend="b"> 4 </hi>616. — Verenlypsäminen<hi rend="b"> 4 </hi>1415. — Ähky<hi rend="b"> 3 </hi>1257—72,<hi rend="b"> 4 </hi>1416—7, L 1417 a.</p>
+            <p/>
+            <p>
+                <hi rend="i">Eläinten puremat ja pistot.</hi> Kärpän purema<hi rend="b"> 3 </hi>1273—4. — Käärmeen purema<hi rend="b"> 3 </hi>1275,<hi rend="b"> 4 </hi>1418—9. — Lumikin purema (ks. talvikon purema) <hi rend="b">4</hi>. — Lumituikan purema (ks. kärpän purema). — Läävämadon purema<hi rend="b"> 3 </hi>1276. — Navettamadon purema ks.<hi rend="b"> 3 </hi>1274, 1276. — Noukkahiiren purema (ks. päästäjäisen purema) <hi rend="b">3</hi>. — Päästäjäisen purema<hi rend="b"> 3 </hi>1277, ks.<hi rend="b"> 4 </hi>1422. — Talvikon purema<hi rend="b"> 4 </hi>1420—2. — Talvilaukka (ks. talvikon purema) <hi rend="b">4</hi>.</p>
+            <p/>
+            <p>
+                <hi rend="i">Loukkaantumat ja viottumat.</hi> Hivellys (ks. niukaus) <hi rend="b">3</hi>. — Niukaus<hi rend="b"> 3 </hi>1278—81. — Siikasen sanat ks.<hi rend="b"> 4 </hi>992. — Veren pidätys<hi rend="b"> 3 </hi>1282—5,<hi rend="b"> 4 </hi>1423—5.</p>
+            <p/>
+            <p>
+                <hi rend="b">4. Maanviljelys</hi>:<hi rend="b"> 3 </hi>s. 217,<hi rend="b"> 4 </hi>s. 360.</p>
+            <p/>
+            <p>
+                <hi rend="i">Maanviljelyksen menestyminen.</hi>
+            </p>
+            <p/>
+            <p>Jouluhuuto<hi rend="b"> 3 </hi>1286. — Laskiaishuuto<hi rend="b"> 3 </hi>1287—1446, L 1314 a, 1357 a, 1440 a,<hi rend="b"> 4 </hi>1426—34. — Tuhkakeskiviikon huuto<hi rend="b"> 3 </hi>1447—52. — Kaskenpoltto<hi rend="b"> 4 </hi>1435—6. — Kyntäjän sanat<hi rend="b"> 4 </hi>1437. — Kylväjän sanat <hi rend="b">3</hi> 1453,<hi rend="b"> 4 </hi>1438—9. — Nauriin menestyminen<hi rend="b"> 4 </hi>1440. — Sateen hankkiminen<hi rend="b"> 4 </hi>1441. — Sanat leikkuun lopettamisen jälkeen<hi rend="b"> 3 </hi>1454. — Sanat perunoita maasta otettaessa<hi rend="b"> 3 </hi>1455. — Jauhattajan sanat<hi rend="b"> 3 </hi>1456.</p>
+            <p/>
+            <p>
+                <hi rend="i">Maanviljelyksen suojeleminen vahingoilta.</hi>
+            </p>
+            <p/>
+            <p>Viljan seisotus<hi rend="b"> 3 </hi>1457. — Heinäin estäminen pilaantumasta<hi rend="b"> 3 </hi>1458. — Niityn estäminen pilautumasta<hi rend="b"> 3 </hi>1459. — Auman (pieleksen) suojeleminen hiiriltä<hi rend="b"> 3 </hi>1460—1,<hi rend="b"> 4 </hi>1442—7. — Kuhilaiden suojeleminen variksilta<hi rend="b"> 4 </hi>1448. — Heinäpieleksen suojeleminen pahoilta säiltä<hi rend="b"> 4 </hi>1449—51. — Viljavainion suojeleminen hiiriltä<hi rend="b"> 4 </hi>1452—3. — Kasvisten suojeleminen hiiriltä<hi rend="b"> 3 </hi>1462. — Viljavainion suojeleminen jäniksiltä<hi rend="b"> 3 </hi>1463. — Viljavainion suojeleminen sioilta<hi rend="b"> 3 </hi>1464. — Viljan, viljavainion suojeleminen ruosteelta<hi rend="b"> 3 </hi>1465,<hi rend="b"> 4 </hi>1454. — Lanttujen suojeleminen madoilta<hi rend="b"> 3 </hi>1466. — Naurismaan suojeleminen varkailta<hi rend="b"> 3 </hi>1467—8,<hi rend="b"> 4 </hi>1455—9. — Kulon leviämisen estäminen kaskesta<hi rend="b"> 3 </hi>1469—72,<hi rend="b"> 4 </hi>1460—3.</p>
+            <p/>
+            <p>
+                <hi rend="i">Pahan karkottaminen maanviljelyksestä.</hi>
+            </p>
+            <p/>
+            <p>Pellon päästö pilauksesta<hi rend="b"> 4 </hi>1464—74. — Juurimadon karkottaminen viljavainiosta ks.<hi rend="b"> 4 </hi>1469, 1472. — Kuivan kahan karkottaminen viljavainiosta ks.<hi rend="b"> 4 </hi>1466, 1468—9, 1472. — Ruosteen karkottaminen viljavainiosta<hi rend="b"> 4 </hi>1475—8. — Heinän nostattaminen pystyyn<hi rend="b"> 4 </hi>1479. — Jäniksen karkottaminen naurismaasta<hi rend="b"> 4 </hi>1480. — Pellon pilaajan kostaminen<hi rend="b"> 4 </hi>1481.</p>
+            <p/>
+            <p>
+                <hi rend="i">Maanviljelyksen pilaaminen. Viljaonnen pilaaminen.</hi>
+            </p>
+            <p/>
+            <p>Pellon pilaaminen<hi rend="b"> 4 </hi>1482. — Viljaonnen vieminen toisen pellolta<hi rend="b"> 3 </hi>1473—4. — Jänisten lähettäminen toisen viljaan<hi rend="b"> 3 </hi>1475. — Kulon sytyttäminen<hi rend="b"> 3 </hi>1476</p>
+            <p/>
+            <p>
+                <hi rend="b">Lempi</hi>:<hi rend="b"> 3 </hi>s. 242,<hi rend="b"> 4 </hi>s. 373.</p>
+            <p/>
+            <p>Tulevan puolison tiedustelu<hi rend="b"> 4 </hi>1483. — Hyvän naimaonnen hankkiminen vastasyntyneelle lapselle<hi rend="b"> 4 </hi>1484—5. — Hyvän naimaonnen hankkiminen<hi rend="b"> 4 </hi>1486—9. — Morsiameksi tulon tiedustelu<hi rend="b"> 3 </hi>1477. — Sulhasen (morsiamen) tapojen tiedustelu<hi rend="b"> 3 </hi>1478. — Sulhasen tiedustelu<hi rend="b"> 3 </hi>1479—80. — Avioparin tiedustelu arpomalla<hi rend="b"> 3 </hi>1481—5. — Tytön suostuttaminen<hi rend="b"> 3 </hi>1486—9,<hi rend="b"> 4 </hi>1490—6. — Pojan suostuttaminen<hi rend="b"> 3 </hi>1490—3,<hi rend="b"> 4 </hi>1497. — Lemmen nostatus kylvettämällä<hi rend="b"> 4 </hi>1498—1503. — Tytön taioista vapautuminen<hi rend="b"> 3 </hi>1494. — Rakastuneitten kylmentäminen<hi rend="b"> 3 </hi>1495—1503,<hi rend="b"> 4 </hi>1504—7. — Koiran lumous<hi rend="b"> 3 </hi>1504—5,<hi rend="b"> 4 </hi>1508—27, L 1507 a.</p>
+            <p/>
+            <p>
+                <hi rend="b">Perhe-elämä</hi>:<hi rend="b"> 3 </hi>s. 248,<hi rend="b"> 4 </hi>s. 383.</p>
+            <p/>
+            <p>
+                <hi rend="i">Miehen ja vaimon suhde.</hi>
+            </p>
+            <p/>
+            <p>Sanat vihille vietäessä<hi rend="b"> 4 </hi>1528. — Sanat vaimoa tuotaessa<hi rend="b"> 4 </hi>1529. — Hääparin suojeleminen pahansuovilta häävierailta<hi rend="b"> 4 </hi>1530. — Vallan joutuminen vaimolle<hi rend="b"> 3 </hi>1506. — Miehen pysyttäminen kotona<hi rend="b"> 3 </hi>1507. — Miehen pidättäminen juopottelusta<hi rend="b"> 3 </hi>1508—9. — Vaimon saaminen hedelmälliseksi<hi rend="b"> 3 </hi>1510.</p>
+            <p/>
+            <p>
+                <hi rend="i">Lasten hoito.</hi>
+            </p>
+            <p/>
+            <p>Lasten menestyminen<hi rend="b"> 3 </hi>1511—3, L 1512 a,<hi rend="b"> 4 </hi>1531—5. — Lapsen pysyttäminen kotona<hi rend="b"> 3 </hi>1514. — Ruokahalun hankkiminen lapselle<hi rend="b"> 3 </hi>1515. — Unen hankkiminen lapselle<hi rend="b"> 3 </hi>1516—23. — Ensimäisten hampaitten vahvistaminen<hi rend="b"> 3 </hi>1524. — Uuden hampaan pyytö<hi rend="b"> 3 </hi>1525—67, L 1533 a, 1563 a, b,<hi rend="b"> 4 </hi>1536—60. — Lapsen nenän pienentäminen<hi rend="b"> 3 </hi>1568.</p>
+            <p/>
+            <p>
+                <hi rend="b">Koti, talous, askareet</hi>:<hi rend="b"> 3 </hi>s. 256,<hi rend="b"> 4 </hi>s. 387.</p>
+            <p/>
+            <p>Maan tervehdys<hi rend="b"> 3 </hi>1569,<hi rend="b"> 4 </hi>1561—7. — Maanhaltian (maanpitävän) asetus<hi rend="b"> 4 </hi>1568—75. — Saunanhaltian tervehdys<hi rend="b"> 4 </hi>1576. — Tallin alustus<hi rend="b"> 3 </hi>1570. — Kaivon päästö pilauksesta<hi rend="b"> 4 </hi>1577. — Taikinan nostosanat<hi rend="b"> 4 </hi>1578—82. — Leipäin paistaminen<hi rend="b"> 3 </hi>1571—2. — Oluen valmistus<hi rend="b"> 3 </hi>1573. — Kankaan kutominen<hi rend="b"> 3 </hi>1574—6,<hi rend="b"> 4 </hi>1583—6. — Nahan valmistus<hi rend="b"> 3 </hi>1577. — Teräkalun valmistus<hi rend="b"> 3 </hi>1578. — Teräaseen karkaiseminen<hi rend="b"> 4 </hi>1587. — Teräkalun hiominen<hi rend="b"> 4 </hi>1588. — Viikatteen hiominen<hi rend="b"> 3 </hi>1579—81. — Kirveen varaaminen<hi rend="b"> 4 </hi>1589. — Jalaksen painaminen<hi rend="b"> 3 </hi>1582. — Tervanpoltto<hi rend="b"> 4 </hi>1590—1. — Kirppujen ja luteitten karkotus<hi rend="b"> 4 </hi>1592—3. — Luteitten karkotus talosta<hi rend="b"> 3 </hi>1583—6. — Torakoitten karkotus talosta ks.<hi rend="b"> 3 </hi>1586. — Koiran pysyminen uuden omistajansa luona<hi rend="b"> 4 </hi>1594. — Kissan vannottaminen<hi rend="b"> 4 </hi>1595. — Uuden vihdan (vastan) käyttäminen<hi rend="b"> 3 </hi>1587. — Kaivon etsintä<hi rend="b"> 3 </hi>1588.</p>
+            <p/>
+            <p>
+                <hi rend="b">Erilaisia loitsuja</hi>:<hi rend="b"> 3 </hi>s. 259,<hi rend="b"> 4 </hi>s. 398.</p>
+            <p/>
+            <p>Aarteen kätkeminen<hi rend="b"> 4 </hi>1596. — Aarteen löytäminen<hi rend="b"> 3 </hi>1589—90,<hi rend="b"> 4 </hi>1597. — Taitamattoman aarteenottajan pääseminen aarteen tuottamasta vaivasta<hi rend="b"> 4 </hi>1598. — Rahojen hankkiminen<hi rend="b"> 3 </hi>1591. — Metsänneitojen näkeminen<hi rend="b"> 4 </hi>1599. — Nuotionteko metsässä<hi rend="b"> 4 </hi>1600—3. — Eksyksistä pääseminen<hi rend="b"> 4 </hi>1604. — Näkkiä vastaan varautuminen<hi rend="b"> 3 </hi>1592—6,<hi rend="b"> 4 </hi>1605—18. — Näkin karkottaminen<hi rend="b"> 4 </hi>1619. — Hukkuneen löytäminen järvestä<hi rend="b"> 4 </hi>1620. — Uuden kuun tervehtiminen<hi rend="b"> 4 </hi>1621. — Hääpöydän varustaminen<hi rend="b"> 3 </hi>1597. — Joulun vastaanotto<hi rend="b"> 3 </hi>1598. — Rakennuksen varaaminen tulipalolta<hi rend="b"> 4 </hi>1622. — Uuninsuusta lieskaavan tulen hillitseminen<hi rend="b"> 4 </hi>1623—4. — Iltarukous<hi rend="b"> 3 </hi>1599,<hi rend="b"> 4 </hi>1625. — Palvelijan menestyminen uudessa palveluspaikassa<hi rend="b"> 4 </hi>1626. — Kerjäläisen loitsu<hi rend="b"> 3 </hi>1600—1. — Saidan kiroaminen<hi rend="b"> 3 </hi>1602. — Harakkaa vastaan varautuminen<hi rend="b"> 3 </hi>L 1596 a. — „Kirkkoon ottaessa“<hi rend="b"> 3 </hi>L 1601 a. — Juopoksi noituminen<hi rend="b"> 4 </hi>1627. — Kitsaan viinantarjoojan kiroaminen. Viinapannun lumoaminen<hi rend="b"> 4 </hi>1628.</p>
+            <p/>
+            <p>
+                <hi rend="i">Varastaminen.</hi> Varkaan varautuminen<hi rend="b"> 3 </hi>1603,<hi rend="b"> 4 </hi>1629—34. — Varkaita vastaan varautuminen<hi rend="b"> 3 </hi>1604—5. — Varastetun tavaran takaisin saaminen<hi rend="b"> 3 </hi>1606—11,<hi rend="b"> 4 </hi>1635—40. — Varkaan kiinni saaminen<hi rend="b"> 4 </hi>1641—3. — Varkaan kostaminen <hi rend="b">3</hi> 1612,<hi rend="b"> 4 </hi>1644.</p>
+            <p/>
+            <p>
+                <hi rend="i">Tiedusteluja.</hi> Etanalta poudan tiedustelu<hi rend="b"> 3 </hi>1613—40, L 1619 a, b, 1636 a, b,<hi rend="b"> 4 </hi>1645—9. — Heinäsirkalta (tepolta) tien kysely<hi rend="b"> 3 </hi>1641. — Käeltä tiedustelu: kuinka kauvan elän?<hi rend="b"> 3 </hi>1642. — Käeltä tiedustelu: milloin naidaan?<hi rend="b"> 3 </hi>1643. — Käeltä poudan tiedustelu<hi rend="b"> 3 </hi>1644. — Leppäkertulta tiedusteluja<hi rend="b"> 3 </hi>1645—97, L 1655 a, 1674 a, b,<hi rend="b"> 4 </hi>1650—4.</p>
+            <p/>
+            <p>
+                <hi rend="b">Lasten ja paimenten pyytöjä ja toivotuksia</hi>:<hi rend="b"> 3 </hi>s. 273,<hi rend="b"> 4 </hi>s. 410.</p>
+            <p/>
+            <p>Lasten yleisiä pyytösanoja<hi rend="b"> 3 </hi>1698—9, L 1698 a, b, c, d, e, f, g, 1699 a, b<hi rend="b"> 4 </hi>1655—8, L 1655 a. — Mahlajan pyytö<hi rend="b"> 3 </hi>1700. — Tervan pyytö heinäsirkalta<hi rend="b"> 3 </hi>1701—7, L 1701 a. — Pyytö aitan katolle kiivetessä<hi rend="b"> 3 </hi>1708. — Jäitten potkituttaminen västäräkillä<hi rend="b"> 3 </hi>1709. — Paimenen tulen sytyttäminen<hi rend="b"> 3 </hi>1710. — Lukusioilla (kinkereillä) hämmästymättömäksi<hi rend="b"> 3 </hi>1711—2. — Lukukinkereillä osaaminen<hi rend="b"> 4 </hi>1659. — Hyvän muistin toivotus<hi rend="b"> 3 </hi>1713. — Marjaonnen toivotus<hi rend="b"> 3 </hi>1714—6, L 1714 a,<hi rend="b"> 4 </hi>1660. — Käen kukuttaminen<hi rend="b"> 3 </hi>1717—8. — Korpin kielen muuttaminen <hi rend="b">3</hi> 1719—20. — Uhkaus piilonpitäjälle <hi rend="b">3</hi> L 1720 a, b. — Pillintekijän toivotus<hi rend="b"> 3 </hi>1721—46,<hi rend="b"> 4 </hi>1661—2. — Pois pilvi päivän päältä<hi rend="b"> 3 </hi>1747—1864, L 1776 a, 1842 a, b, c, 1861 a, 1862 a,<hi rend="b"> 4 </hi>1663—4. — Pilven karkotus<hi rend="b"> 3 </hi>1865—90.</p>
+            <p/>
+            <p/>
+            <p>LYHENNYSTEN JA MERKKIEN LUETTELO.</p>
+            <p/>
+            <p>
+                <hi rend="i">HO</hi> <hi rend="i">=</hi> Hämäläis-Osakunnan arkisto.</p>
+            <p>
+                <hi rend="i">MT</hi> <hi rend="i">=</hi> Monumenta Tavastica, Hämeen muistomerkkejä.</p>
+            <p>
+                <hi rend="i">SMMY</hi> = Suomen Muinaismuistoyhdistyksen arkisto.</p>
+            <p>
+                <hi rend="i">Suom. Sem. arkisto</hi> = Yliopiston Suomalaisen seminarin arkisto.</p>
+            <p>
+                <hi rend="i">Suom. Valtioark. =</hi> Suomen Valtioarkisto.</p>
+            <p>
+                <hi rend="i">Ker. huom., lis., muist., sel. =</hi> Kerääjän huomautus, lisäys, muistutus, selitys.</p>
+            <p>
+                <hi rend="i">Toim. sel.</hi> = Toimituksen selitys.</p>
+            <p>p. o. = pitää, pitäisi olla.</p>
+            <p/>
+            <p>
+                <hi rend="i">Paikannimet</hi> ovat selvästi ja siksi vähän lyhennettyjä, etteivät ne kaivanne erikoista selitystä.</p>
+            <p/>
+            <p>
+                <hi rend="i">Kerääjien nimet</hi> ovat julaistut yleensä sellaisinaan, ristimänimi tai alkukirjain vain sellaisessa tapauksessa, jolloin on useampia samannimisiä kerääjiä. Vain joistakin pitemmistä nimistä, jotka esiintyvät usein, on käytetty seuraavia lyhennyksiä:</p>
+            <p/>
+            <p>
+                <hi rend="i">Heid. ja Palmr.</hi> = Heideman ja Palmroth.</p>
+            <p>
+                <hi rend="i">Hels. Suom. alkeisop. konv.</hi> = Helsingin Suomalaisen alkeisopiston konventti.</p>
+            <p>
+                <hi rend="i">Hels. Suom. norm. lys. konv. </hi>= Helsingin Suomalaisen normalilyseon konventti.</p>
+            <p>
+                <hi rend="i">Jyväsk. lys. konv. =</hi> Jyväskylän lyseon konventti.</p>
+            <p>
+                <hi rend="i">Kuop. Suom. lys. toverik.</hi> = Kuopion Suomalaisen lyseon toverikunta.</p>
+            <p>
+                <hi rend="i">Pihtip. Kirj. Seura. =</hi> Pihtiputaan Kirjallisuuden Seura.</p>
+            <p>
+                <hi rend="i">Vaas. lys. „Koe“-seura =</hi> Vaasan lyseon „Koe“-seura.</p>
+            <p>
+                <hi rend="i">Österb.-Grönqv.</hi> = Österberg-Grönqvist.</p>
+            <p>
+                <hi rend="i"/>
+            </p>
+            <p>
+                <hi rend="i">Hämäläis-Osakunnan</hi> keräelmät ovat merkityt lyhennysmerkillä <hi rend="i">HO</hi> ja kullekin kerääjälle kuuluvalla järjestysnumerolla (painettu puolilihavalla) seuraavasti:</p>
+            <p/>
+            <p>l = Aaltonen Esko.</p>
+            <p>2 = Anttila Eero.</p>
+            <p>3 = Aulanko Aarne. </p>
+            <p>4 = Groundstroem Kalervo.</p>
+            <p>5 = Hakala Väinö.</p>
+            <p>6 = Kallio Topi.</p>
+            <p>7 = „Kansakoulunoppilas v:lta 1867—68“.</p>
+            <p>8 = Kaukoranta Toivo.</p>
+            <p>9 = Keskitalo E.</p>
+            <p>10 = Knuutila Viljo V.</p>
+            <p>11 = Koskenjaakko A. A.</p>
+            <p>12 = Kotikoski J. W.</p>
+            <p>13 = Lahden kansanopiston oppilaat.</p>
+            <p>14 = Lehtonen K. F.</p>
+            <p>15 Mäkelä A. E.</p>
+            <p>16 = Nikula Suoma.</p>
+            <p>17 = Oikari Matti.</p>
+            <p>18 = Pirttinen Vihtori ja Matilainen Onni.</p>
+            <p>19 = Rantanen Juho</p>
+            <p>20 = Rapola Martti.</p>
+            <p>21 = Rauhala K. N.</p>
+            <p>22 = Regnell Hanna.</p>
+            <p>23 = Roos T. I.</p>
+            <p>24 = Salo Aukusti.</p>
+            <p>25 = Salonen S.</p>
+            <p>26 = Sinisalo Anni.</p>
+            <p>27 = Sykäri Hilma.</p>
+            <p>28 = Toivonen Aug.</p>
+            <p>29 = Toivonen K. K.</p>
+            <p>30 = Vanamo Hilma.</p>
+            <p>31 = Vihervaara Emil.</p>
+            <p>32 = Alatalo Helmi.</p>
+            <p>33 = Länsiluoto Yrjö.</p>
+            <p/>
+            <p/>
+            <p>[  ] Toimituksen lisäyksiä, täydennyksiä tai selityksiä kaikissa muissa paitsi</p>
+            <p>prof. K. Krohnin keräelmissä, joissa ne ovat kerääjän itsensä suorittamat.</p>
+            <p/>
+            <p>⌜⌝  Epäselvä kohta.</p>
+            <p/>
+            <p>.... Poisjätetty kohta.</p>
+            <p/>
+            <p>KORJAUKSIA JA HUOMAUTUKSIA.</p>
+            <p/>
+            <p>ETELÄ- JA KESKI-HÄMEEN LOITSUIHIN:</p>
+            <p/>
+            <p/>
+            <p/>
+            <table>
+                <row>
+                    <cell>
+                        <p>nr. ja säe</p>
+                        <p>39</p>
+                        <p>1282</p>
+                        <p/>
+                        <p>224</p>
+                        <p>236</p>
+                        <p>378</p>
+                        <p>523</p>
+                        <p>539</p>
+                        <p>1006 1</p>
+                        <p>1162</p>
+                        <p>1190 aliv. 1</p>
+                        <p/>
+                        <p>1372</p>
+                        <p>1414</p>
+                        <p>1460</p>
+                        <p>1557</p>
+                        <p>1631</p>
+                        <p>1669</p>
+                        <p>1704</p>
+                        <p/>
+                    </cell>
+                    <cell>
+                        <p>on:</p>
+                        <p>
+                            <hi rend="i">Ren</hi>
+                        </p>
+                        <p>
+                            <hi rend="i">päästä</hi>
+                        </p>
+                        <p>
+                            <hi rend="i"/>
+                        </p>
+                        <p>(vuosiluku) <hi rend="i">85</hi>
+                        </p>
+                        <p>
+                            <hi rend="i">Liutulan</hi>
+                        </p>
+                        <p>
+                            <hi rend="i">Nikan s nat</hi>
+                        </p>
+                        <p>
+                            <hi rend="i">pihlaja Se</hi>
+                        </p>
+                        <p>
+                            <hi rend="i">Äijälä</hi>
+                        </p>
+                        <p>
+                            <hi rend="i">armaha inen</hi>
+                        </p>
+                        <p>
+                            <hi rend="i">keitetään</hi>
+                        </p>
+                        <p>
+                            <hi rend="i">Paldanin … toisinto </hi>
+                        </p>
+                        <p>
+                            <hi rend="i">nr. 159</hi>
+                        </p>
+                        <list type="ordered">
+                            <item>
+                                <p>Toivonen 80</p>
+                            </item>
+                        </list>
+                        <p>
+                            <hi rend="i">HO</hi> <hi rend="b i">1 057</hi>
+                        </p>
+                        <p>[<hi rend="i">Jankkk.</hi>]</p>
+                        <p>
+                            <hi rend="i">Toivonen 77</hi>
+                        </p>
+                        <p>       ,,       <hi rend="i">83</hi>
+                        </p>
+                        <p>       ,,       <hi rend="i">82</hi>
+                        </p>
+                        <p>       ,,       <hi rend="i">81</hi>
+                        </p>
+                        <p>
+                            <hi rend="i"/>
+                        </p>
+                    </cell>
+                    <cell>
+                        <p>pitää olla:</p>
+                        <p>
+                            <hi rend="i">Ren-</hi> (painunut koneessa)</p>
+                        <p>
+                            <hi rend="i">päätä</hi> (kerääjän ilmottama puhtaaksikirjotusvirhe alkuper. pikakirjotuksesta)</p>
+                        <p>
+                            <hi rend="i">88</hi>
+                        </p>
+                        <p>
+                            <hi rend="i">Lintulan</hi> (käsikirjotus epäselvä)</p>
+                        <p>
+                            <hi rend="i">Nikan sanat</hi> (painunut koneessa)</p>
+                        <p>
+                            <hi rend="i">pihlaja. Se</hi> (painunut koneessa)</p>
+                        <p>
+                            <hi rend="i">Äijälä E.</hi>
+                        </p>
+                        <p>
+                            <hi rend="i">armahainen</hi> (konevirhe)</p>
+                        <p>
+                            <hi rend="i">heitetään</hi>
+                        </p>
+                        <p>
+                            <hi rend="i">nr. 21 </hi>(muutos johtuu kokoelman useista numeroimisista)</p>
+                        <p>
+                            <hi rend="i">Toivonen 82</hi> (johtuu uudesta numeroimisesta)</p>
+                        <p>
+                            <hi rend="i">HO 1 1057</hi> (painunut koneessa)</p>
+                        <p>[<hi rend="i">Janakk.</hi>]</p>
+                        <p>
+                            <hi rend="i">Toivonen 79</hi> (johtuu uudesta numeroimisesta)</p>
+                        <p>
+                            <hi rend="i">Toivonen 85</hi> (johtuu uudesta numeroimisesta)</p>
+                        <p>
+                            <hi rend="i">Toivonen 84</hi> (johtuu uudesta numeroimisesta)</p>
+                        <p>
+                            <hi rend="i">Toivonen 83</hi> (johtuu uudesta numeroimisesta)</p>
+                        <p/>
+                    </cell>
+                </row>
+            </table>
+            <p/>
+            <p/>
+            <p>POHJOIS-HÄMEEN LOITSUIHIN:</p>
+            <p/>
+            <table>
+                <row>
+                    <cell>
+                        <p>nr. ja säe</p>
+                        <p>9</p>
+                        <p/>
+                    </cell>
+                    <cell cols="2">
+                        <p>  on:</p>
+                        <p>
+                            <hi rend="i">toas̀, takas̀in, ens̀, ukkos̀en</hi>
+                        </p>
+                    </cell>
+                    <cell>
+                        <p>pitää olla:</p>
+                        <p>
+                            <hi rend="i">toaś, takaśin, enś, ukkośen</hi>
+                        </p>
+                        <p>
+                            <hi rend="i"/>
+                        </p>
+                    </cell>
+                </row>
+                <row>
+                    <cell>
+                        <p>25</p>
+                    </cell>
+                    <cell cols="3">
+                        <p>(Ks. tästä toisinnosta siv. 279, jonne se oikeastaan kuulunee)</p>
+                    </cell>
+                </row>
+                <row>
+                    <cell>
+                        <p>61</p>
+                        <p>113</p>
+                        <p>113 8</p>
+                        <p>115</p>
+                        <p>118</p>
+                        <p>401</p>
+                        <p>429</p>
+                        <p>484</p>
+                        <p>525</p>
+                        <p>595</p>
+                        <p>630</p>
+                        <p>750</p>
+                        <p/>
+                        <p>1096 siv. 282, 1. p. 18. r. </p>
+                        <p>1101</p>
+                        <p>1425 15 </p>
+                        <p>Siv. 416 ylin rivi</p>
+                        <p/>
+                    </cell>
+                    <cell>
+                        <p>
+                            <hi rend="i">myötä</hi>
+                        </p>
+                        <p>
+                            <hi rend="i">73.</hi>
+                        </p>
+                        <p>
+                            <hi rend="i">keskentanhuvilla</hi>
+                        </p>
+                        <p>
+                            <hi rend="i">67 v.</hi>
+                        </p>
+                        <p>
+                            <hi rend="i">Heinone</hi>
+                        </p>
+                        <p>
+                            <hi rend="i">ks. nr. 8</hi>
+                        </p>
+                        <p>
+                            <hi rend="i">Sorsa.</hi>
+                        </p>
+                        <p>
+                            <hi rend="i">poestamisen</hi>
+                        </p>
+                        <p>
+                            <hi rend="i">Krohn 15578 a</hi>
+                        </p>
+                        <p>
+                            <hi rend="i">Krohn 3352</hi>
+                        </p>
+                        <p>
+                            <hi rend="i">Krohn 4111</hi>
+                        </p>
+                        <p>
+                            <hi rend="i">ks. nr. 118</hi>
+                        </p>
+                        <p>
+                            <hi rend="i"/>
+                        </p>
+                        <p>
+                            <hi rend="i">aldraſörſt</hi>
+                        </p>
+                        <p>
+                            <hi rend="i"/>
+                        </p>
+                        <p>
+                            <hi rend="i">conficir</hi>
+                        </p>
+                        <p>
+                            <hi rend="i">noius</hi>
+                        </p>
+                        <p>etelä- ja keski-</p>
+                        <p/>
+                    </cell>
+                    <cell cols="2">
+                        <p>
+                            <hi rend="i">myötä-</hi> (painunut koneessa)</p>
+                        <p>
+                            <hi rend="i">73 v.</hi>
+                        </p>
+                        <p>
+                            <hi rend="i">kesken tanhuvilla</hi>
+                        </p>
+                        <p>
+                            <hi rend="i">67 v.,</hi>
+                        </p>
+                        <p>
+                            <hi rend="i">Heinonen</hi>
+                        </p>
+                        <p>
+                            <hi rend="i">ks. nr. 8.</hi> (painunut koneessa)</p>
+                        <p>
+                            <hi rend="i">Sorsa,</hi>
+                        </p>
+                        <p>
+                            <hi rend="i">poestamise</hi>[<hi rend="i">e</hi>]<hi rend="i">n</hi>
+                        </p>
+                        <p>
+                            <hi rend="i">Krohn 15576</hi>
+                        </p>
+                        <p>
+                            <hi rend="i">Krohn 3852</hi>
+                        </p>
+                        <p>
+                            <hi rend="i">Krohn 4011</hi>
+                        </p>
+                        <p>
+                            <hi rend="i">ks. nr. 217</hi> (johtunut osittaisista muutoksista korjausluvussa)</p>
+                        <p>
+                            <hi rend="i">aldraförft</hi>
+                        </p>
+                        <p>
+                            <hi rend="i"/>
+                        </p>
+                        <p>
+                            <hi rend="i">conficit</hi>
+                        </p>
+                        <p>
+                            <hi rend="i">nousi</hi> (konevirhe)</p>
+                        <p>pohjois-</p>
+                        <p/>
+                    </cell>
+                </row>
+            </table>
+            <p>
+                <hi rend="i"/>
+            </p>
+        </div></body>
+    </text>
+</TEI>

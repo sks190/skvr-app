@@ -1,0 +1,113 @@
+<?teipublisher template="alkulauseet.html" odd="teipublisher.odd" view="single"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>VII1: alkusanat</title>
+                <author>A. R. Niemi</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                <pubPlace>Helsinki</pubPlace>
+                <date>2024</date>
+                <availability>
+                    <p>Tekijänoikeudet: Suomalaisen Kirjallisuuden Seura</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Suoman kansan vanhat runot VII. Raja- ja Pohjois-Karjalan Runot. 1. Kalevalan-aineiset 
+                        kertovaiset runot.</title>
+                    <author>A. R. Niemi (toimittaja)</author>
+                    <pubPlace>Helsinki</pubPlace>
+                    <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                    <date>1929</date>
+                    <series>
+                        <title>Suomalaisen Kirjallisuuden Seuran toimituksia</title>
+                        <biblScope>148, I.</biblScope>
+                    </series>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURAN TOIMITUKSIA.</p>
+            <p>
+                <hi rend="b">148 OSA.</hi>
+            </p>
+            <p>
+                <hi rend="b">I.</hi>
+            </p>
+            <p>SUOMEN KANSAN VANHAT RUNOT VII.</p>
+            <p>RAJA- JA POHJOIS-KARJALAN RUNOT.</p>
+            <p>1.</p>
+            <p>
+                <hi rend="b">KALEVALAN-AINEISET KERTOVAISET RUNOT.</hi>
+            </p>
+            <p>JULKAISSUT A. R. NIEMI.</p>
+            <p>HELSINKI 1929, SUOMALAISEN KIRJALLISUUDEN SEURA.</p>
+            <p/>
+            <p>Alkulause.</p>
+            <p>Tämä julkisuuteen laskettava vanhoja kansanrunojamme sisältävä osa käsittää Suomen Raja- ja Pohjois-Karjalasta kerätyt kalevalan-aineiset kertovaiset runot eli tarkemmin määriteltynä Sortavalan, Salmin, Liperin, Ilomantsin ja Pielisjärven kihlakunnista muistoonpannut runot. Runot on julkaistu kihlakunnittain määrätyssä maantieteellisessä järjestyksessä siten, että on edetty etelästä pohjoiseen ja lännestä itään. Asutuksesta kuitenkin on riippunut, että aluejärjestystä ei aina ole ollut helppo noudattaa.</p>
+            <p>Vanhoissa kokoelmissa ei tavallisesti ole runojen saantipaikkaa merkittynä. Vertaamalla runoja, sisällystä ja muita tunnusmerkkejä huomioon ottamalla, on paikat määrätty Lönnrotin, Europæuksen, Ahlqvistin, Sireliuksen, Polénin y.m. kokoelmissa. Suurena apuna julkaisutyössä on ollut J. Krohnin v. 1888 julkaisema »Kalevalan Toisintojen» ensimäinen vihko, joka sisältää Luomisrunon, Sammonryöstön ja Kilpalaulannon.</p>
+            <p>Tutkimuksen ja vertauksen helpottamiseksi on ilmoitettu, minä numerona asianomainen runo on mainitussa teoksessa sekä milloin paikanmääräys perustuu siihen, mutta itse runot on aina julkaistu käsikirjoitusten mukaan. Europæuksen runosaaliin määräämistä ovat helpottaneet J. Krohnin Valvojassa v. 1887 Europæuksen runonkeruumatkoista julkaisema tutkimus, V. Salmisen yksityiskohtainen tutkimus Europæuksesta ja hänen matkoistaan sekä Europæuksen viisikymmentä vuotta kateissa ollut matkakertomus, jonka löysin v. 1896.</p>
+            <p>Käsikirjoitukset on julkaistu samalla tavoin kuin aikaisemmin. Milloin ne, kuten Krohnilla ja Varosella, ovat pikakirjoituksella tehdyt, on noudatettu kopioita, ensinmainitulla on joskus kopion kateissa ollessa seurattu kopion kopiota, mikä silloin on tähtösellä merkitty. E. Vartiainen ja A. O. Väisänen ovat itse puhtaaksikirjoittaneet muutamat heiltä saadut runot. I. Härkösen kokoelmiin nähden on otettu huomioon eräät kerääjän itsensä kopioihin tekemät pienet oikeinkirjoitusta koskevat korjaukset. L. Pääkkösen kokoelmia ei ole mukaan otettu, koska niiden tältä alueelta olevat runot ovat kaikki enemmän tai vähemmän kokoonpanoa. Samaten on poisjätetty koko joukko kirjasta opittuja runoja, joista myöhemmin on aiottu julkaista erityinen luettelo. Kuitenkaan ei n.s. »Pääskyläisen virttä» ole tahdottu poisjättää, koska useimmissa toisinnoissa on kirjasta opitun ohella jotakin kansanomaistakin.</p>
+            <p>Alueen runolaulajista on kokoelmissa niukasti elämäkerrallisia tietoja. Kokoomalla yhteen eri tahoilta saadut tiedot voi parhaassa tapauksessa luonnehtia jonkun heistä. Arvokkaimmat muistelmat on kerännyt ja julkaissut kirjailija Iivo Härkönen, jonka teoksia on käytetty niihin katsauksiin, joita on sovitettu runojen johdantoihin. Loppuun liitettyyn aakkoselliseen hakemistoon on koottu kaikki johdannoissa nimeltä mainitut laulajat ja tietäjät.</p>
+            <p>Samoja lyhennysmerkkejä, tähtösiä, hakasia ja pystyviivoja, kuin aikaisemmin on käytetty. Alkuun on tavallisesti liitetty lyhyt hakasiin pantu runojen sisällyksen ilmoitus, milloin ne ovat kokoonpanoja eri aineksista. Hakasiin pantuja huutomerkkejä on entistä runsaammin käytetty osottamaan, että jokin, ensi silmäyksellä ehkä painovirheeltä näyttävä kohta, on erittäin tarkistettu ja siis käsikirjoituksen mukainen.</p>
+            <p>Helsingissä syyskuulla 1929.</p>
+            <p>
+                <hi rend="b i">Julkaisija</hi>.</p>
+            <p/>
+            <p>Sisällysluettelo.</p>
+            <table type="contents"> 
+                <row rend="heading"><cell>Sivut</cell><cell/></row>
+                <row rend="heading"><cell>Alkulause</cell><cell>III—IV</cell></row>
+                <row><cell>1. Luomisruno n:t 1—62</cell><cell>1—48</cell></row>
+                <row><cell>2. Saaren luominen (»Pääskyläinen, päivälintu») n:t 63—86</cell><cell>48—59</cell></row>
+                <row><cell>3. Taivaan taonta n:t 87—95 a</cell><cell>59—61</cell></row>
+                <row><cell>4. Väinämöisen syntyminen n. 96</cell><cell>61—63</cell></row>
+                <row><cell>5. Iro-neito n:t 97—135</cell><cell>63—100</cell></row>
+                <row><cell>6. Ohran kylvö n:t 132—135</cell><cell>100—101</cell></row>
+                <row><cell>7. Kilpalaulanto n:t 136—205</cell><cell>101—164</cell></row>
+                <row><cell>8 a. Vastantaitto n:t 206—208</cell><cell>164—165</cell></row>
+                <row><cell>8 b. Katri ja Riion poika n:t 209—217</cell><cell>165—173</cell></row>
+                <row><cell>8 c. Kuuttaren kullat n:t 218—221</cell><cell>173—175</cell></row>
+                <row><cell>8 d. Meren kylventä. Vaatteiden ja korujen menetys. Emon neuvo n:t 222—233</cell><cell>175—181</cell></row>
+                <row><cell>8 e. Sukamereen. Eläimet sanansaattajina n:t 234—247</cell><cell>181—186</cell></row>
+                <row><cell>8 f. Kyynelten vierentä. Kolme käkeä n:t 248—261</cell><cell>186—190</cell></row>
+                <row><cell>9. Vellamon neidon onginta n:t 262—266</cell><cell>190—191</cell></row>
+                <row><cell>10. Ilmanimmen kosinta. Veneenveisto ja Polvenhaava n:t 267 —336</cell><cell>191—224</cell></row>
+                <row><cell>11. Venepuun etsintä n:t 337—341</cell><cell>224—226</cell></row>
+                <row><cell>12. Tuonelassa-käynti n. 342</cell><cell>226—227</cell></row>
+                <row><cell>13. Vipusessa-käynti n:t 343—370</cell><cell>227—236</cell></row>
+                <row><cell>14. Hiidestä-kosinta n:t 371—140</cell><cell>236—335</cell></row>
+                <row><cell>15. Koskelta-kosinta n:t 441—491</cell><cell>336—369</cell></row>
+                <row><cell>16. Kultaneidon taonta n:t 492—509</cell><cell>369—380</cell></row>
+                <row><cell>17. Kojosen poika n:t 510—534</cell><cell>380—399</cell></row>
+                <row><cell>18. Joukosen nainen n:t 535—544</cell><cell>399—405</cell></row>
+                <row><cell>19. Kauon kannel n:t 545—553</cell><cell>405—417</cell></row>
+                <row><cell>20. Laivaretki ja Kanteleen synty n:t 554—647</cell><cell>417—476</cell></row>
+                <row><cell>21. Ilmarisen miekan taonta n:t 648—656</cell><cell>476—479</cell></row>
+                <row><cell>22. Sammonryöstö n:t 657—691</cell><cell>479—503</cell></row>
+                <row><cell>23. Nimettömät taudit n. 692</cell><cell>503</cell></row>
+                <row><cell>24. Auringon ja kuun päästö n:t 693—697 a</cell><cell>503—505</cell></row>
+                <row><cell>25. Väinämöisen Pohjolanretki n:t 698—699</cell><cell>505—507</cell></row>
+                <row><cell>26. Marketta ja Anterus n:t 700—759</cell><cell>507—543</cell></row>
+                <row><cell>27. Lemminkäisen virsi n:t 760—841</cell><cell>543—669</cell></row>
+                <row><cell>28. Auringon, kuun ja tähden kosinta n:t 842—855</cell><cell>669—674</cell></row>
+                <row><cell>29. Hiiden hirven hiihto n:t 856—875</cell><cell>674—683</cell></row>
+                <row><cell>30. Isohärkä. Hämeen ihmeet n:t 876—885</cell><cell>684—685</cell></row>
+                <row><cell>31. Kalevanpojan kosto n:t 886—889</cell><cell>685—689</cell></row>
+                <row><cell>32. Sisaren turmelus n:t 890—899</cell><cell>689—694</cell></row>
+                <row><cell>33. Kullervon sotaanlähtö ja kuolonsanomat n:t 900—930</cell><cell>694—707</cell></row>
+                <row><cell>34. Veikon sotaanlähtö n:t 931—933 a</cell><cell>707—709</cell></row>
+                <row rend="heading"><cell>LIITE.</cell><cell/></row>
+                <row><cell>Kultaneidon taonta n. 933 α</cell><cell>709—710</cell></row>
+                <row><cell>Joukosen nainen n. 933 β</cell><cell>710—711</cell></row>
+                <row><cell>Iso härkä. Hämeen ihmeet n:t 933 γ—933 δ</cell><cell>711</cell></row>
+                <row><cell>Laulajain luettelo</cell><cell>713—719</cell></row>
+            </table>
+        </div></body>
+    </text>
+</TEI>

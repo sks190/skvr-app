@@ -1,0 +1,72 @@
+<?teipublisher template="alkulauseet.html" odd="teipublisher.odd" view="single"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>IV2: alkusanat</title>
+                <author>Väinö Salminen</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                <pubPlace>Helsinki</pubPlace>
+                <date>2024</date>
+                <availability>
+                    <p>Tekijänoikeudet: Suomalaisen Kirjallisuuden Seura</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Suoman kansan vanhat runot IV. Keski-Inkerin runot. 2. Toisinnot 1504−2762.</title>
+                    <author>Väinö Salminen (toimittaja)</author>
+                    <pubPlace>Helsinki</pubPlace>
+                    <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                    <date>1926</date>
+                    <series>
+                        <title>Suomalaisen Kirjallisuuden Seuran toimituksia</title>
+                        <biblScope>140, II.</biblScope>
+                    </series>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div>
+            <p>SUOMALAISEN KIEJALLISUUDEN SEURAN TOIMITUKSIA.</p>
+            <p>140 OSA.</p>
+            <p>II.</p>
+            <p>SUOMEN KANSAN VANHAT RUNOT IV.</p>
+            <p>KESKI-INKERIN RUNOT.</p>
+            <p>2.</p>
+            <p>TOISINNOT 1504—2762.</p>
+            <p>JULKAISSUT</p>
+            <p>VÄINÖ SALMINEN.</p>
+            <p>HELSINKI 1926, SUOMALAISEN KIRJALLISUUDEN SEURA JA SUOMALAISEN KIRJALLISUUDEN SEURAN KIRJAPAINON O/Y.</p>
+            <p/>
+            <p>Sisällysluettelo.</p>
+            <table type="contents">
+                <row rend="heading"><cell>Alkulause</cell><cell/></row>
+                <row rend="heading"><cell>Julkaistut kokoelmat:</cell><cell>Sivut</cell></row>
+                <row><cell>K. Stråhlman n:t 1504—1785</cell><cell>1—108</cell></row>
+                <row><cell>A. A. Borenius n:t 1786—1809</cell><cell>109—121</cell></row>
+                <row><cell>Volmari Porkka n:t 1810—2230</cell><cell>122—488</cell></row>
+                <row><cell>Paavo Ahava n:t 2331—2337</cell><cell>489—493</cell></row>
+                <row><cell>Eliel Saarinen n:t 2338—2458</cell><cell>494—550</cell></row>
+                <row><cell>P. Putkonen n:t 2459—2576</cell><cell>551—611</cell></row>
+                <row><cell>J. Kouhia ja P. Putkonen n:t 2577—2590</cell><cell>612—616</cell></row>
+                <row><cell>Granholm n:t 2591—2608</cell><cell>617—620</cell></row>
+                <row><cell>J. E. Jaakkimainen n:t 2609—2627</cell><cell>621—632</cell></row>
+                <row><cell>J. Fr. Ruotsalainen n:t 2628—4762</cell><cell>633—672</cell></row>
+            </table>
+            <p/>
+            <p>Tätä osaa käyttäessään tutkijan on otettava huomioon seuraavat seikat:</p>
+            <p>
+                <hi rend="italics">K. Stråhlmanin</hi> kokoelman alkupuolen, n:ot 1—244, on kirjoittanut puhtaaksi joku huonosti suomea taitava henkilö. Siitä johtuu, että sen kielellinen asu on huono. Kun alkuperäinen käsikirjoitus on ollut epäselvä, ehkä lyijykynällä kirjoitettu, on puhtaaksikirjoittaja kopioinut runot miten milloinkin on sattunut. Kokoelman loppupuoli n:osta 245 alkaen on todennäköisesti Stråhlmanin omaa käsialaa, osaksi puhtaaksi kirjoitettua, osaksi alkuperäistä käsikirjoitusta.</p>
+            <p>
+                <hi rend="italics">P. Putkosen</hi> kokoelma on kirjoitettu irtonaisille lehdille. Niistä ovat n:rot 19—21 ja 26 joutuneet hukkaan tai mahdollisesti eksyneet toisiin kokoelmiin, niin että julkaisija ei ole niitä voinut käyttää. Samoin on käynyt <hi rend="italics">Kouhian</hi> ja <hi rend="italics">Putkosen</hi> numeroiden 8—11. Putkosen kuoleman jälkeen saadun kokoelman (n:rot 175—257) muistiinpanopaikat eivät ole varmuudella määrättävissä, sen vuoksi, että saantipaikka on vain silloin tällöin ilmoitettu ja samoissa arkeissa on satuja y. m. muistiinpanoja.</p>
+            <p>Helsingissä helmikuulla 1926.</p>
+            <p>
+                <hi rend="b i">Julkaisija.</hi>
+            </p>
+        </div></body>
+    </text>
+</TEI>

@@ -1,0 +1,710 @@
+<?teipublisher template="alkulauseet.html" odd="teipublisher.odd" view="single"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>XIII1: alkusanat</title>
+                <author>Väinö Salminen</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                <pubPlace>Helsinki</pubPlace>
+                <date>2024</date>
+                <availability>
+                    <p>Tekijänoikeudet: Suomalaisen Kirjallisuuden Seura</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Suomen kansan vanhat runot XIII. Etelä-Karjalan runot. 1. Toisinnot 1−2692.</title>
+                    <author>Väinö Salminen (toimittaja)</author>
+                    <pubPlace>Helsinki</pubPlace>
+                    <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                    <date>1936</date>
+                    <series>
+                        <title>Suomalaisen Kirjallisuuden Seuran toimituksia</title>
+                        <biblScope>150, I.</biblScope>
+                    </series>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURAN TOIMITUKSIA.</p>
+            <p>150 OSA.</p>
+            <p>I.</p>
+            <p>SUOMEN KANSAN VANHAT RUNOT XIII.</p>
+            <p>ETELÄ-KARJALAN RUNOT.</p>
+            <p>1.</p>
+            <p>TOISINNOT 1—2692.</p>
+            <p>JULKAISSUT VÄINÖ SALMINEN.</p>
+            <p>HELSINKI 1936,</p>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURA.</p>
+            <p>HELSINKI 1936,SUOMALAISEN KIRJALLISUUDEN SEURAN KIRJAPAINON OY.</p>
+            <p/>
+            <p>Alkulause.</p>
+            <p>Etelä-Karjalan runot on julkaistu siten, että toisinnot seuraavat maantieteellisessä järjestyksessä etelästä pohjoiseen ja idästä länteen. Pitäjien järjestys on seuraava: Metsäpirtti, Rautu, Sakkola, Pyhäjärvi, Valkjärvi, Kivennapa, Terijoki, Uusikirkko (Kanneljärvi), Kuolemajärvi, Koivisto, Johannes, Perkjärvi, Heinjoki, Muola, Vuoksen seutu, Räisälä, Käkisalmi, Kaukola, Hiitola, Kurkijoki, Lumivaara, Jaakkima, Parikkala, Simpele, Rautjärvi, Ilmee, Kirvu, Vuoksenranta, Jääski, Antrea, Nuijamaa, Vahviala, Viipuri, Säkkijärvi, Virolahti, Miehikkälä ja viimeisinä saaret: Lavansaari, Suursaari, Seiskari ja Tytärsaari.</p>
+            <p>Lönnrotin R-kokoelmasta on julkaistu n:ot 1—523, vaikkei ole varmuutta, onko kaikki toisinnot saatu Etelä-Karjalasta. Lönnrot kirjoitti tältä alueelta runoja vain Jaakkiman, Kurkijoen, Parikkalan ja Rautjärven pitäjistä. Mainitut toisinnot ovat enimmäkseen tunnelmarunoja ja on mahdotonta päätellä, ovatko ne näistä pitäjistä tai naapurialueilta saatuja.</p>
+            <p>Muutamiin käsikirjoituksiin ovat käyttäjät aikojen kuluessa tehneet korjauksia ja huomautuksia. Niitä ei julkaisussa ole otettu huomioon. Slöörin kokoelman kahden ensimmäisen vihon alkuperäiset käsikirjoitukset löytyivät vasta, kun tämä osa jo oli osaksi ladottu. Jos alkuperäisen ja puhtaaksikirjoitettujen toisintojen eroavaisuuksia on paljon, on ne julkaistu eri a-toisintoina eikä alamuistutuksina.</p>
+            <p>Eräissä uusissa kokoelmissa on käytetty foneettista kirjoitustapaa (esim. Maria Ruuttu ja Lauri Hakulinen). Kun niiden julkaisu sellaisenaan olisi tullut tavattoman kalliiksi, olen tasoitellut niiden kirjoitusasun tavalliseksi Suomalaisten käyttämäksi. Samasta syystä on muutamissa kokoelmissa sanan lopussa tavattava epäselvästi ääntyvä n, joka on merkitty pienellä rivin ylä- tai alapuolella olevalla kirjaimella, korvattu asettamalla n sulkumerkkien väliin.</p>
+            <p>Useissa kokoelmissa käytetään niin epätasaisesti säkeitten alussa isoja ja pieniä alkukirjaimia, ettei ole ollut syytä niistä tuhansissa alamuistutuksissa huomauttaa. Sellaiset kokoelmat luetellaan tämän alueen viimeisen niteen alkulauseessa. Siihen on jätetty myöskin muut käsikirjoituksia koskevat huomautukset.</p>
+            <p>Tähän niteeseen tulee huomattavasti lisiä sen vuoksi, että kertovat runot oli jo painettu, tunnelmarunot ladottu, ennenkuin Kalevalan riemuvuoden kilpakeräyksen tulokset saapuivat.</p>
+            <p>Amanuenssi <hi rend="i">Sulo Haltsoselle</hi> lausun kiitokseni hänen antamistaan useista lisistä, jotka muuten olisivat jääneet huomaamatta.</p>
+            <p>Helsingissä heinäkuun 23 p:nä 1936.</p>
+            <p>
+                <hi rend="i">Julkaisija.</hi>
+            </p>
+            <p/>
+            <p>Sisällysluettelo.</p>
+            <table type="contents">
+                <row rend="heading"><cell>Sivut</cell><cell/></row>
+                <row rend="heading"><cell>Alkulause </cell><cell> V—VI</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">1. Kertovaisia runoja.</hi>
+                </cell><cell/></row>
+                <row><cell>Ahvenen valitus n:o 1</cell><cell> 1</cell></row>
+                <row><cell>Aittaan pukeutumaan mennyt neito n:t 2, 1514 </cell><cell> 1, 597</cell></row>
+                <row><cell>Ajatteli amputauti n:o 3 </cell><cell> 1—2</cell></row>
+                <row><cell>Ammuin joutsenet joelta n:o 4 </cell><cell> 2</cell></row>
+                <row><cell>Annikaisen virsi n:t 5—6 </cell><cell> 2</cell></row>
+                <row><cell>Ansiotyökosinta n:t 7—10 </cell><cell> 2—4</cell></row>
+                <row><cell>Anteruksen sotaan lähtö. Itkun tiedustelu n:t 11—16 </cell><cell> 4—6</cell></row>
+                <row><cell>Anterus sotaan. Kuolonsanomat n:t 17—19 </cell><cell> 6—8</cell></row>
+                <row><cell>Elettiin ennen meillä n:t 20—29 </cell><cell> 8—9</cell></row>
+                <row><cell>Elinan surma n:o 30 </cell><cell> 9</cell></row>
+                <row><cell>Emo ja sotaan menevä poika n:o 31 </cell><cell> 9—10</cell></row>
+                <row><cell>Emo kuollut n:o 32 </cell><cell>  10</cell></row>
+                <row><cell>Emo(lle) marjaan. Emon kuolo n:t 33—59 </cell><cell> 10—25</cell></row>
+                <row><cell>Emon vaivojen palkinto n:t 60—63 </cell><cell> 25—27</cell></row>
+                <row><cell>Etsin viikon velloani n:o 64 </cell><cell> 27—28</cell></row>
+                <row><cell>Haamu neuvoo nuorukaista onnen luoksi n:o 65 </cell><cell> 28</cell></row>
+                <row><cell>Hanhi ja joutsen n:o 66 </cell><cell> 28</cell></row>
+                <row><cell>Hanhi kadonnut n:t 67—80, 1439—1440 </cell><cell> 28—34, 674</cell></row>
+                <row><cell>Hauki koristeet ja vaatteet n:t 81—83 </cell><cell> 34—35</cell></row>
+                <row><cell>Hekon runo n:o 84 </cell><cell> 35</cell></row>
+                <row><cell>Helina laski lehmät leholle n:o 85 </cell><cell> 35</cell></row>
+                <row><cell>Helka sorja helmittäkin n:o 86 </cell><cell> 35</cell></row>
+                <row><cell>Hevonen kadonnut kyntäjältä n:t 87—98 </cell><cell> 35—38</cell></row>
+                <row><cell>Hevonen kadonnut veljeltä n:t 99—146, 1441—1444</cell><cell>38—68, 575—576</cell></row>
+                <row><cell>Hevosen pilaus n:o 147 </cell><cell> 58</cell></row>
+                <row><cell>Hevosen varas oluenjuojalta n:t 148—157 </cell><cell> 58—62</cell></row>
+                <row><cell>Hevosen varas paimenelta n:o 158 </cell><cell> 62</cell></row>
+                <row><cell>Hiihdin, tein majan, tapoin punaisen kukon n:o 159 </cell><cell> 62</cell></row>
+                <row><cell>Hiihto, karhunnahka n:o 160 </cell><cell> 62—63</cell></row>
+                <row><cell>Hirvi vai hevonen n:o 161 </cell><cell> 63</cell></row>
+                <row><cell>Hullu tyttö etsi korvesta kiviä n:t 162—166 </cell><cell> 63—64</cell></row>
+                <row><cell>Humalan ja ohran keskustelu n:t 167—172 </cell><cell> 64—66</cell></row>
+                <row><cell>Huono morsian n:o 173 </cell><cell> 66 —67</cell></row>
+                <row><cell>Hämeen ihmeet n:t 174—201, 1447 </cell><cell> 67—74, 576—577</cell></row>
+                <row><cell>Hämäläisen vasikka n:o 202 </cell><cell> 74</cell></row>
+                <row><cell>Häät on häijyn pesässä n:o 203 </cell><cell> 74—75</cell></row>
+                <row><cell>Ierikka meni ongelle ojalle n:o 204 </cell><cell> 75</cell></row>
+                <row><cell>Ihmemaa n:t 205—219, (vrt. Sormin soutu n:t 1143—1159)</cell><cell> 75—78</cell></row>
+                <row><cell>Ihmeitten tekijä n:t 220—222 </cell><cell> 78—79</cell></row>
+                <row><cell>Ihmetupa n:o 223 </cell><cell> 79</cell></row>
+                <row><cell>Iivanan virsi n:t 224,1517 </cell><cell> 79, 597—598</cell></row>
+                <row><cell>Ilman immen kosinta n:o 225 </cell><cell> 79</cell></row>
+                <row><cell>Ilmarinen kengitti hevosta n:t 226—227 </cell><cell> 80</cell></row>
+                <row><cell>Ilmarinen takoo taivaan n:o 228 </cell><cell> 80</cell></row>
+                <row><cell>Iso hauki n:t 229—232 </cell><cell> 80—81</cell></row>
+                <row><cell>Iso härkä n:t 233—242 </cell><cell> 81—82</cell></row>
+                <row><cell>Iso mosika n:o 243 </cell><cell>  82—83</cell></row>
+                <row><cell>Isoni orosen osti n:t 244—246 </cell><cell> 83</cell></row>
+                <row><cell>Iso sika n:t 247—267 </cell><cell> 83—88</cell></row>
+                <row><cell>Iso tammi n:t 268—283, 1448—1448 a </cell><cell> 89—92, 577</cell></row>
+                <row><cell>Isä kengitti hevosta pojan naimaan mennä n:o 284 </cell><cell> 92—93</cell></row>
+                <row><cell>Jalka kiveen n:t 285—287 </cell><cell> 93</cell></row>
+                <row><cell>Jänis neuvo poikiansa n:t 288—296 </cell><cell> 93—96</cell></row>
+                <row><cell>Kaikki kuoli sukuni n:o 297 </cell><cell> 96</cell></row>
+                <row><cell>Kaksi kauppamiestä kosi Kalevan neittä n:o 298 </cell><cell> 96</cell></row>
+                <row><cell>Kaleva poikineen etsi elosijaa n:o 299 </cell><cell> 96—97</cell></row>
+                <row><cell>Kannan rahaa Tanilan linnan takaa n:o 300 </cell><cell> 97</cell></row>
+                <row><cell>Kantele-jakso n:t 301—346 </cell><cell> 97—123</cell></row>
+                <row><cell>Karhu kaasi Annikin lehmät n:o 347 </cell><cell> 123</cell></row>
+                <row><cell>Kasken kaato n:o 348 </cell><cell> 124—125</cell></row>
+                <row><cell>Katrina kotikananen n:t 349—362 </cell><cell> 125—134</cell></row>
+                <row><cell>Kaukamoinen n:t 363—364 </cell><cell> 134</cell></row>
+                <row><cell>Kauno kalaan n:t 365—383 </cell><cell> 134—144</cell></row>
+                <row><cell>Kiersin vitsan pihlajaisen n:o 384 </cell><cell> 144</cell></row>
+                <row><cell>Kiikan lapset n:o 385 </cell><cell> 144—145</cell></row>
+                <row><cell>Kilpalaulanta n:t 386—388 </cell><cell> 145—146</cell></row>
+                <row><cell>Kivinen leipä n:o 389 </cell><cell> 146</cell></row>
+                <row><cell>Kodin hävittäjä n:o 390 </cell><cell> 147</cell></row>
+                <row><cell>Kojosen poika. Konnusta kosinta n:t 391—423, 1519</cell><cell>147—167, 599</cell></row>
+                <row><cell>Kolme koskea kovaa n:o 424 </cell><cell> 167</cell></row>
+                <row><cell>Kolme kummaa Muolaassa n:o 425 </cell><cell> 167</cell></row>
+                <row><cell>Kolme kälystä n:o 426 </cell><cell> 168</cell></row>
+                <row><cell>Kouluun kotonta n:t 427—431, 1520 </cell><cell> 168, 599</cell></row>
+                <row><cell>Kukontappaja veikko n:o 432 </cell><cell> 169</cell></row>
+                <row><cell>Kukon tappo n:t 433—434 </cell><cell> 169</cell></row>
+                <row><cell>Kullasta saari. Saaren neito n:t 435—449 </cell><cell> 169—175</cell></row>
+                <row><cell>Kullervo n:t 450—490, 1521 </cell><cell> 176—199, 599</cell></row>
+                <row><cell>Kultalangan katkeaminen n:t 491—504 </cell><cell> 199—204</cell></row>
+                <row><cell>Kultaneidon taonta n:t 505—515 </cell><cell> 205—214</cell></row>
+                <row><cell>Kuokin kesoisen päivän. Kaupunginmatka n:t 516—523, 1473</cell><cell>214—217, 585</cell></row>
+                <row><cell>Kuoleman enteet n:o 524 </cell><cell> 217</cell></row>
+                <row><cell>Kuoli kumppalini n:o 525 </cell><cell> 217</cell></row>
+                <row><cell>Kuolonsanomat (Vrt. Anterus sotaan) n:t 526—536 </cell><cell> 217—222</cell></row>
+                <row><cell>Kurjet soilla riitelevät n:t 537—543 </cell><cell> 222—223</cell></row>
+                <row><cell>Kutitin, kutitin kumppalini n:t 544—546, 1522 </cell><cell> 223, 599—600</cell></row>
+                <row><cell>Kuukausien keskustelu n:t 547—552 </cell><cell> 223—224</cell></row>
+                <row><cell>Kylvin kylmän saunan n:o 553 </cell><cell> 224</cell></row>
+                <row><cell>Kynnet kylmänneet poukuilla n:o 554 </cell><cell> 224</cell></row>
+                <row><cell>Kyppä n:o 555 </cell><cell> 224—225</cell></row>
+                <row><cell>Kyynelten vierintä n:o 556 </cell><cell> 225</cell></row>
+                <row><cell>Kävin kymmenen kylää n:t 557—559 </cell><cell> 225—226</cell></row>
+                <row><cell>Kävin piennä paimenessa n:t 560—561</cell><cell> 226</cell></row>
+                <row><cell>Kävin piennä Pietarihin n:o 562 </cell><cell> 226</cell></row>
+                <row><cell>Laivassa surmattu veli n:t 563—575 </cell><cell> 226—231</cell></row>
+                <row><cell>Laivaretki. Kalanluinen kannel n:o 576 </cell><cell> 231</cell></row>
+                <row><cell>Lauri Lappalainen n:t 577—590 </cell><cell> 231—240</cell></row>
+                <row><cell>Leino leski n:t 591—613 </cell><cell> 240—248</cell></row>
+                <row><cell>Linnahan likaksi n:t 614—616 </cell><cell> 248—249</cell></row>
+                <row><cell>Lintu lauloi: miten kotona, miehelässä n:t 617—626 </cell><cell> 249—252</cell></row>
+                <row><cell>Lohikäärme ja neito n:t 627—659 </cell><cell> 252—263</cell></row>
+                <row><cell>Lunastettava neito n:t 660—676 </cell><cell> 264—273</cell></row>
+                <row><cell>Luojan virsi n:o 677 </cell><cell> 273</cell></row>
+                <row><cell>Luomisruno n:t 678—736, 1523—1524 </cell><cell> 273—292, 600</cell></row>
+                <row><cell>Läksin höyhen höytämähän n:o 737 </cell><cell> 292</cell></row>
+                <row><cell>Läksin puolaan n:o 738 </cell><cell> 292—293</cell></row>
+                <row><cell>Läksin uimahan kivelle n:o 739 </cell><cell> 293</cell></row>
+                <row><cell>Löysin kultasen omenan n:o 740 </cell><cell> 293</cell></row>
+                <row><cell>Löysin neitosen lehosta n:o 741 </cell><cell> 293</cell></row>
+                <row><cell>Mansikka mäellä huusi n:t 742—774, 1525 </cell><cell> 293—298, 600—601</cell></row>
+                <row><cell>Marketan runo n:t 775—799, 1526—1529 </cell><cell> 298—311, 601</cell></row>
+                <row><cell>Mataleenan virsi n:o 800 </cell><cell> 311—312</cell></row>
+                <row><cell>Meiän peiju petti neion n:o 801 </cell><cell> 312</cell></row>
+                <row><cell>Menin kirkkohon kesällä n:t 802—805 </cell><cell> 312—313</cell></row>
+                <row><cell>Menin Korpelan kokolle n:o 806 </cell><cell> 313</cell></row>
+                <row><cell>Menin metsää koiran keral n:o 807 </cell><cell> 313</cell></row>
+                <row><cell>Menin suolle sotkemaan, löysin virsun paulat n:o 808 </cell><cell> 313</cell></row>
+                <row><cell>Meren kosijat n:t 809—832 </cell><cell> 313—322</cell></row>
+                <row><cell>Meren kylpijä neito n:o 833 </cell><cell> 322</cell></row>
+                <row><cell>Meren neito, metsän sulho n:o 834 </cell><cell> 323</cell></row>
+                <row><cell>Miehentappaja neito n:t 835—842 </cell><cell> 323—328</cell></row>
+                <row><cell>Miehet miekka vyöllä n:o 843 </cell><cell> 328</cell></row>
+                <row><cell>Miekka merestä n:o 844 </cell><cell> 328</cell></row>
+                <row><cell>Mies hongan takaa (kosii) neitosta n:o 845 </cell><cell> 328—329</cell></row>
+                <row><cell>Morsiamen (sulhon) kuolo n:t 846—852,1530—1531 </cell><cell> 329—330, 601—602</cell></row>
+                <row><cell>Myyty neito n:t 853—865 </cell><cell> 331—339</cell></row>
+                <row><cell>Mäkäräinen maasta huusi n:t 866—869 </cell><cell> 339—340</cell></row>
+                <row><cell>Nain naisen pikkaraisen n:o 870 </cell><cell> 340</cell></row>
+                <row><cell>Neidon kosijat n:t 871—872 </cell><cell> 340</cell></row>
+                <row><cell>Neidon linna n:t 873—897 </cell><cell> 340—346</cell></row>
+                <row><cell>Neljän neidon runo. Satoi ukko uutta lunta n:t 898—906, 1532</cell><cell> 346—348, 602</cell></row>
+                <row><cell>Nälän kulku n:t 907—908 </cell><cell> 349</cell></row>
+                <row><cell>Olin orja vellolleni n:t 909—912 </cell><cell> 349—350</cell></row>
+                <row><cell>Olin Virossa, ostin yliset, alaiset n:o 913 </cell><cell> 350</cell></row>
+                <row><cell>Oljamissa käynti n:t 914—944 </cell><cell> 350—375</cell></row>
+                <row><cell>Oluen kerskaus n:o 945 </cell><cell> 375</cell></row>
+                <row><cell>Oluen teko ja myynti n:o 946 </cell><cell> 375</cell></row>
+                <row><cell>Omenatammi n:o 947 </cell><cell> 375</cell></row>
+                <row><cell>Ongelle ojalle n:t 948—950 </cell><cell> 375—376</cell></row>
+                <row><cell>Onko teiän Osmolassa n:t 951—959 </cell><cell> 376—378</cell></row>
+                <row><cell>Löysin neion sotkuiltansa. On minussa miehen naista n:o 960</cell><cell>378</cell></row>
+                <row><cell>Onnen etsijä n:o 961 </cell><cell> 379</cell></row>
+                <row><cell>Orava lauloi n:o 962 </cell><cell> 379</cell></row>
+                <row><cell>Pahasulhollinen n:t 963—975 </cell><cell> 379—386</cell></row>
+                <row><cell>Pietari sytytti taivaassa kynttilän. Legenda n:t 976—977 a </cell><cell> 386—387</cell></row>
+                <row><cell>Pilviin viety n:t 978—991 </cell><cell> 387—394</cell></row>
+                <row><cell>Pilvivene. (Pilvilampi) n:t 992—1001 </cell><cell> 394—397</cell></row>
+                <row><cell>Poika läksi neidon noudantaan n:o 1002 </cell><cell> 397</cell></row>
+                <row><cell>Pojat viedään sotaan n:t 1003—1004 </cell><cell> 397—398</cell></row>
+                <row><cell>Polvenhaava n:t 1005—1007 </cell><cell> 398</cell></row>
+                <row><cell>Pontuksen runo n:o 1008—1039 </cell><cell> 399—414</cell></row>
+                <row><cell>Purren itku n:t 1040—1040 a </cell><cell> 414—415</cell></row>
+                <row><cell>Päivänpäästö n:t 1041—1044 </cell><cell> 415—416</cell></row>
+                <row><cell>Pääskysen laulu n:o 1045 </cell><cell> 416</cell></row>
+                <row><cell>Reki vieri, tie lyheni n:o 1046 </cell><cell> 416</cell></row>
+                <row><cell>Repo neuvo poikiansa n:o 1047 </cell><cell> 416—417</cell></row>
+                <row><cell>Revon itku n:t 1048—1074, 1534 </cell><cell> 417—421, 602—603</cell></row>
+                <row><cell>Ristitty metsä n:o 1075 </cell><cell> 421</cell></row>
+                <row><cell>Runoreki n:t 1076—1096 </cell><cell> 421—427</cell></row>
+                <row><cell>Sairastava neito n:t 1097—1107 </cell><cell> 427—429</cell></row>
+                <row><cell>Samporuno n:t 1108—1113 </cell><cell> 429—430</cell></row>
+                <row><cell>Sarkaviitan saanut n:t 1114—1115 </cell><cell> 431</cell></row>
+                <row><cell>Sedän soitto pidoissa n:o 1116 </cell><cell> 431</cell></row>
+                <row><cell>Sepän emäntä kirnusi kivellä voita n:o 1117, 1507—1511 </cell><cell> 431, 595—596</cell></row>
+                <row><cell>Sepän lehmää lypsin n:o 1118 </cell><cell> 431—432</cell></row>
+                <row><cell>Sika neuvo poikiaan n:o 1119 </cell><cell> 432</cell></row>
+                <row><cell>Sisaren turmelus n:t 1120—1135 </cell><cell> 432—443</cell></row>
+                <row><cell>Sodan kuvaus n:t 1136—1140 </cell><cell> 443—444</cell></row>
+                <row><cell>Soitan suolla mennessäni. Saaren neito n:o 1141 </cell><cell> 444</cell></row>
+                <row><cell>Sokea poika soitteli n:o 1142 </cell><cell> 445</cell></row>
+                <row><cell>Sormin soutu, (vrt. Ihmemaa) n:t 1143—1159 </cell><cell> 445—448</cell></row>
+                <row><cell>Sormus kadonnut n:o 1160 </cell><cell> 448</cell></row>
+                <row><cell>Sotaan vietyä veljeä itkevä neito n:t 1161—1162 </cell><cell> 448—449</cell></row>
+                <row><cell>Sotamiehenotto n:t 1163—1188 </cell><cell> 449—459</cell></row>
+                <row><cell>Sotamiesten pilaama Mari n:o 1189 </cell><cell> 459</cell></row>
+                <row><cell>Sotasanomat n:t 1190—1198 </cell><cell> 459—463</cell></row>
+                <row><cell>Sudet söivät neitopaimenen lehmät n:o 1199 </cell><cell> 463</cell></row>
+                <row><cell>Suka mereen n:t 1200—1223 </cell><cell> 463—474</cell></row>
+                <row><cell>Sukat surmalle lupasin n:o 1224 </cell><cell> 474—475</cell></row>
+                <row><cell>Sulho ruoskan Pietarista tuomisiksi n:o 1225 </cell><cell> 475</cell></row>
+                <row><cell>Suomenmaan palo n:t 1226—1227 </cell><cell> 475</cell></row>
+                <row><cell>Suomen silta n:o 1228 </cell><cell> 476</cell></row>
+                <row><cell>Suotta tehty Suomen linna n:o 1229 </cell><cell> 476</cell></row>
+                <row><cell>Surma paukkaa tuvan takana n:o 1230 </cell><cell> 476</cell></row>
+                <row><cell>Susi lausui lampahalle n:t 1231—1232, 1498 </cell><cell> 476—477, 591—592</cell></row>
+                <row><cell>Suvannolľ on suuret piiat n:t 1233 —1235 </cell><cell> 477</cell></row>
+                <row><cell>Suvannon lasku n:o 1236 </cell><cell> 477—478</cell></row>
+                <row><cell>Taivaankappalten kosinta n:t 1237—1240 </cell><cell> 478—479</cell></row>
+                <row><cell>Taivaan takominen n:t 1241—1242 </cell><cell> 479</cell></row>
+                <row><cell>Tein tielle tetrin ansan n:o 1243 </cell><cell> 479</cell></row>
+                <row><cell>Tengan tieltä (ostin) oriin, kylvin kymmenen vakoa n:t 1244 —1245</cell><cell>479</cell></row>
+                <row><cell>Tiaisen olut n:t 1246—1255 </cell><cell> 479—481</cell></row>
+                <row><cell>Torakan virsi n:o 1256 </cell><cell> 481—482</cell></row>
+                <row><cell>Tuleeko pojista emon elättäjää n:o 1257 </cell><cell> 482</cell></row>
+                <row><cell>Turulle, turulle pyssyn kanssa n:o 1258 </cell><cell> 482</cell></row>
+                <row><cell>Tuuli kaataa Kojosenpojan veneen n:o 1259 </cell><cell> 482</cell></row>
+                <row><cell>Tuuterin tuhmat n:t 1260—1262 </cell><cell> 483</cell></row>
+                <row><cell>Tyttö ja kauppias n:o 1263 </cell><cell> 483—484</cell></row>
+                <row><cell>Tytärten hukuttaja n:t 1264—1280 </cell><cell> 484—497</cell></row>
+                <row><cell>Valjasti iso tulisen ruunan n:o 1281 </cell><cell> 497</cell></row>
+                <row><cell>Varas koristeet n:t 1282—1313 </cell><cell>497—514</cell></row>
+                <row><cell>Varkaalle menijä n:t 1314—1330 </cell><cell> 514—522</cell></row>
+                <row><cell>Vedenkantaja neito n:t 1331—1335 </cell><cell> 522—525</cell></row>
+                <row><cell>Veikolaisen poika n:o 1336 </cell><cell> 525</cell></row>
+                <row><cell>Veipä aallokko ajolle n:o 1337 </cell><cell> 526</cell></row>
+                <row><cell>Velisurmaaja n:t 1338—1342 </cell><cell> 526—529</cell></row>
+                <row><cell>Veljeään kyntämään odotellut n:t 1343, 1429 </cell><cell> 529, 570</cell></row>
+                <row><cell>Vello tulee, tuo silkin, ummiskengät n:o 1344 </cell><cell> 529</cell></row>
+                <row><cell>Veneenveisto ja laivaretki n:t 1345—1358 </cell><cell> 529—537</cell></row>
+                <row><cell>Veneeseen pyrkivä n:t 1359—1363 </cell><cell> 537—539</cell></row>
+                <row><cell>Veneestä pyrkivä neito n:t 1364—1382 </cell><cell> 539—550</cell></row>
+                <row><cell>Venepuun etsintä n:t 1383—1394 </cell><cell> 550—556</cell></row>
+                <row><cell>Venäläistä vieressään suvaitseva n:o 1395 </cell><cell> 556</cell></row>
+                <row><cell>Vesitiellä pilattu n:o 1396 </cell><cell> 556—557</cell></row>
+                <row><cell>Vesitiellä viipynyt neito n:t 1397—1398 </cell><cell> 557</cell></row>
+                <row><cell>Vesitieltä viety n:o 1399 </cell><cell> 557—558</cell></row>
+                <row><cell>Vesi tippu vempeleestä n:t 1400—1401 </cell><cell> 558</cell></row>
+                <row><cell>Vieläkö veljekset elävät n:o 1402 </cell><cell> 558</cell></row>
+                <row><cell>Vierin maalle vierahalle n:t 1403—1405 </cell><cell> 558—559</cell></row>
+                <row><cell>Viikon viivyin Viipurissa n:t 1406—1407 </cell><cell> 559</cell></row>
+                <row><cell>Viinanjuoja n:o 1408 </cell><cell> 559 —560</cell></row>
+                <row><cell>Viitta viety kirkkomäellä n:o 1409 </cell><cell> 560</cell></row>
+                <row><cell>Vipunen tiedolla venettä n:t 1410—1413 </cell><cell> 560—561</cell></row>
+                <row><cell>Viron orja n:t 1414—1428 </cell><cell> 561—570</cell></row>
+                <row><cell>Vuottelen velloa kyntämään n:o 1429 </cell><cell> 570</cell></row>
+                <row><cell>Väinämöinen Pohjolassa n:o 1430 </cell><cell> 570</cell></row>
+                <row><cell>Väinämöisen hiihto n:o 1431 </cell><cell> 571</cell></row>
+                <row><cell>Väinämöisen kielto n:o 1432 </cell><cell> 571</cell></row>
+                <row><cell>Ylkä karjassa kosi n:o 1433 </cell><cell> 571—572</cell></row>
+                <row><cell>Yläjärvelľ on yksi tyttö n:o 1434 </cell><cell> 572</cell></row>
+                <row><cell>Yöjalassa käynyt poika n:t 1435—1436 </cell><cell> 572—573</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">II Kertovia runo-aihelmia.</hi>
+                </cell><cell/></row>
+                <row><cell>Alta linnan airot soivat n:o 1437 </cell><cell> 574</cell></row>
+                <row><cell>Ei oo sääli Suomen maata n:o 1438 </cell><cell> 574</cell></row>
+                <row><cell>Hanhi kadonnut n:t 1439—1440 </cell><cell> 574</cell></row>
+                <row><cell>Hevonen hävinnyt veljeltä 1441—1444 </cell><cell> 575 —576</cell></row>
+                <row><cell>Hevosen varas veljeltä n:o 1445 </cell><cell> 576</cell></row>
+                <row><cell>Hirvi hikosi juostessansa n:o 1446 </cell><cell> 576</cell></row>
+                <row><cell>Hämeen ihmeet n:o 1447</cell><cell> 576—577</cell></row>
+                <row><cell>Iso tammi n:t 1448 —1448 a </cell><cell> 577</cell></row>
+                <row><cell>Kaarlen sota n:o 1449 </cell><cell> 577</cell></row>
+                <row><cell>Kankaan kudonta n:t 1450—1451 </cell><cell> 577—578</cell></row>
+                <row><cell>Karjalan kaset palavat n:t 1452—1454 </cell><cell> 578</cell></row>
+                <row><cell>Kauppolan kamala tyttö n:o 1455 </cell><cell> 578</cell></row>
+                <row><cell>Kerpaan vaimot n:o 1456 </cell><cell> 579</cell></row>
+                <row><cell>Keväinen näky n:o 1457 </cell><cell> 579—580</cell></row>
+                <row><cell>Kissa kirnuun putosi n:o 1458 </cell><cell> 580</cell></row>
+                <row><cell>Kissan surma n:t 1459—1461 </cell><cell> 580—581</cell></row>
+                <row><cell>Kissan virsi n:t 1462—1465 </cell><cell> 581—582</cell></row>
+                <row><cell>Koiran keittäjät n:t 1466—1467 </cell><cell> 582—584</cell></row>
+                <row><cell>Koivistoll on miehet kolkat n:o 1468 </cell><cell> 584</cell></row>
+                <row><cell>Kolme riihtä rinnatuksin n:o 1469 </cell><cell> 584</cell></row>
+                <row><cell>Kuitu kurkkuun vedestä n:o 1470 </cell><cell> 584</cell></row>
+                <row><cell>Kuka tappo kukkoni n:o 1471 </cell><cell> 584</cell></row>
+                <row><cell>Kumma kuusikossa n:o 1472 </cell><cell> 584</cell></row>
+                <row><cell>Kuokin kesosen päivän n:o 1473 </cell><cell> 585</cell></row>
+                <row><cell>Kynnä kynsilläsi n:o 1474</cell><cell>585</cell></row>
+                <row><cell>Kävin Suomet, saaret n:t 1475—1476</cell><cell>585</cell></row>
+                <row><cell>Lantin kuolema. Mies vieraalta maalta n : o 1477</cell><cell>585—586</cell></row>
+                <row><cell>Larin akka n:t 1478—1479</cell><cell>586—587</cell></row>
+                <row><cell>Laulu tappelusta n:o 1480</cell><cell>587</cell></row>
+                <row><cell>Lemmennosto n:o 1481</cell><cell>.587—588</cell></row>
+                <row><cell>Livvuin soita, livvuin maita n:t 1482—1483</cell><cell>588</cell></row>
+                <row><cell>Lohen ja lahnan keskustelu n:o 1484</cell><cell>588</cell></row>
+                <row><cell>Loi Jumala kaksi poikalasta, kaksi tyttölasta n:o 1485</cell><cell>588—589</cell></row>
+                <row><cell>Läksin minä kuurusilla käymaan n:o 1486</cell><cell>589</cell></row>
+                <row><cell>Matin maat, hevoset n:o 1487</cell><cell>589</cell></row>
+                <row><cell>Matti kävi kosissa n:o 1488</cell><cell>589</cell></row>
+                <row><cell>Mitä lauletaan, kun vesi venetta viepi n:t 1489—1489 a</cell><cell>589—590</cell></row>
+                <row><cell>Nauruvirsi n:o 1490</cell><cell>590</cell></row>
+                <row><cell>Olin orjana Virossa n:t 1491—1493</cell><cell>590</cell></row>
+                <row><cell>Pidin piennä pellavaista n:o 1494 </cell><cell>590</cell></row>
+                <row><cell>Pietarissä käynti n:t 1495—1496</cell><cell>590—591</cell></row>
+                <row><cell>Piika istuu kivellä n:o 1497</cell><cell>591</cell></row>
+                <row><cell>Susi lausui lampahall: Miksei kelloa kesällä n:o 1498</cell><cell>591—592</cell></row>
+                <row><cell>Punaparran (Napoleonin) sodasta n:t 1499—1500</cell><cell>592—594</cell></row>
+                <row><cell>Purlakan elämä n:o 1501</cell><cell>594</cell></row>
+                <row><cell>Passin keitto n:t 1502—1503</cell><cell>594</cell></row>
+                <row><cell>Rengin elämä n:o 1504</cell><cell>594—595</cell></row>
+                <row><cell>Seppä, tao rautanen harava n:o 1505</cell><cell>595</cell></row>
+                <row><cell>Seppä, tee terävä miekka n:o 1506</cell><cell>595</cell></row>
+                <row><cell>Sepän emäntä kirnusi kivellä voita n:t 1507—1511</cell><cell>595—596</cell></row>
+                <row><cell>Tuolta tulevat kuoharit n:o 1512</cell><cell>596</cell></row>
+                <row><cell>Venäläinen vainolainen n:o 1513</cell><cell>596</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">Lisiä.</hi>
+                </cell><cell/></row>
+                <row rend="heading"><cell>KERTOVIA RUNOJA</cell><cell/></row>
+                <row><cell>Aittaan mäelle n:o 1514</cell><cell>597</cell></row>
+                <row><cell>Anni keitti kellit n:o 1515</cell><cell>597</cell></row>
+                <row><cell>Elin syksyn — näinko kesän n:o 1516</cell><cell>597</cell></row>
+                <row><cell>Iivanan virsi n:o 1517 597—598</cell></row>
+                <row><cell>Katrina kuningas n:t 1518—1518 a</cell><cell>598—599</cell></row>
+                <row><cell>Konnusta kosinta n:o 1519</cell><cell>599</cell></row>
+                <row><cell>Kouluun kotonta n:o 1520 </cell><cell> 599</cell></row>
+                <row><cell>Kullervo-runo n:o 1521 </cell><cell> 599</cell></row>
+                <row><cell>Kutitin kultaistani n:o 1522 </cell><cell> 599—600</cell></row>
+                <row><cell>Luomisruno n:t 1523—1524 </cell><cell> 600</cell></row>
+                <row><cell>Mansikka mäellä huutaa n:o 1525 </cell><cell> 600—601</cell></row>
+                <row><cell>Marketan runo n:t 1526 —1529 </cell><cell> 601</cell></row>
+                <row><cell>Morsiamen kuolo n:t 1530—1531 </cell><cell> 601—602</cell></row>
+                <row><cell>Neljän neidon runo n:o 1532 </cell><cell> 602</cell></row>
+                <row><cell>Poltan aitan ahvenilta n:o 1533 </cell><cell> 602</cell></row>
+                <row><cell>Revon itku n:o 1534 </cell><cell> 602—603</cell></row>
+                <row><cell>Kansanomainen sepitelmä n:o 1535 </cell><cell> 603—605</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">III. Tunnelmarunoja</hi>.</cell><cell/></row>
+                <row rend="heading"><cell>LAULU.</cell><cell/></row>
+                <row rend="heading"><cell>L a u l a j a n  a l k u s a n o j a:</cell><cell/></row>
+                <row><cell>Annas virttäni alotan n:t 1536—1537 </cell><cell> 606</cell></row>
+                <row><cell>Joko ruvennen runolle n:t 1538—1539 </cell><cell> 606—607</cell></row>
+                <row><cell>Kehannenko, kelvannenko n:t 1540—1541 </cell><cell> 607</cell></row>
+                <row><cell>Mikä kumma kulkullani n:o 1542 </cell><cell> 607—608</cell></row>
+                <row><cell>Ruvennenko, rohkenenko n:t 1543—1544 </cell><cell> 608—609</cell></row>
+                <row><cell>Sopineeko suurta suutani avata n:o 1545 </cell><cell> 609</cell></row>
+                <row><cell>Tupa täynnä tuppisuita. Mie alotan n:t 1546—1551 </cell><cell> 609—610</cell></row>
+                <row rend="heading"><cell>E r i l a i s i a a i h e l m i a l a u l u s t a:</cell><cell/></row>
+                <row><cell>Aina laulan laitettava n:o 1552 </cell><cell> 611</cell></row>
+                <row><cell>Aina soisin soitettavan n:o 1552 a </cell><cell> 611</cell></row>
+                <row><cell>Ei kumaja kuiva kulkku n:t 1553—1559 </cell><cell> 611—612</cell></row>
+                <row><cell>Ei minun laulella pitäisi n:t 1560—1563 </cell><cell> 613</cell></row>
+                <row><cell>Ei ole hullun kieltäjää n:t 1564—1567 </cell><cell> 613—615</cell></row>
+                <row><cell>Ei pilli perettä toita n:o 1568 </cell><cell> 615</cell></row>
+                <row><cell>Ei tässä lauta laula n:t 1569—1572 </cell><cell> 616—617</cell></row>
+                <row><cell>Elä neito kilvoin laula. Laulu ei kosista kiellä n:o 1573 </cell><cell> 617</cell></row>
+                <row><cell>Emo antoi luvan laulaa n:o 1574 </cell><cell> 617</cell></row>
+                <row><cell>Emo ei saanut laululla rahoja n:t 1575—1584 </cell><cell> 617—620</cell></row>
+                <row><cell>Emo voisi voilla kulkun n:t 1585—1586 </cell><cell> 620</cell></row>
+                <row><cell>En ilolla laula n:t 1587—1590 </cell><cell> 620—621</cell></row>
+                <row><cell>En jouda laulamaan n:t 1591—1593 </cell><cell> 621—622</cell></row>
+                <row><cell>En laula, kun ei kulta kuulemassa n:o 1594 </cell><cell> 623</cell></row>
+                <row><cell>En laula viinatta, oluetta n:t 1595—1596 </cell><cell> 623</cell></row>
+                <row><cell>En luvannut laulavani n:o 1597 </cell><cell> 623</cell></row>
+                <row><cell>En ole laulajan lajia n:t 1598—1600 </cell><cell> 623—624</cell></row>
+                <row><cell>En ole opissa ollut n:t 1601—1606 </cell><cell> 624—626</cell></row>
+                <row><cell>En oo nokki nuotilleni, vilkko virsilleni n:o 1607 </cell><cell> 626</cell></row>
+                <row><cell>En rahatta laula n:t 1608—1623 </cell><cell> 626—629</cell></row>
+                <row><cell>En viitsi vierailta (velloltani) laulaa n:t 1624—1627 </cell><cell> 629—630</cell></row>
+                <row><cell>Ilolla laulaja n:t 1628—1630 </cell><cell> 630—631</cell></row>
+                <row><cell>Jokos laulut lauennehet n:t 1631—1634 </cell><cell> 631—632</cell></row>
+                <row><cell>Jos en laulaa osanne, laulan laulajan jälestä n:o 1635 </cell><cell> 632—633</cell></row>
+                <row><cell>Kelläys n:t 1636—1637 </cell><cell> 633</cell></row>
+                <row><cell>Ken laulaa kun katoomme n:t 1638—1639 </cell><cell> 633</cell></row>
+                <row><cell>Koettelen äänöstäni n:t 1640—1643 </cell><cell> 633—634</cell></row>
+                <row><cell>Kolme laulajaveljestä n:o 1644 </cell><cell> 634</cell></row>
+                <row><cell>Kun ois kulta kuulemassa n:t 1645—1649 </cell><cell> 634—635</cell></row>
+                <row><cell>Kun ois viina virren pääll n:o 1650 </cell><cell> 635</cell></row>
+                <row><cell>Kun oot viisas virsille n:o 1651 </cell><cell> 635</cell></row>
+                <row><cell>Käki kukkui, maa kumaji n:t 1652—1653 </cell><cell> 635—636</cell></row>
+                <row><cell>Käski kulkku kukkumahan n:o 1654 </cell><cell> 636</cell></row>
+                <row><cell>Käykää virret kätösillein n:o 1655 </cell><cell> 636</cell></row>
+                <row><cell>Laihan laulella tulee n:t 1656—1658 </cell><cell> 637—638</cell></row>
+                <row><cell>Laiska on luotu laulamaan n:o 1659 </cell><cell> 638</cell></row>
+                <row><cell>Laki ei kiellä laulamasta n:o 1660 </cell><cell> 638</cell></row>
+                <row><cell>La mie laulan laarittelen n:o 1661 </cell><cell> 638</cell></row>
+                <row><cell>Laskekaa vaa laulun mennä n:o 1662 </cell><cell> 638</cell></row>
+                <row><cell>Laulaa nyt laksuttelemme n:o 1663 </cell><cell> 638</cell></row>
+                <row><cell>Laulaisin, kun ei tuojani toruisi. Veikko vieremässä n:o 1664</cell><cell>639</cell></row>
+                <row><cell>Laulaisin liki kotia n:t 1665 —1669 </cell><cell> 639 —640</cell></row>
+                <row><cell>Laulaisin omilla mailla n:o 1670 </cell><cell> 640</cell></row>
+                <row><cell>Laulaja juomari n:o 1671 </cell><cell> 640</cell></row>
+                <row><cell>Laulakaamme lasta kaksi n:t 1672 —1674 </cell><cell> 640—641</cell></row>
+                <row><cell>Laula lirppu, laula larppu n:o 1675 </cell><cell> 641</cell></row>
+                <row><cell>Laulan ennen kuin tulen vanhaksi n:t 1676—1682 </cell><cell> 641—642</cell></row>
+                <row><cell>Laulan kotona, en julkia kylässä n:o 1683 </cell><cell> 643</cell></row>
+                <row><cell>Laulan langoissani n:t 1684 —1686 </cell><cell> 643</cell></row>
+                <row><cell>Laulan mielellä hyvällä n:t 1687 </cell><cell> 643</cell></row>
+                <row><cell>Laula suu suruinen aikanaan n:t 1688—1691 </cell><cell> 643—645</cell></row>
+                <row><cell>Laulavat Lapinkin lapset n:t 1692—1707 </cell><cell> 645 —649</cell></row>
+                <row><cell>Lauloin ennen, taisin ennen n:t 1708—1714 </cell><cell> 649—650</cell></row>
+                <row><cell>Lauloin lapsempana n:t 1715—1719 </cell><cell> 650—651</cell></row>
+                <row><cell>Lauluun kehoitus n:o 1720 </cell><cell> 651</cell></row>
+                <row><cell>Liekö virsissä vikoja n:o 1721 </cell><cell> 651</cell></row>
+                <row><cell>Meidän ja teidän lasten laulu n:o 1722 </cell><cell> 651—652</cell></row>
+                <row><cell>Merimiehet lauloivat n:o 1723 </cell><cell> 652</cell></row>
+                <row><cell>Mie laulan liirittelen n:t 1724—1726 </cell><cell> 652</cell></row>
+                <row><cell>Miesten soitto, naisten laulu n:o 1727 </cell><cell> 652</cell></row>
+                <row><cell>Mie teen virren viitastani n:o 1728 </cell><cell> 653</cell></row>
+                <row><cell>Miksei soi soria ääni n:o 1729 </cell><cell> 653</cell></row>
+                <row><cell>Minun laulella tulee n:o 1730 </cell><cell> 653</cell></row>
+                <row><cell>Minä laulan pitkät virret n:t 1731—1732 </cell><cell> 653</cell></row>
+                <row><cell>Mitä lauletaan, kun Viro kokee n:o 1733 </cell><cell> 654</cell></row>
+                <row><cell>Mitä mietin virrekseni n:o 1734 </cell><cell> 654</cell></row>
+                <row><cell>Mitä tuosta, jos laulan n:t 1735—1738 </cell><cell> 654—655</cell></row>
+                <row><cell>Mitä virrekseni — ison, emon, veljen viitan n:o 1739 </cell><cell> 655</cell></row>
+                <row><cell>Niin lauloi Larin Paraske n:o 1740 </cell><cell> 656</cell></row>
+                <row><cell>Nyt mie jouan laulamaan n:t 1741—1760 </cell><cell> 656—659</cell></row>
+                <row><cell>Nyt on virret vieronneet n:o 1761 </cell><cell> 659</cell></row>
+                <row><cell>Olen opissa ollut n:o 1762 </cell><cell> 660</cell></row>
+                <row><cell>Omat on virret oppimani n:o 1763—1764 </cell><cell> 660</cell></row>
+                <row><cell>Paljo mieletön pakajan n:t 1765—1766 </cell><cell> 660</cell></row>
+                <row><cell>Paljon laulanut joutuu juomarille 1767—1769 </cell><cell> 660—661</cell></row>
+                <row><cell>Saapiko huutaa hovissa n:t 1770—1774 </cell><cell> 661—663</cell></row>
+                <row><cell>Saisin kurelta kulkun n:o 1775 </cell><cell> 663</cell></row>
+                <row><cell>Soittaa soria likka n:o 1776 </cell><cell> 663</cell></row>
+                <row><cell>Soitto n:o 1777 </cell><cell> 663</cell></row>
+                <row><cell>Soitto suruista tehty n:o 1778 </cell><cell> 663</cell></row>
+                <row><cell>Sortunut ääni n:t 1779—1792 </cell><cell> 663—668</cell></row>
+                <row><cell>Surulla laulan n:o 1793 </cell><cell> 668—669</cell></row>
+                <row><cell>Tulkaa virteni tupaan n:t 1794—1800 </cell><cell> 669—671</cell></row>
+                <row><cell>Tuulet toi sanoja n:o 1801 </cell><cell> 671</cell></row>
+                <row><cell>Viikkokausi virttä tehty n:o 1802 </cell><cell> 671</cell></row>
+                <row><cell>Viivyin virttä laulamahan n:o 1803 </cell><cell> 671</cell></row>
+                <row><cell>Virsi ei ole minun tekemäni n:t 1804—1805 </cell><cell> 671</cell></row>
+                <row><cell>Virsille viriä, laiska työlle n:t 1806 —1809 </cell><cell> 671 —673</cell></row>
+                <row><cell>Vuoro laulaa n:t 1810—1812 </cell><cell> 673</cell></row>
+                <row><cell>Vuorolaulu n:o 1813 </cell><cell> 673—674</cell></row>
+                <row><cell>Väinämöinen toi virret n:o 1814 </cell><cell> 674—675</cell></row>
+                <row><cell>Äsken ois viisas virren seppä n:o 1815 </cell><cell> 675</cell></row>
+                <row><cell>Ääni vieno n:t 1816—1819 </cell><cell> 675—676</cell></row>
+                <row rend="heading"><cell>L a u l a j a n  k e r s k a u k s i a:</cell><cell/></row>
+                <row><cell>Ei ole noista laulajista n:t 1820—1822 </cell><cell> 676</cell></row>
+                <row><cell>Ei ole tullutta tupahan n:t 1823—1825 </cell><cell> 676—677</cell></row>
+                <row><cell>Ei sanat puhellen puutu n:o 1826 </cell><cell> 677</cell></row>
+                <row><cell>Ei virret puutu n:t 1827—1828 </cell><cell> 678</cell></row>
+                <row><cell>Ennnen metsä puita puuttu kuin suu sanoja n:t 1829—1837 </cell><cell> 678—680</cell></row>
+                <row><cell>Kuunnelkaa nyt kunnon virttä n:o 1838 </cell><cell> 680</cell></row>
+                <row><cell>Kyntäjällä väkeä —laulajalla sanoja n:o 1839 </cell><cell> 680</cell></row>
+                <row><cell>Laulaisin meret mesiksi n:t 1840—1852 </cell><cell> 680—682</cell></row>
+                <row><cell>Laulamme yheksän yötä n:t 1853—1860 </cell><cell> 683—684</cell></row>
+                <row><cell>Laulan laulajat mokomat n:t 1861—1864 </cell><cell> 684—685</cell></row>
+                <row><cell>Laulan tammen keskitanhualle n:t 1865—1880 </cell><cell> 685—689</cell></row>
+                <row><cell>Liki meitä listakirja n:o 1881 </cell><cell> 689</cell></row>
+                <row><cell>Meill ei virttä viikon tehdä n:o 1882 </cell><cell> 689</cell></row>
+                <row><cell>Meilľ on soitot soppiloissa n:o 1882 a </cell><cell> 689</cell></row>
+                <row><cell>Mie ku avvaan arkun kannen n:t 1883—1885 </cell><cell> 689—690</cell></row>
+                <row><cell>Myö kun lauluille lasemma n:t 1886—1894 </cell><cell> 690—693</cell></row>
+                <row><cell>Oispa mulla virtosia n:t 1895—1897 </cell><cell> 693—694</cell></row>
+                <row><cell>Täss on vanha virren seppä n:o 1898 </cell><cell> 694</cell></row>
+                <row rend="heading"><cell>L a u l a j a n  l o p p u s a n o j a:</cell><cell/></row>
+                <row><cell>Eihän yhä yksi jaksa n:o 1899 </cell><cell> 694—695</cell></row>
+                <row><cell>Heponenki hengästyy n:t 1900—1902 </cell><cell> 695</cell></row>
+                <row><cell>Heretään, heitellään n:o 1903 </cell><cell> 695</cell></row>
+                <row><cell>Jo loppui loruni n:o 1904 </cell><cell> 695</cell></row>
+                <row><cell>Olkoon sille, jääköön tälle n:t 1905—1906</cell><cell> 695—696</cell></row>
+                <row><cell>Pian piisaa on minusta n:o 1907 </cell><cell> 696</cell></row>
+                <row><cell>Virren jatko n:o 1908 </cell><cell> 696</cell></row>
+                <row><cell>Virsi loppui, kun lopetan n:o 1909 </cell><cell> 696</cell></row>
+                <row><cell>Virsi loppui, tie sokeni n:t 1910—1911 </cell><cell> 696</cell></row>
+                <row><cell>Vässyyt väkevätkii n:t 1912—1913 </cell><cell> 697</cell></row>
+                <row><cell>Älkää ouoksi otelko n:o 1914 </cell><cell> 697</cell></row>
+                <row rend="heading"><cell>HUOLI, ITKU JA SURU.</cell><cell/></row>
+                <row><cell>Annan huolia hevosen n:t 1915—1919 </cell><cell> 697—698</cell></row>
+                <row><cell>Ei ole kelle haastelen haluni n:t 1920—1932 </cell><cell> 698—701</cell></row>
+                <row><cell>Ei ole sitä hevosta, joka huoleni vetäisi n:t 1933—1934 </cell><cell> 701</cell></row>
+                <row><cell>Ei oo ilta, kun en itke n:t 1936—1940 </cell><cell> 701—702</cell></row>
+                <row><cell>Ei sula suruni n:t 1941—1950 </cell><cell> 702—704</cell></row>
+                <row><cell>Ei tiedä yksikään, mitä mielessäni n:t 1951—1951 a </cell><cell> 705</cell></row>
+                <row><cell>Ei tule uni usein huolellisen huoneeseen n:t 1952—1953 </cell><cell> 705</cell></row>
+                <row><cell>Enempi huolta kuin kuusessa käpyjä n:t 1954—1958 </cell><cell> 705—706</cell></row>
+                <row><cell>En oo musta luonnon musta n:t 1959—1962 </cell><cell> 706—707</cell></row>
+                <row><cell>En sure sotakesiä n:o 1963 </cell><cell> 707</cell></row>
+                <row><cell>En tiedä tekijäistäni n:t 1964—1966 </cell><cell> 707—708</cell></row>
+                <row><cell>Entinen ja nykyinen elämäni n:t 1967—1972 </cell><cell> 708 —709</cell></row>
+                <row><cell>Huoli n:t 1973—1980 </cell><cell> 709—712</cell></row>
+                <row><cell>Itke en itseäni, lapsiani n:t 1981 —1982 </cell><cell> 712</cell></row>
+                <row><cell>Itken ihanat silmät n:t 1983—1984 </cell><cell> 712—713</cell></row>
+                <row><cell>Itken miehen mieletyyttä n. 1985 </cell><cell> 713</cell></row>
+                <row><cell>Itkin ilman syyttä ison sylissä n:t 1986—1992 </cell><cell> 713—716</cell></row>
+                <row><cell>Itku ja nauru n:t 1993—1994 </cell><cell> 716</cell></row>
+                <row><cell>Itkun pieksijä n:o 1995 </cell><cell> 716—717</cell></row>
+                <row><cell>Itkuset minun iloni n:t 1996—1997 </cell><cell> 717</cell></row>
+                <row><cell>Jos käki olisin, kukkuisin huolelliselle n:t 1998—2000 </cell><cell> 717</cell></row>
+                <row><cell>Kanna korppi huoliani n:t 2001—2009 </cell><cell> 718—720</cell></row>
+                <row><cell>Kasvatti emo kanoja n:t 2010—2032 </cell><cell> 720—727</cell></row>
+                <row><cell>Kun mie kuolisin kotihin n:t 2033—2035 </cell><cell> 727</cell></row>
+                <row><cell>Laulan hoikka huolissani n:o 2036 </cell><cell> 727—728</cell></row>
+                <row><cell>Liekkö Jumala luonut kaikki huolet huolimaan n:o 2037 </cell><cell> 728</cell></row>
+                <row><cell>Maassa mieleni makaa n:o 2038 </cell><cell> 728</cell></row>
+                <row><cell>Mahtoi ennen emoni n:t 2039—2072 </cell><cell> 728—737</cell></row>
+                <row><cell>Miehen kuoletellut n:o 2073 </cell><cell> 737</cell></row>
+                <row><cell>Miks on silmäni kipiät n:t 2074—2077 </cell><cell> 738</cell></row>
+                <row><cell>Mitä, siso, suret n:o 2078 </cell><cell> 738</cell></row>
+                <row><cell>Päätäni pahoin panee — viekää ikuisille vuotehille n:o 2079 </cell><cell> 739</cell></row>
+                <row><cell>Silmät sipalat —lasna penkiltä putosin n:o 2080 </cell><cell> 739</cell></row>
+                <row><cell>Surmalle sukat tekisin n:t 2081—2083 </cell><cell> 739</cell></row>
+                <row><cell>Surulľ on susi metsässä n:o 2084 </cell><cell> 739</cell></row>
+                <row><cell>Suru päätäni sukii n:o 2085 </cell><cell> 739</cell></row>
+                <row><cell>Surusta suitset n:t 2086 —2098 </cell><cell> 739 —743</cell></row>
+                <row><cell>Vilu vatsa varpusella, minun vilumpi n:o 2099 </cell><cell> 743</cell></row>
+                <row rend="heading"><cell>ORPO, ONNETON JA KOVAOSAINEN.</cell><cell/></row>
+                <row><cell>Armoton isoton, emoton lapsi n:t 2100—2103 </cell><cell> 744—745</cell></row>
+                <row><cell>Ei itke iso minua n:t 2104—2109 </cell><cell> 745—746</cell></row>
+                <row><cell>Ei kasva kaikki lapset n:t 2110—2123 </cell><cell> 746—749</cell></row>
+                <row><cell>Ei ole hurstin huolijata n:t 2124—2126 </cell><cell> 749 —750</cell></row>
+                <row><cell>Ei surma suorin tehnyt n:t 2127—2134 </cell><cell> 750—751</cell></row>
+                <row><cell>Ei tupa ison tekemä n:o 2135 </cell><cell> 751</cell></row>
+                <row><cell>Ei usota uupuvani n:t 2136—2137 </cell><cell> 751</cell></row>
+                <row><cell>Emo jätti kuin jänö pojansa n:t 2138—2144 </cell><cell> 751—753</cell></row>
+                <row><cell>Emon (ison) haudalla n:t 2145—2161 </cell><cell> 753—760</cell></row>
+                <row><cell>Haudalta kotiin tullessa n:t 2162—2163 </cell><cell> 760—761</cell></row>
+                <row><cell>Joko meidät halla hautoi n:o 2164 </cell><cell> 761</cell></row>
+                <row><cell>Jos en itse voivottele, voivottavat vuotehet n:o 2165. </cell><cell> 761</cell></row>
+                <row><cell>Jouduin kurja kulkemaan n:t 2166—2169 </cell><cell> 762</cell></row>
+                <row><cell>Jouduin puille pyöriville n:t 2170—2175 </cell><cell> 762—763</cell></row>
+                <row><cell>Jouduin vaivasen vadille n:o 2176 </cell><cell> 763—764</cell></row>
+                <row><cell>Kaikki sanat sakoovat n:t 2177—2179 </cell><cell> 764</cell></row>
+                <row><cell>Kolme kokematonta n:t 2180—2197 </cell><cell> 764—768</cell></row>
+                <row><cell>Koprin kuopan kaivaisin n:o 2198 </cell><cell> 768</cell></row>
+                <row><cell>Korvessa on kotini n:t 2199—2209 </cell><cell> 768 —772</cell></row>
+                <row><cell>Kuhun joudut kurja raukka n:o 2210 </cell><cell> 772</cell></row>
+                <row><cell>Kullan kuolettanut n:o 2211 </cell><cell> 772</cell></row>
+                <row><cell>Kun emoni, isäni eläisi n:t 2212—2217 </cell><cell> 772—773</cell></row>
+                <row><cell>Kuriton, sisukas orpo n:o 2218 </cell><cell> 773</cell></row>
+                <row><cell>Luulin tuotavan emoa n:t 2219—2227 </cell><cell> 773—775</cell></row>
+                <row><cell>Lähenkö revon rekehen, jänön jälille n:t 2228—2242 </cell><cell> 775—780</cell></row>
+                <row><cell>Millä lienen surman suututtanut n:t 2243—2250 </cell><cell> 780 —781</cell></row>
+                <row><cell>Minulľ on turva turpehessa n:t 2251—2260 </cell><cell> 782—783</cell></row>
+                <row><cell>Niin vierin vellostani n:t 2261—2267 </cell><cell> 783—785</cell></row>
+                <row><cell>Oisin kuollut kolmiöisnä n:t 2268—2272 </cell><cell> 785—786</cell></row>
+                <row rend="heading"><cell>O n n i, o s a:</cell><cell/></row>
+                <row><cell>Huono osa annetaan n:o 2273 </cell><cell> 786</cell></row>
+                <row><cell>Iso käski rikkahalle, onni vaivaselle n:o 2274 </cell><cell> 786</cell></row>
+                <row><cell>Kun ois onni ostettava n:t 2275—2285 </cell><cell> 786—788</cell></row>
+                <row><cell>Osakkaan, osattoman onni n:o 2286</cell><cell> 788</cell></row>
+                <row><cell>Osallisen onni valvoi n:t 2287—2292 </cell><cell> 789</cell></row>
+                <row><cell>Toisin onni ohjaeli n:o 2293 </cell><cell> 789</cell></row>
+                <row><cell>Orpona n:t 2294—2295 </cell><cell> 789—790</cell></row>
+                <row><cell>Osasi omenan tehdä, ei istutella n:t 2296—2309 </cell><cell> 790 —793</cell></row>
+                <row><cell>Piennä petti miun emoini n:t 2310—2316 </cell><cell> 793—795</cell></row>
+                <row><cell>Pimeä isoton pirtti n:t 2317—2320 </cell><cell> 795—796</cell></row>
+                <row><cell>Raha vieri, rauta vieri n:t 2321—2330 </cell><cell> 796—798</cell></row>
+                <row><cell>Sijan tiiän, kussa synnyin n:t 2331—2347 </cell><cell> 798—802</cell></row>
+                <row><cell>Suku suuttu, heimo heitti n:o 2348 </cell><cell> 802</cell></row>
+                <row><cell>Tunnen tuulet, tunnen tyynet n:t 2349—2359 </cell><cell> 802—805</cell></row>
+                <row><cell>Älä itke iso minua n:o 2360 </cell><cell> 805</cell></row>
+                <row rend="heading"><cell>MINIÄNÄ JA SANANALAISENA.</cell><cell/></row>
+                <row><cell>Akat saatanat sanovat n:t 2361—2362 </cell><cell> 806</cell></row>
+                <row><cell>Anopilla lyhyet sääret n:o 2363 </cell><cell> 806</cell></row>
+                <row><cell>Anopin apuna jos voisin vuoden olla n:t 2364—2367 </cell><cell> 806—807</cell></row>
+                <row><cell>Anoppi ja appi n:o 2368 </cell><cell> 807</cell></row>
+                <row><cell>Emo ois voinut kasvattaa kaunihimman n:t 2369—2370 </cell><cell> 807—808</cell></row>
+                <row><cell>Emännän syy n:o 2371 </cell><cell> 808</cell></row>
+                <row><cell>En nyt mitään maksa n:t 2372—2374 </cell><cell> 808</cell></row>
+                <row><cell>Jauhaja miniä n:t 2375—2376 </cell><cell> 808—809</cell></row>
+                <row><cell>Kaikki muut minua sanovat n:t 2377—2386 </cell><cell> 809—811</cell></row>
+                <row><cell>Kotona kasvaneen neidon lempi-, miniän haukkumanimet n:t 2387—2407</cell><cell>811—819</cell></row>
+                <row><cell>Kussa kuulen moitittavan n:t 2408—2409 </cell><cell> 819 —820</cell></row>
+                <row><cell>Mieli kurja, tuomatoin toruu n:o 2410 </cell><cell> 820</cell></row>
+                <row><cell>Miniänä n:t 2411—2415 </cell><cell> 820—821</cell></row>
+                <row><cell>Minua kaikki syövät n:o 2416 </cell><cell> 821</cell></row>
+                <row><cell>Mitä huolin kylän sanoista n:t 2417—2420 </cell><cell> 821 —822</cell></row>
+                <row><cell>Monta muoria minulla n:t 2421 —2423 </cell><cell> 822</cell></row>
+                <row><cell>Oisin ison kotona n:o 2424 </cell><cell> 822—823</cell></row>
+                <row><cell>Oven suussa oudot silmät n:o 2425 </cell><cell> 823</cell></row>
+                <row><cell>Paha pahemmaksi pantanehe n:o 2426 </cell><cell> 823</cell></row>
+                <row><cell>Parempi kymmenen kytyä kuin yksi nato n:t 2427—2435 </cell><cell> 823—824</cell></row>
+                <row><cell>Sananalainen n:t 2436—2437 </cell><cell> 824—825</cell></row>
+                <row><cell>Sanottiin syömäriksi, juomariksi n:t 2438—2441 </cell><cell> 825</cell></row>
+                <row><cell>Seppälässä kiviset kengät n:t 2442—2443 </cell><cell> 825—826</cell></row>
+                <row><cell>Soisit suohon sortuvani n:t 2444—2448 </cell><cell> 826—828</cell></row>
+                <row><cell>Survo itse, hylkäsit hyvän miniän n:o 2449 </cell><cell> 828</cell></row>
+                <row><cell>Tulin kummaksi kylään n:t 2450—2451 </cell><cell> 828</cell></row>
+                <row><cell>Vaikea varhain nousta n:t 2452—2454 </cell><cell> 828</cell></row>
+                <row><cell>Vieras eukko, viekas eukko n:t 246—2461 </cell><cell> 829—831</cell></row>
+                <row><cell>Vihanen miniä n:t 2462—2463 </cell><cell> 831</cell></row>
+                <row rend="heading"><cell>NEITOJEN LAULUJA.</cell><cell/></row>
+                <row><cell>Ainoan pojan akaksi n:o 2464 </cell><cell> 832</cell></row>
+                <row><cell>Ajat menee aatellessa n:o 2465 </cell><cell> 832</cell></row>
+                <row><cell>Ei ole suotu, ei ole luotu n:t 2466—2467 </cell><cell> 832—833</cell></row>
+                <row><cell>Ei täyvy tätä tytärtä rengille n:t 2468—2469 </cell><cell> 833</cell></row>
+                <row><cell>Elköön tuhma tulkokaan n:t 2470—2471 </cell><cell> 833</cell></row>
+                <row><cell>Emo synnytti minua, mie syäntä n:o 2472 </cell><cell> 833—834</cell></row>
+                <row><cell>En mie huoli haalikkoa n:t 2473—2474 </cell><cell> 834</cell></row>
+                <row><cell>En mä huoli huitukoille n:t 2475—2477 </cell><cell> 834</cell></row>
+                <row><cell>Ennen kannan maitokannun kuin kaskipölkyn n:t 2478—2482</cell><cell>834—835</cell></row>
+                <row><cell>En ole sulhasen surussa n:o 2483 </cell><cell> 835</cell></row>
+                <row><cell>En tunne anoppiani n:o 2484 </cell><cell> 835—836</cell></row>
+                <row><cell>Hylättiin hyvä metsä hyötymään n:o 2485 </cell><cell> 836</cell></row>
+                <row><cell>Hyvä tyttönä elää n:t 2486—2490 </cell><cell> 836—837</cell></row>
+                <row><cell>Hyvä tyttönä hypätä n:t 2491—2494 </cell><cell> 837</cell></row>
+                <row><cell>Ikävä oman puolen poikasia n:t 2495—2496 </cell><cell> 837—838</cell></row>
+                <row><cell>Joko meiät halla hauto n:o 2497 </cell><cell> 838</cell></row>
+                <row><cell>Jos eläisi emoni n:t 2498—2500 </cell><cell> 838—839</cell></row>
+                <row><cell>Jos kenkäni kuluvat n:o 2501</cell><cell> 839</cell></row>
+                <row><cell>Juomarille joutumasta varjelkoon Jumala n:t 2602—2513 </cell><cell> 839—841</cell></row>
+                <row><cell>Kaks on meitä kuin kanaista n:t 2514—2517 </cell><cell> 841 —842</cell></row>
+                <row><cell>Kuku kultainen käkönen n:t 2518—2522 </cell><cell> 842—843</cell></row>
+                <row><cell>Kun me kanat katoomme n:t 2523—2527 </cell><cell> 843—844</cell></row>
+                <row><cell>Kun miekin miehen saisin n:t 2528—2529 </cell><cell> 844</cell></row>
+                <row><cell>Kun oisin pohatan tyttö n:t 2530—2531 </cell><cell> 844</cell></row>
+                <row><cell>Kun ois vellot verralliset n:o 2532 </cell><cell> 844—845</cell></row>
+                <row><cell>Kun olin ison kotona, voissa vuoteheni n:o 2533 </cell><cell> 845</cell></row>
+                <row><cell>Kun saisin salissa maata n:t 2534—2536 </cell><cell> 845—846</cell></row>
+                <row><cell>Kun tulee toinen vuosi n:t 2537—2538 </cell><cell> 846</cell></row>
+                <row><cell>Kyllä ommella osaan n:o 2539 </cell><cell> 846—847</cell></row>
+                <row><cell>Käki kukkuu kuusessa n:o 2540 </cell><cell> 847</cell></row>
+                <row><cell>Lempo menköhön leselle n:t 2541—2561 </cell><cell> 847—848</cell></row>
+                <row><cell>Luulin nuorra naitavaksi n:t 2552—2555 </cell><cell> 849</cell></row>
+                <row><cell>Lähe höyhen höytämään n:t 2556—2656 a </cell><cell> 850</cell></row>
+                <row><cell>Läkkä mustat muille maille n:t 2557—2563 </cell><cell> 850—851</cell></row>
+                <row><cell>Meit ei kaihota kasel n:o 2564 </cell><cell> 852</cell></row>
+                <row><cell>Menkää pojat sivuitse n:o 2565 </cell><cell> 852</cell></row>
+                <row><cell>Miks ei minuista naida n:t 2566—2574 </cell><cell> 862—854</cell></row>
+                <row><cell>Miksei naia naapuriin — menen linnaan n:t 2575—2576 </cell><cell> 854</cell></row>
+                <row><cell>Mikä tulee minusta n:t 2577—2582 </cell><cell> 854—855</cell></row>
+                <row><cell>Missä pojat viikot viettänette n:o 2583 </cell><cell> 856</cell></row>
+                <row><cell>Mitä huoli neito nuori n:t 2584—2585 </cell><cell> 866</cell></row>
+                <row><cell>Mitä me tytöt suremme n:t 2586—2589 </cell><cell> 856—857</cell></row>
+                <row><cell>Muodon moittiminen n:t 2590—2593 </cell><cell> 857</cell></row>
+                <row><cell>Neidon toive n:o 2594 </cell><cell> 858</cell></row>
+                <row rend="heading"><cell>N e i t o j e n  k e r s k a u k s i a:</cell><cell/></row>
+                <row><cell>Mie kun kävin, kämärä läikkyi n:t 2595—2604 </cell><cell> 858—859</cell></row>
+                <row><cell>Mitä huolmin nuorella ijällä n:o 2605 </cell><cell> 860</cell></row>
+                <row><cell>Erilaisia neitojen kerskauksia n:t 2606—2610 </cell><cell> 860—862</cell></row>
+                <row><cell>Neito, joka antaisi n:o 2611 </cell><cell> 862</cell></row>
+                <row><cell>Neito kotona kuin kuningas linnassansa n:t 2612—2624 </cell><cell> 862—865</cell></row>
+                <row><cell>Neito kyntää, kylvää itse n:o 2625 </cell><cell> 865—866</cell></row>
+                <row><cell>Olin kuin omenan kukka n:t 2626—2627 </cell><cell> 866</cell></row>
+                <row><cell>Olin kukkana kujalla n:t 2628—2630 </cell><cell> 866</cell></row>
+                <row><cell>Olin yhtä, makson kaksi n:o 2631 </cell><cell> 866</cell></row>
+                <row><cell>Osan tähen ei otettu n:o 2632 </cell><cell> 866—867</cell></row>
+                <row><cell>Parempi pajulla maata n:t 2633—2634 </cell><cell> 867</cell></row>
+                <row><cell>Passipo emolle, kun teki tytön mokoman n:t 2635—2638 </cell><cell> 867</cell></row>
+                <row><cell>Piikkoliivit pitäis tehä n:o 2639 </cell><cell> 867</cell></row>
+                <row><cell>Poikana kun oisin n:t 2640—2646 </cell><cell> 868—869</cell></row>
+                <row><cell>Poikien moittiminen n:t 2647—2648 </cell><cell> 869—870</cell></row>
+                <row><cell>Rengille rekehen n:o 2649 </cell><cell> 870</cell></row>
+                <row><cell>Sineen ja mataraan n:t 2650—2652 </cell><cell> 870</cell></row>
+                <row><cell>Sinis hoppa huoletonna, kunnes ohjat ostamatta n:t 2653—2654</cell><cell>870—871</cell></row>
+                <row><cell>Soisin kun soria oisin n:o 2655 </cell><cell> 871</cell></row>
+                <row><cell>Souan miekin miehen eestä n:t 2656—2657 </cell><cell> 871</cell></row>
+                <row><cell>Sulhaset jää surulle, kun kuolen n:t 2658—2659 </cell><cell> 871—872</cell></row>
+                <row><cell>Sulhot tälle tyttärelle n:t 2660—2662 </cell><cell> 872</cell></row>
+                <row><cell>Suvainnootko suot jänistä n:o 2663 </cell><cell> 872</cell></row>
+                <row><cell>Taas minua tarvitahan n:o 2664 </cell><cell> 872—873</cell></row>
+                <row><cell>Teen paijan palttinaisen n:t 2665—2667 </cell><cell> 873</cell></row>
+                <row><cell>Tehtäis myö kivinen kirkko n:o 2668 </cell><cell> 873</cell></row>
+                <row><cell>Tupakat ei tule meille n:t 2669—2670 </cell><cell> 873—874</cell></row>
+                <row><cell>Tyttöjen tankit taiten tehty n:o 2671 </cell><cell> 874</cell></row>
+                <row><cell>Tänä vuonna tässä laulan n:o 2672 </cell><cell> 874</cell></row>
+                <row><cell>Täss’ on tykky tyttölöitä n:t 2673—2674 </cell><cell> 874</cell></row>
+                <row><cell>Vara valita n:o 2675 </cell><cell> 874</cell></row>
+                <row><cell>Varjele Jumala vanhalle menemästä n:o 2676 </cell><cell> 874 —875</cell></row>
+                <row><cell>Veikolleni viimen virkon n:o 2677 </cell><cell> 875</cell></row>
+                <row><cell>Voi meitä meren omia n:o 2678 </cell><cell> 875</cell></row>
+                <row><cell>Välehen vähä väsyypi n:o 2679 </cell><cell> 875</cell></row>
+                <row><cell>Älä ennen naista ota n:t 2680—2686 </cell><cell> 875 —876</cell></row>
+                <row><cell>Erilaisia neitojen lauluja n:t 2687—2692 </cell><cell> 876—877</cell></row>
+            </table>
+            
+        </div></body>
+    </text>
+</TEI>

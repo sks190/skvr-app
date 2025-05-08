@@ -1,0 +1,478 @@
+<?teipublisher template="alkulauseet.html" odd="teipublisher.odd" view="single"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>IX1, IX2: alkusanat</title>
+                <author>Hämäläis-osakunta Suomen yliopistossa</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                <pubPlace>Helsinki</pubPlace>
+                <date>2024</date>
+                <availability>
+                    <p>Tekijänoikeudet: Suomalaisen Kirjallisuuden Seura</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Suomen kansan vanhat runot IX. Hämeen runot. 1. Etelä- ja Keski-Hämeen runot. 
+                        2. Pohjois-Hämeen runot. Eripainos Hämäläis-osakunnan julkaisusta Monumenta Tavastica - Hämeen 
+                        muistomerkkejä II. Jyväskylä 1916−1917, K. J. Gummerus Osakeyhtiö.</title>
+                    <author>Hämäläis-osakunta Suomen yliopistossa (toimittaja)</author>
+                    <pubPlace>Helsinki</pubPlace>
+                    <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                    <date>1918</date>
+                    <series>
+                        <title>Suomalaisen Kirjallisuuden Seuran toimituksia</title>
+                        <biblScope>146, I, II.</biblScope>
+                    </series>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div>
+            <list type="ordered">
+                <item>
+                    <p>SUOMALAISEN KIRJALLISUUDEN SEURAN TOIMITUKSIA.</p>
+                </item>
+            </list>
+            <p/>
+            <p>146 OSA.</p>
+            <p>I, II.</p>
+            <p/>
+            <p>SUOMEN KANSAN VANHAT RUNOT IX.</p>
+            <p/>
+            <p>HÄMEEN RUNOT</p>
+            <p>1.</p>
+            <p>ETELÄ- JA KESKI-HÄMEEN RUNOT.</p>
+            <p/>
+            <p>2.</p>
+            <p>POHJOIS-HÄMEEN RUNOT.</p>
+            <p/>
+            <p>JULKAISSUT</p>
+            <p>
+                <hi rend="b">HÄMÄLÄIS-OSAKUNTA</hi>
+            </p>
+            <p>SUOMEN YLIOPISTOSSA.</p>
+            <p/>
+            <p>HELSINKI 1918,</p>
+            <p/>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURA.</p>
+            <p/>
+            <p/>
+            <p>ERIPAINOS HÄMÄLÄIS-OSAKUNNAN JULKAISUSTA</p>
+            <p/>
+            <p>MONUMENTA TAVASTICA II — HÄMEEN MUISTOMERKKEJÄ II.</p>
+            <p/>
+            <p>JYVÄSKYLÄ 1916—1917,K. J. GUMMERUS OSAKEYHTIÖ.</p>
+            <p/>
+            <p>Sivut I—XIV painanut HELSINGISSÄ 1918 SUOMALAISEN KIRJALLISUUDEN SEURAN KIRJAPAINON O/Y.</p>
+            <p/>
+            <p>Paperi on TERVAKOSKEN paperitehtaasta.</p>
+            <p/>
+            <p/>
+            <p>„Hämeen muistomerkkein“ I ja II osan </p>
+            <p>ESIPUHEET.</p>
+            <p/>
+            <p>Hämeen Muistomerkkien julkaisusarjan ensi osaa julkisuuteen laskiessaan on Hämäläis-Osakunnalla syytä johtaa mieliin tämän julkaisusarjan syntyhistoria. Elpynyt kotiseudun tutkimusharrastus oli lähes vuosikymmen sitte saanut Hämeen ylioppilasnuorisosta innokkaan kannattajan ja työntekijän. Ryhdyttiin järjestelmällisesti keräämään tutkimusainehistoa, alettiin suunnitella uusia Hämettä koskevia tutkimuksia eri tieteen aloilta ja julaistiin lyhempiä tutkimuksia sisältävä albumi sekä useita työoppaita. Mutta ei tyydytty tekemään suunnitelmia ainoastaan pienempiin julkaisuihin, vaan uskallettiinpa ryhtyä ajattelemaan uutta, laajaa tieteellistä julkaisusarjaakin.</p>
+            <p>Lähimmän toteutumismahdollisuuden saavuttivat nämä toiveet keväällä 1913, jolloin osakunnan piirissä herätettiin kysymys Hämeen vanhan kansantietouden julkaisemisesta. On käynyt selville, että Suomalaisen Kirjallisuuden Seuran kaikki siihenastiset, puolen vuosisataa kestäneet hankkeet vanhojen kansanrunojen painattamiseksi olivat pääasiassa varojen puutteessa rauenneet kerran toisensa jälkeen ja työ siirtynyt epämääräiseen tulevaisuuteen. Hämeenkin vanhojen runojen painattaminen oli siten tietymättömissä. Saattaa ne julkisuuteen ja koettaa saada etenkin maakunnan huonosti kerätystä eteläosasta mahdollisesti täydennetyksikin entisiä keräelmiä, siinä tehtävä, joka olisi suurelle ja elinvoimaiselle osakunnalle kyllin kunniakas ja voimia kysyvä. Ja jos tuo työ onnistuisi, miksi sitä ei olisi vähitellen jatkettava ja luotava monumentalinen sarja julkaisuja, jotka sisältäisivät kaiken sen, minkä entiset ja nykypolvi sekä arkistojen kätköt ovat saaneet Hämeen heimon menneisyydestä, elämästä ja ahertelusta, sen henkisestä sivistyksestä ja kielestä säilytetyksi ja kerätyksi, ja jättäisivät siten tuleville sukupolville mahdollisimman täydellisen kuvan esi-isien henkisestä ja aineellisesta viljelystä. Nuorten rohkeudella työ suunniteltiin ja nuorten luottamuksella on työhön uskallettu ryhtyä.</p>
+            <p>Kun suunnitelma Hämeen kansan vanhojen loitsujen ja runojen julkaisemisesta oli valmis, esitettiin se yksityisesti huhtikuussa 1913 professoreille <hi rend="i">Kaarle Krohnille</hi> ja <hi rend="i">E. N. Setälälle</hi> ja vasta sen jälkeen kun oli toivoa saada Suomalaisen Kirjallisuuden Seuran taholta suopea ratkaisu asian periaatteelliselle puolelle, kääntyi Hämäläis-Osakunta huhtikuun lopulla 1913 virallisesti mainitun seuran puoleen pyytäen lupaa seuran hallussa olevien, Hämeestä kerättyjen vanhojen loitsujen ja runojen julkaisemiseen määrätyillä ehdoilla. Tähän onkin Suomalaisen Kirjallisuuden Seura myöhemmin suostunut, sen jälkeen kun dos. toht. <hi rend="i">A. R. Niemi,</hi> jonka kanssa seuralla ennestään oli ollut sopimus mainittujen runojen toimittamisesta, oli tässä suhteessa luopunut oikeuksistaan.</p>
+            <p>Ensimäinen tehtävä ennen varsinaiseen runojen painatustyöhön ja ainesten järjestelyyn ryhtymistä oli vanhojen keräelmien täydentäminen. Sitä varten toimittivat A. A. Koskenjaakko ja Toivo Kaukoranta vielä samana kevännä runonkeruuoppaan, joka helpotti suuresti hämäläisten runonkerääjien järjestelmällistä keruutyötä. Tulokset osakunnan toimeenpanemasta keräyksestä — sen selonteko kuuluu lähinnä varsinaiseen Hämeen runonkeräyksen historiaan, jonka käsikirjotus tätä kirjotettaessa onkin miltei painovalmiina — osottivat, että oli onnistuttu saamaan talteen vielä maakunnan eteläosistakin tutkimukselle arvokkaita kokoelmia. Etenkin osakunnan varsinaisten stipendiaattien keräykset olivat harvinaisen runsaita. Jonkullaisen käsityksen niistä voi saada, kun mainitsemme, että tämän nyt valmistuneen osan ensi jakson, etelä- ja keski-Hämeen noin 1900:sta loitsunumerosta 819 numeroa sisältyy osakunnan vajaan vuoden kuluessa suorittamiin keräyksiin. Tulokset olivat monin kerroin palkinneet ne vaivat, joita alkuvalmistukset olivat vaatineet.</p>
+            <p>Toimitustyön kestäessä sai Suomalaisen Kirjallisuuden Seura jälleen sysäyksen ennen alotetun työn loppuunsaattamiseen, sysäyksen, joka oli suoranaisena jatkona hämäläisten yrityksestä lähteneelle, uudelleen heränneelle innostukselle ja joka toivottavasti vihdoin on onnellisesti saattava julkisuuteen Suomen kansan vanhat runot suurena sarjajulkaisuna. Suomalaisen Kirjallisuuden Seuran kanssa tehdyn sopimuksen mukaisesti ottaa seura itselleen Hämeen vanhoista loitsuista ja runoista ylipainoksen, joka sisaltyy tähän seuran uuteen runosarjaan. Paitsi tätä hämäläisten avustusta on Suomalaisen Kirjallisuuden Seura samoista piireistä saanut Suomen kansan vanhojen runojen julkaisusarjan tilaajaksi noin kuusikymmentä entistä ja nykyistä akatemista hämäläistä, jotka siten ovat erikoisen voimakkaasti tahtoneet tukea Suomalaisen Kirjallisuuden Seuraa sen yllämainitussa yrityksessä.</p>
+            <p>Kokoelmien järjestelyä ja painokuntoon saattamista hidastutti melkoisesti se seikka, ettei ennestään ollut olemassa mitään valmista systeemiä, joka olisi voitu ilman muuta asettaa työn pohjaksi. Tosin oli juuri painosta ilmestynyt toht. <hi rend="i">F. A. Hästeskon</hi> toimittama Motivverzeichnis westfinnischer Zaubersprüche nebst Aufzählung der bis 1908 gesammelten Varianten (FF Communications N:o 19), mutta sen soveltaminen tähän julkaisuun ei kuitenkaan monistakaan syistä voinut tulla kysymykseen. Etenkin siinä käytetty jakoperuste, loitsujen sisällyksen ja aiheen mukainen tyypittely olisi tuottanut kovin suuria vaikeuksia työn suorittamisessa ja edellyttänyt lisäksi loitsujen tieteellistä tutkimista ja niiden alkuperän määräämistä, jonka ei voitu katsoa kuuluvan tämänluonteisen julkaisun tehtäviin. Lisäksi oli mainitussa luettelossa siinä käytettyjä prinsipejä noudattamalla samaan tyyppiin jouduttu yhdistämään aivan erilaisiakin lukuja. Niinpä saman otsikon alta oli löydettävissä esim. tulen polttaman parantamiseksi ja tulipalon sammuttamiseksi käytettyjä sanoja tai loitsuja raudan haavan parantamiseksi, raudan karkaisemiseksi aseita ja työkaluja valmistettaessa, raudan nostattamiseksi haavoja tekemään tai varautumiseksi niiltä. Tällaisen järjestelmän käytäntöön ottaminen olisi varmaan osottautunut tässä julkaisussa ennemmin tai myöhemmin mahdottomaksi.</p>
+            <p>Sen sijaan katsottiin loitsujen tarkotusperä heti siksi itsestään tarjoutuvaksi ja samalla niin sanoaksemme kansanomaiseksi periaatteeksi, joka oli asetettava työn pohjaksi, ja sitä noudattamalla vähitellen järjestelytyön kuluessa luotava ne puitteet, joihin eri osastoina voitiin jaottaa monet monituiset loitsut, synnyt, luvut ja sanat. Ne oli koetettava ryhmitellä ja jaotella näin eri käsitepiireihin, joiden tuli kuvastaa loitsutaidon käyttämistä ja suhdetta kansanelämän eri ilmenemismuotoihin. Siten syntyivät ne eri loitsuryhmät, jotka esiintyvät tässä kokoelmassa. Niistä kuvastuu ihmisen tietäjäksi valmistautuminen, hänen suhteessa tietäjänä toisiin tietäjiin, kanssaihmisiin, häntä ympäröivään henkimaailmaan, vainajiin ja haltioihin, hänen valtansa tauteihin niitä vastaan varaajana, niiden panettajana ja parantajana, hänen suhteensa elinkeinoihin ja muihin toimialoihin niiden edistäjänä ja vahingoittajana. Loitsuja lähentelevinä ja sopivimmin niihin liitettyinä ovat tässä osassa saaneet paikkansa viimeisenä osastona myös erilaiset lasten ja paimenten pyydöt ja toivotussanat.</p>
+            <p>Mitä tulee erikoisesti toimituksen noudattamaan julkaisutapaan, mainittakoon sen selitykseksi lyhyesti seuraavaa. Jokaisessa eri toisinnossa seuraa järjestysnumeron jälkeen välittömästi kunkin toisinnon kotipaikka, kerääjän nimi ja toisinnon järjestysnumero alkuperäisessä kokoelmassa, sekä vihdoin, silloin kun tietoja on olemassa, muistiinpanon keräys- tai asianomaiseen kokoelmaan tai arkistoon saapumisvuosi siten, että viime vuosisadan puolivälin jälkeen kerättyjen kokoelmien vuosiluvusta on otettu vain kaksi viimeistä numeroa, muuten on vuosiluku kokonaan painettu. Kaikki edelläoleva on painettu kursivikorpuksella (järjestysnumero puolilihavalla antiqualla). Edelleen kursivipetitillä on julaistu ne yksityiskohtaisemmat tiedot, joita kustakin numerosta alkuperäisistä kokoelmista on ollut saatavissa: kylä, kulmakunta, talo, kertoja, hänen ikänsä, keneltä kuullut ja lopuksi muistiinmerkitsemispaikka, jos se on toinen kuin toisinnon oikea kotipaikka. Viimeksi mainitussa suhteessa ei ole aina kiinnitetty varsinaisissa tutkimuksissakaan tarpeeksi huomiota runojen ja sanojen varsinaiseen kotiseutuun, joksi usein on merkitty muistiinpanopaikka ja jonka vuoksi joskus voi sattua tutkijalle ikäviäkin erehdyksiä. Niinpä ei yllämainittu Hästeskon luettelo tässä suhteessa ole aina luotettava. Kunkin aliryhmän loitsutoisinnot ovat jälleen julaistut määrätyssä järjestyksessä pitäjittäin siten, että ne seuraavat toinen toistansa alueittain, alkaen maakunnan lounaisimmasta kolkasta ja sieltä vähitellen siirtyen koillista, pohjosta ja itää kohden ja päättyen viimein maakunnan pohjoisosan koilliskulmaan, Keiteleeseen. Tämä alue on jaettu kolmeen pienempään ryhmään, jonka jokaisen loitsut muodostavat oman jaksonsa tässä osassa: etelä- ja keski-Hämeen, Tampereen seutujen ja pohjois-Hämeen loitsut. Alkuperäisenä tarkotuksena oli ollut julaista kaikki yhtenä kokonaisena ryhmänä, mutta Suomalaisen Kirjallisuuden Seuran taholta lausutun toivomuksen mukaisesti järjestettiin julkaisu näin, jotta seura, joka järjestää julkaisunsa toisin, voisi helpommin käyttää hyväkseen ylipainosarkkejansa. Hämeen alueena on tässä, kuten kaikissa osakuntaa ja sen aluetta koskevissa kysymyksissä, käsitetty virallista jakamatonta Hämäläis-Osakunnan aluetta, s. o. Hämeen nykyistä historiallista maakuntaa sekä niitä osia muinaista vanhaa Hämettä, jotka tavallisesti nykyiseen Satakunnan maakuntaan luettuina ovat liitetyt Hämeen ja Vaasan lääneihin (tässä julkaisussa n. s. „Tampereen seudut“). Poikkeuksena mainittakoon, että Mäntyharjun pitäja, josta suurempi itäinen osa kuuluu Savoon, on jätetty pois, etenkin kun asianomaisten osakuntien välillä tehdyn sopimuksen mukaisesti koko pitäjä nykyisin kuuluu Savolaisen Osakunnan alueeseen. Kunkin pitäjän samanaiheiset loitsut ovat edelleen järjestetyt siten, että ensin julaistaan ne toisinnot, joista ainoastaan kotipitäjän nimi tiedetään, senjälkeen muut samasta pitäjästä saadut kylittäin aakkosjärjestyksessä. Jos runotoisinnon kotipaikka on ilmotettu vain ylimalkaisesti: Häme, etelä-Häme, kaakkois-Häme j.n.e., ovat sellaiset toisinnot julaistut ilmotetun alueen pitäjittäisen toisintoryhmän edellä. Ellei saantipaikkaa ole kerääjän muistiinpanoissa ilmotettu lainkaan, mutta se jollain muulla tavalla on voitu ratkaista, painetaan se hakasissa, kysymysmerkkeineen, ellei täyttä varmuutta siitä ole olemassa.</p>
+            <p>Ellei toisintojen yllämainitussa otsikossa niiden kerääjän nimen yhteydessä ole erikseen mainittu, mistä kokoelmasta tai arkistosta ne ovat, kuuluvat ne Suomalaisen Kirjallisuuden Seuran kokoelmiin, joista lukuisimmat numerot ovat. Muussa tapauksessa on asianomainen arkisto tai lähde erikseen selvästi ilmotettu, Hämäläis-Osakunnan omista keräelmistä käyttämällä erikoista lyhennysmerkintää (HO) ja puolilihavalla kursivilla painettua, kullekin kerääjälle kuuluvaa järjestysnumeroa, josta lyhennysten selityksistä saa lähemmät tiedot.</p>
+            <p>Mitä itse varsinaisten toisintojen julkaisemiseen tulee, on siinä pääasiassa seurattu toht. <hi rend="i">A.</hi> <hi rend="i">R. Niemen</hi> Vienan läänin runojen ensi osissa käyttämää julkaisumetodia, koettaen mahdollisimman tarkoin noudattaa alkuperäisiä käsikirjotuskokoelmia. Varsinaiset sanat ja loitsuluvut on painettu säkeiksi (tai kappaleiksi) korpuksella, alkuperäisissä alleviivatut kohdat kursivilla, ellei siitä ole toisin mainittu; lukuihin liittyvät taiat ja selitykset, jotka välittömästi kuuluvat niiden käyttöön tai muuten selventävät sanojon tarkotusta, alkuperää ja käytäntöä, ovat mikäli mahdollista otetut mukaan ja painetut petitillä. Joittenkin toiseen yhteyteen kuuluvien tai muuten asiattomiksi tai tarpeettomiksi katsottujen kohtien poisjättäminen keskeltä selitystä tai sen alusta tai lopusta on merkitty asianomaiselle kohdalle pisterivillä. Lukujen otsikot, jotka eivät varmaankaan aina liene kansanomaisia, ovat painetut kursivipetitillä. Milloin alkuperäisissä kokoelmissa on useampia toisintoja yhdistetty saman otsikon alle, on tämä otsikko otettu painettaessa kaikkiin toisintoihin, hakasissa muihin paitsi ensimäiseen.</p>
+            <p>Säkeiksi ja kappaleiksi jakoa, jota ei alkuperäisissä muistiinpanoissa aina ole, ja tutkijalle välttämätöntä säenumeroiden lisäystä lukuunottamatta on mahdollisimman tarkoin koetettu noudattaa alkuperäisten käsikirjotusten merkintää, vieläpä niin että kirjotusvirheetkin tai sellaisilta näyttävät ovat julaistut sellaisinaan ja vain aivan selvissä tapauksissa niistä huomautettu aliviitoissa, [!] merkillä tai myös joskus hakastäydennyksellä (poisjäänyt kirjain sellaisissa tapauksissa, jolloin sen jättäminen on selvä kirjoitusvirhe, eikä vanhemmista ortografisista seikoista riippuva). Käsittämättömien sanojen tai kohtien johdosta on joskus ollut huomautettava useammastakin mahdollisesta lukutavasta. Täten on jokaiselle tutkijalle itselleen jätetty vapaus vertailujen nojalla outojen, harvinaisten murresanojen, mytologisten nimitysten sekä niiden useinkin selvittämättömiltä tuntuvien väännösten ratkaisemiseen ja tutkimiseen tapauksissa, jolloin muistiinpanojen useinkin epäselvä, vaivoin luettava käsiala tai vanhojen käsikirjotusten kuluneisuus on voinut tehdä mahdottomaksikin vaikeitten kohtien varman lukemisen ja yksimielisen tulkinnan. Mitä selvien kirjotusvirheiden säilyttämiseen erikoisesti tulee, on niillä edellisten lisäksi oma viehätyksensä kuvastaessaan monien tyylillisten horjahdustensa, kieliopillisten virheittensä ja kirjakielen muotojen tavottelussa sattuneitten kompastustensa ohella selvemmin sitä monenkin karkeakätisen työmiehen tai muun oppimattoman kansanlapsen kunnioitusta kerättävää harrastusta, joka hänet on saanut varmaankin hänestä itsestään kerättäväksi useinkin käsittämättömiltä tuntuneitten tietojen ja muistojen paperille panijaksi. Ne säilyttävät sellaisinaan julaistuina siten vuosien kuluttuakin ikäänkuin selvemmän muistomerkin unhoon häipyvien kerääjiensä omasta henkilöstä, heidän ympäristöstään ja elinehdoistaan sekä siitä sivistystasosta, jolle he olivat ennättäneet nousta. Samasta syystä ja tieteellisiä näkökohtia ankarasti silmälläpitäen ei ole myöskään kajottu alkuperäisten käsikirjotusten välimerkkien asetteluun; ne on säilytetty sellaisinaan, silloin kun niitä niissä on ollut, muuttamatta ja lisäämättä. Samoin ei ole myöskään tasoteltu eikä muuteltu säkeitten eikä nimien alkukirjaimia, jotka voivat samassakin muistiinpanossa olla sekaisin milloin isoja, milloin pieniä.</p>
+            <p>Milloin runoihin liittyy muunkielisiä (ruotsalaisia tai latinaisia) yksityisten sanojen käännöksiä, loitsujen ja taikojen selityksiä, vieläpä käännöksiä itse runoistakin alkuperäisten rinnalla, on niiden julkaisemista kääntämättä alkuperäisisessä asussaan pidetty ensimäisinä ehtoina jonkinlaisiakaan vaatimuksia täyttävälle tieteelliselle julkaisulle. Myöskään niiden kääntämistä alkuperäisen rinnalla ei ole pidetty tarpellisena, eikä toivottavanakaan, julkaisussa, jonka tarkotus on yksinomaan tieteellisen, yhtä vähän kuin olisi ollut tarkotuksen mukaista myöskään vanhempien käsikirjotusten suomenkielisen kieliasun muuttaminen ortografiansa puolesta nykyaikaiseksi.</p>
+            <p>Milloin joissakin kokoelmissa on muistiinpantaessa tehty lyhennyksiä, sanoja typistetty ja säkeitä merkitty vain alkukirjaimin, on hakastäydennyksillä koetettu saattaa toisinnot alkuperäiseen äänneasuunsa, suorittamalla täydennykset tarkoin saman toisinnon aikaisemmissa kohdissa olleitten täydellisten säkeitten nojalla. Tätä arkaluontoista tehtävää onkin tarvittu suorittaa tähän julkaisuun nähden sangen vähäisen. Eniten on niitä prof. <hi rend="i">Kaarle Krohnin</hi> harvinaisen runsaissa ja arvokkaissa keräyksissä, joitten painokuntoon suorittamisen hakastäydennyksineen ja vertailun alkuperäisiin pikakirjotuksiin kerääjä itse on suorittanut, tarkastaen ne vielä korjausvedoksena.</p>
+            <p>Varsinaisten uusien käsitysten esittämistä mahdollisesti esiintyvistä kysymyksistä on mikäli suinkin koetettu välttää. Kuitenkin on joskus ollut pakko esittää ennen lausutuista mielipiteistä eriävä käsitys tai toimituksen ajatus joittenkin toisintojen alkuperästä ja synnystä, milloin varsinkin ennen sellaista ei ole tiettävästi esitetty ja asianomaisen toisinnon julkaiseminen sellaista on näyttänyt vaativan. Julkaisun laatu ei ole kuitenkaan sallinut lähemmin ryhtyä perustelemaan lausuttuja mielipiteitä, mutta toivottavasti toimitus myöhemmin saa tilaisuuden perustelujensa esittämiseen, sikäli kuin ne tulevat olemaan tarpeellisia. Sellaisista tapauksista esimerkkinä viitattakoon pohjois-Hämeen loitsujen nr:oon 1096.</p>
+            <p>Toimituskunnan ovat muodostaneet Hämäläis-Osakunnan inspehtori, professori <hi rend="i">Hugo Suolahti</hi> ja kuraattori, fil. toht. <hi rend="i">A. A. Koskenjaakko</hi> sekä osakuntalaiset, fil. maist. <hi rend="i">Martti Rapola</hi> ja fil. kand. <hi rend="i">Toivo Kaukoranta.</hi> Sitä paitsi on toimituskunta saanut tarpeen mukaan käyttää muitakin apuvoimia työn kestäessä. Suppean esipuheen puitteissa on mahdotonta erikseen edes nimeltä mainita kaikkia niitä yhdistyksiä tai yksityisiä henkilöitä, jotka tavalla tai toisella ovat edistäneet tämän julkaisun syntymistä ja valmistumista. Mieluinen velvollisuus on toimituskunnalla lausua kiitollisuutensa ennen kaikkea herroille, professori <hi rend="i">Kaarle Krohnille</hi> ja dosentti, fil. toht. <hi rend="i">A. R. Niemelle</hi>, jotka Suomalaisen Kirjallisuuden Seuran puolesta ovat kaiken aikaa harrastuksella painatustyötä seuranneet ja antaneet apuansa toimittajille monessa muussakin suhteessa. Myöskin ovat professori <hi rend="i">E. N. Setälä</hi> ja dosentti, fil. toht. <hi rend="i">E. A. Tunkelo</hi> myötätunnolla seuranneet työn edistymistä antaen tarvittaessa neuvojansa. Kiitoksensa lausuu toimituskunta myös lääket. lis. <hi rend="i">E. Anttoselle </hi>häneltä saamastaan tarpeellisesta avusta, milloin on lääketieteellisiä erikoistietoja tarvittu. Paitsi <hi rend="i">Suomalaiselle Kirjallisuuden Seuralle,</hi> joka on antanut hämäläiset kokoelmansa painatettavaksi ja avustanut itse julkaisutyötä kustantamalla kopiot näistä keräelmistään, on Hämäläis-Osakunta kiitollisuuden velassa <hi rend="i">Suomen Muinaismuistoyhdistykselle,</hi> joka hyväntahtoisesti on myöntänyt luvan hallussaan olevien hämäläisten kokoelmien käyttämiseen ja julkaisemiseen (lyhennysmerkki: SMMY). Niiden etsimisessä ja käyttämisessä ovat Kansallismuseon virkailijat aina auliisti antaneet toimittajille apuansa. Valtionarkeologi, fil. toht. <hi rend="i">Hj. Appelgren-Kivalo,</hi> fil. tohtorit <hi rend="i">A. Hackman, J. Rinne </hi>ja <hi rend="i">A. M. Tallgren</hi> sekä fil. maist. <hi rend="i">A. Europaeus</hi> ovat tässä suhteessa ennen muita mainittavat. <hi rend="i">Suomen Valtioarkiston</hi> hallussa oleviin aineksiin, jotka sisältyvät joko tuomiokirjoihin tai arkiston topografiseen osastoon, on painatustyön kestäessä vallinneen sotatilan vuoksi ollut osittain mahdotonta päästä käsiksi. Eräitä ennen sodan puhkeamista kopioituja runoja on vielä saatu joku alkuperäiseen verratuksi fil. toht. <hi rend="i">J. W. Ruuthin</hi> suosiollisella avulla, jolle osakunta siten on kiitollisuuden velassa. Toisia on täytynyt kuitenkin jättää vertaamatta osittain vanhojen, virheellisten julkaisujen, osittain vaillinaisten ja muussa tarkotuksessa tehtyjen kopioitten varaan. Kirjailija <hi rend="i">Jalmari Finnelle, </hi>joka on tähän julkaisuun luovuttanut Valtioarkistossa tekemiään tuomiokirjapoimintoja, lausuu toimituskunta kiitollisuutensa. Samoin fil. maist. <hi rend="i">Väinö Salmiselle</hi> siitä avunannosta, jota toimitus on häneltä osakseen saanut. Tässä yhteydessä on mainittava erittäin myös uuttera kerääjä ja Hämeen kansantapojen kuvaaja, kauppias <hi rend="i">J. W. Kotikoski,</hi> joka on ystävällisesti jättänyt toimituksen käytettäväksi keräyksensä. Erikoista kiitollisuutta tuntee Hämäläis-Osakunta <hi rend="i">Upsalan Yliopiston kirjastoa</hi> kohtaan, joka on kohottanut julkaisumme arvoa sallimalla ottaa valokuvajäljennökset omistamastaan parista huomattavasta vanhimmasta hämäläisestä runomuistiinpanosta, joiden facsimile jäljennökset seuraavat liitteenä kohdakkoin ilmestyvässä toisessa osassa. <hi rend="i">Helsingin Yliopiston kirjastossa</hi> säilytettyjä käsikirjotuksia ei toimituskunta ole voinut saada vallinneen sotilaan vuoksi tarkastetuksi, joten ne painatetaan edellisten julkaisujen varassa. Vielä on velvollisuutemme kiittää <hi rend="i">Keisarillista Suomen Aleksanterin Yliopistoa,</hi> joka on edistänyt tämän julkaisun toimitustyötä tuhannen (1,000) Suomen markan suuruisella apurahalla. Samalla lausumme parhaan kiitollisuutemme <hi rend="i">K. J. Gummerus osakeyhtiölle,</hi> joka on edullisella sopimuksella ja kaikella avunannollansa suuresti helpottanut toimituksen työtä.</p>
+            <p>Toimituskunnan ponnistuksista huolimatta ei näin laaja julkaisu liene voinut jäädä aivan vapaaksi virheistä ja toivottavista korjauksista. Jokusen sellaisen on toimitus jo painatustyön kestäessä havainnut ja oiaistaan ne toisaalla. Mutta näistä ja muista mahdollisista puutteistaan huolimatta toivomme tämän julkaisusarjan ensi osan ilmestymisen tuottavan iloa Hämeen tutkimuksen ystäville ja työntekijöille sekä tyydytystä sille hämäläiselle ylioppilaspolvelle, joka tietoisena suorittamansa työn tärkeydestä ei ole luopunut ponnisteluistaan, ennenkuin työn hedelmät ovat valmiina sen käsistä lähteneet. Ei ole pelkkä sattuma, että suomalaisen kansanrunouden keräyksen ja tutkimuksen uranuurtajan <hi rend="i">Porthanin</hi> ja innokkaitten seuraajien <hi rend="i">Sjögrenin</hi> ja <hi rend="i">Arwidssonin</hi> synnyinmaakunta ensimäisenä saa julki loitsurunoutensa, joka mahtavammin kuin mikään muu kansanomaisen henkisen kulturin ala kuvastaa luojansa hengen voimaa ja salaperäistä suuruutta. Toivottavasti hämäläisten ylioppilaitten sitkeä, uuras ponnistus ei tähän laukea, vaan saavat pian seurata tässä sarjassa nyt julkaistavaa osaa Hämeen kansan vanhat runot, sananlaskut, arvotukset ja Hämeen murteiden sanakirja, joitten kaikkien julkaisujen painatus, toimitus tai suunnittelut ovat jo mikä lyhemmälle, mikä pitemmälle edistyneinä.</p>
+            <p>Helsingissä, heinäkuussa 1916.</p>
+            <p>
+                <hi rend="i"/>
+            </p>
+            <p>
+                <hi rend="i">Hämeen Muistomerkkien toimituskunta.</hi>
+            </p>
+            <p/>
+            <p>II.</p>
+            <p/>
+            <p>Viime syksynä valmistuneen Hämeen Muistomerkkien julkaisujarjan ensimäisen osan, Hämeen kansan vanhojen loitsujen, esipuheessa on toimituskunta lähemmin esittänyt sen työsuunnitelman ja ne menettelytavat, joita se on seurannut toimittaessaan niin mainittua kuin nytkin käsissä olevaa julkaisua. Toimitus voikin tässä suhteessa lyhyesti viitata vain siihen. Tämän osan, Hämeen kansan vanhojen runojen, ryhmittelyssä eri osastoiksi on koetettu noudattaa samaa periaatetta, joka toimituskunnan käsityksen mukaan loitsuja järjestettäessä osottautui täydellisesti tarkotustaan vastaavaksi. Vanhat runotkin on kaikki koetettu ryhmittää täten sen mukaan, mihin tarkotukseen niitä on käytetty, millaisissa tiloissa tai olosuhteissa niitä on laulettu ja esitetty. Totta kyllä, ei tässä suhteessa ole raja suinkaan ollut yhtä helposti löydettävissä ja runon käyttö määrättävissä kuin loitsuissa, onpa samaa runoa laulettu, samaa lorua esitetty varsin erilaisissakin tilanteissa. Muistiinpanojen tekijäin antamia tietoja on erikoisesti tässä suhteessa puuttunut paljon useammin kuin vastaavissa tapauksissa loitsumuistiinpanoissa. Onpa toimituksen tämän vuoksi ollut usein pakko turvautua omaan arviointiinsa, joka mahdollisesti myöhemmin voi osottautua ennenaikaiseen tehdyksi ja vääräksi. Joka tapauksessa, ryhmittely on ollut suoritettava, ja toimituskunta uskoo suurin piirtein ainakin osuneensa oikeaan, siirrettäköönpä sitte yksi tai toinen toisintoryhmä myöhemmin lopullisessa tutkijan suorittamassa arvioinnissa nyt saamaltaan asemalta jollekin muulle sijalle. Tässä yhteydessä huomautettakoon jo nyt edellä viitattujen seikkojen lisäksi, että esim. kehtolaulujen ryhmään olisi ollut vietävä ehkä myös koko joukko muitakin lasten runoja ja loruja, vieläpä joku pilkkarunojenkin ryhmään otettu runotyyppi, mutta kun tässä suhteessa on ollut vaikeata ilman varsinaisia tutkimuksia löytää lopullista paikkaa, eikä kahdesti julkaiseminen ole luonnollisesti voinut tulla kysymykseenkään, on siten syntyneitä puutteita yrittetty edes jossain määrässä korvata viittauksilla, vaikka niitäkään ei ole tullut kenties tarpeeksi. Tilan säästämisen vuoksi on myös tilapäisten, paikkakunnallisten runojen ja runosirpaleitten joukkoon viety sellaisiakin katkelmia tai yksinäisiä muistiinpanoja, jotka olisi ollut asetettava oikeastaan omaksi ryhmäksi. Tutkijain on siksi syytä erikoisesti pitää silmällä myös näitä sekaryhmiä.</p>
+            <p>Nyt ilmestyneitten osien käsikirjotusainehistoa lopullisesti seuloessaan ja järjestäessään katsoi toimituskunta olevan syytä jättää toistaiseksi ulkopuolelle näiden julkaisujen melkoisen joukon lasten loruja, hokuja ja kuurutuslukuja, jotka voivat sopivammin saada sijaansa jossain myöhemmässä tämän julkaisusarjan osassa. Mukaan otettiin näistä ryhmistä vain sellaisia tyyppejä, jotka runomittansa tai sisällyksensä puolesta läheisesti katsottiin liittyvän muihin julkaisun runoryhmiin. Nyt julaistuihin osiin on koetettu kerätä kaikki ne Hämeesta saadut runoainekset ja muistiinpanot, joita tiedettiin säilytettävän eri arkistoissa ja kokoelmissa kotimaassa ja Ruotsissa. Ensi osan esipuheessa on jo kuitenkin viitattu siihen, että vallinneen sotatilan vuoksi ei kuitenkaan ole voitu saada Suomen Valtioarkiston, eikä myöskään Helsingin Yliopiston kirjaston käsikirjotuskokoelmia tarkastettaviksi, joten ne ovat olosuhteitten muututtua lähitulevaisuudessa perinpohjaisesti läpikäytävät. Myöskin Suomalaisen Kirjallisuuden Seuran kokoelmiin nähden on lisättävä, että näitten rikkaitten kokoelmien käyttämisessä on pääasiassa nojauduttu tämän seuran itse julkaisemiin kansanrunousluetteloihin, jotka eivät kuitenkaan kaikissa suhteissa ole täysin luotettavia. Erinäisissä keräelmissä olevien runomuistiinpanojen todellisen kotipaikan tarkassa ilmottamisessa, sen verran kuin toimituksella on ollut tilaisuutta omasta puolestansa havaintojen tekoon, olisi ollut toivomisen varaa. Julkaisuistamme on tässä suhteessa huomautettava, että näistä on jätetty pois kaikki ne toisinnot, jotka mainittujen luettelojen mukaan muistiinpanopaikan väärän maininnan vuoksi tai muista syistä ovat erehdyttävästi ilmotetut Hämeestä saaduiksi. Sen sijaan voi kokoelmistamme puuttua ehkä jommoinenkin joukko hämäläisiä toisintoja, joiden kotipaikkaa ei Suomalaisen Kirjallisuuden Seuran painetuissa luetteloissa ole oikein mainittu ja jotka ovat ilmotetut merkityiksi muistiin Hämeen ulkopuolella. Tätä varten olisi kaikki laajat kokoelmat pitänyt tarkastaa yksityiskohtaisesti ja huolellisesti. Nyt on tyydytty pikemmin vain koepistoihin, tarkastettu kokoelma sieltä, toinen täältä, sikäli kuin ennakkotiedot, ovat antaneet aihetta siihen. Järjestelmällinen, lopullinen seulonta voidaankin tehdä paraiten vasta sitte kun Suomen kansan vanhojen runojen julkaisutyö on suoritettu loppuun.</p>
+            <p>Nyt puheena olevan osan ainesten varsinaisen järjestely- ja ryhmittelytyön on suorittanut fil. maist. <hi rend="i">Martti Rapola.</hi> Toimitustyöhön ovat muuten ottaneet osaa samat henkilöt kuin edellisenkin osan julkaisemiseen. Lisäksi on toimitustyön kuluessa Hämäläis-Osakunnan johdossa tapahtuneesta muutoksesta seurannut, että osakunnan uusi kuraattori, fil. maist. <hi rend="i">Lauri Pohjanpää </hi>on myös tarmokkaasti ollut osallisena tämän julkaisutyön saattamisessa onnelliseen päätökseen. Niinikään on toimitustyöhön jonkun aikaa ottanut osaa fil. kand. <hi rend="i">Väinö Kaukoranta.</hi> Mainitsematta on ennen jäänyt se työ, jonka hämälaisen hartaudella ja innostuksella aikaisin manalle mennyt osakuntalainen, ylioppilas <hi rend="i">Taavi Marjokorpi</hi> ehti suorittaa tämän julkaisuhankkeen hyväksi sen ollessa alkuasteillaan. Varhainen kuolema keskeytti hänen uurastuksensa niin tämän kuin monien muittenkin hyvien harrastusten edistämiseksi.</p>
+            <p>Paitsi niitä henkilöitä, jotka ovat olleet toimituskunnalle avullisina jo edellisen osan julkaisutyössä ja joiden taholta toimitus on edelleenkin saanut harrasta myötätuntoa ja avustusta osaksensa, on toimituksen erikseen kiitollisena mainittava Yliopiston apulainen, fil. tohtori <hi rend="i">Heikki Ojansuu,</hi> jonka neuvot ja apu Elinan surmarunon toisintojen järjestelyssä ja tulkinnassa ovat olleet toimitukselle suuriarvoisia. Kaikille näille, samoinkuin <hi rend="i">Helsingin Yliopistolle,</hi> joka ennen antamansa avustuksen lisäksi on osakunnalle äskettäin tätä julkaisua varten myöntänyt 2,000 Smk:n suuruisen apurahan, sekä niille laitoksille ja yksityisille kansalaisille, jotka tavalla tahi toisella ovat tukeneet ja avustaneet näiden nyt ilmestyneiden osien julkaisemista, lausuu toimituskunta täten syvän, hartaan kiitollisuutensa.</p>
+            <p>Samalla ei toimituskunta voi olla käyttämättä hyväksensä tilaisuutta lausuaksensa julki sen toivomuksen, että nämä julkaisut herättäisivät Hämeen nuorisossa voimakkaan isänmaallisen harrastuksen ja halun oman kotiseudun elämän ja tapojen järjestelmälliseen tutkimiseen sekä ainesten keräämiseen ja muistiinpanojen tekemiseen tässä tarkotuksessa. Oikein käytettyinä voivat nämäkin julkaisut olla mitä tehokkaimpia oppaita ja välineitä m. m. nuorisoseurojen järjestelmällisessä kotiseututyössä. Näiden avulla voi vielä nyt saada mitä helpoimmin ja vähimmällä vaivalla hyvän yleiskatsauksen jokaisen hämäläisen kylänkin kansanrunousaartehistoon tiedustelemalla ja muistiin merkitsemällä, mitä näissä julkaisuissa esitettyjä eri runolajeja kullakin seudulla tunnetaan ja missä muodoissa. Sillä tavoin nämä julkaisut tulisivat olemaan voimakas ase yhä täydellisemmän, monipuolisemman ja tieteelliselle tutkimukselle sitä arvokkaamman lisäainehiston keräämiseksi ja Hämeen kansanrunouden laadun ja suhteen selvittämiseksi maamme muitten osien kansanrunouteen. Tässä ala ja tehtävä, jonka hyväksi voimme jokainen, olimmepa missä yhteiskunnallisessa asemassa tahansa, tehdä arvaamattomia palveluksia ja edistää jokainen osaltamme suomalaista tutkimusta. Ponnistelkaamme kaikki tämän päämäärän saavuttamiseksi, ennenkuin työ on liian myöhäistä.</p>
+            <p>Helsingissä, toukokuussa 1917.</p>
+            <p>
+                <hi rend="i"/>
+            </p>
+            <p>
+                <hi rend="i">Hämeen Muistomerkkien toimituskunta.</hi>
+            </p>
+            <p/>
+            <p>SISÄLLYSLUETTELO.</p>
+            <p/>
+            <p>Esipuhe V. — Sisällysluettelo XIV. — Lyhennysten ja merkkien luettelo XX.— Korjauksia ja huomautuksia XXII.</p>
+            <p/>
+            <p>1. Etelä- ja Keski-Hämeen runot.</p>
+            <p/>
+            <p>
+                <hi rend="b">Kertovaisia runoja.</hi>
+            </p>
+            <p/>
+            <p>Piispa Henrikin surma 5. — Elinan surma 13. — Meren kosijat 14. — Myödyn neidon runo 16. — Neljän neidon runo 17. — Marketan runo 21. — Lunastettava neito 23. — Yksityisiä kertovaisten runojen katkelmia 34. — Kukko lauloi Kuurinmaalla 34.</p>
+            <p/>
+            <p>
+                <hi rend="b">Tunnelmarunoja</hi>.</p>
+            <p/>
+            <p>„Jos mun tuttuni tulisi“ 37. — Miniän runo 37. — Naijan runo 42. — Tule surma suota myöten 42. — Onko teillä niinkuin meillä 43.</p>
+            <p/>
+            <p>
+                <hi rend="b">Määrätyissä tiloissa laulettuja runoja</hi>.</p>
+            <p>
+                <hi rend="b">1. Vuotuisten juhlapäivien viettoon liittyviä runoja.</hi>
+            </p>
+            <p>
+                <hi rend="b i"/>
+            </p>
+            <p>
+                <hi rend="i">Ritvalan Helkavirret:</hi> Gottlundin muistiinpanot: SMMY: Antiquariska Samlingar III 763—781, 44. — Gottlundin muistiinpanot: Suom. Valtioark.:</p>
+            <p>Topographica, Sääksmäki 52. — Gottlund, Rilvalan Helka, Otava II 9—47, 57. — Lönnrotin muistiinpanot 76. — Tuntemattoman henkilön muistiinpanot 81. — August Blåfieldin ja Antero Vareliuksen julkaisu: Ritualan Helka-virret 83. — Reinholmin kokoelmissa olevat muistiinpanot 91. — Boreniuksen muistiinpanot I—VI 99. — Neoviuksen muistiinpano 125. — Lindqvistin muistiinpanot 127. — Salon (= HO 24) muistiinpanot I-III 129. — Rapolan (= HO 20) muistiinpanot 140. — Sääksmäen ulkopuolelta saatuja Rirvalan helkavirsiä 143.</p>
+            <p>Helluntaina lauvantaina 145. — Mikkelin päivän runo 145. — Tuomaan runo 146. — Tapanin virsi 156. — Nuutin runo 177.</p>
+            <p/>
+            <p>
+                <hi rend="b">2. Työlauluja.</hi>
+            </p>
+            <p>
+                <hi rend="b"/>
+            </p>
+            <p>Kehrääjän laulu 180. — Lypsäjän laulu 180.</p>
+            <p/>
+            <p>
+                <hi rend="b">3. Paimenlauluja</hi>.</p>
+            <p/>
+            <p>Hoi, kotio, konnan karja 181. — Kulu päivä, kulje päivä 181. — Mene päivä männistöön 182. — Muut menee kirkkoon 182. — Tuurin luurin luikkaa 190. — Tyytyn, lyytyn, piikapaimen 190. — Erilaisia paimenlauluja 197.</p>
+            <p/>
+            <p>
+                <hi rend="b">4. Kehtolauluja.</hi>
+            </p>
+            <p>
+                <hi rend="b i"/>
+            </p>
+            <p>
+                <hi rend="i">A. Vanha suomalaista runomittaa noudattavat.</hi>
+            </p>
+            <p/>
+            <p>Hiiri meni metsään 199. — Huis sika metsään 241. — Huru huru hummalla kirkkoon 252. — Ketun valitus (ks. Lasten runoja ja loruja) 554. — Körö körö kirkkoon 279. — Lintu tuopi liinapaidan 283. — Miu mau, Maskun kello 283. — Miu, mau, Mikko kuoli (ks. Pilkkarunoja: Mikko) 638. — Nuku, nuku, nukkeroinen 289. — Nurmilintu: a. Tee pellolle pesäsi 290. — b. Kyllä Herra herättääpi 297. — Tii tii tiainen, vati kuti varpunen 298. — Tule uni uunin päältä 301. — Tuonen tupa 306. — Tupakkirulla 334. — Tuudin lasta tulleriksi 359. — Tuudin lasta turvakseni 359. — Tuuti lasta nukkumaan kulta vuoren kukkulalle 363. — Tuuti lasta nukkumaan, piikaa torkkumaan 364. — Uni ulkona kyselee 371.</p>
+            <p>
+                <hi rend="i"/>
+            </p>
+            <p>
+                <hi rend="i">B. Uudemmat, loppusointua tapailevat.</hi>
+            </p>
+            <p/>
+            <p>Aa, aa, akana, aitassa lukon takana 373. — Aa, aa, akana, etkös nuku pakana 374. — Aa, aa, akkani kuoli (ks. Pilkkarunoja: akka) 650. — Aa, aa, akkelia 375. — Aa, aa, Akkerin Kaija, Turusta tuodaan joka laija 375. — Aa, aa, allersoo 384. — Aa, aa, allin lasta 385. — Aa, aa, lullaa, nyt on poika mulla 385. — Aa, aa, vissaa 386. — Aa kiikun lullaa, aitan avain portaan alla 386. — Aa, lullaa, lustike 388. — Aa, lullaa, taas tullaan meidän tyttöjä naimaan 389. — Heijaa, houvaa, Heikkilän rouvaa 389. — Heijaa, houvaa, Helsinkiin 391. — Huis sika metsään, älä ennen takaisin tule, kuin lapsi herää 391. — Hussanen, pissanen pientä lasta, mikä lapsella lienee 392. — Itse minä lapselleni univirren laulan 393. — Kissa kiikkuun, tupakkia piippuun 395. — Liikuttelen, kiikuttelen, pannaan vauva vakuun 396. — Mihin, kissa, poikas kannat 397. — Minä laulan lapselleni 397. — Minä tuudin pientä lasta 397. — Nuku, nuku, lapseni, paina silmäs kiinni 398. — Piu, pau, kirkonkellot huutaa 398. — Soutaa sotkaa, että airot lotkaa 398. — Taata tekee taulaa 399. — Tikanpoika 400. — Toussun, toussun touruntamma 405. — Tuudin lastani nukkumaan, että se kasvaa suureksi 409. — Tuudin, tuudin tussarin lasta 410. — Tuuti lullaa lasta, kissa tuli vastaan 410. — Tuuti lullaa lasta, muori (vaari) tuli vastaan 412. — Tuu, tuu, tuomenkukka 416. — Tuu, tuu, tuutukainen, tupa uuden uutukainen 417. — Varis meni Ruotsiin 417.</p>
+            <p>
+                <hi rend="i"/>
+            </p>
+            <p>
+                <hi rend="i">C. Erilaisia kehtolauluja.</hi>
+            </p>
+            <p/>
+            <p>Erilaisia kehtolauluja 418. — Ks. myös Muita lastenrunoja 552.</p>
+            <p/>
+            <p>
+                <hi rend="b">Lasten runoja ja loruja.</hi>
+            </p>
+            <p>
+                <hi rend="b"/>
+            </p>
+            <p>
+                <hi rend="b">1. Ketjurunoja</hi>.</p>
+            <p/>
+            <p>Hiiri meni metsään (ks. Kehtolauluja) 199. — Kukon ja kanan saunamatka 426. — Palvelin talonpoikaa vuoteni täyteen 467. — Pukki kaalimaassa 478. — Akka meni metsään 482. — Sonni (Soini) ja Killi (Kili, Killa) 483. — Pakeneva 487. — Läskinkantaja 500. — Onnimanni 500. — Pukki meni puuhun 509. — Mikä kirkko? — Ryssän kirkko 512. — Missä voi? — Hiiri vei 518.</p>
+            <p/>
+            <p>
+                <hi rend="b">2. Muita lastenrunoja.</hi>
+            </p>
+            <p>
+                <hi rend="b"/>
+            </p>
+            <p>Antin häät 552. — Hiiren häälahjat 552. — Huis sika huiluun 553. — Huis sika satulaselkä 553. — Jäniksen neuvo 553. — Ketun valitus 554. — Kiittis kissat kiukahalle 557. — Kissa kuoli kiiruulla ajalla. 557. — Kutitin, kutitin kumppaniani 563. — Kuulin kurjen kullertavan 566. — Leivon leivon leipäsiä 569. — Minä menen mettään kettuja pettään 570. — Paarman peijaat 575. — Piu, pau, paukkaa 575. — Pom pom porovatsa 575. — Päivä puolessa, nälkä suolessa 583. — Sain kirpun 584. — Suutari, tee mulle kengät, minä menen naimaan 584. — Tipu tipu taapota 587. — Tuomittu katti 588. — Yksityisiä lasten runoja ja loruja 588. — Ks. myös Pilkkarunoja 615.</p>
+            <p/>
+            <p>
+                <hi rend="b">Leikkirunoja</hi>.</p>
+            <p/>
+            <p>Arvotusleikki (ks. Hyi, hyi, Hymylään) 594. — Haukkasilla 591. — Hirvisillä 592. — Hyi, hyi, Hymylään 594. — Kalakonttisilla 596. — Karttusilla (ks. nr. 878) 277. — Kätken sormusta 597. — Lampaisilla (ks. Susisilla) 602. — Leikari 598. — Leikatkasme kauraa 599. — Mikkelisillä 600. — Nykä—näkä (ks. lastenrunoa Missä voi? — Hiiri vei ja nr. 458, 525) 518, 222. — Sokkosilla 601 — Susisilla 602. — Vanhapiika (ks. Mikkelisillä) 600.</p>
+            <p>
+                <hi rend="i"/>
+            </p>
+            <p>
+                <hi rend="i">Muutamia kuurutuslukuina käytetyitä lastenrunoja.</hi>
+            </p>
+            <p/>
+            <p>Kävin kerran taivaassa 611. — Ani tani talleroinen 613. — Menin ojalle onkimaan 613. — Tuostapa käy poikain polku 613.</p>
+            <p/>
+            <p>
+                <hi rend="b">Pilkkarunoja</hi>.</p>
+            <p>
+                <hi rend="i"/>
+            </p>
+            <p>
+                <hi rend="i">Ristimänimistä.</hi>
+            </p>
+            <p/>
+            <p>Aatu 615. — Ali 615. — Anna 615. — Antti 615. — Elli 618. — Heikki 619. — Joose 623. — Jussi 623 — Kaija, Kaisa 631. — Kalle 633. — Kerttu (ks. nr. 3133) 631. — Kirsti (ks. Kaija) 631. — Kustaa 634. — Leena (ks. nr. 3150) 633. — Liisa (ks. nr. 3131) 631. — Maija (ks. myös Kaija) 634, 631. — Manta 634. — Matti 635. — Mikkeli 638. — Mikko 638. — Miksi Piksi 6 3. — Oskari 644. — Otto 644. — Pekka 644. — Piete (ks. nr. 3139, 3141 ja 3143) 632. — Pirje (ks. nr. 3131 ja 3134) 631. — Pisteli 644. — Samuli 645. — Satu 645. — Taneli 645. — Tiina 645. — Vappu 646. — Vilppu 646.</p>
+            <p>
+                <hi rend="i"/>
+            </p>
+            <p>
+                <hi rend="i">Paikannimistä.</hi>
+            </p>
+            <p/>
+            <p>Paikannimistä 646. — Nälän kulku 648.</p>
+            <p>
+                <hi rend="i"/>
+            </p>
+            <p>
+                <hi rend="i">Yleisnimistä.</hi>
+            </p>
+            <p/>
+            <p>Akka 650. — Isä 658. — Paimen 661. — Poika 662. — „Potra“ 662. — Sulhanen ja morsian 663. — Tyttö 663. — Kirpun tasaaminen 663.</p>
+            <p/>
+            <p>
+                <hi rend="b">Opetusrunoja</hi>.</p>
+            <p/>
+            <p>Karjan laitumelle laskeminen 665. — Lampaan rukous 665. — Paimenvitsan ja ongen tekeminen 666.</p>
+            <p/>
+            <p>II. Pohjois-Hämeen runot.</p>
+            <p/>
+            <p>
+                <hi rend="b">Kertovaisia runoja</hi>.</p>
+            <p/>
+            <p>Kivijärven kiltit miehet 5. — Katriina vastaksessa 6. — Luomisruno (ks. Pääskyläinen päivälintu) 10. — Meren kosijat 6. — Neljän neidon runo 8. — Puuttui surma kuulemahan 10. — Pääskyläinen päivälintu 10. — Viron orjan virsi 11. — </p>
+            <p>Lunastettava neito 11.</p>
+            <p>
+                <hi rend="i"/>
+            </p>
+            <p>
+                <hi rend="i">Yksityisiä kertovaisten runojen katkelmia.</hi>
+            </p>
+            <p/>
+            <p>Väinämöisen soitto 14. — Väinämöisen polvenhaava 15. — Kilpalaulanta 15. — Ilmarisen syntyminen 15. — Kuolon sanomat 16.</p>
+            <p/>
+            <p>
+                <hi rend="b">Tunnelmarunoja</hi>.</p>
+            <p/>
+            <p>Laulu 17. — Kasvatti emo kanoja 18. — Lähenkö jänön jälille 18. — Läksin piennä kyntämähän 19. — Manan majan veistäjä 20. — Minun on turva turpehessa 20. — Nyt saa jousi jouten olla 20. — Tule surma suota myöten 20. — Tule neitonen minulle 21. — Oispa tässä tyttäressä hyvänkin talon emäntä 21. — Susi syököön sen hevosen, joka tuo toruvan vaimon 21. — Kolme on miehellä kovaa 21.</p>
+            <p/>
+            <p>
+                <hi rend="b">Määrätyissä tiloissa laulettuja runoja</hi>.</p>
+            <p/>
+            <p>
+                <hi rend="b">1. Vuotuisten juhlapäivien viettoon liittyviä runoja.</hi>
+            </p>
+            <p>
+                <hi rend="b"/>
+            </p>
+            <p>Tuomaanruno 23.</p>
+            <p/>
+            <p>
+                <hi rend="b">2. Työlauluja</hi>.</p>
+            <p/>
+            <p>Jauhajan laulu 25.</p>
+            <p/>
+            <p>
+                <hi rend="b">3. Paimenlauluja</hi>.</p>
+            <p/>
+            <p>Muut menee kirkkoon 26. — Pimpula pampula paimenpoika 26. — Tuurin luurin luikkaa 26. — Tyytyn, lyytyn, piikapaimen 26.</p>
+            <p/>
+            <p>
+                <hi rend="b">4. Kehtolauluja</hi>.</p>
+            <p>
+                <hi rend="i"/>
+            </p>
+            <p>
+                <hi rend="i">A. Vanhaa suomalaista runomittaa noudattavat.</hi>
+            </p>
+            <p/>
+            <p>Hiiri meni metsään 28. — Huis sika metsään 29. — Huru huru hummalla kirkkoon 31. — Körö körö kirkkoon 33. — Lintu tuopi liinapaidan 34. — Minä laulan lapsen kielen 35. — Miu, mau, Mikon kello 86. — Nukuta, jumala, lasta 37. — Nurmilintu 38. — Tule uni uunin päältä 41. — Tuonen tupa 43. — Tupakkirulla 44. — Tuudin lasta turvakseni 46. — Uni ulkona kyselee 47.</p>
+            <p>
+                <hi rend="i"/>
+            </p>
+            <p>
+                <hi rend="i">B. Uudemmat, loppusointua tapailevat.</hi>
+            </p>
+            <p/>
+            <p>Aa, aa, allin poika 47. — Heijaa, heijaa, Heikin lasta 48. — Hussan, pissan, pientä lasta, mikä lapsella lienee 48. — Minä tuudin pientä lasta 49. — Piu pau, kirkonkellot huutaa 50. — Tikanpoika 50. — Tuuti lullaa lasta, kissa tuli vastaan 52. — Tuuti lullaa lasta, muori tuli vastaan 52.</p>
+            <p>
+                <hi rend="i"/>
+            </p>
+            <p>
+                <hi rend="i">C. Erilaisia kehtolauluja.</hi>
+            </p>
+            <p/>
+            <p>Erilaisia kehtolauluja 53. — Ks. myös Muita lastenrunoja 73.</p>
+            <p/>
+            <p>
+                <hi rend="b">Lasten runoja ja loruja. </hi>
+            </p>
+            <p>
+                <hi rend="b">1. Ketjurunoja.</hi>
+            </p>
+            <p/>
+            <p>Hiiri meni metsään (ks. Kehtolauluja) 28. — Palvelin talonpoikaa vuoteni täyteen 56. — Pukki kaalimaassa 56. — Sonni ja Killi 59. — Pakeneva 61. — Onnimanni 67. — Pukki meni puuhun 68. — Missä voi? — Hiiri vei 70.</p>
+            <p/>
+            <p>
+                <hi rend="b">2. Muita lastenrunoja</hi>.</p>
+            <p/>
+            <p>Jos minä kirpun kiinni saisin 73. — Jumalalla paimenessa 73. — Jäniksen neuvo 74. — Ketun valitus 74. — Kissa kuoli kiiruulla ajalla 76. — Kutitin, kutitin kumppaniani 76. — Kuulin kurjen kullertavan 77. — Leivon, leivon leipäsiä 77. — Minä menen mettään (mehtään) kettua pettään 77. — Pum, pum, pumperoista 77. — Sorsa soitti kanteletta 78. — Suutari, tee mulle kengät: minä menen naimaan 78. — Yksityisiä lasten runoja ja loruja 79. — Ks. myös </p>
+            <p>Pilkkarunoja.</p>
+            <p/>
+            <p>
+                <hi rend="b">Leikkirunoja</hi>.</p>
+            <p/>
+            <p>Arvotusleikki (ks. Hyi, hyi, Hymylään) 81. — Hirvisillä 81. — Hyi, hyi, Hymylään 81. — Kalakonttisilla 84. — Kartanoisilla 84. — Kätken kiveä, sotken savea 85. — Leikari 86. — Leskisillä (ks. Äitisillä) 91. — Nauriisilla 87. — Näkkisillä 89. — Sokkosilla 90. — Susisilla 91. — Äitisillä 91.</p>
+            <p/>
+            <p>
+                <hi rend="b">Pilkkarunoja</hi>.</p>
+            <p>
+                <hi rend="i"/>
+            </p>
+            <p>
+                <hi rend="i">Ristimänimistä.</hi>
+            </p>
+            <p/>
+            <p>Antti 93. — Eerikki 93. — Elli 93. — Heikki 94. — Jussi 94. — Kaija, Kirsti, Maija 95. — Liisa 95. — Maija (ks. Kaija) 95. — Matti 96. — Mikko 96. — Vappu 96.</p>
+            <p>
+                <hi rend="i"/>
+            </p>
+            <p>
+                <hi rend="i">Paikannimistä.</hi>
+            </p>
+            <p/>
+            <p>Paikannimistä 96. — Nälan kulku 96.</p>
+            <p>
+                <hi rend="i"/>
+            </p>
+            <p>
+                <hi rend="i">Muita pilkkarunoja.</hi>
+            </p>
+            <p/>
+            <p>Akka 98. — Isä 98. — Linnustaja 98. — Muori 98. — Kirpun tasaaminen 98. — Erilaisia 99.</p>
+            <p/>
+            <p>
+                <hi rend="b">Opetusrunoja</hi>.</p>
+            <p/>
+            <p>Lampaan ja sian sorkkien syöminen 100. — Vesi vanhin veljeksistä 100.</p>
+            <p/>
+            <p>Lisiä Hämeen runoihin.</p>
+            <p/>
+            <p>Lisiä etelä- ja keski-Hämeen runoihin.</p>
+            <p/>
+            <p>
+                <hi rend="b">Kertovaisia runoja</hi>.</p>
+            <p/>
+            <p>Neljän neidon runo 101.</p>
+            <p/>
+            <p>
+                <hi rend="b">4. Kehtolauluja.</hi>
+            </p>
+            <p>
+                <hi rend="b"/>
+            </p>
+            <p>Tupakkirulla 101. — Erilaisia kehtolauluja 101.</p>
+            <p/>
+            <p>Yleisliite Hämeen runojen 1. ja 4. osaan:</p>
+            <p/>
+            <p>K ä s i a l a n n ä y t t e i t ä  eräistä vanhoista muistiinpanoista 103.</p>
+            <p/>
+            <p/>
+            <p>LYHENNYSTEN JA MERKKIEN LUETTELO.</p>
+            <p>
+                <hi rend="i"/>
+            </p>
+            <p>
+                <hi rend="i">HO</hi> = Hämäläis-Osakunnan arkisto.</p>
+            <p>
+                <hi rend="i">MT</hi> = Monumenta Tavastica, Hämeen muistomerkkejä.</p>
+            <p>
+                <hi rend="i">SMMY</hi> = Suomen Muinaismuistoyhdistyksen arkisto.</p>
+            <p>
+                <hi rend="i">Suom. sem. arkisto</hi> = Yliopiston Suomalaisen seminarin arkisto.</p>
+            <p>
+                <hi rend="i">Suom. valtioark. =</hi> Suomen valtioarkisto.</p>
+            <p>
+                <hi rend="i">Ker. huom., lis., muist., sel. =</hi> Kerääjän huomautus, lisäys, muistutus, selitys.</p>
+            <p>
+                <hi rend="i">Toim. sel.</hi> = Toimituksen selitys.</p>
+            <p>
+                <hi rend="i">p. o.</hi> = pitää, pitäisi olla.</p>
+            <p>
+                <hi rend="i">Paikannimet</hi> ovat selvästi ja siksi vähän lyhennettyjä, etteivät ne kaivanne erikoista selitystä.</p>
+            <p>
+                <hi rend="i">Kerääjien nimet</hi> ovat julaistut yleensä sellaisinaan, ristimänimi tai alkukirjain vain sellaisessa tapauksessa, jolloin on useampia samannimisiä kerääjiä. Vain joistakin pitemmistä nimistä, jotka esiintyvät usein, on käytetty seuraavia lyhennyksiä:</p>
+            <p>
+                <hi rend="i">Heid. ja Palmr.</hi> = Heideman ja Palmroth.</p>
+            <p>
+                <hi rend="i">Hels. Suom. alkeisop. konv. =</hi> Helsingin Suomalaisen alkeisopiston konventti.</p>
+            <p>
+                <hi rend="i">Hels. Suom. norm. lys. konv. =</hi> Helsingin Suomalaisen normalilyseon konventti.</p>
+            <p>
+                <hi rend="i">Jyväsk. lys. konv. =</hi> Jyväskylän lyseon konventti.</p>
+            <p>
+                <hi rend="i">Kuop. Suom. lys. toverik. =</hi> Kuopion Suomalaisen lyseon toverikunta.</p>
+            <p>
+                <hi rend="i">Pihtip. Kirj. Seura =</hi> Pihtiputaan Kirjallisuuden Seura.</p>
+            <p>
+                <hi rend="i">Vaas. lys. „Koe“-seura </hi>= Vaasan lyseon „Koe“-seura.</p>
+            <p>
+                <hi rend="i">Österb.-Grönqv.</hi> = Österberg-Grönqvist.</p>
+            <p>
+                <hi rend="i"/>
+            </p>
+            <p>
+                <hi rend="i">Hämäläis-Osakunnan</hi> keräelmät ovat merkityt lyhennysmerkeillä <hi rend="i">HO</hi> ja kullekin kerääjälle kuuluvalla järjestysnumerolla (painettu puolilihavalla) seuraavasti:</p>
+            <p/>
+            <p>1 = Aaltonen Esko.</p>
+            <p>2 = Anttila Eero.</p>
+            <p>3 = Aulanko Aarne.</p>
+            <p>4 = Groundstroem Kalervo.</p>
+            <p>5 = Hakala Väinö.</p>
+            <p>6 = Kallio Topi.</p>
+            <p>7 = „Kansakoulunoppilas v:lta 1867 —68“.</p>
+            <p>8 = Kaukoranta Toivo.</p>
+            <p>9 = Keskitalo E.</p>
+            <p>10 = Knuutila Viljo V.</p>
+            <p>11 = Koskenjaakko A. A.12 = Kotikoski J. W.</p>
+            <p>13 = Lahden kansanopiston oppilaat.</p>
+            <p>14 = Lehtonen K. F.15 = Mäkelä A. E.16 = Nikula Suoma.</p>
+            <p>17 = Oikari Matti.</p>
+            <p>18 = Pirttinen Vihtori ja Matilainen Onni.</p>
+            <p>19 = Rantanen Juho.</p>
+            <p>20 = Rapola Martti.21= Rauhala K. N.</p>
+            <p>22 = Regnell Hanna.</p>
+            <p>23 = Roos T. I.</p>
+            <p>24 = Salo Aukusti.</p>
+            <p>25 = Salonen S.</p>
+            <p>26 = Sinisalo Anni.</p>
+            <p>27 = Sykäri Hilma.</p>
+            <p>28 = Toivonen Aug.</p>
+            <p>29 = Toivonen K. K.</p>
+            <p>30 = Vanamo Hilma.</p>
+            <p>31 = Vihervaara Emil.</p>
+            <p>32 = Alatalo Helmi.</p>
+            <p>33 = Länsiluoto Yrjö.</p>
+            <p/>
+            <p>[  ] Toimituksen lisäyksiä, täydennyksiä tai selityksiä kaikissa muissa paitsi</p>
+            <p>prof. K. Krohnin keräelmissä, joissa ne ovat kerääjän itsensä suorittamat.</p>
+            <p>⌜⌝  Epäselvä kohta.</p>
+            <p>. . . . Poisjätetty kohta.</p>
+        </div></body>
+    </text>
+</TEI>

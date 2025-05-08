@@ -1,0 +1,1144 @@
+<?teipublisher template="alkulauseet.html" odd="teipublisher.odd" view="single"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>IV3: hakemisto</title>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                <pubPlace>Helsinki</pubPlace>
+                <date>2024</date>
+                <availability>
+                    <p>Tekijänoikeudet: Suomalaisen Kirjallisuuden Seura</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Suoman kansan vanhat runot IV. Keski-Inkerin runot. 3. Toisinnot 2763−4807.</title>
+                    <author>Väinö Salminen (toimittaja)</author>
+                    <pubPlace>Helsinki</pubPlace>
+                    <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                    <date>1928</date>
+                    <series>
+                        <title>Suomalaisen Kirjallisuuden Seuran toimituksia</title>
+                        <biblScope>140, III.</biblScope>
+                    </series>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div>
+            <p>Aineenmukainen luettelo Keski-Inkerin runoihin.</p>
+            <p>
+                <hi rend="bold">I. Kertovaisia runoja ja runoaiheita.</hi>
+            </p>
+            <p>Ahdin meriretki 1328, 2092, 4037.</p>
+            <p>Ahti 1328.</p>
+            <p>Annikki ja Kesti 72, 131, 445, 1376, 2084—6, 2388, 2468, 3004, 3724, 4007, 4039, 4091.</p>
+            <p>Annikki Turusen tyttö Poltteli Turulla tulta 1739, 2085, 2906, 2920, 2953, 3004, 3213, 4058, 4084, 4112.</p>
+            <p>Ansiotyökosinta, vrt. Tuonelta kosinta 282, 574, 689, 755, 837, 1082, 1151—2, 1159, 1164, 1357, (1386), 1804, 1909, 1917—19, 3037, 3182.</p>
+            <p>Anteruksen runo 486, 492, 534, 560—61, (1036), 1151, 1153, 1155, 1361, 1424, 1427, 1747, 1905—8, 1911—13, 1915—16, 1920—7, 2002, 2314, 2492, 2507, 2516, 2533, 2567, 2609, 2636, 3182, 3743, 3832, 4009—10, 4026, 4070, 4151.</p>
+            <p>Anteruksen sotaan lähtö 2612.</p>
+            <p>Asettele meren Jumala aallot 1336.</p>
+            <p>Elinainen meni aittahan mäelle 1601.</p>
+            <p>Emolle marjaan, vrt. Äidin kuolo 9, 60, 118, 393, 1011, 1369, 1412, 2254, 3663.</p>
+            <p>Emolle marjaan — niistä emo juopuu 1058.</p>
+            <p>Ennen naidun naisen tappo 1440, 1929, 1934, 2533.</p>
+            <p>Etsin neittä vellollein; Varkaalle menijä neito 39, 2163, 3146, 3440.</p>
+            <p>Hanhi kadonnut 145, 230, 403, 713, 1311—12, 1642, 1739, 2223—4, 2401, 2620, 2632, 2843, 2855, 4112.</p>
+            <p>Hekon runo 556, 623, 1036, 1466, 1931—3, 1935—41, (1942—57), 2491, 2520, 2532, 2569, (3194, 3968), 3990.</p>
+            <p>Hevonen kuoli kyntäjältä 1463.</p>
+            <p>Hevosen sudet, karhut (varas), kyntäjältä 508, 558, 848, 1115—16, 1371, 1545, 1552, 2256—7, 2670, 2687, 2794, 2898, 3155, 3319, 3771—3, 3862, 3927, 4174.</p>
+            <p>Hevonen varastettu olutta juoneelta 834, 1124, 1712, 1867, 1869, 2096, 2394, 2466, 2735, 2828, 2911, 3155, 3524.</p>
+            <p>Hevonen varastettu laulajalta 430.</p>
+            <p>Hevonen varastettu veljeltä 521,1066, 1683,1868, 3766, 3815, 4177.</p>
+            <p>Hirvensarvesta soitin 121, 160, 364, 762, 2018, 2021—2, 2025—6, 2028.</p>
+            <p>Hirvi juoksi Hiien maalta 800, 1-154, 1807, 2021, 2125, 4040.</p>
+            <p>Hällö Viipurin — tulinen ruuna 430, 1499, 1552.</p>
+            <p>Hävis Kirjo karjastani, rengit etsimään 616 3313, 3748—9, 3975.</p>
+            <p>Hävis neitonen kaulta (3 koiran kera etsimään) 1675, 3276.</p>
+            <p>Häätupa (Ihmetupa) 9, 264, 328, 822, 1066—7, 1569, 4177.</p>
+            <p>Ihmemaa missä vierre viina läikkyi, maat siniset, puut punaiset 123, 229, (484), 826, 886 a, 1118,1520, 2550, 3146, 3246, 3562.</p>
+            <p>Inkeri ja Lalmanti 14, 75, 185, 233, 316, 374, 395, 455, 473, 561, 618, 633, 893, (1022), 1097, 1157, 1339, 1441, 2076—9, 2082, 2280, 3149, 3250, 3932, 4016, 4035, 4052.</p>
+            <p>Iski tulta Ilmanrinta 4, 618, 640, 1513, 3273, 3726, 3726, 3926, 4051.</p>
+            <p>Iso härkä 117, 552, 562, 1323—5, 1505, 1794, 1966—9, 2022, 4036.</p>
+            <p>Iso sika 2230 a, 2689.</p>
+            <p>Iso tammi 25, 98, 323, 602, 616, 915, 947—50, 1318, 1382, 1421, 1437, 1461, (1537), 1736, 1808, 1845—53, 2482, 2542, 2640, 3110—11, 3140, 3201, 3521, 3657, 3987, 4040, 4102, 4115.</p>
+            <p>Jaakko Pontus, ks. Pentin linna.</p>
+            <p>Jalka kiveen 6, 20, 111, 145, 295, 301, 905, 947, 1064, 1524, 2120, 2122, 3041, 3120, 3246, 3261, 4178, 4591.</p>
+            <p>Juoksi hirvi Hiienmaalta, ks. Hirvi juoksi H.m.</p>
+            <p>Jänis sananviejänä 541, 978, 1479, 2060, 2087—91, 3963, 4038.</p>
+            <p>Kaarlo Kuningas, ks. sota Narvan tienoilla ja sodan kuvaus.</p>
+            <p>Kanteleella nukuttaminen 22, 93, 108, 489, 537, 540, 1121, 1749, 1756, 1958—9, 2462, 3100, 4141.</p>
+            <p>Kanteleensoitto 82, 364, 762, 1454, 1559, 2018—28, 2938, 2561, 3404, 3471.</p>
+            <p>Kanto meressä 546, 1798, 2242—3.</p>
+            <p>Kasvoi neito Kaarelassa 298, 1781.</p>
+            <p>Katri ja Vetrikkä? vrt. Miehen tappaja 22, 35, 489, 537, 1121.</p>
+            <p>Katrina kotikananen 243, 396, 527, 545, 580, 603, 745, 952, 1009—10, 1350, 1389, (1412), 1706, 1733, 1786, 1942—57, 2491, 2520, 2558, 2665, 2698, 3019, 3144, 3179, 3194, 3506, (3761), 3963, (3968).</p>
+            <p>Kaukamoinen, (Kauko) 623, 1319, 1328, 1435, 1960—3, 2028, 2088, 2090, 2092, 3986, 4015, 4037, 4052.</p>
+            <p>Kauno kalaan 37, 387, 653, 1093, 1737, 2222, 2413, 2502, 2583, 2628, 2721, 2847, (2861), 2882, 2918, 2954, 2964, 2978, 3004, 3103, 3275, 3401, 3426, 3492, 3870, 3929.</p>
+            <p>Keträsin kesoisen päivän 387, 1579, 1586, 1740, 3275, 3350, 3401, 3426, 3492, 3929.</p>
+            <p>Kiistasin kivelle viija, vrt. Sormin soutaminen ja Suomeen pako 339, 1694.</p>
+            <p>Kilpalaulanta 140, 559, 572, (689), 1152, 1327, 1436, (1499), 1500, 1854—60, 2260, 2479, 2643, (2737), 3005, 4020, 4032, 4146, 4165.</p>
+            <p>Kirkkomatkalla vaatteensa ryvettänyt neito 849, 917.</p>
+            <p>Kirkon tarvisaineiden etsintä 41, (46), 53, 98, 182, 260, 322—3, 326, 483, 651, 787, 1130—1, 1301, 1636, 2029, 2400, 3167, 3489, 3810, (4047).</p>
+            <p>Kojosen poika (46), (182), 486, 556, (603), 1036, 1151, 1404—5, 1440, 1466, 1691, 1733, 1786, 1796, 1909—10, 1914, 1927, 1931—4, 1936, 1938—41, (1942—57), 2469, 2491, 2520, 2532—3, 2558, 3194, 3208, 3720—22, 3817, 4153 .</p>
+            <p>Kolkutin kotini usta 753, 844.</p>
+            <p>Kolme neitoa, yksi kutoo kultavyötä, ks. kultalangan katkeaminen 2667.</p>
+            <p>Kolmen käen kukunta 2120, 2125.</p>
+            <p>Konnulta kosinta, 67, 79, 123, 160, 252, 354, 642, 1159—61, 1427, 1568, 1757, 1905—8, 1920—6, 1928—30, 2395, 2493, 2533, 2636, 2956, 3011, 3115, 3150, 3163, 3319, 3336, 3385, 3439, 3452, 3467, 3520, (3774), 3775, 3790, 3815, 3938, 4010, (4175).</p>
+            <p>Koristeet ja vaatteet vie varas (poika) 304, 1650, 1740, 1790, 2931, 3254.</p>
+            <p>Kosijat rannan mailta, 374.</p>
+            <p>Kouluhun kotonta, vrt. Jalka kiveen 20, 142, 145, 226, 315, 333, 360, 905, 1062, 1064,1789, 2017, 2380, 2637, 3742—3, 3747, 4178.</p>
+            <p>Kullan kutsut 20, 295, 301, 947, 1524, 1683, 1789, 2122, 3041, 3120, 3246, 3261, 4178.</p>
+            <p>Kullasta saari 176, 357, 401, 574, (592), 618, 1164, 1357—8, 1917, 1919, 2112, 2622, 2633.</p>
+            <p>Kullervo (Kalervo ja Untamo) 13, 66, 74, (75), 93, 127, 192, 199, 250, 297, 340, 394, 506, 518—19, 533, 570, 638—9, 649, 770, 838, 857, 896, (981), 1359, 1384—5, 1416, 1540, 1579, 1624, 1803, 1976, 1987—2001, 2055, 2284, 2408, 2460, 2524, 2531, 2564, 2681, 2808—9, 2899, (2922), 2941, (2955), (2966), (2977), 3002, 3313, 3714, 3716—18, 3906, 3858, 3947, 3997, 3999, 4018—19, 4030, 4139, 4147.</p>
+            <p>Kultalangan katkeaminen 44, 471, 714, 1573, 1611, 2103, 2120, 2231, 2464, 3954.</p>
+            <p>Kultaneidon taonta (Manteroin matala seppä) (2), 49, 69, 71, 249, 319, 555, (574) 634, 648, 705, 1140—2, 1355, 1373, 1383, 1420, 1429, 1615, 1623, 1691, 1694, 1890—1903, 2404, 2461, 2540, 2876, 3162, 3181, 3256, 4050, 4148.</p>
+            <p>Kunnoton miniä, ks. Tytärten hukuttaja.</p>
+            <p>Kuolon sanomat, vrt. Leinaa, leinaa hyvä rouva, 43, 333, 858, 905, 1062—3, 1742,1887—8, 3016—17, 2214, 2636, 2648, 2884, 2947, 2976, 3039,3402, 3742, 3832.</p>
+            <p>Kurjet soita riitelee, hanhet maita 257, 4054.</p>
+            <p>Kurki lintujen kuningas vei kalat merestä 1433.</p>
+            <p>Kuulin koissa kolkettavan, vrt. Anterus 1742, 1752, 1887, 2283, 2636,2848, 4168.</p>
+            <p>Kuulin kuin orava laulo 87, 140, 642, 1514, 3150.</p>
+            <p>Kylpi Luoja lapsineen, vrt. Saunan veli selkäänsä 1076.</p>
+            <p>Kyntäjältä atran vitsa taittui, vrt. Hevonen kyntäjältä 1699, 2828, 3027.</p>
+            <p>Kysyin maata velloltani, ks. Sinon kitkijä.</p>
+            <p>Kyynelten vierintä 471, 1022, 2103, 2120, 2231, 2367, 2464, 3537, 3954.</p>
+            <p>Kyyneleet paksummat pavun jyviä 808.</p>
+            <p>Kyyn olut, ks. Hirvi juoksi Hiien maalta.</p>
+            <p>Käen suusta kultaa 135, 823.</p>
+            <p>Käin mie tietä terhollista, vrt. Iso tammi 5, 20, 1736, 2550, 3765.</p>
+            <p>Käin kyliä paljo — 10 kälyä, 10 taloa, 10 tytärtä 1697.</p>
+            <p>Kävin pilven piirtä myöten 690, 1719.</p>
+            <p>Laiska lesken poika, paarmat kyntämään, varikset vakoomaan 231.</p>
+            <p>Laivaretki 81, 101, 183, 391, 484, 554, 579, 616, 1322, 1324, 1347—8,1788, 1792, 1853, 2031—45, 2389, 2488, 2500, 2523, 2551, 2643, 3104—6,3525, 3739, 3824, 4102, 4115, 4152.</p>
+            <p>Laivassa surmattu veli 107, 237, 536, 567, 1004, 1022, 1140, (1358), 1439,(1578), 1980—6, (2044—7), 2087, 2171, 2505, 2576, 3945, 4033, 4038.</p>
+            <p>Lauri poika Lappalainen 188, 487, 525, 551, 1135, 1153, 1372, 1472,1972—9, 2260, 2469, 3040, 3440, 3859, 4001, 4011, 4156.</p>
+            <p>Lehmä teki valkean vasikan, vrt. Pentin linna 1552, 2395, 2737, 2929,3096, 3155, 3524, 3773,</p>
+            <p>Leinaa, leinaa hyvä rouva, ks. Kuolon sanomat ja leikkilaulut.</p>
+            <p>Leino leski 118, 167, 413, 481, 490, 566, 765, 916, 1109—10, 1506, 1575,1863, 2123, 2217, 2253, 2255, 2577, 2770, 2987, 3016, 3135, 3185, 3768—9, 4154.</p>
+            <p>Lesken neidot kuuksi ja tähdiksi 38.</p>
+            <p>Lintu lauloi vahingon eellä, tule tuli, polta linna 379, 3257.</p>
+            <p>Lintu lehossa lauloi 1432, 2530, 2856, 4008.</p>
+            <p>Lohikäärme ja neito 61, 250, 479, 1061, 1444, 1665, 1795, 2211, 2248,2252, 2478, 3767, 4048, 4073, 4140, 4161.</p>
+            <p>Lunastettava neito 157, 259, 359, 666, 1356, 1391, 1763, 1878, 2636,2715, 2742, 2803, 2851, 2903, 3736—8, 3754, 3877, 4021, (4034), 4081.</p>
+            <p>Luojan virsi 565, 575, 583—5, 593, 625, 1314—16, 1343—4, 1431—2, 1842, 1904, 1964, 2050—1, 2054—8, 2514—5, 2565, 4005, 4022—5, 4056, 4067—8, 4072, 4149.</p>
+            <p>Luomisruno 187, 190, 198, 223, 318, 325, 405, 482, 520, 532, 568, 1349,1398, 1797, 1811—36, 2105, 2467, 2537—8, 2574, 2629, 2645, 2678,2767, (2829), 2859, 2888, 2980, 2989, 2997, 3187, 3223, 3406, 3525, 3727,3730—1, 3748, 4043, 4083.</p>
+            <p>Luutaan lehosta 26, 54, 83, 95, 150, 152, 666, 675, 734, 914—16, 1410,1413, 1711, 1861—66, 1889, 2018, 2530, 3214, 3230, 3391, 3751—3,3991, 4154.</p>
+            <p>— lintu lauloi, älä taita 2856, 3751—2, 4008, 4153.</p>
+            <p>Läksin kouluhun kotonta, ks. Kouluhun kotonta.</p>
+            <p>Läksin linnaan likaksi 294, 516, 1304.</p>
+            <p>Läksin sorja soutamahan (Suomeen, Saareen) 344.</p>
+            <p>Löin isoni, löin emoni (Suomeen pako) 269, 1082, 1720, 2562.</p>
+            <p>Löysin ruoskan Ruotsin maalta 9, 264, 822, 1067, 1953, 4177.</p>
+            <p>Maarian lapsen etsintä, ks. Luojan virsi.</p>
+            <p>Maie miehensä tappaja, ks. Miehen tappaja.</p>
+            <p>Maie pakoon eri paikkoihin 1003,1961—2, 2028, 2280, 4015, 4052,</p>
+            <p>Maie varastettiin, ks. Vesitieltä pilviin 22.</p>
+            <p>Maie tervoi neitsykkäinen kaatui, Kalervo nostaja 2095, 2812.</p>
+            <p>Mansikka mäeltä huusi 43, 886, 1052, 1365, 1410, 1644, 1935, 2147, 3913.</p>
+            <p>Manteroin matala seppä, ks. Kultaneidon taonta.</p>
+            <p>Marjatielle nukahtanut neito 960, 1973.</p>
+            <p>Marjatiellä kadonnut tyttö 841, 1565, 2992, 3757—60.</p>
+            <p>Marketan runo 329, 419, 771, 1006, 1476, 2053, 2093, 3035—6.</p>
+            <p>Mataleena 1360, 2052, 4027, 4071.</p>
+            <p>Mehiläinen viestin emolle pojan (tytön) surmasta 55, 489, 1666, 2090,3100.</p>
+            <p>Meiän maalla maat siniset, k.s. Ihmemaa.</p>
+            <p>Menin piennä paimeneen 1714.</p>
+            <p>Menin riihelle mäelle, ks. Soljella sotaan.</p>
+            <p>Menin suolle sotkemaan, ks. Koristeet vei varas 1723.</p>
+            <p>Menin tallille mäelle 1752.</p>
+            <p>Meren kosijat 919, 4058.</p>
+            <p>Mereen hukkunut veli 1071, 2258.</p>
+            <p>Merenkylpijä neito 7, 817, 870, 1032, 1615, 3744—5.</p>
+            <p>Meren neito, metsän sulho 64, 126, 187, 233, 366, 389, 473, 582, 617, 893, 1339, 1441, 1704, 1834, 2076—83, 3149, 3251, 3440, 3782, 4009, 4016, 4035, 4163.</p>
+            <p>Miehen tappaja neito 22, 107—8, (184), (235), 297, 489, 537, 540, 674, 1003—5, 1121, 1479, 1666, 1749, 1756, 1958—9, 2087—91, 2094, 2462, 2558, 2609, 2634, 3100, 3213, 3739, 4038, 4141.</p>
+            <p>Miekka onko miestä lyönyt 856.</p>
+            <p>Miekka meressä, vrt. Suka mereen 1825, 2629, 2678.</p>
+            <p>Myyryn pojan puolisona 57.</p>
+            <p>Myyty neito 26, 54, 83, 94—5, 175, 359, 469, (505), 586, 666, 734, 854, 933—5,1356, 1393, 1413, 1609, 1705, 1711, 1865, 1878—87, 1889, 2379, 2495, 2510, 2720, 2754, 2763, 2853, 2965, 3151, 3161, 3186, 3230, 3347, 3391, 3473, 3513, 3751—2, 3809, 3878, 3983, 4003, 4013, 4034, 4162.</p>
+            <p>Neito ansassa 276, 355.</p>
+            <p>Neitonen katosi kultakarttu kainalossa, isä etsimään 1613.</p>
+            <p>Neljän neidon runo (Satoi ukko uutta lunta) 375, 414, 731, 1295, 1602, 1637, 2891.</p>
+            <p>Noidille Viroon, ks. Äidin kuolo ja Anterus 1754, 2636, 3210.</p>
+            <p>Näin mie laivon lainehtivan — isonko t. veljeni 1380.</p>
+            <p>Näin mie Saarenmaan palavan ks. Saarenmaan palo.</p>
+            <p>Näki tiellä tetriparven, ks. Neito ansassa.</p>
+            <p>Oinonluinen kannel (Olin orjana Virossa) 21, 82, 93, 201, 494, 1403, 2019, 2023—4, 2027, 2561, 3346, 3750, 3776.</p>
+            <p>Olin orjana Virossa, ks. Oinonluinen kannel ja Viron orja 201.</p>
+            <p>Oljamissakäynti 149, (409), 513, 662, 881,1094,1600,1693, 2181, 2200—4, 2380—1, 2476, 2559, 2616, 2659, 2666, 2755, 2828, 2924, 2949, 2959, 3042, 3087, 3340, 3676, 3679, (3743), 3747, 3934, 4169, 4591.</p>
+            <p>Oluen keitto 824, 1319, 1435, 1851, 1960—2, 1970—1, 2028, 4014, 4053.</p>
+            <p>Onko otava, tähdet ja taivas oikein osattu 546.</p>
+            <p>Omenatammi 135, 823, 1653.</p>
+            <p>Oute Koute neitsykkäinen 4153.</p>
+            <p>Pakoon (Maie) eri paikkoihin, ks. Maie pakoon.</p>
+            <p>Pentin linna 1323, 2109.</p>
+            <p>Petäjän (kuusen) pellon päästä tuuli taittoi 1651.</p>
+            <p>Pilviin viety neito, ks. Vesitieltä pilviin viety.</p>
+            <p>Poika neittä viettelöö (Sisaren turmelus?) 3255.</p>
+            <p>Poikako vai tyttö 165, 986, 1477, 1741, 2139, 2142, 2185, 2199, 2521, 2539,2623, 3299, 3549—50, 3638, 3708.</p>
+            <p>Pyssy pilattu ampumaan mennessä 289.</p>
+            <p>Päivän kera kilpaa 8,187, 234, 251, 392, 979, 1461, 1572, 1746, 2113, 2121,2123—4, 2378, 2474, 2525, 2611, 3133, 3168, 3779—81, 4045.</p>
+            <p>Päivän poika valkiaine, Satuloi sata oroja 1905—8.</p>
+            <p>Päivän päästö 25, 556, 564, 571, 1349, 1351—2, 1461, 1700, 1766, 1799,1812—13, (1820), (1823), 1837—44, 1904, 2478, (2942), 3133, 3168,(3246), 3998, 4006, 4012, 4042, 4057, 4068, 4157.</p>
+            <p>Rautainen (kultainen) harava 38, 50, 187, 223, 317—18, 325, 482, 1071.</p>
+            <p>Riion neito, ks. Valpurikko Riion neito, 54, 1609.</p>
+            <p>Riion poika 35, 304, 623, 849, 879, 917.</p>
+            <p>Ristitty metsä 1215—16, 1616, 3247, 3491.</p>
+            <p>Saarenmaan (Suomen maan) palo 859, 1139, 1357, 1498, 1706, 2271, 3755,3928.</p>
+            <p>Saaren maat saroin jaettu, vrt. Kultaneidon taonta (2), 49, 319, 555,1141—2, 2540.</p>
+            <p>Saaren (nurmen) neito 4, 176, 198, 357, 401, 447, 532, 574, 618, 640, 667,690, 953, 1164, 1357—8, 1513, 1515, 1815—17 (1835—6), 1917—19,1953, 2035, 2081, 2699, 2764, 2859, 3187, 3273, 3276, 3726—7, 3729,3926.</p>
+            <p>Saaress’ on hyvä elää 1769.</p>
+            <p>Saarten synty (Piru meren pohjasta mutaa) 4055.</p>
+            <p>Sairastava neito 6, 97, 158, 321, 390, 402, 470, 493, 1013—14, 1432, 1445,1523, 1580, 2069—74, 2509, 2606, 2609, 2647, 2664, 2697, 3164.</p>
+            <p>Satoi ukko uutta lunta, ks. Neljän neidon runo.</p>
+            <p>Saunan veli (Vilpoi, sulho) selkäänsä 42, 342, 387, 538, 752, 1075, 1661,1722, 1847, 1849, 2387, 3198.</p>
+            <p>Sinisiipi linnukkainen yli kolmen metsän, järven, pellon (Sinisiiro kultakiiro) 45, 65, 112, 1100, 3768—70.</p>
+            <p>Sinon kitkijä (kylväjä), vrt. Myyty neito ja Kolme kuollutta kotona (451,505), 586, 655, 854, 933, 1356, 1393, 1414, 1505, 1742, 1791, 1878—88,2379, 2526, 2582, 2621, 2754, 2763, 2844, 2848, 2853, 2937, 2995, 3024,3112, 3424, 3470, 3750, 3983, 4003, 4069, 4162.</p>
+            <p>Sisaren turmelus (5), (92), 150, 213, 227, 259, (266), 296, 306, 335, 349,378, 422, 560, 578, 627, 642—3, 646, 792, 832, (1137), 1150, 1158, 1342, 1400, 1525, 1564, 1566, 1597, 1601, 1691, 1697, 1905, 1938, 2002—15, (2090), 2093, 2402—3, 2532, 2550, 2573, 2580, 2610, 2637, 2730, 2765, 2812, 2845, 2885, 2968, 3061, 3117, 3134, 3197, 3255, 3379, 3453, 3719, 3937, 3955, 4016, 4031, 4160.</p>
+            <p>Sodan kuvaus: 573, 577, 611, 820, 1175, 1309, 1426, 1784, 2098, 2106, 2108—9, 2111, 2116, 2177, 2391—2, 2473, 2554, 2667, 2741, 2784, 3787, 3941, 3961—2.</p>
+            <p>Soitin suolle mennessäni, Kangas kuueksi muruksi 160.</p>
+            <p>Soljella sotaan (Menin riihelle mäelle) 42, 342, 399, 538, 752, 1075, 1661, 1722, 2278, 2387, 2944, 3198.</p>
+            <p>Sormin soutaminen 2, 129, 319, 826, 886, 1141, 1579, 1652, 1694, 1834, 1965, 2044, 2046, 2087, 2403, 4033, 4137, 4142.</p>
+            <p>Sormus kadonnut 146, 422, 748, 1104, 1504, 2466.</p>
+            <p>Sotamieheksi otto (rekryytti)-runo 103, 459, 465, 619, 635, 637, 764, 806, 820, 829, 904, 943, 1166—7, 1168—72, 1174—6,1182—5, 1302, 1309—10, 1387, 1396, 1419, 1438,1549, 1633, 1703, 1782—4, 2110—11, 2115—20, 2175—6, 2391, 2480—1, 2529, 2543, 2554, 2557, 2675, 2732, 2741, 2753, 2784—5, 2834, 2871, 3122, 3180, 3209, 3222, 3488, 3505, 3667—71, 3740, 3867, 3941, 3961—2, 3971, 4002, 4589.</p>
+            <p>Sotamiehenä olosta 102, 103, 420, 622, 659, 820, 1168, 1173, 1302, 1526—7, 1630, 2114, 2119, 2271, 2863, 3442, 3449, 3505, 3668—71, 3799.</p>
+            <p>Sota Narvan (Kolkanpään) tienoilla, kohalla 1339, 1386, 2109, 2643.</p>
+            <p>Sotasanomat 372, 573, 594, 661, 794, 1177—81, 1374, 1423, 1430, 1730, 1738, 1818, (1850), 2097—2102, 2104—8, 2114, 2484, 2541, 2620, 2673—4, 2729, 2757, 2989, 2997, 3114, 3147, 3635—7, 3639, 3770, 3849, 4044, 4150.</p>
+            <p>Suka mereen 86, 92, 113, 207, 298, 317, 466, 474, 581, 856,1071,1341,1346, 1478, 1495, 1725,1870—77, 2390, 2473, 2553, 2663, 2843, 2858, 2870, 2916, 2934, 3030, 3118, 3268, (3864), (3939), 3946, 4132, 4154.</p>
+            <p>Sulhon kylvöttäjä, ks. Kauno kalaan</p>
+            <p>Suomeen pako (vrt. Kaukamoinen) 2, 81, 129, 237, 269, 319, 484, 507, 553, 674, 1003, 1082, 1097, 1121, 1140—1, 1358, 1435, 1579, 1615, 1652, 1694,1767, 1965, 2037—46, 2267, 2404, 2488, 2500, 2523, 2551, 2634, 3105—6, 3140, 3502, (3513), 4015, 4052, 4137.</p>
+            <p>Suomen (Ruotsin) silta notkahteli 995, 1113.</p>
+            <p>Suomesta kosinta 347.</p>
+            <p>Suotta on tehty Suomen linna 360, 465, 1396, 3180, 3209, 3667.</p>
+            <p>Sure, sure hyvä rouva, vrt. leikeistä: Leinaa leinaa hyvä rouva ja Kuolon sanomat.</p>
+            <p>Sämpsä Pellervoinen (234), (251), 1810, (1813), (2123), 4029.</p>
+            <p>Taivaankappalten kosinta 580, 1009, 1350a, 1733, (1833), (1905), 1916,1942—52, 2477, 2665, 3968.</p>
+            <p>Taivaaseen veikkoa katsomaan — (tee mamma paita) 44.</p>
+            <p>Tauti kysyi: kenen tapan 3778.</p>
+            <p>Tapanin virsi 583, 1344, 2050, 2515, 4012, 4022, 4149.</p>
+            <p>Tiaisen olut, ks. Kaukamoinen ja Oluen keitto.</p>
+            <p>Tuonelta kosinta 68, 140, 247, 253, 287, 421, 450, 486, 492, 534, 689, 1151, 1355, (1361), 1405, 1480, 1721, 1747, 1796, 1905—16, 1918, 1927, 2283, 2492, 2533, 2567, 2609, 3102, 3163, 3182, 3720, 3722, 3725, 3817, 4153.</p>
+            <p>Tuonen akka koukkuleuka 1462.</p>
+            <p>Tuonen tyttö itketti lapset, hirnutti hevoset 1105, 1336, 1490, 2174.</p>
+            <p>Tuonen tyttö mustatukka (tappoi isännän) 1105, 1458, 1966, 2113, 2165.</p>
+            <p>Tytärten hukuttaja 99, 361, 495, 569, 652, 751, 906, 951a—e, 1362, 1418, 1424, 1585, 1729, 1787, 1973, 2126—33, 2135, 2483, 2486, 3506, 2614, 2639, 2683, (2738), 2762, (2813), 2847, 2879, 2926, 2948, 2956, 3057—8, 3119, 3378, 3503, 3508, 3725, 3732—4, 3746, 3826, 3938, 3988, 4099, 4143.</p>
+            <p>Valpurikko neito nuori 469, 1410, 1709,1865,1889, 2495, 2510, 3161, 3186.</p>
+            <p>Valpurikko Riion neito 54, 83, 95, 150, 152, 675, 721, 1413.</p>
+            <p>Varain ol varis jalalla — päänpesu lipeällä 287, 413, 450, 1159, 1721, 2956, 3392, 3725.</p>
+            <p>Varas koristeet, ks. Koristeet varas.</p>
+            <p>Varas varvikosta vei vaatteet (koristeet), ks. Menin uimaan kesolla 844, 1541, 3271, 3277, 3744—6, 3753, 3766, 3837, 3957.</p>
+            <p>Varkaalle menijä tyttö 39, 99, 110, 114, 335, 477, 832, 896, 913,1409,1571, 1685, 1789, 2135—6, 2384, 2496, 2508, 2682, 2722, 2872, 2919, 2952, 2967, 2979, 2983, 2990, 3044, 3108, 3207, 3764—5, 3869, 3965, 4131, 4167.</p>
+            <p>Vedenkantaja neito 100, 370, 721, 759, 1041, 2275, 2386, 2672, 2728, 2909, 2939, 2951, 3018, 3330.</p>
+            <p>Veikko tulee linnasta (kertoo oro) 324, 1313, 1537, 1618.</p>
+            <p>Veljen sisar haravoi merestä 317.</p>
+            <p>Veljeään etsivä neito 1030.</p>
+            <p>Veneenveisto 81, 101, 265, 391, 484, 544, 553, 579, 1322, 1347—8, 1767, 1788, 1792, 2029—43, 2389, 2488, 2500, 2523, 2551, 3104—6, 3513, 3525, 3824, 4047, 4049, 4102, 4137, 4152.</p>
+            <p>Veneeseen pyrkivä neito 21, 178, 483, 677, 1017, 1536, 1707, 1878, 1903, 2497, 2611, 3266, 3474, 3623—5, 3924, 3931.</p>
+            <p>Venäläisen veneestä pois pyrkivä, vrt. Lunastettava neito 1903.</p>
+            <p>Vesitiellä nukahtaneen neidon maidot lypsettiin 1973.</p>
+            <p>Vesitieltä pilviin viety neito 30, 96, 109, 146—7, 261, 312, 358, 376, 406, 436, 528, 539, 624, 763, 978, 1354, 1474, 1584, 1690, 2059—68, 2132, 2385, 2459, 2463, 2509, 2625, 2652, 2756, 3015, 3144, 3208, 3210, 3248, 3329, 3757—61, 3848, 3939, 3949, 4133.</p>
+            <p>Viron orja 36, 73,164, 478, 515, 535, 658, 727, 749, 833, 1326, 1345, 1507, 1693, (1726), 1728, 1793, 2205—8, 2409, 2485, 2522, 2644, 2949, 3154, 3252, 3351, 3405, 3422—3, 3777, 3948, 4041.</p>
+            <p>Vävyn tuomiset 173, 462, 878, 954, 1036, 1466, 1659, 1931—3, 1936, 1938, 2364, 2622, 2972, 3176, 3674, 3720, 3722—3, 3817, 3831, 4124.</p>
+            <p>Ylermikkö 1361.</p>
+            <p>Äidin kuolo, vrt. Emolle marjaan 118, 220, 384, 393, 1011, 1412, 1508, 1662, 2075, 2255, 3210, 3263, 3742, (3793), 3821, 3930, 4126.</p>
+            <p>
+                <hi rend="bold">II. Erilaisia runoja ja runoaiheita.</hi>
+            </p>
+            <p>Anglitsin (ja Ransusin) ja meiän kuninkaan sota 1428, 2036.</p>
+            <p>En tallo taimianne 1059—60, 2769.</p>
+            <p>Eri paikkoihin neitoa kosittiin, ks. (Oli emolla lintu myytävanä) 176, 286, 338, 357, 398, 640, 667, 690, 733, 745, 952—3, 1415, 1511, 1530, 1781, 2383, 2622, 2633, 2866, 3019, 3187, 3194, 3262, 3298, 3400, 3438, 3469, 3506, 3576—7, 3604—5, 3726, 3793, 3923, 4063.</p>
+            <p>Jumala on puhas omena 1455, 2167.</p>
+            <p>Kalojen keskustelu kotipaikoista 2049, 4051.</p>
+            <p>Kasvaa kanoille paimen 318.</p>
+            <p>Kasvatti emo kanoja paljon 1008, 1173, 1306, 2149, 2153, 2197, 2369, 2684, 2724, 2768, 2786, 2816, 2829, 2865, 3030, 3034, 3113, 3339, 3544, 3709, 3761, 3793, 3858, 3868, 4133, 4168.</p>
+            <p>Kolme aittaa kullallain 2608.</p>
+            <p>Kyllä tiiät meien portin 211.</p>
+            <p>Laulo ennen Lappalainen 524.</p>
+            <p>Livvuin soita l, maita, Kalman kartanon peritse 2268.</p>
+            <p>Maijoi pervoi neitsykäinen Löi päivällä vetoa 1745.</p>
+            <p>Meroi syötti, juotti 1696, 1758, 1781.</p>
+            <p>Mihin lastu singahtaa, siihen kirkko 1748.</p>
+            <p>Mihin pannen rahani 3271, 3741.</p>
+            <p>Minä jauhan Jaakolleni 4127.</p>
+            <p>Neidolta marjassa nännät putosi 3242, 3822.</p>
+            <p>Neidon kaksi kosijaa 918, 2613.</p>
+            <p>Oho kullaista kotia 2897.</p>
+            <p>Oli emolla lintu myytävänä, ks. Eri paikkoihin neitoa kosittiin.</p>
+            <p>Olin orjana Virossa — piikana 2982, 2986.</p>
+            <p>Olkinen oronen, jolla etsin arvoni alentajaista 897.</p>
+            <p>Oman kylän ylistys 138, 336, 435, 500, 610, 620, 722, 755, 767, 908, 1189— 91, 1194—6, 1198, 1201, 1203, 1206—7, 1209—1213, 1392, 1417,1446, 1510, 1518—20, 1577, 1602, 1622, 1648, 1677, 1713, 1730, 1743, 1764—5, 2232—7, 2447—8, 2450—3, 2555, 2575, 2651, 2686, 2793, 2950, 2961, 3053, 3107, 3139, 3191, 3259, 3377, 3428, 3500, 3517, 3554—8, 3689, 3798, 3838, 3911, 4113.</p>
+            <p>Omilla mailla parempi 620, 768, 3337.</p>
+            <p>Onkos teillä Osmolassa, niinkuin 683, 3269.</p>
+            <p>Onkos tuota teiän maalla — koivu, tammi, kuusi 177, 800, 1118, 2592.</p>
+            <p>Onko teillä porokellot portin päällä 2118.</p>
+            <p>Orja aidan takana raatamassa 175.</p>
+            <p>Paimenelta hävisi Kirjo, rengit, piiat etsimään 2405.</p>
+            <p>Rannan neidot, ks. Oman kylän ylistys 439, 542, 1332, 2233.</p>
+            <p>Rannalla hyvä elää, ks. Oman kylän ylistys 2633.</p>
+            <p>Riihelle neito, ei riko riihtä 948.</p>
+            <p>Riihellä vihne vaginaan, 1578, 3243.</p>
+            <p>Sanottiin ettei veli saa naista 2266.</p>
+            <p>Se on lello, kell on vello 69, 98, 382, 687, 996, 2480, 2600, 2706.</p>
+            <p>Sisko jos moittii 924.</p>
+            <p>Sotamiesten pilaama tyttö 621.</p>
+            <p>Sulhoko pahoin pitää 373, 557, 725, 793,937—8, 1617, 2382, 2606, 2912, 3043, 3087, 3501, 4579.</p>
+            <p>Sulho suuttui suntakina 2605.</p>
+            <p>Suomen oppi toimita Luoja 1785.</p>
+            <p>Tyttö matarassa 211.</p>
+            <p>Ukkoa syötin, juotin — ruoskaa palkakseni 3376, 3472, 4173.</p>
+            <p>Veikko vieremässä 189, 360, 764, 946, 1099, 1586, 1604, 2705.</p>
+            <p>Veli sotamiehenä 1306, 1618, 1778.</p>
+            <p>Veli tulee Yli linnan pää näkyy, Tuo kengät 1537, 1778, 3029.</p>
+            <p>Veljen haudalla 375, 1295—6, 1602.</p>
+            <p>Vesasta vello 69, 98, 382, 996, 1691, 2198—9, 2511, 2705, 2707, 3894.</p>
+            <p>Vesi vipaelloo, Somerpohja souteloo 20.</p>
+            <p>Villainen emon vitsa 1709.</p>
+            <p>Vilkkiit valkkiit varsan kapjat (Osaako neito ommella) 11.</p>
+            <p>Vilulle mistä viitta 3709.</p>
+            <p>Älä tuule, mello meren emäntä, veli on vesillä 1037, 2258.</p>
+            <p>
+                <hi rend="bold">III. Tunnelmarunoja.</hi>
+            </p>
+            <p>
+                <hi rend="bold">Huoli, itku ja suru.</hi>
+            </p>
+            <p>Annan huolia hevosen 306, 514, 3301, 3460, 3540.</p>
+            <p>Antakaa minuisen surra 987, 1388, 3144, 2632, 2902.</p>
+            <p>Armoton, huolien ja murheen alainen poika 273, 449, 1463.</p>
+            <p>Ei oo iltaa, kun en itke 3113.</p>
+            <p>Ei sula minun suruni 900, 942, 964, 1605, 2638, 2827, 2958, 2991, 3060, 3334, 3559—60, 3584, 3867.</p>
+            <p>Enemmän huolia kuin kuusessa käpyjä 715, 3169.</p>
+            <p>En oo musta luonnon musta — huolista 660, 807, 909, 944, 966, 1584, 1674, 2148—9, 2184, 2668, 2555, 2773, 2839, 2975, 3302, 3388, 3542, 3953.</p>
+            <p>En tiedä kuhun kuolema tulee 2160.</p>
+            <p>En tiedä minkä tien otan eteen 2160—1.</p>
+            <p>Huolet monenlaiset, isän, emon, veljen ja sisaren 278, 962, 2145, 2892, 3299, 3311, 3542, 3681, 3683.</p>
+            <p>Huolista hevosen 2149, 3169, 3466, 3683.</p>
+            <p>Itkee puut, petäjät syntymääni 3300, 3566.</p>
+            <p>Itkien ikä pitempi 3217.</p>
+            <p>Itkin kuollehii 2174.</p>
+            <p>Itkin lasna ilman syytä 965.</p>
+            <p>Itkin mie ihalat silmät — orjuudessa 1051.</p>
+            <p>Itkusta 132, 906, 1723, 2487.</p>
+            <p>Joka puu puree minua 442, 4170.</p>
+            <p>Kalat kaikki huolestuu minun huoliani 760, 856, 1364, 1583, 2143, 2184, 3060, 3532—3, 3825.</p>
+            <p>Kanna korppi kaihojani 105, 660, 856, 962, 990, 1375, 1583, 1674, 2143, 2145, 2148—9, 2172, 2184, 2527, 3060, 3169, 3212, 3532—3, 3649, 3825.</p>
+            <p>Kolmenlaiset huolet 105, 278, 408, 665, 715, 966, 1606, 2975, 3476, 3794.</p>
+            <p>Kuin ois onni ostettava 1691.</p>
+            <p>Kuoli emo, iso, sulho, millä vaatitsen 226, 333.</p>
+            <p>Kyll mie tunnen huolellisen 136, 944, 962, 966, 1406, 1576, 3542.</p>
+            <p>Mahto ennen mun emoni pestä pieniä kiviä 163, 813, 962, 1034, 1620—1, 2151, 2158, 2181,2556, 2901,3298, 3371, 3789, 3820, 3953, 3981.</p>
+            <p>Menen metsään kesällä 442, 576, (643), 784, 942, 944—6, 1411,1667, 1809, 2619.</p>
+            <p>Meri kuivi kuutta syltä syntyessäni 382, 874, 962, 1034, 1172, 1684, 1689, 2142, 2375, 2521, 2623, 3136, 3649.</p>
+            <p>Miehen kuoletellut 1078, 1083, 1691, 2140, 2147, 2446, 3565.</p>
+            <p>Miksi ääni minulla pieni — piennä penkiltä p. ks. Laulu (ääni pieni).</p>
+            <p>Mikä luonut synnytellyt — tetri, varis harakka [En tiiä tekijätäni] 105, 657, 909, 921, 945, 1021, 1078, 1661, 1724, 2148, 2363, 2555, 2623, 3370, 3543.</p>
+            <p>Millä lienen surman suututtanut, kun ei tappanut 3308, 3683.</p>
+            <p>Minull on turva turpehessa 760, 1034.</p>
+            <p>Mistä tunnen turvallisen ja turvattoman 850, 1008, 2367, 3537, 3825.</p>
+            <p>Oisin kuollut kolmeöissä 885, 1541, 2337, 3371, 4111.</p>
+            <p>Olisi tehnyt saunan sammalista (tervaksista) 963—4, 966, 1676, 1689, 3139, 3145, 3299, 3333, 3371, 3700, 3789, 3953.</p>
+            <p>Orjuudessa olin vuoden 781.</p>
+            <p>Parempi syntymättä, vrt. Syntymäänsä sureva 822, 944, 962, 986, 1034, 1477, 1528, 1581,1702, 3089, 3113, 3145, 3171, 3371, 3953.</p>
+            <p>Siint ast en syönyt, kun kuoli emo 3217, 3537, 3541.</p>
+            <p>Silmäni kipiät, itkin kuollehia 885, 2137.</p>
+            <p>Suku ois suonut suolle kuolevani 3372, 3466, 3820.</p>
+            <p>Suru 1576, 2138, 2148, 2158.</p>
+            <p>Suruni ei sula, ks. Ei sula miun suruni.</p>
+            <p>Surusta suitset, jos ois seppona setäni 441, 514, 874, 885, 941—3, 1378, 1526, 1583, 1691, 2140, 2154, 2173, 2191, 2527, 3540, 2556, 2877, 3212, 3540, 3683.</p>
+            <p>Syntymäänsä sureva 1696, 2113, 2139, 2141—2, 2151, 2153, 2158, 2181, 2555—6, 3298—9, 3303, 3583, 3662, 3681, 3700, 3703, 3708, 3789, 4111.</p>
+            <p>Syämessä vakka syttä 449, 900, 1078, 1363.</p>
+            <p>Ukko ei elossa — en sure 3308.</p>
+            <p>
+                <hi rend="bold">Laulu</hi>.</p>
+            <p>Alettiin laatii laulajaksi 2149, 3436, 3534.</p>
+            <p>Alkusanoja, laulajan 872, ks. La mie laulan.</p>
+            <p>Anna kulkkuni kumissa kuin Ruotsin ruokopillin 2338.</p>
+            <p>Ei laulaa sovi sota-aikana 3996.</p>
+            <p>Ei minun laulella pitäisi, kullan, emon kuolettelin, (veikko vieremässä) 256, 591, 636, 665, 805, 1000—1, 1040, 1083, 1333, 2169, 2173,</p>
+            <p>2175—9, 2619, 2705, 2881, 3013, 3029, 3142, 3298—9, 3301, 3380—1, 3402, 3515, 3535, 3541, 3996.</p>
+            <p>Ei ole hullun kieltäjää 732, 806, 912, 1509, 2630, 2662, 2772, 3249, 3644.</p>
+            <p>Ei ole virret meillä tehty 1482, 2570, 3540</p>
+            <p>Ei ole virret Virosta tuotu 2189, 3317.</p>
+            <p>Ei pilli perettä toita 3443.</p>
+            <p>Ei tuiska tulta suusta 641.</p>
+            <p>Eivät tässä lauat laula 999, 3107.</p>
+            <p>Emo ja isä kielsi kyliä käymästä ei laulamasta 258.</p>
+            <p>En ilolla laula 670, 1034, 1692, 2140, 2148, 2173, 2343, 2365, 3088, 3290, 3298, 3442, 3540.</p>
+            <p>En ole laulajan lajia 1701, 2149, 2342, 3200, 3382, 3532.</p>
+            <p>En ole opissa ollut, seissyt seppien pajassa 106, 137, 142—3, 576, 719, 736, 807, 819, 828, 903, 984, 2178, 2196, 2216, 2218, 2221, 2239, 2339, 2490, 2519, 2615, 2822, 3088, 3107, 3166, 3381, 3531, 3653.</p>
+            <p>En rahatta laula 894, 1149, 1583, 2341.</p>
+            <p>En voi ilotta olla 1464, 2183, 2342, 3172, 3285, 3383.</p>
+            <p>Etsin ieltä laulajaista—jälestä järistäjäistä, 1027, 1583, 3199, 3442, 3507, 4108, 4111.</p>
+            <p>Huitun, tuitun virrenjatko 1293.</p>
+            <p>Illasta iloitsemaan J-la käski, Päivän laskust laulamaan 1070.</p>
+            <p>Illasta ilo parempi 3153, 3507.</p>
+            <p>Iloitkaa iloiset nuoret 2578, 3142, 3646.</p>
+            <p>Iso ei ilosta kiellä, emo ei iellä laulamasta 609, 931—2, 1607, 1780, 2183, 2475, 2925, 3052, 3153, 3199, 3507, 3514, 3800.</p>
+            <p>Itkusat minun iloni, Virret veen sekaiset 1692, 2552, 3088, 3298, 3442.</p>
+            <p>Itse soitan, itse tanssin 3476.</p>
+            <p>Jos (Oho) laulaja olisin (kerskaus) 499, 1085, 1758, 2347, 2998, 3059, 3185.</p>
+            <p>Jos olen virsille viriä — kyllä villoille 3436, 3534, 3642.</p>
+            <p>Kellon emo antoi kielekseni 500, 605, 1002, 1710.</p>
+            <p>Kerin virteni kerälle 576, 732, 823, 840, 982, 984—5, 2219, 2240, 2630, 3382, 3408, 3477.</p>
+            <p>Kesä puolehen, virret vielä virkkamatta 3653.</p>
+            <p>Kieli maottunut kultasammaliin 1464, 2155.</p>
+            <p>Kiven all on kieltäjäni, ks. Ei ole hullun kieltäjätä.</p>
+            <p>Kolme kiirettä kesällä 576, 982—3, 1574, 2157, 3014, 3510, 4004.</p>
+            <p>Kuka kuulee laulavani — luulee humala hullu 3195, 3995.</p>
+            <p>Kun myö kanat katoomme 3184.</p>
+            <p>Kyll on miulla virtosia — Miull on virret viiden vellon 332, 490, 983, 1070, 1381, 1574, 1707, 2157, 2187, 2215, 2218—9, 2221, 2246, 2285, 2339, 2490, 2519, 2552, 2563, 2716, 3014, 3137, 3190, 3196, 3286, 3436, 3477, 3507, 3545—6, 3995, 4046.</p>
+            <p>Käeltä ja sisavalta poiminut laulut, vrt. Menin metsähän kesällä 576, 984, 2029, 2196, 4000, 4046.</p>
+            <p>Laiska on luotu laulamahan 425, 1039, 1293, 1443, 1658, 2149, 2216, 2219 —21, 2240, 2494, 2528, 3169.</p>
+            <p>La mie laulan (Laulajan alkusanoja) 12, 16, 25, 56, 59, 60, 62, 103—4, 165, 248, 404, 449, 464, 611, 620, 684, 729, 781—2, 815, 830, 875, 898, 931, 986, 993—4, 999, 1044, 1049, 1060, 1080, 1334, 1338, 1378—9, 1446, 1464, 1702, 1724, 1751, 2231, 2251, 2346, 2456, 2657, 2385, 3136, 3141, 3145, 3202, 3204, 3215, 3300, 3303, 3408, 3457, 3530, 3536, 3538, 3540, 3788, 3794, 3827, 3836, 3971, 4108—9.</p>
+            <p>La mie vinkasen vilulla 2279.</p>
+            <p>Lammas laulajan lajia 3436, 3532.</p>
+            <p>Laulajan kerskauksia 59, 118, 166, 332, 448, 604, 606, 684, 984, 1064, 1110, 1379, 1417, 1443, 1671, 1750—1, 1770, 2215—18, 2927, 2932, 3137, 3302, 3308, 3436, 3477.</p>
+            <p>Laula, laala kielokkinen 1512.</p>
+            <p>Laulan huoleni ja murheeni 3532.</p>
+            <p>Laulaisin, jos ei ois kumma kuulijoille 3217, 3272, 3532, 3534, 3642.</p>
+            <p>Laulaisin mie taitasin mie, jos ei kuuluisi kotiin 156, 665, 1647, 1692, 2925, 3152, 3436, 3438, 3507, 3540, 3640.</p>
+            <p>Laulan merolle metsän ja kolme linnaa 166, 499, 1109.</p>
+            <p>Laulan tähän taloon 135, 3059, 3476.</p>
+            <p>Lauloin ennen lapsempana 3443.</p>
+            <p>Liioin laulanut 217.</p>
+            <p>Menen metsähän kesällä — sieltä virret 984, 1446, 1667, 2218, 2220, 2240, 2285, 4000.</p>
+            <p>Mie oon pillillä pielty 77, 840, 931, 985, 2172, 2342, 3137, 3172, 3199, 3285, 3383, 3464, 3476, 3507.</p>
+            <p>Mies kuollut, ks. Ei minun laulaman pitäisi.</p>
+            <p>Miks ei laula meiän lapset 465, 1302, 3450.</p>
+            <p>Miksi laulan 1464.</p>
+            <p>Millä pääsen — virsilläni 285, 1381, 1574, 1780, 2220, 2248, 2646, 2662, 2772, 2806, 3001, 3172, 4046.</p>
+            <p>Mistä virttä ottanemma 606, 2240, 3286, 3298.</p>
+            <p>Mitä orpo yksinään laulanen 3288.</p>
+            <p>Mitä otan virrekseni (ison, emon) 85, 218, 314, 480, 724, 735, 784, 1072 —3, 1474, 1692, 2217, 2241, 2345, 3136, 3298, 3507, 3546—7, 3653, 3794.</p>
+            <p>Mitä sitte, hos mie laulan — Ei kyty kysele 779, 1663, 2733, 3545.</p>
+            <p>Mitä tytöt istumme ilotta 604.</p>
+            <p>Nyt mie laulan, nyt mie jouan 363, 386, 732, 982, 1035, 1512, 1701, 1774, 2150—1, 2221, 2247, 2342, 2475, 2556, 2578, 2852, 3047, 3137, 3383, 3408, 3500, 3510, 3800, 4004, 4108.</p>
+            <p>Omat on virret oppimani 984, 3137.</p>
+            <p>Onko ääneni entisellään 990, 992, 2344, 2930, 2933, 3539, 3553, 4114.</p>
+            <p>Ostan kellot kenkihini 156, 332, 902, 2149, 3143, 3204, 3272, 3436, 3466, 3981.</p>
+            <p>Ottaisin kurelta kulkun 143.</p>
+            <p>Pannaan kiini kirjan kannet 3511.</p>
+            <p>Pannaan ranne ranteeseen 4108, 4111.</p>
+            <p>Runoreki 166, 309, 363, 607, 676, 731, 840, 982, 984—5, 1070, 1293, 1422, 1688, (1935), 2029, 2189, 2216, 2221, 2239—40, 2339—40, 2490, 2519, 2552, 2563, 2585, 2615, 3107, 3137, 3166, 3190, 3195—6, 3318, 3382, 3458, 3514, 3545, 3995, 4112.</p>
+            <p>Sanoot: humala hullu 3217, 3272, 3534, 3642.</p>
+            <p>Sinis viisas virren lauloi 1039, 2528, 3531.</p>
+            <p>Soi metsä, kumise korpi Huolellisen huutaessa 1649, 1705, 1743, 3153, 3338, 3825.</p>
+            <p>Suu laulaa, syän sureepi 306, 1775, 2140, 2173, 2343, 3142.</p>
+            <p>Suu suruinen laulajalla (lauleloo) 999, 1388, 3533, 3542.</p>
+            <p>Tammen laulan keskitanhualle, vrt. Omenatammi 1085, 2348, 3059, 3137.</p>
+            <p>Tehkää illalla iloa — Illalla ilo parempi 609, 983, 1070.</p>
+            <p>Tulkaa virteni tupahan 974, 2240, 3408.</p>
+            <p>Vie hitto Venäjän virret 514, 1699.</p>
+            <p>Vieraalla maalla ei tee mieli laulaa 2184.</p>
+            <p>Vilu mulle virttä virkkoi 729.</p>
+            <p>Virrensepän hyvä korvessa laulaa 1447.</p>
+            <p>Vuoro laulaa 285, 974, 1381, 1574, 1780, 2220, 2238, 2646, 2662, 2688, 2772, 2802, 3001, 3388, 3495, 4000, 4046.</p>
+            <p>Älkää pahaksi panko — kylä kirotko 500, 589, 756, 807, 828, 903, 1509, 2339,2457, 2548, 2623, 2961, 3053, 3249, 3317, 3338.</p>
+            <p>Älä suutu suusanoista 498, 731, 747, 2570, 2585, 2961, 3540.</p>
+            <p>Äänen sorjan (äreän) mikä sorti 761, 990—2, 1546, 1664, 2930, 2933, 3341, 3539, 3553.</p>
+            <p>Ääni pieni, piennä penkiltä putosin 989—90, 1070, 1334, 1664, 2155—7, 2211, 2344, 2548, 3996.</p>
+            <p>Äänöjäni koetan, ks. Onko ääni entisellään.</p>
+            <p>Laulajan lopettajaissanoja 302, 405, 426, 815, 817, 823, 828, 900, 903, 936, 1063, 1070, 1085, 1413, 1417, 1463, 1668, 1671, 1680, 1692, 1697, 1724, 2011, 2187, 2211, 2217, 2219, 2246, 2458, 2538, 2548, 2570, 2574, 2609, 2611, 2623, 2702, 2841, 2885, 2961, 2966, 3088, 3166, 3200, 3311, 3388, 3507, 3546, 3796, 3824, 3968.</p>
+            <p>
+                <hi rend="bold">Lemmenlauluja</hi>.</p>
+            <p>Armaan astunta, Kivi paljo kirkkahampi 1055.</p>
+            <p>Ikävä on yksin maata (Muut kaikki kahen makaavat) 277, 3814.</p>
+            <p>Jos mie poika olisin 930, 2512.</p>
+            <p>Jos mun tuttuni tulisi 240, 305, 416, 835, 2172, 2373, 3156, 3312, 3429, 3535, 3645, 3814, 4589.</p>
+            <p>Kuin miehen saisin, joka päivä pään pesisin 58.</p>
+            <p>Kuin ois kulta kuulemassa — laulaisin 139.</p>
+            <p>Kulta kuollut 3380.</p>
+            <p>Kun ois tuuli mielellinen, Tuoll ois miulla mielitietto 682.</p>
+            <p>Kuulin äänen kullaltain 808, 835, 1007.</p>
+            <p>Miniänä, moitittuna ja sananalaisena.</p>
+            <p>Aina kiitän appiani 91, 151, 1107, 1518, 2579.</p>
+            <p>Ampuisin akat kylästä (Kuin mie surmana olisin) 288, 514, 976—7, 1643, 1674, 1753, 2547, 3084.</p>
+            <p>Anoppi (kato kavala) pahatapainen 130, 460, 488, 1760, 2194, 2624, 2690.</p>
+            <p>Emännän kolme kieltä 121, 275, 657, 776, 967, 2141, 2153, 2197, 2209, 2631, 2684, 2724, 2768, 2816, 2865, 2982, 3278, 3613, 3950.</p>
+            <p>Emäntänä on ehta olla 776, 2617.</p>
+            <p>Jauhamassa anopille, emännälle, emolle, vieraalle 57, 130, 151, 191, 774, 818, 907, 972, 987, 1020, 1023, 1106, 1154, 1592, 1760, 2195, 2197, 2210, 2378, 2666, 2690, 2768, 2805, 2854, 2986, 3183.</p>
+            <p>Jouvuin rikkahan rikoille 151.</p>
+            <p>Jouin kurja kulkemaan 1770, 3677.</p>
+            <p>Juomari senihka (pahempi kuin anoppi) 1108, 1457, 1465, 1468, 2263, 2513, 3675. Kotona — toisessa talossa 17, 19, 78, 513, 563, 608, 879, 910, 937, 957—8, 971, 975, 977, 1049, 1074, 1101, 1108, 1401, 1468, 1538, 2181, 2183, 2187, 2189—90, 2193, 2494, 2822, 3049, 3286, 3523, 3643, 3672—3.</p>
+            <p>Kylän paikoin neiet kylmät 275.</p>
+            <p>Lintu vie viestin emolle (miten on miehelässä olo) 24, 78, 173, 954—5, 1659, 2622.</p>
+            <p>Läksin piennä piikueen, Ostin Hatsinasta vaatteet 758.</p>
+            <p>Miehelään mennyt vastoin ison, emon kieltoa 3097.</p>
+            <p>Miniä jauhamassa Myyrylässä 57.</p>
+            <p>Minjän palkka 563, 1035, 1686, 2370, 3984.</p>
+            <p>Orjana piikuuessa, miniänä 91, 614, 1019—20, 1023, 1025, 1043, 1329, 1388, 1593,1686, 2196, 2209, 2487, 2489, 2798, 3569, 3579, 3674, 3712.</p>
+            <p>Paha sulho, ks. Sulhoko pahoin pitää 91, 513, 808, 1077, 1108, 1136, 2186, 3192, 4092.</p>
+            <p>Paha ja hyvä sulho 1330.</p>
+            <p>Pitää pitämän pää tarkka, ettei naurettaisi 2591.</p>
+            <p>Sananalaisena 16, 48, 248, 302, 334, 410, 434, 496, 643, 786, 831, 902, 977, 1002, 1019, 1068—9, 1299, 1378, 1388, 1576, 1583, 1671, 1753, 2155, 2157, 2159, 2186, 2839, 2957, 2975, 3084, 3143, 3272, 3460, 3466, 3476, 3674, 3677.</p>
+            <p>
+                <hi rend="bold">Neitojen ja naisten lauluja</hi>.</p>
+            <p>Ei Luoja pojaksi luonut 411.</p>
+            <p>Ei minust oo miehen lyöä 397.</p>
+            <p>Ei miuista mies toruisi, ks. Mistä miuista m. t.</p>
+            <p>Eläkää tytöt hyvästi — joudutte miehelään 255, 688.</p>
+            <p>Eläkää kotona kauvan 19, 879, 2180—1, 2826, 3189, 3357.</p>
+            <p>Elä nukkeloi nukuta 1353.</p>
+            <p>En itke isoni päälle, vaan vellon 307.</p>
+            <p>En mie huoli hoikkotukka 496.</p>
+            <p>En mie tunne tuota miestä 196.</p>
+            <p>Entisestä sulhosta 1112.</p>
+            <p>Huntupäänä en olis uskonut huutavani 1080, 1606, 1696, 3678.</p>
+            <p>Hyvä iltaa, terve teille 4585.</p>
+            <p>Hyvä on meillä elellä — Melnitsat mäellä 84, 1743.</p>
+            <p>Hyvä täss on neion olla 195.</p>
+            <p>Hyvä tyttönä (neitona) elellä 513, 957—8, 1028, 1074, 1108, 1468, 1538, 1744, 2186, 2190, 2571, 3189, 3205, 3274, 3951, 4586.</p>
+            <p>Iloitkaa nuoret 1043.</p>
+            <p>Isän kuoltua haudalle itkemään 501, 726, 730, 1078.</p>
+            <p>Isä neuvoo sairastellessaan tytärtä 472, 501, 1771.</p>
+            <p>Itken miehen mielevyyttä 3584.</p>
+            <p>Jos iso, emo, sisko, veikko, sulho tulisi, minkälaiset sillat teettäisi 936, 1000.</p>
+            <p>Jo oon surman suututtanut 1691.</p>
+            <p>Kaks on meitä kanaista, Oho neljä olisi 3398, 3655.</p>
+            <p>Kasvakaa koissa kauvan 563, 1028, 1035, 2183, 2188, 2494.</p>
+            <p>Kenen kukka, kenen neito — rannan 201.</p>
+            <p>Kerran veikko kengitti minua 2910.</p>
+            <p>Kesä, talvi, sulho yhtä (Menin vietroin veelle) 2261, 2498, 3330.</p>
+            <p>Kiistoin meitä kihlattiin 179.</p>
+            <p>Kivinen linna (kirkko) tehkää (Neidon linna) 383, 668, 743, 920 + a, 1517, 1587, 1645, 1708, 2180, 2246, 2249, 2786, 2950, 3475, 3756.</p>
+            <p>Kolme kiirettä kesällä — neijen kiireempi 381.</p>
+            <p>Kolmea en unoha 1465.</p>
+            <p>Kotona kasvaneen neidon lempinimet 165, 203, 879, 906, 910, 971, 1074, 1589, 2189, 2002, 3672, 4169.</p>
+            <p>Kuin mie poikoina olisin 411, 485.</p>
+            <p>Kuka koissa uottelee (Läkkä laulellen kotihin ) 2766, 2821, 2928, 2960, 2996, 3206, 3739, 3944.</p>
+            <p>Kun olin ison kotona 77, 1026, 1045.</p>
+            <p>Kussa tahon, siellä tanssin, ks. Nyt aika iloita.</p>
+            <p>Kyll on miusta miehen naista 895.</p>
+            <p>Käin kuin pässi pää kekassa 409, 3641, 3643, 2668.</p>
+            <p>Käin mie eilen kirkkosessa 1649.</p>
+            <p>Käin mie eilen seppälässä, teräskengät teettämässä 1610.</p>
+            <p>Leskelle älkää menkö — Leski lyöpi leikistäki 512, 939—40, 2654.</p>
+            <p>Lesken itku 4587, 4590.</p>
+            <p>Leskimies ja nuorimies kosijoina (Neitonen laaossa laulo) 5, 151, 377, 1050.</p>
+            <p>Luulin nuorra naitavanna 1042.</p>
+            <p>Mie olen pillillä pietty, ks. Laulusta.</p>
+            <p>Mihin neito myydään, ks. II. Eri paikkoihin neitoa kosittiin.</p>
+            <p>Millä leivon leivän suuren, Talon taikinan alustan 367.</p>
+            <p>Miestään pahoin kohdellut 58.</p>
+            <p>Miks ei meitä nuorra naia 221, 501, 1053, 2372, 3234, 3390, 3393, 3628, 3933.</p>
+            <p>Miksi miusta naiset nauroit 976.</p>
+            <p>Mikä miusta tulee, Kanoilleko paimen 1723.</p>
+            <p>Minun toitti tuomen kukka 3215, 3536, 4109.</p>
+            <p>Missä lienee miun omani 397.</p>
+            <p>Missä istuin maa iloitsi 1049, 3049, 3641.</p>
+            <p>Mitä miusta mies toruisi 1098, 2370, 2579, 3264, 3281, 3288, 3344—5, 3384, 3428, 3540, 3704, 3707, 3976.</p>
+            <p>Mitä myö tytöt, (sulat) suremme 678, 737, 1038,1657, 2892, 2902, 3475, 3643, 3646, 3652.</p>
+            <p>Miull on vello vieremässä, ks. Vello vieremässä.</p>
+            <p>Moni mustaksi sanoopi, (muodon moittiminen) 193, 425, 438, 785, 1674, 2148, 2579.</p>
+            <p>Moni luulee uniseksi 1772.</p>
+            <p>Neidon kerskaus 1331, 3655, 3672.</p>
+            <p>Neidon kuollessa kaikki itkevät 132, 906.</p>
+            <p>Neidon linna, ks. Kivinen kirkko (916).</p>
+            <p>Neidot tahtoivat ennustella sulhoja 615.</p>
+            <p>Neito kangasta kutoo kullalleen 988.</p>
+            <p>Neitoa kiitetään, silmät maksaa sinisen, vrt. Häärunoihin. 262.</p>
+            <p>Neito kotona (kuin kuningas linnassansa) 363, 1108, 2182, 2187, 2192, 2385, 3051, 3258, 3500, 4063.</p>
+            <p>Neidon saamat haukkumanimet toiselassa 995a, 1026, 1074, 1588, 2668, 2690.</p>
+            <p>Minpä ennen eukko lauloi — Jos miehen saisin 1698, 1762.</p>
+            <p>Nuorena miehelään mennyt 1091, 1102.</p>
+            <p>Nyt on meillä (tanssin) aika iloita 13, 608, 2908.</p>
+            <p>Näin sano emo tytölle (kirjasta?) 2935.</p>
+            <p>Oho meiän akkasii — muiden 3389, 3705, 4195, 4581.</p>
+            <p>Oho meiän — muiden siskoloi 1300, 3651.</p>
+            <p>Oho tyttösen eloa 2822, 3025, 4588.</p>
+            <p>Olen viini virsille ja villoille 2346.</p>
+            <p>Olin orja vellolleni — luulin aitat annettavan 762, 1521, 2134, 2200—1, 2377, 2755, 2804, 3424, 3470.</p>
+            <p>Olin yksi äitilläni 219, 736, 742, 1025, 1065, 1489, 1649, 2120, 2134, 2476, 2494, 2528, 2559, 2615, 2862, 3101, 3979.</p>
+            <p>Oli meitä ennen äiän, jäi kahden 181, 286, 1059, 1541, 1675, 2371, 3203, 3650, 3761—63, 3964.</p>
+            <p>Olin sorja syntyessä 811.</p>
+            <p>Parempi pajulla maata kuin sulhon vieressä 1077, 1469, 2498, 2654.</p>
+            <p>Pieneksi syntynyt 686.</p>
+            <p>Piennä penkiltä putosin, siitä varsi rumeni 1051.</p>
+            <p>Pojat tyhjän potrat 928, 1031.</p>
+            <p>Pyys minua pyssyseppä 1, 18, 362, 929, 2653, 2857, 2923, 3031, 3494.</p>
+            <p>Siitä kielsi miun isoin, torumasta 1607, 1658, 2168, 2925, 3052, 3153, 3199.</p>
+            <p>Sorja suomalainen korjasi piennä emon heittämän, ks. Orpo ja kovaosainen.</p>
+            <p>Sulhasta toivova 174.</p>
+            <p>Sulhon saatte surematta 404, 668, 2250, 2917.</p>
+            <p>Sulholl on suen ikenet (Kesoi yhtä, neito yhtä) 513, 1028—9, 1469, 2188, 2261, 2498.</p>
+            <p>Syöttelin isän oroista — luulin aitat annettavan 69, 751, 951.</p>
+            <p>Teemme linnan liivikolle, ks. Kivinen kirkko.</p>
+            <p>Tuuteris on tuhmat miehet, vrt. II. Eri paikkoihin neitoa kosittiin 4, 629, 667, 733, 741, 953.</p>
+            <p>Tyttö tanssi tammikossa — pojan silmät vettä vuoti 750.</p>
+            <p>Täss on tykky tyttölöjä 3000, 3647.</p>
+            <p>Tässä tytöt tänä kesänä 1016, 1544, 3331, 3398, 3475.</p>
+            <p>Viisi maksoin viikatteessa 70, 686, 736.</p>
+            <p>Vuohen silmät vettä vuoti 132.</p>
+            <p>Älkää menkö miehelään 939, 3087.</p>
+            <p>
+                <hi rend="bold">Orpo ja kovaosainen</hi>.</p>
+            <p>Armoton, isoton, emoton 775, 784, 806, 818, 880, 901, 926, 946, 968, 1015, 1335, 1689, 2149, 2167, 2572, 3211, 3541, 3814, 3972.</p>
+            <p>Ei itke iso miuista 236, 855, 906, 1328, 1773, 2733, 3399.</p>
+            <p>Ei ole kurjalla kotia 901, 966, 997, 1015, 2146—7, 2399, 2844, 2971, 3290, 3305, 3369, 3543, 3856, 3867.</p>
+            <p>Eivät kasva kaikki lapset 105, 926, 998, 1371, 2168, 2172, 2189, 2209, 2494.</p>
+            <p>Emo kuollut 17, 118, 272, 320, 818, 912, 959, 1018, 1047, 1508, 1654, 2168, 2370, 4168.</p>
+            <p>Emon (ison) haudalla 133, 303, 310, 656, 730, 901, 912, 945,1021, 2166, 2366—7, 2465, 2546, 2560, 2656, 2661, 2725, 2756, 2773, 2788, 2802, 2864, 3145, 3211, 3217, 3297, 3437, 3515, 3541, 3864, 3909, 3920, 3943.</p>
+            <p>Etähäll on emoni — taivaassa 1024, 1497, 2113, 2171, 2465.</p>
+            <p>Heitti iso, emo, veikko 3430.</p>
+            <p>Isoton tyttö 385, 945, 1046, 1497, 2167, 2370, 3583.</p>
+            <p>Jos kuolisin, sääsket saattaisi, itikat itkisi 3300.</p>
+            <p>Jouduin puille pyöriville 3337, 3709.</p>
+            <p>Jouduin puola purtavaksi 3674, 3972.</p>
+            <p>Jänö jätti kolmiöisen, emo yksiöisen 118, 818, 966, 1371, 1458, 1689, 2137, 2140, 2151, 2159—61, 2168, 2171—2, 2176, 2267, 2370, 2465, 2527, 2688, 3170, 3193, 3260, 3469, 3498, 3909, 4001, 4059.</p>
+            <p>Jänön jälille, revon rekeen älä käy 408, 761, 2137, 3260, 3610, 3612, 3621—2.</p>
+            <p>Jätti emon kujamaahan kuolemahan 3226.</p>
+            <p>Jätti joukon joutsenii 2572.</p>
+            <p>Kaikki on Jumala luonut 63, 2366, 2546, 2619, 3165.</p>
+            <p>Kaikki on kuollut miun sukuni 381, 428, 3399.</p>
+            <p>Kaikki unin unohin 2172.</p>
+            <p>Koti muilla kuolasuilla — korpi kotini 322, 1809, 2146, 2150.</p>
+            <p>Kun minun emoni (isoni) eläisi 313, 806, 1068, 1692, 3909.</p>
+            <p>Kuin olis linnun siivet — isän, emon haudalle 1024, 1335.</p>
+            <p>Kuin mie kuolisin kesällä 3578, 3713.</p>
+            <p>Ohitseni on onni juossut 1696, 2363, 2619, 3290.</p>
+            <p>Ohoh emo eläisi 320, 1031, 1462, 2365.</p>
+            <p>Oisin kuollut 3-öisnä, ks. Huoli, itku, suru.</p>
+            <p>Onnensa pieksijä 10, 807, 925, 927, 1333, 1375, 1484, 2141, 2158, 2162, 2167.</p>
+            <p>Onnetoin olin poloinen 1691.</p>
+            <p>Onni ei ostettava, vrt. Onnensa pieksijä 925—6, 1333.</p>
+            <p>Onni pakeni oluen juonnista nukkuneen ohi 1446.</p>
+            <p>Orpona 2142, 2144, 2152, 2619, 3193, 3305, 3369, 3372, 3711, 3814, 3856, 3863—4, 3909, 3972.</p>
+            <p>Osallisen onni valvoi 941, 2363.</p>
+            <p>Osasi emo omenan tehhä 52, 146, 380, 811, 899, 997—8, 1333, 1519, 1632, 1696, 2138, 2141, 2143, 2158, 2172, 3218, 3680, 3950, 4170.</p>
+            <p>Ovensuuss’ on ouvot silmät 1088.</p>
+            <p>Pani emo (iso) puille pyöriville 52, 380, 821, 967, 1605, 1632, 1638, 2145, 2149, 2376, 3218, 3370, 3920.</p>
+            <p>Piennä petti miun emoni — Sanoi kuuksi kuolevansa 726, 730, 945, 1691, 2166, 2370, 2374, 2465, 2545, 2560, 2656, 2661, 2756, 2773, 2805, 3136, 3145, 3170, 3193, 3217, 3297, 3332—3, 3372, 3515, 3920, 3952, 4059.</p>
+            <p>Pimeä isoton pirtti 215, 1691, 2337.</p>
+            <p>Raha vieri, rauta vieri — Tina vieri, tenka vieri 163, 200, 911, 1081, 1605, 1646, 2369, 2148, 2936, 3136, 3219, 3370, 3680, 3682.</p>
+            <p>Sijan tiiän kussa synnyin 911, 2148, 2369, 2647, 2664, 2697, 2741, 2831, 3026, 3867.</p>
+            <p>Sirkahtais kuollut isä vaikka sirkkusena tupaan 945, 3972.</p>
+            <p>Suku heitti, heimo heitti 1458, 2137, 2191.</p>
+            <p>Suomalainen kasvatti orvon 51, 898, 1044, 1097, 1496, 1581, 2164, 2806, 2850, 3788, 3972.</p>
+            <p>Toitti tuomen marja 3372.</p>
+            <p>Tuonelassa kosto 496.</p>
+            <p>Tuonelaan äitiään katsomaan 215.</p>
+            <p>Tuonen tyttö manalan neito tappoi emon 4159.</p>
+            <p>Ulos turvaton tuvasta 385.</p>
+            <p>Vieraille maille joutunut 120, 414, 814, 886, 1496, 2144—5, 2936, 2971, 3370, 3645, 3677, 3680, 3682, 3684, 3972.</p>
+            <p>
+                <hi rend="bold">Poikien lauluja.</hi>
+            </p>
+            <p>Akat sanoit, aik’ ois naia 1522.</p>
+            <p>Aloin syötellä, etsiä oroja 1132, 1147, 1340, 1395, 1545, 2397.</p>
+            <p>Ei ole poikasen elosta 3444.</p>
+            <p>Ei tuo ommella osanut 15, 453, 630, (907), 1098, 1567.</p>
+            <p>Ei oo hevosen syy, minkä miniän toin 134, 488, 642, 1154 3183.</p>
+            <p>Emo neuvo poikoansa 222, (488), 1106.</p>
+            <p>Emon vaivojen palkinto, ks. Millä maksan maamon vaivat.</p>
+            <p>En humalan hullu — nuoren ja viherän hullu 1753.</p>
+            <p>Etsin neittä neljä vuotta, 15, 125, 134, 1154, 1670, 1698, 1760, 1777, 1930, 3183, 3448.</p>
+            <p>Etsin Suomet saaret — sain maan pahemman 847, 1139.</p>
+            <p>Etsin Suomesta sukua 1139.</p>
+            <p>Hyvä ois meille minjän tulla 159, 1120, 1678.</p>
+            <p>Isoin miulle orosen osti 123, (453), 923, 1122, 1160, 1754, 1928, 2395—6, 2404, 2493, 2913, 2994, 3520, 3938.</p>
+            <p>Isoton poika 828.</p>
+            <p>Isä kuoli, olen nukkavierussa nutussa 254.</p>
+            <p>Isä (emo) neuvo poikoansa, sodassa olosta 2667, 2681.</p>
+            <p>Itketkö isä, emo minua (Sulho kirjan linnasta lähetti) 543, 619, 650, 797, 1165, 2241, 2406, 2612.</p>
+            <p>Jo on poika jotain nähnyt 2399.</p>
+            <p>Jos mie syömäri, juomari, koinari olisin 268, 836, 3310, 3460, 3665.</p>
+            <p>Kirkonmäelle pojat tyttöjä katsomaan 827, 868, 1122, 1397, 1598, 3265.</p>
+            <p>Kolme pahaa, vuotava vene, heponen, nainen 2160.</p>
+            <p>Kosijan runo 3860.</p>
+            <p>Kuin mie narri naia saisin 846.</p>
+            <p>Kuin mie tyttönä olisin 307, 549, 1551.</p>
+            <p>Kyll molotsa muijan saapi 456, 1146, 1370.</p>
+            <p>Käin koira konkkimassa (yöjalassa) 1755, 3482, 3504.</p>
+            <p>Kävin 10 kylää, 10 taloa 2736.</p>
+            <p>Laitoin, vein mie Hertan, Helon heinämaalle 221, 328, 347, 860, 1119.</p>
+            <p>Laulella pojan tulee 836, 1305.</p>
+            <p>Luulevat akat lutuksiansa 288, 836, 1305.</p>
+            <p>Läksin ison kotonta, en toista äitiä tavannut 1125.</p>
+            <p>Meidän pojat ja muiden kylien 757,1603, 1761, 3922, 4114.</p>
+            <p>Menin neittä etsimään, Löysin neitosen lehosta 1137.</p>
+            <p>Miiru pyysi miekka vyöllä, vrt. Sotamiestenotto-runoihin 122, 842, 1603, 3439, 3449, 3467, 3830.</p>
+            <p>Mikä kumma poikasilla 197.</p>
+            <p>Millä maksan maamon vaivat, vrt. Lauri Lappalainen 228, 487, 551.</p>
+            <p>Minkälaisen tytön poika ottaa 452.</p>
+            <p>Missä lienee meiän neiot 225.</p>
+            <p>Mitä huolin poika nuori akkojen sanoista 3310.</p>
+            <p>Muut naivat paremmat naiset 123, 225, 271, 835, 1147, 3659, 3971, 3980.</p>
+            <p>Nain pikkaraisen naisen naapurista 1128, 3309.</p>
+            <p>Naittele iso, veikko minua 67, 266, 388, 453, 644, 740, 866—7, 1133—4, 1567, 2395, 2596, 3439,3467, 3790.</p>
+            <p>Narvan neitoja naimaan 277.</p>
+            <p>Nuori neito nukuttelloo 1156.</p>
+            <p>Nykyiset neiot 224, 274, 846, 1305, 1534, 2481, 3445—7, 3487.</p>
+            <p>Näin minua neito neuvo, ks. Tule yöllä yksinäsi.</p>
+            <p>Ohoh poikien eloa 819, 1120.</p>
+            <p>Olin nokka nuorra miessä piikoja pilaamaan 344, 353, 452, 1126, 1128, 1755, 3461, 3774.</p>
+            <p>Olin sorja syntyessä, tauti rumensi 685.</p>
+            <p>Perhe käski pieksemää, En raatsi raukaistani 15.</p>
+            <p>Piiat pitävät hyvästi 1134.</p>
+            <p>Pili, pili piian nännät 3245.</p>
+            <p>Poika ei rumista (kaulan kasvaneista) huoli 254, 456,1727.</p>
+            <p>Pojan valitus ruman naisen saatuansa 254.</p>
+            <p>Potra poikana elellä 457,1148, 2259.</p>
+            <p>Pyhäpäivänä ei emoton, isoton poika kosiin 273.</p>
+            <p>Renki kosijana 923, 3096.</p>
+            <p>Sain kerran kesossa naia 1143.</p>
+            <p>Sain maalta pahimman neion 1754.</p>
+            <p>Sarkaviitan sain linnasta 756,1304.</p>
+            <p>Sen ruuna kotia tuopi, ks. Ei oo hevosen syy.</p>
+            <p>Sepän tyttö neitsykkäinen — Pääsin sepän vävyksi 744, 3660.</p>
+            <p>Syö susi sepän koira — kävisin Annin luo 3828, 3360.</p>
+            <p>Sotamiesten manttelissa tytöt makaa 1338, 3445—7.</p>
+            <p>Sousin, jousin miehen verran, sain rahaa, mitä rahalla — neito 1153, 1161,2260.</p>
+            <p>Sulho poika poitulainen, ks. Itkeekö isä minua.</p>
+            <p>Talo käski tappamaan 123, 1128, 1370.</p>
+            <p>Tein mie kuusista korotan 221, 328, 347, 351, 860, 1119, 1695, 2264, 3935.</p>
+            <p>Tein mie tielle tetrin ansan 276, 355, 896,1150, 2401, 2679, 2730.</p>
+            <p>Tiirin liirin tengan löysin 3656.</p>
+            <p>Tuhmat miehet 2198.</p>
+            <p>Tule neitonen minulle 1150, 3456.</p>
+            <p>Tule yöllä yksinäsi 458, 1144, 1394, 1594, 1751, 3335.</p>
+            <p>Tykelä tytöttä olla 3368.</p>
+            <p>Tyhjää tytöt sannoo 836.</p>
+            <p>Tyttöjen moittimisruno — Ei oo vietävää vihille 284, 1777.</p>
+            <p>Uni petti, vuoe voitti, Kukon laulun kyllä kuulin 159, 458, 1095, 1156, 2907, 3094, 3335.</p>
+            <p>Venan neidot halla hautoi, pakkanen palelsi 542.</p>
+            <p>Yöjalalla, ks. V. osastosta.</p>
+            <p>
+                <hi rend="bold">Äidin ja tyttären suhde.</hi>
+            </p>
+            <p/>
+            <p>Ainoa. emolleni, ks. Neitojen lauluja, Olin ainoa emolle.</p>
+            <p>Ei tietänyt emo tytön syntyvän 654, 738, 963.</p>
+            <p>Ei tiiä emo, tekijä kelle tuutii 1770.</p>
+            <p>Ei tiiä emo, kussa lapsi lauleleepi 118, 1627—8, 3786.</p>
+            <p>Emoa ei unohtaminen 1033, 1465, 2172.</p>
+            <p>Emo ei hauasta havaitse 63, 3920.</p>
+            <p>Emo ei sanoiksi joua, ks. Laulu: Mitä otan virrekseni.</p>
+            <p>Emo ei uottele kotona, ks. Neitojen l. Kuka koissa uottelee.</p>
+            <p>Emo (iso) heitti yksiöissä 163, 818, 1371.</p>
+            <p>Emoin miun erotti 821, 2145, 2680.</p>
+            <p>Emo (iso) neuvo neitoansa 35, 130, 262, 327, 664, 720, 739, 929, 1029, 1674.</p>
+            <p>Emon huolet tyttärestä eivät lopu 23, 78, 173, 461, 878, 954, 1659, 2364,</p>
+            <p>2615, 2972, 3109, 3176, 3735, 4124.</p>
+            <p>Emo on nähnyt suuren vaivan 85, 314, 963, 1027, 1033, 1633, 1676, 3145.</p>
+            <p>Emo sanoi kuuksi kuolevansa 133, 997, 2152, 2168, 3544.</p>
+            <p>Emo synnytti miusta 1058.</p>
+            <p>Emo tee miulle parempi paita 616, 1052, 1301, 3956.</p>
+            <p>Emo teki viisi tyttölasta 146, 1474, 1726, 2631, 3710, 4106, 4126.</p>
+            <p>Emo toivoi soittajalle 3664.</p>
+            <p>Jos emo tulisi, Virstan vastahan menisin 936, 1044, 1490, 1539, 1709, 2113, 2165, 2169—72, 2365, 2546, 2560, 2635, 3165, 3332, 3535, 3952, 4059.</p>
+            <p>Kotona emo opetti kutomaan 194.</p>
+            <p>Kotona hyvä 2182, 2385, 4063, 4164.</p>
+            <p>Luuli emo turvansa tulevan 206, 784, 822, 874, 921—2, 946, 956, 1363, 1631, 1684, 2599, 3148, 3462, 3680, 3812, 3858.</p>
+            <p>Lämmin paita liinainenki 2897.</p>
+            <p>Maamo ei tiedä, missä lapsi laulelee 146.</p>
+            <p>Miksi emo erotti, eres muista 3706.</p>
+            <p>Millä hautaan emon, ison, sulhon 905, 1062—3, 1506, 2844, 2947, 3655.</p>
+            <p>Millä maksan maamon vaivat 1058, 1525.</p>
+            <p>Millä pesen kuolleen emon, ison 1742, 2655, 2727, 3263, 3742, 3772.</p>
+            <p>Oma ja vieras emo 91, 314, 671, 783, 814, 901, 969—70, 972, 993, 1011, 2191, 2209, 2723, 2766, 3356, 3548.</p>
+            <p>Päästä päivä emo hauasta 216.</p>
+            <p>Äiti ajatteli pyhinä, Kuin kasvatan kanain, nokinenäin muien tammien tasalle 882, (883).</p>
+            <p>Älä emo ennen kuole kuin opetat minut 1768.</p>
+            <p>Älä emo minua itke 1770.</p>
+            <p>
+                <hi rend="bold">IV. Määrätyissä tiloissa ja toimissa.</hi>
+            </p>
+            <p>
+                <hi rend="bold">Häärunot</hi>.</p>
+            <p>Oluenkeittoruno (Humalan ja ohran keskustelu) 523, 1970—1.</p>
+            <p>Kursi-l. kupelileipää paistaessa 2301.</p>
+            <p>Kylvetysruno (morsiamen 529, 626, 803, 887, 1054, 1247, 1274, 1281—3, 1451, 1467, 2302, 4128.</p>
+            <p>Sulhasen päänpesuvirsi (Varain ol varis jalalla) 246, 413.</p>
+            <p>Istuttamisvirsi (morsiamen) 170, 530, 1245, 1248, 1452, 2303, 2307, 3073, 3267, 3434, 3596, 3610, 3612, 4094, 4116—17.</p>
+            <p>Istuttamisvirsi (sulhasen) 1258, 1283—4, 1467, 1529, 2286.</p>
+            <p>Matkan tiedustelu 1258, 3453, 1473, 2287, 2306.</p>
+            <p>Kengittämisvirsi 2304.</p>
+            <p>Kuka naittelee sinua 3590.</p>
+            <p>Morsiamelle illalla 2331, 2432, 2660, 2886, 2890, 3123—4, 3126—7, 3157, 3236, 3316, 3363, 3396, 3414, 3434, 3499, 3512, 3599, 3833, 3840, 3907, 4098, 4129, 4583.</p>
+            <p>Apiraha 119, 279—80, 290, 407, 418, 431, 530, 697, 869, 1251—2, 1453, 1529, 1639, 1656—7, 1734, 2305, 2420, 2422, 2660, 2714, 2778, 2890, 3010, 3068, 3126, 3228, 3232, 3238—9, 3279, 3358, 3411—12, 3620, 3833, 3841, 3871—3, 3899—3900, 3940, 4098, 4116, 4184.</p>
+            <p>Armottomalle (Istun isoton tyttö) 1246, 1251, 1269, 1290, 1776, 2327, 2329, 2336, 2426—7, 2660, 2708, 2743, 2797, 2835, 2974, 3013, 3067, 3072, 3124, 3228—9, 3260, 3293, 3499, 3586, 3597—8, 3601, 3614, 3621—2, 3842, 3866, 3876, 3940, 4117, 4176.</p>
+            <p>Laulajille rahaa 1253.</p>
+            <p>Viitan ylistys 169, 468, 475, 497, 1287, 1471, 1717, 2289, 2307, 3518, 3994.</p>
+            <p>Kovemmin ajamaan: Lyö ruosalla oroja 1259, 2310.</p>
+            <p>Mistä tiiän langon — Oluen, viinan haisu 1259, 1276, 1377.</p>
+            <p>En mie tallant taimianne 895, 1059, 1060, 2310, 3173, 3249, 3912.</p>
+            <p>Mikä kalje tein kavulla, ottajat 3070, 3159, 3526, 4118.</p>
+            <p>Jo on ottajat ovilla 3078, 3159, 3236, 3414—5, 3516, 3526, 3834, 3907, 4186, 4583.</p>
+            <p>Suolta kuului ruoskan roiske 3023, 3116, 3158, 3497, 3936.</p>
+            <p>Laskie maahan marjueni 1284, 2311.</p>
+            <p>Älä katso sormuksen läpi 1260, 2311.</p>
+            <p>Sulhaselle: Nouse rynkämö reestä 1261.</p>
+            <p>Mahtuuko vävy tupaan 1261, 1284, 1471, 1800, 2290, 2312.</p>
+            <p>Ottakaa vävyltä suitset, viitta 1262, 1470, 1800.</p>
+            <p>Mist lie meille vieras tullut (Neion ottajat tulivat) 27, 3342.</p>
+            <p>Luulin tuulen tuulevaksi, neijon ottajat 498, 1261, 1471, 1734, 2433, 2761, 3348, 3874.</p>
+            <p>Sulhasväen tervehyttäminen 1734, 3435, 3478, 3599, 3875.</p>
+            <p>Vävy uuen uutukkainen 1470.</p>
+            <p>Mist sie tunsit meille tulla 169, 497, 531, 1250, 1276, 1292, 1377, 1681, 1802, 2290, 2297—8, 2332, 2432, 4583. 2470, 2783, 2819, 3079, 3125, 3235, 3342—3, 3359, 3435, 3478, 3599, 3936, 4187.</p>
+            <p>Missä mökkä myöhään viivyit 148, 169, 346, 468, 491, 531, 632, 1265, 1408, 1471, 1672, 1717, 1734, 2288, 2312, 2315, 2332, 2431, 2470, 2568, 3074, 3079, 3359, 3435, 3497, 3516, 3518, 3611, 3834, 3844, 3902, 3936, 3993, 4095, 4136, 4155, 4188, 4584.</p>
+            <p>Kyll me näimme kun tulitte 115, 291, 475, 491, 498, 531, 710, 888, 1276, 1292, 1681, 1717, 2332, 2434, 2470, 3074, 3078, 3159, 3241, 3280, 3516, 3526, 3585, 3611, 3615, 3834, 3903, 3907, 3936, 4095, 4155, 4166, 4188, 4584.</p>
+            <p>Osta pöytä ollaksesi (Pöydän lunastus) 169, 468, 498, 531, 631—2, 694—5, 1276, 1734, 2324—5, 2330, 2332, 2434, 2470, 2499, 2627, 2780, 2782, 2818, 3007, 3071, 3074, 3076—7, 3125, 3159, 3237, 3240, 3282, 3348, 3415, 3435, 3496, 3516, 3526, 3606, 3611, 3615, 3834, 3844, 3901—3, 3907—8, 3936, 3978, 4095, 4107, 4118, 4129, 4135, 4155, 4166, 4190.</p>
+            <p>Ei oo lynkä eikä länkä 2314.</p>
+            <p>Istu sulho suorallesi penkille 1249, 1265, 1582, 2314, 3396, 4107.</p>
+            <p>Älä leiko leipiäsi 548, 1263, 1285, 1492, 2316.</p>
+            <p>Päämies pojut Kalervo (Sulh. ristisälle) 1286, 1491, 2308, 2317.</p>
+            <p>Piilopirtti. Määmmä kuuta katsomaan — Terve kuu. 1493, 2292, 2317—8, 4098.</p>
+            <p>Hiljaa hiljaa nuohinainen 1494, 2293, 3075, 3280, 3435, 4119.</p>
+            <p>Käimmä kuuta katsomassa 2294, 2319.</p>
+            <p>Morsianta itketetään 29, 170, 180, 299, 330, 647, 679, 718, 884, 1238, 1243, 1588—90, 1673, 2295, 2326, 2417—19, 2421, 2428—31, 2626, 2649—50, 2748—9, 2759, 2795, 2811, 2838, 3157, 3233, 3294, 3516, 3522, 3591, 3622, 3833, 3959, 3974, 4582.</p>
+            <p>Heität ehtoisen emois 887, 2424, 2748, 3349, 4171.</p>
+            <p>Kuin puu pinosta vieri (814).</p>
+            <p>Mene metsähän kesällä 884, 2796.</p>
+            <p>Toisin tuolla toiselassa 153, 170, 299, 330, 706, 1245, 1278, 1582, 1668, 2326, 2419, 2423—5, 2444, 2963, 2973, 3086, 3128, 3157, 3220—1, 3289, 3316, 3340, 3349, 3364—6, 3413, 3434, 3478, 3516, 3588, 3592, 3597—8, 3613, 3616—19, 3622, 3833, 3900, 4096, 4169.</p>
+            <p>Turhin (sisko) teit kun läksit 2604.</p>
+            <p>Jätät ehtoisen emosi 3, 299, 1238, 2837.</p>
+            <p>Et luvannut lähteväsi 1801, 3946.</p>
+            <p>Lähtövirsi 1270.</p>
+            <p>Ei etäälle viiä, älä itke 645, 862, 2421,2837.</p>
+            <p>Läkkä lykky lyytämähän 186, 692, 1246, 1529, 1669, 2331, 2717, 3126.</p>
+            <p>Morsiamen neuvokkivirsi 202, 330, 432, 692, 723, 788, 1241, 1244, 1267, 1275, 1277, 1291, 1337, 1456, 1485, 1588—92, 1655, 1660, 2296—7, 2299—2300, 2323, 2503, 2832—3, 3021, 3069, 3086, 3128, 3159, 3278, 3339, 3362, 3364, 3416, 3607, 3995, 4180, 4190, 4582.</p>
+            <p>Onko siskonne varma työlle, kutomaan 1267, 2442, 2984, 3021, 3418, 3480, 3519.</p>
+            <p>Ei suvaitse meiän sulho 2823.</p>
+            <p>Morsianta moititaan 279, 433, 628, 701—2, 791, 1242, 1271, 2322, 2585, 3063, 3292, 3602, 3620, 3806, 3985, 4172.</p>
+            <p>Morsianta kehutaan (700), 789, 804, (1242), 1256, 1273, 1670, 2443, 3050, 3159, 3585, 3602, 4145.</p>
+            <p>Kiitos neito, kun pidit piikutes 2904.</p>
+            <p>Neidon kerskaus, ettei mene joka pojalle 28, 3807.</p>
+            <p>Neidot muistuttavat morsianta entisestä yhdessä olosta 707, 884. 3158, 3946.</p>
+            <p>Sulhasen moittimisruno 116, 171, 331, 345, 475—6, 491, 504, 694, 708—9, 711, 888, 1250, 1255, 1265, 1280, 1292, 1457, 1471, 1669, 1673, 1776, 2290, 2435, 2470, 2499, 2501, 2581, 2693, 2746, 3078, 3081, 3084, 3116, 3158, 3160, 3283, 3306, 3396, 3459, 3599, 3816, 3834, 3845, 3960, 3974, 3977, 4107, 4119, 4155.</p>
+            <p>Sulhasta kehutaan 1287, 2291, 2314, 2694, 2710, 2825, 2905, 3050, 3055, 3078, 3080, 3516, 3610.</p>
+            <p>Laulajat lahjotaan sulhasta moittimasta 3479.</p>
+            <p>Sulhasen kodin moittiminen 115, 476, 491, 504, 632, 712, 1255, 1257, 1265, 1276, 1280, 1471, 1672, 1734, 2290, 2333, 2570, 3078, 3082, 3127, 3159, 3992, 4118, 4136, 4187, 4583.</p>
+            <p>Kytyä ja natoa moititaan 712.</p>
+            <p>Sulhon neuvokkivirsi 204, 418, 696, 698, 710—11, (1098), 1252, 1254, 1273, 1279, 1459, 1582, 1682, 2436—8, 2443, 2692, 2713, 2718, 2775, 2962, 2985, 3020, 3062, 3085, 3291, 3348, 3367, 3417, 3522, 3608—9, 3835, 3865, 3995, 4121, 4144, 4189.</p>
+            <p>Kaasojen, korvojen ja puhemiehen moittiminen 154, 699, 717, 1264, 1280, 1481, 1672, 1776, 2441, 2570, 2660, 2783, 3022, 3077, 3805, 4187, 4592.</p>
+            <p>Kaasoseni kaunoiseni 2441, 3054, 4193.</p>
+            <p>Läksit portista poloinen, Korpit huusit huikeasti 1582, 3516, 3587, 3791.</p>
+            <p>Langot tulkaa tanssimaan 1625.</p>
+            <p>Älä katso sulhon suuruuelľ 1469.</p>
+            <p>Hummarelta tultua 3527.</p>
+            <p>Leskelle menneelle morsiamelle 168, 300, 368, 2418, 2691, 3594.</p>
+            <p>Niin vierit kotoa kuin puu pinosta 443, 679, 814, 3157.</p>
+            <p>Ne kolme kotihen heitä 1485.</p>
+            <p>Heitit ehtoisen emois, isois, siskon 1274, 2295, 2329, 2719, 3873.</p>
+            <p>Minkätähden emo erotti 3593.</p>
+            <p>Morsiamen jäähyväiset 1485, 2438—9, 2799.</p>
+            <p>La mie saatan saaruttani maille vierahille 205, 788.</p>
+            <p>Söimme syömät, joimme juomat — Kestityskiitos 1288.</p>
+            <p>Luulin tuulen tuulevaksi 239, 795, 1240, 1266.</p>
+            <p>Luulin puuron puita tuovan 239, 703, 795, 1239, 1266, 1514, 2440, 2712, 2760, 2807, 2814, 3023.</p>
+            <p>Jo toimme tulen puhujan 1289, 2296, 2321, 2328, 3085.</p>
+            <p>Nouse ryntty rattahilta, 704, 1266, 2440, 2712, 3023.</p>
+            <p>Laske yksin jalkas vaipalle 1289.</p>
+            <p>Käitkö tiesi tervehenä (Sulhaselle) 796, 1485, 2711, 2830, 3085.</p>
+            <p>Eik olt tiellä tietäjiä 796.</p>
+            <p>Mahtuuko minjä tupaan 239, 704, 1337, 2696.</p>
+            <p>Meill on viinat, oluet, kalat kaikenlaiset 1267.</p>
+            <p>Oisit voinut vuuen olla 1272, 1717, 2418, 2581, 2604, 2719, 3289, 3617, 3873, 3900.</p>
+            <p>Oikein siulle onni valvo 1272, 2695, 2709, 2814, 2849, 4170.</p>
+            <p>Sulholle: Oisit ottanut omasta kylästä 280, 693, 2335, 3480, 3600, 3602.</p>
+            <p>Ei pahoille pantu, Ei huoli hovissa käydä 1268, 1272, 1277, 4170.</p>
+            <p>Kauan kaunoinen makasit 3360.</p>
+            <p>Käitkös eilen seppälässa teräskengät teettämässä 180, 331, 1079, 1673, 3158, 3284, 3358, 3366, 3595, 3843, 3900.</p>
+            <p>Suurkiitos sulholleni, kun otti orjuuesta 365, 2433.</p>
+            <p>Aina kiitän appeani (91), 417, 700, 1089.</p>
+            <p>Tuntuu tuomi muista puista (Anoppi kylän akoista) 679, 2411.</p>
+            <p>Hunnutusvirsi, Kyll tuo huntu huolta tuopi 790, 957, 1456, 1606, 2297, 2323, 2571, 2963, 3065, 3157, 3316, 3616, 3951.</p>
+            <p>Toit, sulho sorjan Suomesta 2840, 3600.</p>
+            <p>Älkää siskoa ikäväll pitäkö 2841, 4179.</p>
+            <p>Tytöt pöydästä lähtiessään 292, 4107.</p>
+            <p>Vuotehelle siskon laitoin 3129—32, 3225.</p>
+            <p>Älä mee jänön jälille 3434, 3612.</p>
+            <p>Älä suutu (sulho) suusanoista 356, 1250, 1408, 2325, 3054, 3078, 3516, 3615, 4189.</p>
+            <p>Mää pois hassu haukkumasta 4120.</p>
+            <p>Pankaa kiinni kirjan kannet (ottajat ovilla) 4118, 4135, 4185.</p>
+            <p>Kiitos kestityksestä 418, 696, 1802, 2320, 2443, 2504, 2702, 3177, 3284, 4192.</p>
+            <p>Viinan pyynti 3528.</p>
+            <p>Kolme putkea puhuu 1450, 2298, 4158.</p>
+            <p>Morsiamelle hyvästi jättäessä (Sinun täytyy jäädä kylmään kylään) 1627, 2443—4, 2776.</p>
+            <p>Myö määmmä, siun jätämmä 1626, 2300, 2334, 2443—5, 2824, 3419, 4130.</p>
+            <p>Sen soisin tähän taloon 1288, 2443, 2702, 4192.</p>
+            <p>Syötetty, juotettu tämä oronen 698.</p>
+            <p>Nostajaisissa 3529.</p>
+            <p>Aha noita akkasia 3216.</p>
+            <p>Lämmitä metoinen sauna 3224.</p>
+            <p>Myö viemme emolle viestit — Emme vieneet vehkasuolle 3227.</p>
+            <p>Erilaisia häärunoja 2641—2, 2779, 2781, 2789, 2820, 2836, 2962, 3603, 4194—5.</p>
+            <p>
+                <hi rend="bold">Juhlapäiviin liittyviä.</hi>
+            </p>
+            <p>Iilia pyhä isäntä 4029.</p>
+            <p>Juhla — (praasnikka) virsiä 195, 2228—9, 2275, 2685, 2740, 2771, 2988, 2999, 3156, 3173, 3270, 3287, 3476, 3912, 3994, 4104, 4158.</p>
+            <p>Jyrinpäivävirsi 2227, 2230, 2589.</p>
+            <p>Kevätjuhlilla 3395.</p>
+            <p>Kiletoivirsi: Täältä leikarit tuleevat 412, 1449.</p>
+            <p>Laskiaisena 766—7, 1234, 1236—7, 1502, 2358, 2772, 2777, 2815, 2945, 3017, 3580, 3460.</p>
+            <p>Petron pyhinä 1810.</p>
+            <p>Tulkaa tyttäret tulelle 691, 912, 973,1779, 2602, 3171—2, 3296, 3421, 3436, 3570—1, 3839, 3861, 4122—3, 4138.</p>
+            <p>Virpomisluku 3893, 4103.</p>
+            <p>
+                <hi rend="bold">Kehtolauluja ja lapsenviihdytys-lukuja.</hi>
+            </p>
+            <p>Emo ei tiiä tuutiessa, mikä lapsesta tulee 3694, 3813, 4125.</p>
+            <p>Huiss sika metsään 4079—80.</p>
+            <p>Kiuru, kiuru, miss sie käit 3695.</p>
+            <p>Lapa laulan lapselleni 3353.</p>
+            <p>Lello poika liekkuu (3906).</p>
+            <p>Luuli lasta nukkumaan 3690.</p>
+            <p>Makaa, makaa, lapsi 3803.</p>
+            <p>Makaa, makaa, marjat joutuu 3325.</p>
+            <p>Makaa, makaa, marjuein 3327, 3905.</p>
+            <p>Minä laulan lapselleni 3997.</p>
+            <p>Nuku, nuku, nurmilintu 509, 1806, 2245, 3693, 3879, 3904, 4074, 4088.</p>
+            <p>Nukuta, Jumala, lasta 423, 509, 1086—7, 1805, 3295, 3354, 3693, 3886.</p>
+            <p>Pai, pai paaraa 3326, 3887, 3916.</p>
+            <p>Paijun, paijun lasta 3686.</p>
+            <p>Piu pau papin kellot 4077.</p>
+            <p>Ptryintin, ptryintin ämmäsein 3687.</p>
+            <p>Sukat surmalle tekisin 3698.</p>
+            <p>Tule surma suota myöten 3688.</p>
+            <p>Tule uniukko meille 3295, 3304, 3324, 3375, 3696—7, 3702, 3904, 4078, 4089.</p>
+            <p>Tule uni ulkomaalta 3997.</p>
+            <p>Tuuti lasta turpehesen 509, 3918.</p>
+            <p>Tuuti luli, lumi suli 3323.</p>
+            <p>Tuuti, tuuti heijaa 3373, 3804.</p>
+            <p>Tuuti, tuuti lasta 1307, 2362, 2752, 3303, 3322, 3356, 3361, 3509, 3685, 3784, 3881, 3919 4075.</p>
+            <p>Tuuti, tuuti tuomen kukka 1048, 2361, 3352, 3699, 3915, 4076, 4090.</p>
+            <p>Tuuvin, tuuvin tyttölasta 210, 308, 476, 802, 1460, 1731, 2360, 3090, 3314, 3355, 3463, 3701, 3889, 3914, 3925.</p>
+            <p>Uni ulkonta kysyypi 32, 1086, 1482, 1805—6, 3032, 3307, 3375, 4074, 4089.</p>
+            <p>Älä tule tupaan 3373, 3509, 3686.</p>
+            <p>
+                <hi rend="bold">Lasten lauluja, loruja ja ketjurunoja.</hi>
+            </p>
+            <p>Ajoi poika tietä myöten, tanssitti tammajansa 3658.</p>
+            <p>Antti armas naitettihin 369.</p>
+            <p>Antti lantti lammaspaimen 1553.</p>
+            <p>Harakka sininen siipi, missä kesäsi elelit. 1229, 2274, 4066.</p>
+            <p>Hatsinaa mun täytyy mennä 3092.</p>
+            <p>Hiien akka hörkkö korva, kanto vettä kappasell 864.</p>
+            <p>Hiiri hiireltä kysyvi (onko naiset tervehenä) 31, 209, 429, 1683.</p>
+            <p>Hiiri metsähän menepi 88, 208, 510, 851, 1732, 3064, 3409—10, 3626, 4065.</p>
+            <p>Hiiri naitti tyttärensä (poikoaan) 161, 429, 511, 852, 1223, 1399, 1614, 3188, 3432, 3632, 3850.</p>
+            <p>Hiiri rikko munat 892.</p>
+            <p>Hyvä on olla Hynnisellä (hympyrällä) 47, 205, 1084, 4127.</p>
+            <p>Hämeen ihmeet 209, 337, 713, 741, 809, 839, 1230, 1399, 1534, 1550, 2244, 2416, 2454, 2598, 2758, 2893, 2914, 3066, 3093, 3305, 3432, 3551—2, 3561, 3633—4, 3847, 3966, 3969, 4028.</p>
+            <p>Härkä löi hännällään, sikä sorkallaan 3091.</p>
+            <p>Isä meni metsään 1735.</p>
+            <p>Juoksoo hiiri tietä myöten, kuka rukkasess, kärpäin 4064.</p>
+            <p>Jänis juoksi jäätä myöten 1558.</p>
+            <p>Kaalit kasvo, sika söi 3885.</p>
+            <p>Kenen kylä näkyy, linna liklottaa 871, 2771, 3944.</p>
+            <p>Kips kilo karjaan 595, 1222.</p>
+            <p>Kissa löysi emännän peitot, Isäntä emännän pieksi 1226—7, 1640, 3967.</p>
+            <p>Kuhun menit kuupää 3091, 3691.</p>
+            <p>Kukko lauloi kurki tanssi 2158.</p>
+            <p>Kukko lauloi Kuusojassa, Kana kaakotti Virossa 3728, 3917.</p>
+            <p>Kun mie kirpun kiini saisin 3630—1.</p>
+            <p>Käin mie eilen vierahissa 90</p>
+            <p>Linnut hautaamassa 911, a, b.</p>
+            <p>Loain, loain loaskuu 3321.</p>
+            <p>Läkkä tästä Herralahan 412.</p>
+            <p>Läkkä seukko seppälähän 33, 89, 128, 1516, 3431, 3970, 4183.</p>
+            <p>Läksin kuivaa kangast myöten 3829.</p>
+            <p>Maamosein marjasein, Paista kakku 1367.</p>
+            <p>Matti malko mulkosilma 890.</p>
+            <p>Menin hevosen ostoon 3328, 3795.</p>
+            <p>Menin Mikilt valkeaa — Täi lakaisi lattiaa 853.</p>
+            <p>Meni veikko seppälään 1294, 3320.</p>
+            <p>Mies musta murosta nousi 3654.</p>
+            <p>Mikkel kokkel sai kolt kalaa 2869.</p>
+            <p>Mikko miila, pää on ko kiila 2618.</p>
+            <p>Miks et silloin meille tullut 1486.</p>
+            <p>Mikä meijän ikkun’alla — meri 400, 471, 526, 588, 714, 863, 1214, 1390, 1402, 1503, 1543, 1573, 1611, 1730, 2103, 2226, 2231, 2415, 2464, 2517—18, 2809—10, 2867, 2880, 2896, 2922, 2955, 2966, 2977, 3038, 3880, 3954, 3989, 4101, 4134.</p>
+            <p>Mikä tuolla näkyy, tupa, tammi veikko 1220—1, 3266, 3748, 3958, 4086, 4102, 4182,</p>
+            <p>Minkä löysin kunka löysin 526.</p>
+            <p>Mikä tuolla näkyy? Nälkä Mouttila 1612.</p>
+            <p>Mikä yks muna kyps 3855.</p>
+            <p>Missä voi 596, 3627, 3890, 4100.</p>
+            <p>Naurisvelli keitettiin, Pukki löi rumpua 1224.</p>
+            <p>Oli ennen Onnimanni 547, 1307, 1366, 2282, 2566, 2586, 2744, 2842, 3315, 3685, 3851, 3883, 4087.</p>
+            <p>Oli ennen ukko akka, kirjava kana 424, 1732.</p>
+            <p>Oli meiän portin ees, tykky suora tyttölöi 3658.</p>
+            <p>Paavo partaansa keritsi 2536.</p>
+            <p>Paista minulle paksu kakku, pois paetakseni 1225.</p>
+            <p>Pakeneva 40, 427, 587, 1218—19, 1368, 1535, 1569, 1716, 2278, 2407, 2735, 3508, 3796, 3811, 4085, 4093.</p>
+            <p>Palvelin talonpoikaa vuuen 746, 1547, 2874, 3888.</p>
+            <p>Pillin pallin soitettihin 1217.</p>
+            <p>Potti, potti polpol potti 3785.</p>
+            <p>Repo neuvo poikiansa vipuja ja ansoja välttämään 281.</p>
+            <p>Roittu meni metsään, kinner 311, 1560, 1715.</p>
+            <p>Sika neuvo porsastaan 799.</p>
+            <p>Surmat suutoa pitävät, kenen tapan 1231—2.</p>
+            <p>Susi sanoo hevoselle: Mene koukkuma kotiin 3629.</p>
+            <p>Tiaisen olut 522, 1319—20, (1550).</p>
+            <p>Tiirin liirin tenkan löysin 877, 891, 1129.</p>
+            <p>Tiirin liirin tikka tanssi 162.</p>
+            <p>Tiraruu, tararuu, Meien kukko tapettiin 590.</p>
+            <p>Tule täti tälle maalle, Keitä keltanen munanen 263, 415, 1561, 3692, 4082.</p>
+            <p>Tule täti taivaasee 3883.</p>
+            <p>Ätti tyy kottii 601.</p>
+            <p>Tästä tie menee, veräjät, kujat, aidat „Kenen?“ Veljen 1619.</p>
+            <p>
+                <hi rend="bold">Leikki ja karkelo.</hi>
+            </p>
+            <p>Aatamin lapset — näin tekee kaikki 3852.</p>
+            <p>Anna tupa tanssiaksemme 716, 780, 785, 1123, 1557, 2354, 2356, 2549, 2677, 2704, 2927, 2932, 2970, 3048, 3138, 3175, 3270, 3912.</p>
+            <p>Hyvä iltaa kultaseni 1092, 2800.</p>
+            <p>Kuin tulen tanssimaan, Heikot pieksän helmoillani 3008.</p>
+            <p>Kylvin kylvin kauraa 2946.</p>
+            <p>Leikin alkajaislukuja 1425, 2359, 3852—3, 3855, 3891—2, 3895—7.</p>
+            <p>Markkinalaulu Pankaa käsi kätehen 1442.</p>
+            <p>Mie yksi vaivainen vuohi 1103.</p>
+            <p>Nyt on voli meiän voli 3178.</p>
+            <p>Onko siltani sileät 961, 1096, 2213, 2353, 2658, 3992.</p>
+            <p>Osta kello kenkiheis 3178, 3204.</p>
+            <p>Pellavan valmistus 980, 1475, 1488, 2262, 2745, 2889, 2940, 3898.</p>
+            <p>Rikas ja köyhä 2846, 2868, 2878, 3563—4, 3567, 3581, 3854.</p>
+            <p>Sure, sure hyvä rouva 1487, 2648.</p>
+            <p>Tanssikaamme myö tasaiset 2355, 2357.</p>
+            <p>Tanssi tyttö tarkemmasti 785, 2352, 2676.</p>
+            <p>Tule meille tanssimaan 437, 2534, 3009.</p>
+            <p>Tyhjä tupa tultuain 3287.</p>
+            <p>Yks ulkona seisoo, Miun muorisein 2883.</p>
+            <p>
+                <hi rend="bold">Liekkulauluja</hi>.</p>
+            <p>La mie koitan liekkujani 302, 680, 798, 1233, 2349—50, 2584, 2993, 3420, 3573, 4061, 4105, 4114.</p>
+            <p>Liekku älä langettele 681, 3572, 3574—5, 3910, 4114.</p>
+            <p>Liekuttajat kiekuttajat 1235, 2351, 2716, 3174, 3766, 3910, 4062.</p>
+            <p>
+                <hi rend="bold">Paimenlauluja</hi>.</p>
+            <p>Mene päivä männikölle 889, 2895, 3045.</p>
+            <p>Nouskaa lehmiänne lypsämään 3173.</p>
+            <p>
+                <hi rend="bold">Työlauluja</hi>.</p>
+            <p>Emme väsy myö väkevät 3308.</p>
+            <p>Jo nyt illakko tuleepi 241, 638, 663, 777—8, 1297, 1701, 1861, 2544, 3012, 3714—5, 3973, 4110.</p>
+            <p>Käin piennä paimenessa 1778.</p>
+            <p>Lähtään laulain kotiin — Ken kois uottelee 3206.</p>
+            <p>Mistä tiiän rikkahaks, risti riihen päällä, kultakaivo 2269, 3246.</p>
+            <p>Mist tästä tie menee rikkahille 2269, 2817, 2860, 3028, 3156, 3912.</p>
+            <p>Niitto (talkoo)virsi: Niittäkäämme ruttakaamme 172, 783, 1297—8, 3003, 4110.</p>
+            <p>Onko kystä keitettynä väelle väsyneelle 961, 2544, 2703, 2969, 3098, 3912, 3973, 4110.</p>
+            <p>Vilusta viitta 242, 663, 777, 1297, 2178, 2580, 3012, 3215, 3538, 3757.</p>
+            <p>
+                <hi rend="bold">V. Hoveista, nimiin liittyviä, tilapäisiä ja uudenaikaisia runoja.</hi>
+            </p>
+            <p>Ei huoli hovissa käydä 123, 673, 1520, 3486.</p>
+            <p>Herroista ja hoveista 80, 244, 338, 440, 612—3, 672—3, 782, 873, 910, 1012, 1046, 1089, 1186—8, 1192—3, 1199—1200, 1202, 1204—5, 1208, 1434, 1483, 1520, 1532, 1570, 1641, 1679—80, 2211—3, 2232, 2247, 2392, 2601, 3046, 3099, 3486, 3490.</p>
+            <p>Nimiin liittyviä ja paikallisia, 12, 34, 75—6, 104, 122, 212, 232, 245, 267, 283, 293, 343, 350, 446, 454, 502—3, 754, 769, 773, 801, 810, 812, 903, l053, 1136, 1138, 1303, 1308, 1321, 1531, 1533, 1562—3, 1595—6, 1629, 1634, 1750, 2272, 2410, 2449, 2594, 2607, 2669, 2731, 2981, 3374, 3386—7, 3407, 3465, 3484, 3666, 3783, 3942.</p>
+            <p>Häissänsä häpeät tehnyt poika 444, 772, 1117, 3493, 3819, 3831.</p>
+            <p>Juomarin kaupunginmatka 141, 144, 270, 517, 1126, 1720, 1759, 2276, 2277, 2595, 2669, 3121, 3801.</p>
+            <p>Kissan keittäminen 341, 1145, 1562, 1595, 1687, 2587, 3390, 3441, 3628, 3792, 3818, 3933.</p>
+            <p>Koira ammutaan keitokseksi 352,1526.</p>
+            <p>Kosissa käynyt poika 453, 1127, 1755.</p>
+            <p>Menit tytöt markkinoille 600, 1750, 2726.</p>
+            <p>Niin sanoit Sakoskan naiset 3234, 3390, 3469.</p>
+            <p>Pojat yöjalassa kolme hailia hatussa 1407, 1531, (1542), 1608, 2449, 2603, 3481, 3661.</p>
+            <p>Ruununtyttöjen laulu 968, 1044, 1090.</p>
+            <p>Tilapäisiä 62, 238, 816, 845, 1056, 2272, 2393, 2787, 2790—2, 2900, 2915, 2943, 3056, 3397, 3425, 3451, 3481, 3485.</p>
+            <p>Tupakan synty 1562.</p>
+            <p>Yöjalassa ollut poika 104, 124, 222, 235, 458, 617, 819, 866, 876, 1114, 1162, 1163, 1394, 1526, 1594, 1704, 1751, 2449, 2593, 2597, 2894, 3094, 3244, 3374, 3454, 3468, 3482, 3504, 3832, 3921, 3982.</p>
+            <p>Herodes 3455.</p>
+            <p>Kivijärven kiltit miehet 3394.</p>
+            <p>Napoleonin sota 1317.</p>
+            <p>Virolaisvoittoinen (Peremies on mulle urja) 3802.</p>
+            <p>Arvoitusruno 598, 599, 843, 865, 1296 a, 1501, 2472, 3884.</p>
+            <p>Sananlaskun tapaisia 1718, 2921.</p>
+            <p>------</p>
+            <p>Joutsen ja hanhi 2225, 2414, 2701.</p>
+            <p>Jos mie saisin jouten olla, (2875) 4181.</p>
+            <p>Kukkiit, kukkiit kukkaset, vaan ei kauan 2671, 2720, 2866.</p>
+            <p>Sekaisin uutta ja vanhaa runomittaa 728, 1111, 1548, 1554, 1556, 1635, 2471, 2535, 2680, 2801, 3231, 3589, 3648, 3823, 3808, 3857.</p>
+            <p>Kirjasta opittuja? 824—5, 837—8, 3427, 3483.</p>
+            <p>
+                <hi rend="bold">VI. Loitsut.</hi>
+            </p>
+            <p>
+                <hi rend="bold">1. Kateet, kirot ja manaukset.</hi>
+            </p>
+            <p>Kateet ja kirot 4196—4219.</p>
+            <p>Hauke 4220—5, 4576.</p>
+            <p>Varaukset ja manaukset 4226—40.</p>
+            <p>
+                <hi rend="bold">2. Loukkaantumat ja viottumat.</hi>
+            </p>
+            <p>Haavat 4040, 4241—4, 4574.</p>
+            <p>Kiven vihat 4245—6.</p>
+            <p>Niukahdus 1314, 1431, 2514, 2565, 4025, 4056, 4247—83, 4569—70.</p>
+            <p>Puunvihat 4284—7, 4572.</p>
+            <p>Tulen ja palaneen luvut 75, 618, 1339, 1441, 1599, 1980, 2048—9, 2076, 2078—9, 4017, 4051, 4288—4305, 4573.</p>
+            <p>Veren sulku, raudan vihat 4306—32, 4575.</p>
+            <p>
+                <hi rend="bold">3. Puremat.</hi>
+            </p>
+            <p>Käärmeen (madon) sanat 4333—69, 4565.</p>
+            <p>Ampiainen 4370—1.</p>
+            <p>
+                <hi rend="bold">4. Taudit, kivut ja tartunnat.</hi>
+            </p>
+            <p>Ajos, ks. paise.</p>
+            <p>Ammus 4372—8.</p>
+            <p>Hammas 4379.</p>
+            <p>Hyle ja ruusu 4380—4403, 4566, 4577.</p>
+            <p>Kivut 4404—9.</p>
+            <p>Koi 4410—15.</p>
+            <p>Korvan luku 4416—7.</p>
+            <p>Kurkku kipeä 4567.</p>
+            <p>Lankeamisen loihtu 4571.</p>
+            <p>Lapsen (yö) itku 4418—25, 4562—4.</p>
+            <p>Lapsen synnytyskivut 4426—34.</p>
+            <p>Lasta kylvettäessä 4435—6.</p>
+            <p>Liikaluu 4437.</p>
+            <p>Maanvihat, maahinen 4438—42.</p>
+            <p>Nikotus 4443.</p>
+            <p>Nori 4444.</p>
+            <p>Närästäminen 4445.</p>
+            <p>Paise, ajos, kasvannainen, äkämä 4446—61.</p>
+            <p>Pelästyneelle 4462—74.</p>
+            <p>Pistos 4475—81.</p>
+            <p>Riisi 4482—96.</p>
+            <p>Rintatauti 4497.</p>
+            <p>Rupi 4498.</p>
+            <p>Rutto 4499.</p>
+            <p>Ruusu, ks. hyle.</p>
+            <p>Selkäkivut 4500—1.</p>
+            <p>Silmät kipeät 4502—5.</p>
+            <p>
+                <hi rend="bold">5. Karjanhoito.</hi>
+            </p>
+            <p>Karjaa laskiessa (1118), 2230, 4506—21.</p>
+            <p>Karja ammuksissa 4522—5.</p>
+            <p>Maan tervehtiminen 4526—7.</p>
+            <p>Ostettu karja 4528—30.</p>
+            <p>Lehmäisiä vasikoita 4531.</p>
+            <p>Paha silmä 4532.</p>
+            <p>Rutto 4533.</p>
+            <p>Varkaan loihtu 4579.</p>
+            <p>Voita kirnutessa 4534—6, 4578.</p>
+            <p>
+                <hi rend="bold">6. Eri tiloissa.</hi>
+            </p>
+            <p>Kalaa pyytäessä 4537.</p>
+            <p>Koiran haukunta 4538.</p>
+            <p>Lapsi vieraissa 4539.</p>
+            <p>Lemmen nosto 4540—1.</p>
+            <p>Loppiaisyönä 4542.</p>
+            <p>Löylyn tervehdys 4543—8.</p>
+            <p>Metsämiehen luku 2270.</p>
+            <p>Naitin virsi 239, 530, 2287, 2309, 4549.</p>
+            <p>Olutta käytettäessä 4550.</p>
+            <p>Pakkasen lieventäminen 4551.</p>
+            <p>Papin eteen mennessä 4552.</p>
+            <p>Pyssy pilattu 4553.</p>
+            <p>Syöpäläisille (?) Elokkaille 4554—8.</p>
+            <p>Tee, Herra, heleä pouta — vie pilvet Venäjän maalle 2265, 2412, 3253, 3582.</p>
+            <p>Uuden kuun tervehtiminen 4559.</p>
+            <p>Varastettu tavara 4560.</p>
+            <p>Vihittäessä 4561.</p>
+            <p>Älä korpi kuohuttele 1448.</p>
+        </div></body>
+    </text>
+</TEI>

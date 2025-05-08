@@ -1,0 +1,191 @@
+<?teipublisher template="alkulauseet.html" odd="teipublisher.odd" view="single"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>VII4: alkusanat</title>
+                <author>A. R. Niemen esitöitä käyttäen Kaarle Krohn ja V. Alava</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                <pubPlace>Helsinki</pubPlace>
+                <date>2024</date>
+                <availability>
+                    <p>Tekijänoikeudet: Suomalaisen Kirjallisuuden Seura</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Suoman kansan vanhat runot VII. Raja- ja Pohjois-Karjalan Runot. 4. Tautiloitsut. 
+                        Toisinnot 1550−3207.</title>
+                    <author>A. R. Niemen esitöitä käyttäen Kaarle Krohn ja V. Alava (toimittaja)</author>
+                    <pubPlace>Helsinki</pubPlace>
+                    <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                    <date>1933</date>
+                    <series>
+                        <title>Suomalaisen Kirjallisuuden Seuran toimituksia</title>
+                        <biblScope>143, IV.</biblScope>
+                    </series>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURAN TOIMITUKSIA.</p>
+            <p>143 OSA.</p>
+            <p>
+                <hi rend="b">IV.</hi>
+            </p>
+            <p>SUOMEN KANSAN VANHAT RUNOT VII.</p>
+            <p>RAJA- JA POHJOIS-KARJALAN RUNOT.</p>
+            <p>4.</p>
+            <p>
+                <hi rend="b">TAUTILOITSUT.</hi>
+            </p>
+            <p>TOISINNOT 1550—3207.</p>
+            <p>A. R. NIEMEN ESITÖITÄ KÄYTTÄEN JULKAISSEET KAARLE KROHN JA V. ALAVA.</p>
+            <p>HELSINKI 1933,</p>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURA.</p>
+            <p>HELSINKI 1933,</p>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURAN KIRJAPAINON OY.</p>
+            <p/>
+            <p>Alkulause.</p>
+            <p>Suomen Raja- ja Pohjois-Karjalan vanhoista runoista oli professori A. R. Niemen kuollessa syksyllä 1931 vielä painoon toimittamatta suurin osa loitsuja, nim. tautien loitsut, metsästystä, kalastusta, karjanhoitoa ja maanviljelystä koskevat, naima- ja häätapoihin sekä muun perhe-elämän alaan kuuluvat ja lisäksi joukko lyhyitä, eri tiloissa käytettäviä loitsuja. Nämäkin runoainekset olivat jo sekä käsinkirjoitetuista kokoelmista että kirjallisista lähteistä koottuina ja valmistelevasti järjestettyinä ja toimitettuina painatusta varten. Viimeistelyä ei luultu paljoa tarvittavan, vaan edellytettiin, että toimitustyö oli kutakuinkin loppuun saatettu. Näin ei kuitenkaan todellisuudessa ollut asianlaita. Kun allekirjoittanut alussa viime vuotta ryhtyi, työskennellen yhdessä prof. Kaarle Krohnin kanssa, joka pääasiassa suoritti omien keräelmiensä stenogrammeihin vertailun ja muuta lopullista tarkistusta, johtaen ja valvoen samalla itse päätyönkin kulkua, toimittamaan näiden koottujen ja ryhmiteltyjen runoainesten viimeistelyä ja alkuperäisiin käsikirjoituksiin vertaamista, ilmeni, että aineistossa vielä oli paljonkin tarkastamisen ja tasoittelemisen varaa. Tautien loitsut eli ne runot, jotka sisältyvät tähän nyt ilmestyvään 4. osaan, olivat tosin jo jotakuinkin lopullisesti järjestetyt, runojen saantipaikat vanhempienkin kokoelmien toisintoihin mikäli mahdollista koetettu määritellä (vrt. Niemen mainintaa samasta asiasta 1:n osan alkulauseessa), eriloitsuainekset ryhmitelty paikoilleen pitäjittäin, kerääjittäin j.n.e., mutta parissa tärkeässä seikassa ilmeni huomattavia vaikeuksia, joita sitten jatkui miltei pitkin matkaa läpi koko runoaineiston. Ensinnäkään eivät näistä aineksista olleet seulotut pois lähimainkaan kaikki sellaiset runot, jotka olivat jo aikaisemmin kokonaisuudessaan painetut, useihin sellaisiin taas, joista osa oli jo ennen painettu, oli jätetty tekemättä siitä asianmukainen merkintä. Tätä seikkaa ei etukäteen osattu aavistaa. Kun tällaisia runoja alkoi työn jatkuessa yhä enemmän tulla vastaan, ei auttanut muu kuin että täytyi laatia erityinen tarkistusluettelo, jonka nojalla vasta voitiin nämä liikaainekset estää joutumasta uudelleen painetuiksi. Epäilemättä oli Niemi itsekin pitänyt jonkinlaista tämäntapaista tarkistusluetteloa, sillä muutenhan ei hänkään olisi voinut sekaannusta välttää, mutta nyt ei sellaista luetteloa tavattu mistään. Kun kaikkiaan oli käsiteltävä n. 3,500 painatettavaa runotoisintoa ja aikaisemmin oli tämän runoalueen toisintoja painettuina yli 6,000, ei yhteensattumisen ja sekaantumisen vaara ollut suinkaan vähäinen. Joitakuita erheitä ennätti julkaisuun jo päästäkin, ennenkuin työ ehdittiin saada varmalle pohjalle. Kolmatta sataa liikarunoa saatiin joka tapauksessa poistetuksi.</p>
+            <p>Jakson 5. osaan sisältyvät loitsut, alkaen metsästysloitsuista, eivät prof. Niemen jäleltä vielä olleet läheskään asianmukaisessa järjestyksessä. Tämän järjestämistyön suoritti pääasiassa prof. Krohn, käyttäen siinä työssä amanuenssi J. Lukkarisen apua. Hänelle samoin kuin rouva Helmi Krohnille, joka on lukenut suuren osan ensimmäistä korrehtuuria, pyydän tässä lausua parhaat kiitokseni.</p>
+            <p>Prof. Krohnin keräämien loitsujen painatuskuntoon saattamisesta ei prof. Niemellä ollut paljoakaan vaivaa. Kun prof. Krohn itse ne nyt tarkasti ja viimeisteli aina lopullista oikolukua myöten — samalla tiellä hän vertasi myös M. Varosen loitsut stenogrammeihin tarvittavilta osiltaan — tuli työ ainakin hänen kohdaltaan kylläkin asianmukaisesti hoidetuksi. Onneksi ennätti prof. Krohn, runojen ladonta kun oli jo kokonaan suoritettu ja vedokset siitä oikolukua varten käytettävissä, saattaa viimeistelytyönsä loppuun ennen kuolemaansa. Prof. Krohn-vainajan osuus etenkin nyt valmistuneiden osien julkaisutyössä ei ole ollut vähäinen, sillä noin 1/6 kaikista näiden osien loitsuista oli hänen keräämänsäkin.</p>
+            <p>Mitä runojen yksityiskohtaisempaan viimeistelyyn tulee, mainittakoon, että käsikirjoituksessa havaittiin eräs toinenkin vajanaisuus. Viivanalaisissa huomautuksissa esiintyi verrattain paljon epäjohdonmukaisuutta ja epätasaisuutta. Oli tehtävä vielä hyvä joukko lisäyksiä ja tasoittelemisia. Tämäkin osoittaa, että prof. Niemi-vainaja ei ollut ehtinyt itse lopullisesti näitä aineksia yksityiskohtaisemmin tarkastaa ja ehyempään painatuskuntoon toimittaa.</p>
+            <p>Itse viimeistelytyössä on yleensä pyritty mahdollisuuden mukaan noudattamaan samoja merkintätapoja, joita prof. Niemi oli aikaisemmissa julkaisun osissa käyttänyt, niin esim. viivanalaisten huomautusten merkinnässä ja samoin välimerkkien sekä sellaisten tekstiin tehtyjen huutomerkkien käyttämisessä, joista hän mainitsee ensimmäisen osan alkulauseen lopulla. Ne vanhempien kokoelmien toisintoihin sovitetut runojen saantipaikat, jotka prof. Niemi oli näihin määritellyt (ks. 1:n osan alkulauseen toisen kappaleen alkupuolta), on säilytetty; ei tahdottu niihin epäilyttävissäkään tapauksissa kajota, kun ei varmemmin tiedetty, millaisilla perusteilla niissä esiintyviin tuloksiin oli päästy.</p>
+            <p>Prof. Niemi oli ajatellut, että julkaisun viimeiseen osaan olisi liitettävä luettelo sellaisista runoista, jotka ovat kirjoista opittuja (ks. 2. osan alkulausetta), ja oli prof. Krohnillakin sama ajatus — muistaakseni hän sellaisen lupasi itse toimittaakin, mikäli katsottaisiin tarpeelliseksi. Sen laatiminen on nähtävästi jäänyt ja allekirjoittaneella ei ole ollut tarvittavia aineksia käytettävänään luettelon aikaansaamiseksi.</p>
+            <p>Kokonaisuudessaan sisältää nyt valmistunut „Suomen KansanVanhojen Runojen“ VII jakso 5 osaa ja jakaantuu kahteen yhtäjaksoiseen numerosarjaan; edelliseen kuuluvat kaikki kertovaiset runot, lyyrilliset runot, häärunot, mietelmärunot, loru- ja hokurunoset y. m. s. (toisinnot 1—4627) ja jälkimmäiseen loitsurunot (toisinnot 1—5246), eli yhteensä lähes 10,000 runotoisintoa, liitteenä olevia Skandinavian metsäsuomalaisten runoja vielä lukuun ottamatta. Laulurikas Suomen-Karjalakin on täten puolestaan osoittanut laulumahtinsa. Olkoonpa ohimennen mainittuna, että tässä vanhojen runojemme jaksossa, sen viimeisessä osassa tavataan, m.m. Krohnin sanoja käyttääksemme „maailman kauneimmat loitsut“, Suomen-Karjalan metsästysloitsut; niiden vertaisia ei hän tiennyt olevan missään muualla.</p>
+            <p>Suuren, ehkä suurimman, kansanrunoutemme keräilijän odottamaton kuolema ei sallinut hänen nähdä valmistuneena tätä julkaisua, josta suuri osa on hänen keräämänsäkin. Hänen itsensä viimeisteleminä ja painoon toimittamina, hänen viimeisenä työnään olkoot nämäkin runot kohdaltansa tuleville sukupolville muistuttamassa mieleen tämän uutteran ja nerokkaan, mutta aina vaatimattoman keräilijän ja tutkijan katoamatonta työtä.</p>
+            <p>Helsingissä 28 p:nä syyskuuta 1933.</p>
+            <p>
+                <hi rend="b i">V. Alava</hi>.</p>
+            <p/>
+            <p>Sisällysluettelo.</p>
+            <table type="contents">
+                <row><cell>Alkulause</cell><cell>V—VII</cell></row>
+                <row><cell>Sisällysluettelo</cell><cell>IX—XII</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">IV. Taudit.</hi>
+                </cell><cell/></row>
+                <row><cell>Tietäjäksi valmistus n:o 1550</cell><cell>1</cell></row>
+                <row><cell>Avuksipyyntösanoja n:ot 1551—1695</cell><cell>1—19</cell></row>
+                <row><cell>Arvan lukuja n:ot 1596—1605</cell><cell>19—26</cell></row>
+                <row><cell>Taudin alkuperän tiedustelua n:ot 1606—1624</cell><cell>26—30</cell></row>
+                <row><cell>Varaus-, Manaus- ja Kyydityssanoja n:ot 1625—1739</cell><cell>30—68</cell></row>
+                <row><cell>Kylvetyssanoja n:ot 1740—1771</cell><cell>68—98</cell></row>
+                <row><cell>Voiteen luku n:ot 1772—1843</cell><cell>98—114</cell></row>
+                <row><cell>Lepänoksia parannuskeinoksi otettaessa n:o 1844</cell><cell>114</cell></row>
+                <row><cell>Kalmanväen otto n:ot 1845—1850</cell><cell>114—115</cell></row>
+                <row><cell>Maanväen otto n:o 1851</cell><cell>116</cell></row>
+                <row><cell>Kuun tervehtiminen n:ot 1852—1853</cell><cell>116</cell></row>
+                <row><cell>Vettä lääkkeeksi ottaissa n:ot 1854—1862</cell><cell>116—118</cell></row>
+                <row><cell>Ajos (paise, rupi) n:ot 1863—1906</cell><cell>118—127</cell></row>
+                <row><cell>Ammus (ks. Pistos)</cell><cell>(127)</cell></row>
+                <row><cell>Hammasmato n:ot 1907—1952</cell><cell>127—145</cell></row>
+                <row><cell>Hampaista ruoste lähtee n:o 1953</cell><cell>145</cell></row>
+                <row><cell>Hengenahdistuksessa n:o 1954</cell><cell>145</cell></row>
+                <row><cell>Horkka n:ot 1956—1956</cell><cell>145—148</cell></row>
+                <row><cell>Huoran rikontasanat n:o 1957</cell><cell>148</cell></row>
+                <row><cell>Hurmikot n:o 1968</cell><cell>148—149</cell></row>
+                <row><cell>Hävyn vihat n:ot 1959—1969</cell><cell>149—162</cell></row>
+                <row><cell>Ihmisen vihat n:o 1970</cell><cell>152</cell></row>
+                <row><cell>Jalan kuoleentuminen n:ot 1971—1973</cell><cell>152—153</cell></row>
+                <row><cell>Kaatuvatauti (Pahan pieksettävä) n:ot 1974—1981</cell><cell>163—157</cell></row>
+                <row><cell>Kalman rikkeissä n:ot 1982—2011</cell><cell>167—171</cell></row>
+                <row><cell>Kalman nosto n:ot 2012—2014</cell><cell>171</cell></row>
+                <row><cell>Karva kurkkuun n:ot 2015—2016</cell><cell>171—172</cell></row>
+                <row><cell>Kateen sanat n:ot 2017—2024</cell><cell>172</cell></row>
+                <row><cell>Kipujen synty n:ot 2025—2052</cell><cell>172—187</cell></row>
+                <row><cell>Kipusanat n:ot 2053—2117</cell><cell>187—199</cell></row>
+                <row><cell>Kiroissa n:ot 2118—2133</cell><cell>199—207</cell></row>
+                <row><cell>Kirousta säikähtäessä n:ot 2134—2135</cell><cell>207—208</cell></row>
+                <row><cell>Kirvestäminen n:ot 2136—2137</cell><cell>208—209</cell></row>
+                <row><cell>Kohtaus l. Kopristus n:ot 2138—2151</cell><cell>209—213</cell></row>
+                <row><cell>Koi (ks. Raani)</cell><cell>(213)</cell></row>
+                <row><cell>Kopristus (ks. Kohtaus)</cell><cell>(213)</cell></row>
+                <row><cell>Korvan pistos n:ot 2152—2153</cell><cell>213—214</cell></row>
+                <row><cell>Kupu l. Kasvaimet n:ot 2154—2194</cell><cell>214—226</cell></row>
+                <row><cell>Kuukautiset n:ot 2195—2196</cell><cell>226</cell></row>
+                <row><cell>Kylpypakana (Saunariesa) n:ot 2197—2209</cell><cell>227—231</cell></row>
+                <row><cell>Käsnät n:ot 2210—2215</cell><cell>231—232</cell></row>
+                <row rend="heading"><cell>Lasten tauteja:</cell><cell/></row>
+                <row><cell>Yön-itkettäjä (valvottaja) n:ot 2216—2272</cell><cell>232—247</cell></row>
+                <row><cell>Jos lapsia repäsee n:o 2273</cell><cell>247</cell></row>
+                <row><cell>Korvanvuoto parannetaan n:o 2274</cell><cell>247</cell></row>
+                <row><cell>Kun lapsen jalka on kipeänä n:o 2275</cell><cell>247</cell></row>
+                <row><cell>Kun lapsi palaa kuumassa vedessä n:o 2276</cell><cell>247—248</cell></row>
+                <row><cell>Lapsen kylvetys n:ot 2277—2299</cell><cell>248—257</cell></row>
+                <row><cell>Lapsen päästäminen kiroista n:ot 2300—2302</cell><cell>258—259</cell></row>
+                <row><cell>Lasten loukkaantumat parannetaan n:o 2303</cell><cell>259</cell></row>
+                <row><cell>Metsännenä n:o 2304</cell><cell>259</cell></row>
+                <row><cell>Mää, pipi, kottii! n:o 2305</cell><cell>259</cell></row>
+                <row><cell>Painajainen pois lapsesta n:o 2306</cell><cell>259—260</cell></row>
+                <row><cell>Ruohotus ja lautumat pois lapsesta n:ot 2307—2308</cell><cell>260</cell></row>
+                <row><cell>Saunapakanan karkoittaminen n:o 2309</cell><cell>260</cell></row>
+                <row><cell>Silmien parantaminen n:ot 2310—2311</cell><cell>260—261</cell></row>
+                <row><cell>Vatsamatojen poistaminen n:o 2312</cell><cell>261</cell></row>
+                <row><cell>Vuoteensa kasteleminen n:o 2313</cell><cell>261</cell></row>
+                <row><cell>Leukojen ajetus n:ot 2314—2316</cell><cell>261—262</cell></row>
+                <row><cell>Löylyn sano ja n:ot 2317—2416</cell><cell>262—287,</cell></row>
+                <row><cell>Löyly jos on tarttunut kipeään kohtaan n:ot 2416—2418</cell><cell>287</cell></row>
+                <row><cell>Maahinen n:ot 2419—2477</cell><cell>287—299</cell></row>
+                <row><cell>Metsännenä (Metsän lepytys) n:ot 2478—2501</cell><cell>299—307</cell></row>
+                <row><cell>Mielenvikaan saatetaan n:ot 2502—2505</cell><cell>307—309</cell></row>
+                <row><cell>Mielenvika parannetaan n:ot 256—2510</cell><cell>309—311</cell></row>
+                <row><cell>Mieron sitta n:o 2511</cell><cell>311—312</cell></row>
+                <row><cell>Nihti n:o 2512</cell><cell>312</cell></row>
+                <row><cell>Nikka n:ot 2513—2523</cell><cell>312—314</cell></row>
+                <row><cell>Niukahdus (Hiveltyminen) n:ot 2524—2583</cell><cell>314—334</cell></row>
+                <row><cell>Näppylät (vinnit) n:o 2584</cell><cell>334—335</cell></row>
+                <row><cell>Näärännäppy n:ot 2585—2590</cell><cell>335</cell></row>
+                <row><cell>Pahan lyöminen n:ot 2591—2592</cell><cell>336</cell></row>
+                <row><cell>Pahkat (Kasvajaiset) n:ot 2593—2594</cell><cell>336</cell></row>
+                <row><cell>Paholaisen vaiva ja jäsenenkolotus n:o 2595</cell><cell>336</cell></row>
+                <row><cell>Pakotuksen sanat n:o 2596</cell><cell>336</cell></row>
+                <row><cell>Pistoksen sanat n:ot 2597—2634</cell><cell>336—350</cell></row>
+                <row><cell>Pistoksen synty n:ot 2635—2781</cell><cell>350—441</cell></row>
+                <row><cell>Puun juurilla [rukous] n:o 2782</cell><cell>441</cell></row>
+                <row><cell>Puutunnainen n:ot 2783—2784</cell><cell>442</cell></row>
+                <row><cell>Päänkivistys n:ot 2785—2788</cell><cell>442—443</cell></row>
+                <row><cell>Raani l. koiska n:ot 2789—2835</cell><cell>443—471</cell></row>
+                <row><cell>Riisi n:ot 2836—2900</cell><cell>471—512</cell></row>
+                <row><cell>Rikkeitä vastaan n:ot 2901—2906</cell><cell>512—514</cell></row>
+                <row><cell>Rintataudissa n:o 2907</cell><cell>614—515</cell></row>
+                <row><cell>Rokko n:ot 2908—2910</cell><cell>515—516</cell></row>
+                <row><cell>Ruohuttaja n:o 2911</cell><cell>516</cell></row>
+                <row><cell>Rupi (ks. myös Ajos ja Rokko) n:o 2912</cell><cell>516</cell></row>
+                <row><cell>Ruusu n:ot 2913—2916</cell><cell>516—518</cell></row>
+                <row><cell>Rykiminen n:ot 2916—2920</cell><cell>518</cell></row>
+                <row><cell>Satiaiset n:o 2920</cell><cell>618</cell></row>
+                <row><cell>Silmiin jos jäätulee n:o 2921</cell><cell>518—519</cell></row>
+                <row><cell>Silmipasko n:ot 2922—2932</cell><cell>519—521</cell></row>
+                <row><cell>Silmästä ruhka postetaan n:o 2933</cell><cell>521</cell></row>
+                <row><cell>Silmätaudeissa n:ot 2934—2937</cell><cell>522—623</cell></row>
+                <row><cell>Silmäyksistä ja suuteluksista päästö n:ot 2938—2991</cell><cell>523—544</cell></row>
+                <row><cell>Suonten sanoja n:ot 2992—3005</cell><cell>544—545</cell></row>
+                <row><cell>Synnytyskivuissa n:ot 3006—3069</cell><cell>545—569</cell></row>
+                <row><cell>Syyhy n:ot 3070—3071</cell><cell>569</cell></row>
+                <row><cell>Tulenlento n:ot 3072—3075</cell><cell>569—570</cell></row>
+                <row><cell>Tulen viha haavasta n:ot 3076—3077</cell><cell>570—571</cell></row>
+                <row><cell>Tulimaahinen n:ot 3078—3081</cell><cell>571—572</cell></row>
+                <row><cell>Tuulennenä n:ot 3082—3088</cell><cell>572—574</cell></row>
+                <row><cell>Umpi n:ot 3089—3090</cell><cell>574—675</cell></row>
+                <row><cell>Vatsuri n:o 3091</cell><cell>575</cell></row>
+                <row><cell>Veden vioissa n:ot 3092—3135</cell><cell>575—590</cell></row>
+                <row><cell>Veden nosto. Patvaskan varaaminen n:o 3136</cell><cell>590</cell></row>
+                <row><cell>Vedestä ei tartu n:ot 3137—3138</cell><cell>590</cell></row>
+                <row><cell>Vesimato n:o 3139</cell><cell>590—591</cell></row>
+                <row><cell>Viklin l. solvakon sanat n:o 3140</cell><cell>591</cell></row>
+                <row><cell>Yskä n:ot 3141—3155</cell><cell>591—594</cell></row>
+                <row><cell>Yöpainajainen n:o 3166</cell><cell>594</cell></row>
+                <row><cell>Ähky n:ot 3157—3186</cell><cell>594—606</cell></row>
+                <row><cell>Äänen sortuminen n:ot 3187—3193</cell><cell>606—607</cell></row>
+                <row><cell>Synnyn synty n:o 3194</cell><cell>607</cell></row>
+                <row><cell>Iso kokko n:ot 3195—3207</cell><cell>607—609</cell></row>
+            </table>
+        </div></body>
+    </text>
+</TEI>
