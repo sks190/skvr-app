@@ -1,0 +1,90 @@
+<?teipublisher template="alkulauseet.html" odd="teipublisher.odd" view="single"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>III1: alkusanat</title>
+                <author>Väinö Salminen</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                <pubPlace>Helsinki</pubPlace>
+                <date>2024</date>
+                <availability>
+                    <p>Tekijänoikeudet: Suomalaisen Kirjallisuuden Seura</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Suoman kansan vanhat runot III. Länsi-Inkerin runot. 1. Toisinnot 1−1250.</title>
+                    <author>Väinö Salminen (toimittaja)</author>
+                    <pubPlace>Helsinki</pubPlace>
+                    <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                    <date>1915</date>
+                    <series>
+                        <title>Suomalaisen Kirjallisuuden Seuran toimituksia</title>
+                        <biblScope>139, I.</biblScope>
+                    </series>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURAN TOIMITUKSIA.</p>
+            <p>139 OSA.</p>
+            <p>I.</p>
+            <p>SUOMEN KANSAN VANHAT RUNOT III.</p>
+            <p>LÄNSI-INKERIN RUNOT.</p>
+            <p>l.</p>
+            <p>TOISINNOT 1—1250.</p>
+            <p>JULKAISSUT</p>
+            <p>VÄINÖ SALMINEN.</p>
+            <p>HELSINKI 1915,</p>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURA JA SUOMALAISEN KIRJALLISUUDEN SEURAN KIRJAPAINON O/Y.</p>
+            <p/>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURA ON TOIMITUSTYÖTÄ VARTEN SAANUT AVUSTUSTA KAUPPANEUVOS OTTO A. MALMIN LAHJOITUSRAHASTOSTA.</p>
+            <p>HELSINKI 1915,</p>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURAN KIRJAPAINON O/Y.</p>
+            <p/>
+            <p>Sisällysluettelo.</p>
+            <table type="contents"> 
+                <row rend="heading"><cell>Alkulause, lyhennysten ja muiden merkkien selitykset</cell><cell/></row>
+                <row rend="heading"><cell>Julkaistut kokoelmat:</cell><cell/></row>
+                <row rend="heading"><cell>Sivut</cell><cell/></row>
+                <row><cell>D. E. D. Europæus n:t 1—82</cell><cell>1—40</cell></row>
+                <row><cell>J. Länkelä n:t 83—452</cell><cell>41—247</cell></row>
+                <row><cell>O. Groundstroem n:t 453—583</cell><cell>248—310</cell></row>
+                <row><cell>A. A. Borenius (Lähteenkorva) n:t 584—606</cell><cell>311—323</cell></row>
+                <row><cell>V. Porkka n:t 607—1250</cell><cell>324—666</cell></row>
+                <row rend="heading"><cell>Jäljennöksiä runonkerääjien käsialoista:</cell><cell/></row>
+                <row><cell>D. E. D. Europæus</cell><cell>667—668</cell></row>
+                <row><cell>J. Länkelä</cell><cell>669</cell></row>
+                <row><cell>O. Groundstroem</cell><cell>670</cell></row>
+            </table>
+            <p>Inkerin vanhojen runojen julkaisussa, josta käsillä oleva muodostaa ensimäisen niteen, on noudatettu seuraavia periaatteita:</p>
+            <p>Inkerin runot on jaettu kolmeen alueeseen: Länsi-Inkeriin, Keski-Inkeriin sekä Itä- ja Pohjois-Inkeriin. <hi rend="italics">Länsi-Inkeriin</hi> on luettu: Narvusi Narvan joesta aina Kurkolan niemekettä myöten, Joenperän tienoo, Kattilan ja Soikkolan alueet Kaprioon asti, Lavansaari ja Seitskari.</p>
+            <p>Runot on julkaistu kokoelmittain, kerääjäin nimillä varustettuina vanhimmista kokoelmista alkaen uudempiin, aikajärjestyksessä. Kunkin kerääjän runot seuraavat siinä järjestyksessä kuin ne ovat alkuperäisessä käsikirjoituksessa.  Runon otsikossa on ensin lihavalla painettu järjestysnumero, seuraa sitten muistiinpanopaikka. Ellei sitä ole mainittu käsikirjoituksessa, on julkaisija sen liittänyt sulkuhakasiin, mikäli on joltisellakin varmuudella siitä voinut saada selkoa. Otsikossa oikeassa kulmassa oleva kursiivilla painettu numero tarkoittaa sitä järjestysnumeroa, mikä runolla on itse käsikirjoituksessa ja jota tähänastisissa tutkimuksissa on käytetty. Väliltä on jätetty pois loitsurunot, jotka julkaistaan aineenmukaisesti järjestettyinä. Uudenaikaisia lauluja sekä sellaisia runoja, jotka voidaan todeta kirjoista opituiksi, ei tähän myöskään ole otettu.</p>
+            <p>Tarkoituksena on saada tässä teoksessa tutkijalle mahdollisimman tarkka kuva alkuperäisestä käsikirjoituksesta. Senpä vuoksi on alamuistutuksissa mainittu ne muistiinpanijan alkuperäiseen kokoelmaan tekemät korjauksetkin, jotka ovat aiheutuneet joistakin muista syistä kuin kynän sattumalta tekemästä oikusta. Jos runonkerääjältä kiireessä joskus on sattunut ä:n pilkku unohtumaan tahi t:n viiva tullut sohaistuksi liian pitkälle, joten esim. lt:stä on sukeutunut tt, ei tällaisista ilmeisistä kynän oikuista ole alimuistutuksissa huomautettu, sillä käsialojen tutkijan on kuitenkin turvauduttava alkuperäisiin käsikirjoituksiin.</p>
+            <p>Runonkerääjä on kiireissään tehnyt muistiinpanonsa lyhennellen. Monin paikoin on sanoista vain alkukirjaimet. Julkaisu näyttäisi pelkältä kirjainluettelolta, ellei julkaisija olisi täydentänyt lyhennettyjä sanoja. Täydennykset on tällöin tehty muiden toisintojen nojalla.</p>
+            <p>Säkeiden numerot ovat toimittajan lisäyksiä, samaten välimerkit ja runojen kappaleihin jako. Useissa käsikirjoituksissa ei ole ollenkaan välimerkkejä, vielä vähemmän kappalejakoa, toisissa, esim. Porkan kokoelmissa, jotka kerääjä on antanut pikakirjoituksista kirjoittaa puhtaaksi, ovat välimerkit puhtaaksikirjoittajain kylvelemiä. On itsestään selvä, että julkaisijan on täytynyt tasoitella välimerkkejäja jollakin tapaa jakaa runot kappaleihin, miten hänestä ajatus ja laulutapa tuntuvat vaativan, täten painetussa asussa välttääkseen sitä kirjavuutta, joka monen kokoelman välimerkeissä vallitsee ja käytettäissä hidastuttaa runon ymmärtämistä. Toiselta puolen on myönnettävä, että tutkijat voivat käsittää kappalejaon ja välimerkit eri tavoin.</p>
+            <p>Yksityiskohtaisempi selostus käsikirjoituksista sekä kartta liitetään vasta Inkerin runojen viimeiseen nidokseen. Julkaisijan on monista neuvoista ja huomautuksista kiitollisuudella mainittava opettajansa, professorit KAARLE KROHN, E. N. SETÄLÄ ja toht. A. R. NIEMI.</p>
+            <p>Helsingissä joulukuulla 1915.</p>
+            <p>
+                <hi rend="italics">Julkaisija.</hi>
+            </p>
+            <p>
+                <hi rend="i"/>Lyhennyksien ja muiden merkkien selitykset.</p>
+            <p>[ ] = Hakasissa olevat kohdat sekä itse runoissa että alamuistutuksissa ovat toimittajan lisäyksiä.</p>
+            <p>⌜⌝  = Puolihakasia on käytetty osoittamaan, että asianomainen sana, tavu tahi kirjain on siksi epäselvä, ettei julkaisija ole varma, onko se juuri niin luettava.</p>
+            <p>* * = Jos jonkun säkeen kummallakin puolen on tähdet, merkitsee se, että tuo kohta on alkuperäiseen käsikirjoitukseen myöhemmin lisätty, useimmiten rivien väliin.</p>
+            <p>Alamuistutuksissa käytettyjä lyhennyksiä:</p>
+            <p>al. = vastaavan sanan alapuolelle kirjoitettu.</p>
+            <p>kk:ssa = käsikirjoituksessa.</p>
+            <p>r. = reunaan kirjoitettu.</p>
+            <p>yl. = vastaavan sanan yläpuolelle kirjoitettu.</p>
+            <p>| |: = Pystyviivojen välissä oleva kohta on käsikirjoituksesta pyyhitty; seurausmerkkien oikealle puolelle on korjaus kursiivilla merkitty.</p>
+            <p>* * = Jos korjaus on tehty pyyhityn kohdan yläpuolelle, on sen molemmin puolin pantu tähdet.</p>
+        </div></body>
+    </text>
+</TEI>

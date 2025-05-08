@@ -1,0 +1,80 @@
+<?teipublisher template="alkulauseet.html" odd="teipublisher.odd" view="single"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>III2: alkusanat</title>
+                <author>Väinö Salminen ja V. Alava</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                <pubPlace>Helsinki</pubPlace>
+                <date>2024</date>
+                <availability>
+                    <p>Tekijänoikeudet: Suomalaisen Kirjallisuuden Seura</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Suoman kansan vanhat runot III. Länsi-Inkerin runot. 2. Toisinnot 1251−2580.</title>
+                    <author>Väinö Salminen ja V. Alava (julkaisijat)</author>
+                    <pubPlace>Helsinki</pubPlace>
+                    <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                    <date>1916</date>
+                    <series>
+                        <title>Suomalaisen Kirjallisuuden Seuran toimituksia</title>
+                        <biblScope>139, II.</biblScope>
+                    </series>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURAN TOIMITUKSIA.</p>
+            <p>139 OSA.</p>
+            <p>II.</p>
+            <p>SUOMEN KANSAN VANHAT RUNOT III.</p>
+            <p>LÄNSI=INKERIN RUNOT.</p>
+            <p>2.</p>
+            <p>TOISINNOT 1251—2580.</p>
+            <p>JULKAISSEET</p>
+            <p>VÄINÖ SALMINEN JA V. ALAVA.</p>
+            <p>HELSINKI 1916,</p>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURA</p>
+            <p>JA</p>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURAN KIRJAPAINON O/Y.</p>
+            <p/>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURA ON TOIMITUSTYÖTÄ VARTEN SAANUT AVUSTUSTA KAUPPANEUVOS OTTO A. MALMIN LAHJOITUSRAHASTOSTA.</p>
+            <p>HELSINKI 1916,</p>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURAN KIRJAPAINON O/Y.</p>
+            <p/>
+            <p>Sisällysluettelo.</p>
+            <p>Sivut</p>
+            <p>Alkulause ja merkkien käyttämistä koskevia selityksiä</p>
+            <p>Julkaistut kokoelmat:</p>
+            <div>
+                <head>V. Porkka n:t 1251—1778 ………………………..........................………….. 1—342</head>
+                <p>V. Alava, v:n 1891 kokoelma n:t 1779—2009 ………………………......... 343—458</p>
+                <p>„                „   1892        „        „    2010—2352 …………………………...... 458—628</p>
+                <p>„                „   1897        „        „    2353—2555 …………………………...... 629—717</p>
+                <p>„                „   1901        „        „    2556—2580 …………………………...... 717—731</p>
+                <p>Jäljennöksiä runonkerääjien käsialoista:</p>
+                <p>V. Porkka …………………………......................................……………………… 733</p>
+                <p>V. Alava .......... .............................………………………………………………… 734</p>
+                <p/>
+                <p>Tämän niteen toimitustyö on suoritettu siten, että Porkan keräämät toisinnot 1251—1778 on toimittanut <hi rend="i">Väinö Salminen,</hi> ja omat keräämänsä toisinnot 1779—2580 <hi rend="i">V. Alava.</hi>
+                </p>
+                <p>Porkan keräämien runojen julkaisemisessa on noudatettu niitä periaatteita ja käytetty samoja lyhennyksiä ja apumerkkejä, jotka on esitetty niteessä III1.</p>
+                <p>Alavan toimittamassa osassa on selittäviä merkkejä käytetty toisin, siitä syystä että ladottaessa on suurimmaksi osaksi käytetty aikaisemmin tehtyjä puhtaaksikirjoituksia, joissa jo ennestään oli merkitsemistapa erilainen. Tässä osassa julkaisua on sulkumerkkejä käytetty: 1) sanan lopussa silloin, kun loppuäänne on ollut epävarma taikka pituudeltaan epämääräinen; joskus osoittamaan, että vokaali on heikko; 2) sanan keskellä: a) konsonantti-äänteen yhteydessä, kun kahdella konsonanttimerkillä osoitettu äänne on puolipitkä taikka ainakin sen pituus pikakirjoitteessa on ollut merkittynä jonkun verran epävarmasti; b) kun vokaali on epävarma taikka kahdella samanlaisella vokaalimerkillä osoitettu äänne ehkä vain puolipitkä; 3) kun pikakirjoitusmerkki on ollut siksi epäselvä, että sen voi lukea kahdella eri tavalla; esim. (en)ne. Kun kokonainen sana runotekstissä on sulkumerkeissä, on säe, useimmissa tapauksissa, saneltu kahdella eri tavalla. — Hakasia on käytetty alkuperäisestä käsikirjoituksesta (pikakirjoitteesta) pois jääneiden sanojen taikka jonkun välttämättömän täydennyksen osoittamiseksi. Toisinaan on siitä lisäksi erityisessä muistutuksessa huomautettu. — Tähtien väliin merkityt säkeet ovat toisintosäkeitä, tavallisesti jonkun toisen henkilön sanelemia.</p>
+                <p>Painatustyön huojentamiseksi ovat eräät inkerikkojen murteelle ominaiset pitkät vokaali-äänteet sanan ensi tavussa jätetyt jonkun verran epätäsmällisiksi niissäkin tapauksissa, jolloin alkuperäinen käsikirjoitus olisi ollut tarkempi. Kts. muistutusta sivulla 399 [= SKVR III2 1918, alaviite 3]. — Muualla paitsi alimuistutuksissa on, kirjakkeellisista syistä, ŋ-äänne g:n edessä merkitty ñ-merkillä. Merkit ə ja ɐ osoittavat hämärästi kuultuja vokaaleja (välivokaaleja); ė on korkeaääntöinen e.</p>
+                <p>Suorastaan runojen yhteydessä olevat, pienemmällä kirjakelajilla painetut selitykset ovat sanelijain (runonlaulajien) omia sanoja, muutamia sulkumerkeissä kirjakielellä tehtyjä huomautuksia lukuunottamatta. Niissä tapauksissa, jolloin tällaisissa selityksissä esiintyy lainausmerkkeihin pantuja sanoja, ovat ainoastaan nämä lainausmerkeissä esiintyvät kohdat sanelijan omia sanoja, muu osa on muistiinpanijan selostusta runonlaulajan itsensä taikka jonkun muun läsnäolleen henkilön sanoista.</p>
+                <p>Alimuistutuksissa ovat lainausmerkkien väliset sanaselitykset ja muut huomautukset sanelijan taikka jonkun muun läsnäolleen henkilön omia sanoja. Vuoden 1892 keräelmiin on kuitenkin lisätty joku määrä v. 1897 muilta henkilöiltä koottuja tietoja. — Ilman lainausmerkkejä olevat kohdat alimuistutuksissa ovat joko 1) tekstiin kuuluvia toisintosanoja tai -säkeitä — tavallisesti osoitetut lyhennyksellä t., epäselvissä tapauksissa sanalla vai: — taikka 2) julkaisijan huomautuksia ja selityksiä, osa niistäkin runonsanelijain selitysten mukaan.</p>
+                <p>Helsingissä heinäkuussa 1916.</p>
+                <p>
+                    <hi rend="bold italics">Julkaisijat.</hi>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,267 @@
+<?teipublisher template="alkulauseet.html" odd="teipublisher.odd" view="single"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>VII5: alkusanat</title>
+                <author>A. R. Niemen esitöitä käyttäen Kaarle Krohn ja V. Alava</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                <pubPlace>Helsinki</pubPlace>
+                <date>2024</date>
+                <availability>
+                    <p>Tekijänoikeudet: Suomalaisen Kirjallisuuden Seura</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Suoman kansan vanhat runot VII. Raja- ja Pohjois-Karjalan Runot. 5. Loitsuja. 
+                        Toisinnot 3208−5246.</title>
+                    <author>A. R. Niemen esitöitä käyttäen Kaarle Krohn ja V. Alava (toimittaja)</author>
+                    <pubPlace>Helsinki</pubPlace>
+                    <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                    <date>1933</date>
+                    <series>
+                        <title>Suomalaisen Kirjallisuuden Seuran toimituksia</title>
+                        <biblScope>143, V.</biblScope>
+                    </series>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURAN TOIMITUKSIA.</p>
+            <p>
+                <hi rend="b">143 OSA.</hi>
+            </p>
+            <p>
+                <hi rend="b">V.</hi>
+            </p>
+            <p>SUOMEN KANSAN VANHAT RUNOT VII.</p>
+            <p>RAJA- JA POHJOIS-KARJALAN RUNOT.</p>
+            <p>5.</p>
+            <p>
+                <hi rend="b">LOITSUJA.</hi>
+            </p>
+            <p>TOISINNOT 3208—5246.</p>
+            <p>A. R. NIEMEN ESITÖITÄ KÄYTTÄEN JULKAISSEET KAARLE KROHN JA V. ALAVA.</p>
+            <p>HELSINKI 1933, SUOMALAISEN KIRJALLISUUDEN SEURA.</p>
+            <p>HELSINKI 1933, SUOMALAISEN KIRJALLISUUDEN SEURAN KIRJAPAINON OY.</p>
+            <p/>
+            <p>Sisällysluettelo.</p>
+            <table type="contents">
+                <row rend="heading"><cell>
+                    <hi rend="b">V. Metsästys.</hi>
+                </cell><cell/></row>
+                <row><cell>Metsästysonnen saaminen n:ot 3208—3210 </cell><cell>610</cell></row>
+                <row><cell>Varustantuminen kateita vastaan n:ot 3211—3229 </cell><cell>611—620</cell></row>
+                <row><cell>Metsälle lähtiessä n:ot 3230—3328 </cell><cell>620—654</cell></row>
+                <row><cell>Peuranpyynti n:ot 3329—3363 </cell><cell>654—669</cell></row>
+                <row><cell>Karhun kiertäminen n:ot 3364—3365 </cell><cell>670</cell></row>
+                <row><cell>Karhun pyynti n:ot 3366—3379 </cell><cell>670—675</cell></row>
+                <row><cell>Karhun tappo n:ot 3380—3387 </cell><cell>675—676</cell></row>
+                <row><cell>Karhun peijaiset n:ot 3888—3403 </cell><cell>676—682</cell></row>
+                <row><cell>Sutta pyytäessä n:o 3404 </cell><cell>682</cell></row>
+                <row><cell>Ahman pyynti n:o 3405 </cell><cell>683</cell></row>
+                <row><cell>Ketun pyynti n:ot 3406—3416 </cell><cell>683—686</cell></row>
+                <row><cell>Saukon pyynti n:ot 3417—3421 </cell><cell>686—688</cell></row>
+                <row><cell>Kärpän pyynti n:ot 3422—3426 </cell><cell>689—690</cell></row>
+                <row><cell>Oravan pyynti n:ot 3427—3485 </cell><cell>690—710</cell></row>
+                <row><cell>Jäniksen pyynti n:ot 3486—3577 </cell><cell>710—736</cell></row>
+                <row><cell>Linnunpyytäjän sanoja n:ot 3578—3581 </cell><cell>737—738</cell></row>
+                <row><cell>Ansamiehen sanoja n:ot 3582—3605 </cell><cell>738—745</cell></row>
+                <row><cell>Linnunpyytäjän varauksia n:ot 3606—3619 </cell><cell>745—747</cell></row>
+                <row><cell>Metsäkanan pyynti n:ot 3620—3625</cell><cell>747—748</cell></row>
+                <row><cell>Kuvilla pyytäminen n:o 3626 </cell><cell>748</cell></row>
+                <row><cell>Eri ansa metsänhaltialle n:ot 3627—3629 </cell><cell>748—749</cell></row>
+                <row><cell>Linnunpyytäjän uhreja n:ot 3630—3641 </cell><cell>749—752</cell></row>
+                <row><cell>Korppi n:ot 3642—3645 </cell><cell>752—753</cell></row>
+                <row><cell>Linnunvarkaan rankaiseminen n:o 3646 </cell><cell>753</cell></row>
+                <row><cell>Jousi, pyssy n:ot 3647—3655 </cell><cell>753—755</cell></row>
+                <row><cell>Koiran synty n:ot 3656—3662 </cell><cell>755—758</cell></row>
+                <row><cell>Koiran taikominen n:ot 3663—3666 </cell><cell>758</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">VI. Kalastus.</hi>
+                </cell><cell/></row>
+                <row><cell>Kalanpyydyksen valmistaminen n:ot 3667—3669 </cell><cell>759</cell></row>
+                <row><cell>Kalastajan sanoja n:ot 3670—3686 </cell><cell>759—763</cell></row>
+                <row><cell>Ongella ollessa n:ot 3687—3770 </cell><cell>763—777</cell></row>
+                <row><cell>Kalamiehen kateenlukuja n:ot 3771—3774 </cell><cell>777</cell></row>
+                <row><cell>Nuotalla pyytäessä n:ot 3775—3783 </cell><cell>778—779</cell></row>
+                <row><cell>Kalastus-uhreja n:ot 3784—3789 </cell><cell>779—780</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">VII. Karjanhoito.</hi>
+                </cell><cell/></row>
+                <row rend="heading"><cell>Nautakarjanhoito.</cell><cell/></row>
+                <row><cell>Karjan laitumelle laskeminen n:ot 3790—3871 </cell><cell>781—806</cell></row>
+                <row><cell>Karjaonnen hankkiminen n:ot 3872—3879 </cell><cell>806—808</cell></row>
+                <row><cell>Karjaonnen pilaaminen n:ot 3880—3884 </cell><cell>808—809</cell></row>
+                <row><cell>Kateita vastaan n:ot 3885—3907 </cell><cell>809—814</cell></row>
+                <row><cell>Karhun (hukan) nostaminen n:ot 3908—3915 </cell><cell>814—816</cell></row>
+                <row><cell>Karhun (hukan) luomoaminen. Karhun synty n:ot 3916—3957 b</cell><cell>816—831</cell></row>
+                <row><cell>Paimen n:ot 3958 a—3964</cell><cell>831—833</cell></row>
+                <row><cell>Metsänpeitto n:ot 3965—3979 </cell><cell>833—836</cell></row>
+                <row><cell>Hullaantuneiden elukkain parantaminen n:o 3980 </cell><cell>836</cell></row>
+                <row><cell>Lehmät kotiin metsästä n:ot 3981—4004 </cell><cell>836—840</cell></row>
+                <row><cell>Eukan tuominen uuteen kotiinsa n:ot 4005—4067 </cell><cell>840—853</cell></row>
+                <row><cell>Uuden navetan vihkiminen n:o 4068 </cell><cell>853</cell></row>
+                <row><cell>Syksyllä navettaan ottaminen. Mikkeli n:ot 4069—4082</cell><cell>853—856</cell></row>
+                <row><cell>Karjan suolojen loihtiminen n:ot 4083—4086 </cell><cell>856—858</cell></row>
+                <row><cell>Maito-onnen pyytäminen n:ot 4087—4114 </cell><cell>858—866</cell></row>
+                <row><cell>Jotkon poistaminen maidosta n:ot 4115—4116 </cell><cell>866</cell></row>
+                <row><cell>Voionnen hankkiminen n:ot 4117—4130 </cell><cell>866—868</cell></row>
+                <row><cell>Para n:ot 4131—4150 </cell><cell>869—871</cell></row>
+                <row rend="heading"><cell>Karjan vammat ja taudit:</cell><cell/></row>
+                <row><cell>Läävämato n:ot 4151—4213 </cell><cell>872—893</cell></row>
+                <row><cell>Ammuksen luku n:ot 4214—4224 </cell><cell>893—897</cell></row>
+                <row><cell>Erilaisia vammoja parantaessa n:ot 4225—4240</cell><cell>897—901</cell></row>
+                <row><cell>Astutus n:ot 4241—4243 </cell><cell>901</cell></row>
+                <row><cell>Poikiminen n:ot 4244—4258 </cell><cell>901—904</cell></row>
+                <row><cell>Vasikka n:ot 4259—4278 </cell><cell>904—907</cell></row>
+                <row rend="heading"><cell>Juhliin liittyviä karjaloitsuja:</cell><cell/></row>
+                <row><cell>Joulu n:ot 4279—4299 </cell><cell>907—910</cell></row>
+                <row><cell>Laskiainen n:ot 4300—4302 </cell><cell>910</cell></row>
+                <row><cell>Kiirastorstai n:ot 4303—4314 </cell><cell>910—912</cell></row>
+                <row><cell>Pääsiäinen n:ot 4315—4316 </cell><cell>912</cell></row>
+                <row><cell>Juhannus n:o 4317 </cell><cell>912</cell></row>
+                <row><cell>Petro n:o 4318 </cell><cell>912</cell></row>
+                <row><cell>Katri n:ot 4319—4320 </cell><cell>912—913</cell></row>
+                <row><cell>Kekri n:ot 4321—4324 </cell><cell>913—914</cell></row>
+                <row><cell>Toivotuksia n:ot 4325—4327 </cell><cell>914</cell></row>
+                <row><cell>Elukoita teurastaessa n:o 4328 </cell><cell>914—915</cell></row>
+                <row rend="heading"><cell>Hevonen.</cell><cell/></row>
+                <row><cell>Hevosen hoitoa n:ot 4329—4341 </cell><cell>915—917</cell></row>
+                <row><cell>Hevonen suostutetaan uuteen kotiinsa n:ot 4342—4357</cell><cell>918—921</cell></row>
+                <row><cell>Hevonen pilataan n:o 4358 </cell><cell>921—922</cell></row>
+                <row><cell>Hevosen purressa n:o 4359 </cell><cell>922</cell></row>
+                <row><cell>Niukahduksen parantaminen hevosesta n:o 4360 </cell><cell>922</cell></row>
+                <row><cell>Ammuksen parantaminen hevosesta n:ot 4361—4363 </cell><cell>922—923</cell></row>
+                <row><cell>Tallitoukka n:ot 4364—4374 </cell><cell>923—926</cell></row>
+                <row><cell>Kuoharin sanoja n:ot 4375—4400 </cell><cell>926—936</cell></row>
+                <row rend="heading"><cell>Lammas.</cell><cell/></row>
+                <row><cell>Lampaiden laitumelle laskeminen n:ot 4401—4406 </cell><cell>936—938</cell></row>
+                <row><cell>Lampaan hoito ja kuljetus n:ot 4407—4415 </cell><cell>938—939</cell></row>
+                <row><cell>Vuoniminen, vuona n:ot 4416—4420 </cell><cell>939—940</cell></row>
+                <row rend="heading"><cell>Muut kotieläimet.</cell><cell/></row>
+                <row><cell>Pukki n:o 4421</cell><cell>940</cell></row>
+                <row><cell>Sika n:ot 4422—4428 </cell><cell>940—941</cell></row>
+                <row><cell>Kana n:ot 4429—4432 </cell><cell>941—942</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">VIII. Maanviljelys.</hi>
+                </cell><cell/></row>
+                <row><cell>Kaski n:ot 4433—4445 </cell><cell>943—945</cell></row>
+                <row><cell>Kyntö ja kylvö. Varauksia n:ot 4446—4469 </cell><cell>945—949</cell></row>
+                <row><cell>Huuhdan varjelus n:ot 4470—4471 </cell><cell>949</cell></row>
+                <row><cell>Pellon pilaus ja parantaminen n:ot 4472—4477</cell><cell>949—950</cell></row>
+                <row><cell>Ruosteen poistaminen viljasta n:ot 4478—4490 </cell><cell>951—953</cell></row>
+                <row><cell>Viljan tuholaisia vastaan n:ot 4491—4504 </cell><cell>953—957</cell></row>
+                <row><cell>Ohdakkeiden poistaminen pellosta n:ot 4505—4508</cell><cell>957—958</cell></row>
+                <row><cell>Nauris n:ot 4509—4517 </cell><cell>958—960</cell></row>
+                <row><cell>Pellava, (laskiainen) n:ot 4518—4521 </cell><cell>960—961</cell></row>
+                <row><cell>Viljan leikkuu. Sirpin kampiaiset n:ot 4522—4528 </cell><cell>961—962</cell></row>
+                <row><cell>Auman (kuopan) suojeleminen hiiriltä n:ot 4529—4548 </cell><cell>962—965</cell></row>
+                <row><cell>Heinänteossa n:ot 4549—4550 </cell><cell>965</cell></row>
+                <row><cell>Pilven lukuja n:ot 4551—4554 </cell><cell>966</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">IX. Lemmennosto. Kosinta. Häät. Perhe-elämä.</hi>
+                </cell><cell/></row>
+                <row><cell>Kuku, kuku, kulta käki n:ot 4555—4574 </cell><cell>967—970</cell></row>
+                <row><cell>Leppäkertulta tiedustelu n:ot 4575—4579 </cell><cell>970</cell></row>
+                <row><cell>Puolison tiedustelu juhlaöinä n:ot 4580—4583 </cell><cell>971</cell></row>
+                <row><cell>Lemmen kirpoimiksi n:ot 4584—4599 </cell><cell>971—974</cell></row>
+                <row><cell>Neidon virsi n:ot 4600—4606 </cell><cell>974—975</cell></row>
+                <row><cell>Lemmen nosto n:ot 4607—4797 </cell><cell>975—1042</cell></row>
+                <row><cell>Miehen luku n:ot 4798—4804 </cell><cell>1042—1044</cell></row>
+                <row><cell>Lemmen kylmentäminen n:ot 4805—4825 </cell><cell>1044—1048</cell></row>
+                <row><cell>Koiran lumoaminen. (Yöjalassa) n:ot 4826—4846 </cell><cell>1048—1052</cell></row>
+                <row><cell>Susi syö koiran n:ot 4847—4849 </cell><cell>1052</cell></row>
+                <row><cell>Naitinvirsi n:ot 4849—4909 </cell><cell>1052—1089</cell></row>
+                <row><cell>Varauksia ja naimataikoja n:ot 4910—4940 </cell><cell>1089—1096</cell></row>
+                <row rend="heading"><cell>Lapsi:</cell><cell/></row>
+                <row><cell>Kylvetys ja varaukset n:ot 4941—4973 </cell><cell>1096—1104</cell></row>
+                <row><cell>Äidin ehtyminen n:o 4974 </cell><cell>1104</cell></row>
+                <row><cell>Vaihdettu lapsi takaisin n:o 4975 </cell><cell>1105</cell></row>
+                <row><cell>Kun hammas lähtee n:ot 4976—4986 </cell><cell>1105—1106</cell></row>
+                <row><cell>Lapsionni pilataan n:o 4987 </cell><cell>1106</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="b">X. Erilaisissa tiloissa.</hi>
+                </cell><cell/></row>
+                <row><cell>Työtä alkaessa n:o 4988 </cell><cell>1107</cell></row>
+                <row><cell>Terä-asetta käsiteltäessä n:ot 4989—4990 </cell><cell>1107</cell></row>
+                <row><cell>Tervaa polttaessa n:ot 4991—4995 </cell><cell>1107</cell></row>
+                <row><cell>Hiilenpolttajan sanoja n:o 4996 </cell><cell>1107—1108</cell></row>
+                <row><cell>Venettä tehtäessä n:o 4497 </cell><cell>1108</cell></row>
+                <row><cell>Taloa rakentaissa n:ot 4998—4999 </cell><cell>1108—1109</cell></row>
+                <row><cell>Huone lämpimäksi n:ot 5000—5001 </cell><cell>1109</cell></row>
+                <row><cell>Syöpäläiset torjutaan taloa rakentaessa n:ot 5002—5008 </cell><cell>1109—1110</cell></row>
+                <row><cell>Lutikat karkoitetaan n:ot 5009—5033 </cell><cell>1110—1114</cell></row>
+                <row><cell>Ajoluteet käännytetään takaisin n:ot 5034—5035 </cell><cell>1114</cell></row>
+                <row><cell>Kärpäsiä ja itikoita torjutaan n:ot 5036—5037 </cell><cell>1114</cell></row>
+                <row><cell>Uuteen taloon tullessa n:ot 5038—5047 </cell><cell>1115—1116</cell></row>
+                <row><cell>Palveluspaikkaa hakiessa n:o 5048</cell><cell>1116—1117</cell></row>
+                <row><cell>Koti-ikävän estäminen n:ot 5049—5053 </cell><cell>1117</cell></row>
+                <row><cell>Maan tervehtiminen n:ot 5054—5056 </cell><cell>1117—1118</cell></row>
+                <row><cell>Pahan karkoitus kartanosta n:ot 5057—5062 </cell><cell>1118—1120</cell></row>
+                <row><cell>Makaamaan ruvetessa n:ot 5063—5081 </cell><cell>1120—1123</cell></row>
+                <row><cell>Metsämajaan yöpyessä n:ot 5082—5086 </cell><cell>1123—1124</cell></row>
+                <row><cell>Sauna n:ot 5087—5088 </cell><cell>1124</cell></row>
+                <row><cell>Kuuman kiven laskeminen sauna-astiaan n:ot 5089—5090</cell><cell>1125</cell></row>
+                <row><cell>Kekri ja kotihaltia n:ot 5091—5092 </cell><cell>1125</cell></row>
+                <row><cell>Pajan vihkiminen n:ot 5093—5095 </cell><cell>1125—1126</cell></row>
+                <row><cell>Rikkaaksi tuleminen n:ot 5096—5097 </cell><cell>1126</cell></row>
+                <row><cell>Lukon aukaiseminen n:ot 5098—5100 </cell><cell>1126—1127</cell></row>
+                <row><cell>Sananjalan kukan pyytäminen (juhannusyönä) n:o 5101 </cell><cell>1127</cell></row>
+                <row><cell>Varastetun tavaran palauttaminen n:ot 5102—5108 </cell><cell>1127—1129</cell></row>
+                <row><cell>Varkaalle intoa nostetaan n:ot 5109—5112 </cell><cell>1129—1130</cell></row>
+                <row><cell>Tulta lainatessa n:o 5113 </cell><cell>1130</cell></row>
+                <row><cell>Tulipalo n:ot 5114—5116 </cell><cell>1130—1131</cell></row>
+                <row><cell>Suolan synty n:o 5117 </cell><cell>1131</cell></row>
+                <row><cell>Taikinan kohotus n:ot 5118—5128 </cell><cell>1131—1133</cell></row>
+                <row><cell>Oluen paneminen n:ot 5129—5131 </cell><cell>1133</cell></row>
+                <row><cell>Hyvänsuovan toivotus n:ot 5132—5133 </cell><cell>1133</cell></row>
+                <row><cell>Viinankeitto n:ot 5134—5136 </cell><cell>1133—1134</cell></row>
+                <row><cell>Juomariksi saattaminen n:ot 5137—5138 </cell><cell>1134</cell></row>
+                <row><cell>Kankaan kutominen n:ot 5139—5140 </cell><cell>1134</cell></row>
+                <row><cell>Lipeätä keittäessä n:o 5141 </cell><cell>1134</cell></row>
+                <row><cell>Olkipillin valmistaminen n:o 5142 </cell><cell>1134—1135</cell></row>
+                <row><cell>Kissa n:ot 5143—5145 </cell><cell>1135</cell></row>
+                <row><cell>Leppäkertulle luetaan n:ot 5146—5147 </cell><cell>1135</cell></row>
+                <row><cell>Etanalle, ilmaa ennustettaessa n:ot 5148—5152 </cell><cell>1135—1136</cell></row>
+                <row><cell>Virpominen n:ot 5153—5172 </cell><cell>1136—1141</cell></row>
+                <row><cell>Kakkaran maanitus n:ot 5173—5174 </cell><cell>1141</cell></row>
+                <row><cell>Kipper, kapper, marjoja täyteen n:ot 5175—5177 </cell><cell>1141—1142</cell></row>
+                <row><cell>Silmiä pestessä aamulla n:o 5178 </cell><cell>1142</cell></row>
+                <row><cell>Uimaan mennessä n:ot 5179—5184 </cell><cell>1142—1143</cell></row>
+                <row><cell>Uusiin vaatteisiin pukeutuminen n:o 5185 </cell><cell>1143</cell></row>
+                <row><cell>Ruokahalu paranee n:o 5186 </cell><cell>1143</cell></row>
+                <row><cell>Haukotukselle n:o 5187 </cell><cell>1143</cell></row>
+                <row><cell>Jos tahtoo unia nähdä n:o 5188 </cell><cell>1143—1144</cell></row>
+                <row><cell>Jos ei ole rohkea n:o 5189 </cell><cell>1144</cell></row>
+                <row><cell>Ihmiset saadaan tappelemaan n:ot 5190—5191 </cell><cell>1144</cell></row>
+                <row><cell>Kirot takaisin n:ot 5192—5193 </cell><cell>1144—1145</cell></row>
+                <row><cell>Kosken tervehtiminen n:o 5194 </cell><cell>1145</cell></row>
+                <row><cell>Vettä ensikertaa uudesta kaivosta n:ot 5195—5196 </cell><cell>1145</cell></row>
+                <row><cell>Kuun tervehtiminen n:ot 5197—5198 </cell><cell>1145</cell></row>
+                <row><cell>Kirkon tervehtiminen n:ot 5199—5200 </cell><cell>1145—1146</cell></row>
+                <row><cell>Vainajat, kalma n:ot 5201—5213 </cell><cell>1146—1148</cell></row>
+                <row><cell>Uutisleipää vainajille n:o 5214 </cell><cell>1148</cell></row>
+                <row><cell>Vieraan tulon ennustaminen. (Kissa) n:ot 5215—5216 </cell><cell>1148</cell></row>
+                <row><cell>Matkalle lähtiessä n:o 5217 </cell><cell>1148</cell></row>
+                <row><cell>Maantiellä kulkeminen n:o 5218 </cell><cell>1148</cell></row>
+                <row><cell>Reki ei kule n:o 5219 </cell><cell>1149</cell></row>
+                <row><cell>Tuulen taivuttaminen n:ot 5220—5221 </cell><cell>1149</cell></row>
+                <row><cell>Tuiskusäällä n:o 5222 </cell><cell>1149</cell></row>
+                <row><cell>Kinkerissä n:o 5223 </cell><cell>1149</cell></row>
+                <row><cell>[Tilaisuus tuntematon] n:o 5224 </cell><cell>1150</cell></row>
+                <row><cell>Käräjissä n:ot 5225—5240 </cell><cell>1150—1152</cell></row>
+                <row><cell>Sotalukuja n:ot 5241—5246 </cell><cell>1153—1154</cell></row>
+            </table>
+            <p>Oikaistavaa:</p>
+            <p>Siv.761 otsake Kalastajan sanoja siirrettävä n:on 3670 eteen.</p>
+            <p>„807 otsikko (ylh.) tulee olla: Karjaonnen hankkiminen.</p>
+            <p>„907 otsakkeen Joulu yläpuolella tulee olla yleisotsake: Juhliin liittyviä karjaloitsuja.</p>
+        </div></body>
+    </text>
+</TEI>

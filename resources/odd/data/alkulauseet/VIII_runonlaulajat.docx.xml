@@ -1,0 +1,708 @@
+<?teipublisher template="alkulauseet.html" odd="teipublisher.odd" view="single"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>VIII: Varsinais-Suomen loitsujen ja runojen kertojain luettelo</title>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                <pubPlace>Helsinki</pubPlace>
+                <date>2024</date>
+                <availability>
+                    <p>Tekijänoikeudet: Suomalaisen Kirjallisuuden Seura</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Suomen kansan vanhat runot VIII. Varsinais-Suomen runot.</title>
+                    <author>Y. H. Toivonen (toimittaja)</author>
+                    <pubPlace>Helsinki</pubPlace>
+                    <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                    <date>1932</date>
+                    <series>
+                        <title>Suomalaisen Kirjallisuuden Seuran toimituksia</title>
+                        <biblScope>145</biblScope>
+                    </series>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div>
+            <p>VARSINAIS-SUOMEN LOITSUJEN JA RUNOJEN KERTOJAIN LUETTELO</p>
+            <p>Tähän luetteloon on varsinaisten kertojain lisäksi otettu myöskin sellaiset henkilöt, etupäässa koulujen oppilaat, jotka ovat keränneet osan jostakin isommasta kokoelmasta, esim. Moision kansakoulun, Toijalan kansakoulun, S. Pennasen y.m. kokoelmista. — Luettelossa käytetyt lyhennykset lienevät ilman muuta ymmärrettävät. Esim. „70-v. 1913“ merkitsee, että asianomainen henkilö oli 70vuotias vuonna 1913. Numeroilla osoitetaan ne kunkin kertomat, (joskus keräämät) loitsut ja runot, jotka on julkaistu tässä osassa. Kaikki henkilötiedot on yleensä saatu asianomaisiin kokoelmiin sisältyvistä kerääjäin muistiinpanoista, eikä julkaisija ole voinut ruveta näitä tarkistamaan ja täydentämään, vaikka ne toisinaan ovatkin olleet melko niukat ja epävarmat.</p>
+            <p>Aalrooht, K. Yli 70-v. 1913. Uskela, synt. Halikossa. Kertonut 1913 Väinö Alholle (Moision kansak.). 2108.</p>
+            <p>Aalto, Maria. Halikko, jossa synt. 1875. Kertonut 1919 E. Vihervaaralle. 1030, 1046, 1391, 1604, 1942, 2328, 2730, 3205, 3424, 3490, 3749, 4304, 4447, 4538, 4630.</p>
+            <p>Aaltonen, Amanda. N. 50-v. 1913. Piikkiö, Harvaluoto. Kertonut 1913 Kalle Häyriselle. 3669.</p>
+            <p>Aaltonen, Frans. Halikon Toijalan kansakoulun oppilas. Kerännyt Salosta 1913 (Toijalan kansakoulu) 4646, 4710, 4733, 4753, 4770, 4801, 4834, 4916, 4939, 4949, 4971, 4980, 4981, 5032, 5112, 5144.</p>
+            <p>Aaltonen, Olga. 47-v. 1913. Pöytyä. Kuullut Karinaisissa. Kertonut 1913 E. Vihervaaralle. 3545.</p>
+            <p>Aaltonen, Uuno, ylioppilas (1914). Pertteli, Hiiden kylä. Kertonut 1914 Niilo Kalliolle. 534, 664.</p>
+            <p>Aarnio, Herman. Maaria. Kertonut 1913 Vilho Marjaselle. 360.</p>
+            <p>Adamsson, Maria. 36-v. 1909. Pöytyä, Himainen. Kuullut lapsena äidiltään Pöytyän Karhunojan kylässä. Kertonut 1909 E. Vihervaaralle. 3940.</p>
+            <p>Ahlfors, Johanna. 60-v. 1914. Paattinen. Kertonut 1914 V. Saariluomalle. 862, 1316, 1358, 1649, 2043, 2155, 4041.</p>
+            <p>Ahlgren, Kustaa. Ks. Numminen Miina. 28.</p>
+            <p>Aho, Lauri. Uskela, Moision kansakoulun oppilas. Kerännyt Uskelasta 1913 (Moision kansak.). 2291, 2487, 2708, 2709, 2924, 3022, 3363, 3817, 4005, 4067, 4107, 4153, 4210.</p>
+            <p>Aho, Saara. Uskela, Moision kansakoulun oppilas. Kerännyt Uskelasta 1913 (Moision kansak.). 1019, 1436, 1553, 1739, 2292, 4108.</p>
+            <p>Ahola, Evastiina. Renko, kuullut Turussa. Kertonut v. 1892 A. Lindqvistille. 312.</p>
+            <p>Ahti, Edla. 55-v. 1913. Uskela. Kertonut 1913 Viivi Ahdille (Moision kansak.). 1045, 1147, 1554, 1833, 2293, 2294, 2488, 2637,</p>
+            <p>2807, 3187, 3271, 3314, 3418, 3468, 3637, 3818, 3983, 4109, 4324.</p>
+            <p>Ahti, F. 53-v. 1913. Uskela. Kertonut 1913 Viivi Ahdille (Moision kansak.). 1555.</p>
+            <p>Ahti, V. 17-v. 1913. Uskela. Kertonut 1913 Viivi Ahdille (Moision kansak.). 3364.</p>
+            <p>Ahti, Viivi. Uskela, Moision kansakoulun oppilas. Kerännyt Uskelasta 1913 (Moision kansak.). 1045, 1147, 1554, 1555, 1833, 2293, 2294, 2488, 2637, 2807, 3187, 3271, 3314, 3418, 3468, 3753, 3818, 3983, 4109, 4324, 4447.</p>
+            <p>Airike, Juha (Juho). 48-v. 1913. Muurla, synt. Perniössä, muuttanut myöhemmin Muurlaan. Kertonut 1913 V. Saariluomalle. 400, 546, 1299, 2821, 3175, 4091.</p>
+            <p>Aitamurto, Elin. Muurla. Kertonut 1912 V. Saariluomalle. 1595.</p>
+            <p>Aitamurto, J. A. 50-v. 1912. Muurla. Kertonut V. Saariluomalle. 1597.</p>
+            <p>Alanen, Hilma, kansakoulunoppilas. Kuusjoki. Kerännyt 1913 Kuusjoen Raatalasta (Pennanen S.). 3426, 4379.</p>
+            <p>Ale, Kustaava. Synt. 12. XI. 1848. Uusikirkko. Kertonut 1917 Jalo J. Nummiselle. 4462, 4466.</p>
+            <p>Alén, Johan. 70-v. 1913. Rymättylä. Kertonut 1913 Emil Ketolaiselle. 832.</p>
+            <p>Alhais, Miina. N. 64-v. 1892. Marttila. Kuullut lapsena äitivainajaltaan samassa pitäjässä. Kertonut 1892 A. Hildénille. 340, 351.</p>
+            <p>Alho, Edla. Yli 40-v. 1913. Uskela. Synt. Somerolla. Kertonut Väinö Alholle (Moision kansak.). 1556, 3469.</p>
+            <p>Alho, K. N. 30-v. 1913. Uskela. Kertonut Väinö Alholle (Moision kansak.). 1284, 3023, 3068, 3188, 3273, 3315.</p>
+            <p>Alho, Väinö. Uskela, Moision kansakoulun oppilas. Kerännyt Uskelasta 1913 (Moision kansak.). 746, 844, 1148, 1284, 1556, 2108, 2109, 2295, 2622, 2638, 3023, 3068, 3188, 3273, 3315, 3469, 4154.</p>
+            <p>Alho, Yrjö. 15-v. 1913. Uskela. Kertonut Väinö Alholle (Moision kansak.). 4154.</p>
+            <p>Alhonen, Sandra. Rusko. Kertonut 1914 V. Saariluomalle. 604, 864, 937, 938, 1336, 1683.</p>
+            <p>Alinikula, Olli. 15-v. 1914. Lieto. Kertonut V. Saariluomalle. 1472.</p>
+            <p>Alitalo, Aina. 15-v. 1909. Paattinen. Kertonut E. A. Saarimaalle. 1314, 4433.</p>
+            <p>Amberla, Elvira. Uudenkaupungin yhteislyseon oppilas. Kerännyt Vehmaalta 1924—1925 (Winterin kok.). 4794, 5062, 5082.</p>
+            <p>Andersson, Antti. 60-v. 1913. Maaria. Puuseppä. Kertonut 1913 Laina Hänniselle. 4448, 4540.</p>
+            <p>Anna-Greetta. 75-v. 1904. Turku, kotoisin Halikosta. Kertonut 1904 K. Merikalliolle. 402, 444, 3739.</p>
+            <p>Antintytär, Johanna („Iso Hanna“, „Hanna“). 79-v. 1913. Maaria, synt. Ruskolla. Kertonut 1913, 1914 J. M. Tallgrenine. 1074, 2363, 3675.</p>
+            <p>Anttila, Katriina. Vahto. Kertonut 1914 V. Saariluomalle. 3343.</p>
+            <p>Anttila, Kristiina. Vahto. Kertonut 1914 V. Saariluomalle. 982, 3580.</p>
+            <p>Anttila, Tiina. N. 75-v. 1892. Marttilan pitäjän Euran kappelista, kuullut lapsena samassa kappelissa (nyk. Tarvasjoki). Kertonut 1892 A. Hildénille. 1053.</p>
+            <p>Arpalahti, Martti. Suomusjärven Arpalahden kylä. Kertonut 1913 Lauri Kivisaarelle. 2249.</p>
+            <p>Arvelmo, Eino. 35-v. 1913. Naantali, Luonnonmaa. Kertonut 1913 Saima Kärnälle. 80, 437, 441, 678, 703, 835, 836, 2565, 2754, 3552, 3735, 3767, 3946, 4399, 4425.</p>
+            <p>Arvelmo, emäntä. 85-v. 1913. Naantali, Luonnonmaa. Kertonut 1913 Saima Kärnälle. 503, 1679, 3231, 4425.</p>
+            <p>Arvelmo, Helmi. N. 30-v. 1914. Naantali, Luonnonmaa. Kertonut 1914 Saima Kärnälle. 1331,1680, 3874, 4178, 4246.</p>
+            <p>Aula, Kaarlo. Kerännyt Salosta 1914 (Niilo Kallion kok. 1143 —1146, 1155). 1840, 2320, 3847, 4168, 4368.</p>
+            <p>Bang, Maria. 69-v. 1914. Uskela, Karjaskyla, synt. Kiikalassa. Kertonut 1914 V. Myrskylle. 1445, 1588, 1763, 2720, 4326, 4346.</p>
+            <p>Bergson, Vilhelmiina. 86-v. 1929. Pyhäranta, Kukola. Ent. palvelijatar. Kertonut 1928 Lauri Koskiselle. 4438 a.</p>
+            <p>Bernel, Hinrikka. 79-v. 1914. Perniö. Kertonut 1914 V. Myrskylle. 50, 160, 181, 215.</p>
+            <p>Blomberg, Kustaa. N. 50-v. 1913. Piikkiö, Harvaluoto. Oppinut Perniössä. Kertonut 1913 Kalle Häyriselle. 96, 243, 1511.</p>
+            <p>Blomqvist, Elin. Halikon Toijalan kansakoulun oppilas. Kerännyt Salosta 1913 (Toijalan kansakoulu). 4615, 4661, 4675, 4711, 4771, 4835, 4859, 4876, 4950, 4982, 4998, 5017, 5033, 5036, 5071, 5100, 5148.</p>
+            <p>Blomroos, torppari ja kalastaja. Synt. 1840. Kustavi, kirkonkylä. Kertonut 1914 Niilo Kalliolle. 203, 298.</p>
+            <p>Broman („Pruman“), P. (T?). 28-v. 1888. Marttila. Kertonut 1888 M. Nurmiolle. 368.</p>
+            <p>Byöli, Juho. Sauvo. Kertonut 1913 N. V. Mannerhoville. 625.</p>
+            <p>Bärnstedt, Maija. 80-v. 1909. Pöytyä, Mustanoja. Oppinut tyttöna kotipit. Pöytyällä. Kertonut 1909 E. Vihervaaralle. 1035, 1082, 1199, 2166, 2541, 3432.</p>
+            <p>Calonius, Eeva-Liisa. Uudenkaupungin yhteislyseon oppilas. Kerännyt Uudestakaupungista 1924 —1925 (Winterin kok.). 4866, 5052, 5086.</p>
+            <p>Dahl, Eedla. Perniö, Kumjonpää. Kertonut 1914 V. Myrskylle. 2678.</p>
+            <p>Dahl, Ulrika. 74-v. 1914. Perniö, Tuohitto. Synt. Kiikalassa. Kertonut 1914 V. Myrskylle. 1119, 1411, 1992, 2675.</p>
+            <p>Dahlin, Elin. Salo. Kertonut 1914 Niilo Kalliolle. 758, 816, 2321, 2507, 2721, 3846, 3969, 4121.</p>
+            <p>Digert, M., Yläne. Kertonut 1913 Varma Rantasalolle. 1490, 1668, 3870, 2602, 2603, 2893, 3157.</p>
+            <p>Efraiminpoika, Heikki. 72-v. 1913. Pöytyä, Auvainen. Kertonut 1913 E. Vihervaaralle. 2388, 3097.</p>
+            <p>Efraiminpoika, Robert. 80-v. 1913. Merimasku. Kertonut 1913 Saima Kärnälle. 39, 79, 108, 127, 145, 206, 221, 248, 252, 315, 396, 431, 448, 503, 536, 603, 678, 702, 711, 780, 781, 834, 896, 1003, 2198, 2414, 2563, 2754, 2755, 3591, 3944.</p>
+            <p>Elonen, Hannes. Rymättylä. Kertonut 1913 Alli Koisaarelle. 3551.</p>
+            <p>Eloranta, Eljas. Suomusjärvi, Kettula. Synt. Suomusjärvellä. Kertonut 1913 V. Saariluomalle. 2252, 3120, 3806.</p>
+            <p>Epun Maija. Marttila. Kertonut 1885(?) A. Lindqvistille. 458.</p>
+            <p>Erikssonska. N. 80-v. 1913. Kaarina. Synt. Urjalassa, asunut Lemussa, mutta 40 viimeistä vuottaan Kaarinassa, omassa torpassaan n. 25 vuotta. Viela (1913) hyvissä voimissa, vaikkakin hieman kuuro. Kertonut 1913 E. I. Kalliolle. 773, 965, 1022, 1306, 1468, 1634, 1952, 2147, 2353, 3149, 3211, 3495, 3672, 3930.</p>
+            <p>Erkkilä, Jenny. Halikon Toijalan kansakoulun oppilas. Kerännyt Halikosta 1913 (Toijalan kansakoulu). 4620, 4654, 4663, 4679, 4712, 4730, 4736, 4776, 4781, 4804, 4825, 4827, 4838, 4845, 4857, 4861, 4881, 4909, 4918, 4941, 4953, 4986, 5001, 5021, 5040, 5075, 5104, 5116, 5149.</p>
+            <p>Ertman, Maj-Lis. Uudenkaupungin yhteislyseon oppilas. Kerännyt Uudestakaupungista 1924—1925 (Winterin kok.). 4964, 5055, 5093.</p>
+            <p>Eräs pöytyäläinen nainen. 40-v. 1909. Kuullut pikkutyttönä äidiltään, joka on n. 73-v. Kertonut 1909 E. Vihervaaralle. 2614.</p>
+            <p>Eräs 50-vuotias vaimo. Marttila. Kertonut 1893 J. S. Liipolalle. 1013.</p>
+            <p>Eskola. Isäntä. Maaria, Paimala. Kertonut 1913 Laina Hänniselle. 4440.</p>
+            <p>Eskola, Uuno. Pertteli, Hiiden kylä, synt. Perttelissä 1883. Kertonut 1914 Niilo Kalliolle. 131.</p>
+            <p>Eskolin, Eeva. Synt. 1851. Kiikala. Kertonut 1914 Niilo Kalliolle. 8, 151, 451, 460, 467, 528, 554, 643, 690, 691, 724, 732, 796, 905.</p>
+            <p>Eskolin, Saima. Uskela. Kertonut 1912 Niilo Kalliolle. 2283, 3270, 3633.</p>
+            <p>Fagerroos, Karoliina. 48-v. 1910. Pöytyä, Pappilan lääni. Kertonut 1910 E. Vihervaaralle. 1660, 2054, 2616, 2869, 3742.</p>
+            <p>Fagerroos, Maria. 45-v. 1912. Pöytyä, Pappilan lääni. Kuullut lapsena runoja äidiltään Maria Karinojalta (73-v. 1909), joka on oppinut niitä syntymäpitäjässään Yläneellä, ja isältään Joeli Karinojalta (68-v. 1909) Pöytyän pappilan läänistä. Kertonut vv. 1909, 1912, 1913 E. Vihervaaralle. 34, 144, 696, 949, 1323, 1488, 1778, 2057, 2186, 3081, 3589, 4542.</p>
+            <p>Fagerroos, Vihtori. 38-v. 1909. Pöytyä, Pappilan lääni. Kertonut 1909 E. Vihervaaralle. 974, 4139.</p>
+            <p>Fagerström, Riikka. 80-v. 1928. Pyhämaa. Kertonut 1928 Iina Seppäselle. 2447, 2852.</p>
+            <p>Finby, Anna. Synt. 1863. Piikkiö, Niemenkulma. Finbyn talon emäntä. Kertonut 1914 Niilo Kalliolle. 575.</p>
+            <p>Fonsell, Vilhelmiina. Synt. 1850. Salo. Kertonut 1913 Vappu Tammiselle. 945, 1090, 1447, 1448, 1880, 2506, 3319, 4120, 4167.</p>
+            <p>Forsblom, Karoliina. 74-v. 1913. Sauvo, jossa syntynytkin. Kertonut 1913 V. Saariluomalle. 1525, 2258, 2467, 3751, 3809.</p>
+            <p>Forsell, Osk. Uskela. Kertonut 1912 Niilo Kalliolle. 2800, 3063.</p>
+            <p>Forsman, Kustaava. 82-v. 1928. Pyhämaa. Kertonut 1928 Iina Seppäselle. 3698.</p>
+            <p>Friberg, Ida. Pertteli, Kajala, Kankareen emäntä. Kertonut 1913 Alma Jansenille. 959, 1454, 1605, 1847, 1943, 2008, 2136, 2513, 2822, 2905, 2945, 2984, 3043, 3141, 3662, 3927, 4026, 4271.</p>
+            <p>Friman, Oskar. Synt. 1839 Kuusjoella. Sittemmin torpparina Angelniemen kirkonkylässä. Kertonut 1914 Niilo Kalliolle. 14, 358.</p>
+            <p>Gavander, Agnetta. 74-v. 1913. Uskela, Loppi. Oppinut siellä. Kertonut 1913 Sofia Saarnelle. 757, 1295, 1586, 2505, 2939, 3137, 3279, 3842.</p>
+            <p>Glader, Miina. 87-v. 1913. Muurla. Synt. Kuusjoella, muuttanut 22 v:n ikäisenä, toisen tiedon mukaan (v:lta 1912) n. 70 vuotta sitten Muurlaan. Kertonut vv. 1912 —1914 V. Saariluomalle. 141, 240, 517, 521, 723, 786, 787, 887, 1075, 1076, 1170, 1265, 1266, 1272, 1297, 1743, 2128, 2324, 2510, 2511, 2724, 2993, 3139, 3486, 3539, 3586, 3659, 3732, 3755, 3779, 3926, 4023, 4184, 4205, 4259, 4267.</p>
+            <p>Grönberg, torppari, 47-v. 1909. Mynämäki. Kertonut 1909 E. A. Saarimaalle. 90.</p>
+            <p>Gröndal, Riikka. 62-v. 1913. Uusikirkko, Pehro. Kuullut isoäidiltään. Kertonut 1913 Laina Hänniselle. 1004, 1029, 1039, 4450, 4528.</p>
+            <p>Grönlund, Amanda. Paimio, Vista. Synt. 1847 Nauvossa, tullut 1 1/2vuotiaana Paimioon. Kertonut 1914 Niilo Kalliolle. 157, 453, 472, 577, 693, 694, 695, 714, 721, 1632, 1951, 4431.</p>
+            <p>Grönlund, Einar. Rymättylä. Kertonut 1913 Alli Koisaarelle. 2413, 2666, 4129.</p>
+            <p>Grönroos, Justina. 67-v. 1914. Uskelan Loppi. Oppinut nuorena Marttilan pitäjässä ja myös Uskelassa vanhemmilta ihmisiltä. Kertonut 1913 Sofia Saarnelle. 16, 42, 139, 227, 374, 442, 656, 755, 800, 875, 884, 908, 1020, 1021, 1164, 1294, 1585, 1762, 1839, 1934, 2005, 2122, 2315, 2504, 2719, 2817, 2903, 2938, 3036, 3137, 3192, 3278, 3656, 3841, 3923, 4020, 4073.</p>
+            <p>Grönroos. Suutari. Lemu. Kertonut 1909 E. A. Saarimaalle. 327.</p>
+            <p>Grönroos, Viktor. Kustavi, kirkonkylä. Suutari. Synt. Taivassalossa 1862, asunut Turussa 1877—1897, muuttanut Kustaviin 1897. Kuullut etupäässä Taivassalossa, mutta myös Kustavissa m.m. Ruonnin Fetulta. Kertonut 1914 Niilo Kalliolle. 89, 249, 369, 617, 682, 4423.</p>
+            <p>Grönros, Maria. 85-v. 1928. Pyhämaa. Kertonut 1928 Iina Seppäselle. 1812, 2780, 2853, 2863.</p>
+            <p>Grönroska. 90-v. 1913. Uusikirkko. Kertonut 1913 Laina Hänniselle. 4529.</p>
+            <p>Grönvall, Lina. 57-v. 1912. Pöytyän Mustanoja. Kertonut 1912—1913 E. Vihervaaralle. 1990, 2892, 4190.</p>
+            <p>Gustafsson, Gustava. Torpan emäntä Velkuan Palvan saaren Kuustenperässä. Synt. Velkuassa 1850. Kertonut 1914 Niilo Kalliolle. 118, 179, 202, 297, 479, 615, 4426.</p>
+            <p>Gyldén, Viljo. 13-v. 1909. Pöytyä. Kuullut äidiltään Aleksandra G:ltä (38-v.) Pöytyän Mäkiäisten kylässä. Tämä kuullut pikkutyttönä äidiltään Yläneellä. Kertonut 1909 E.Vihervaaralle. 1960, 2392.</p>
+            <p>Haavisto, Eriikka. N. 70-v. 1928. Pyhämaa. Kertonut 1928 Iina Seppäselle. 1508, 1721, 3106, 4053.</p>
+            <p>Hallman, Varma. Uudenkaupungin yhteislyseon oppilas. Kerännyt Uudestakaupungista 1924—1925 (Winterin kok.). 4869, 4902.</p>
+            <p>Hallsten, Lempi. Uudenkaupungin yhteislyseon oppilas. Kerännyt Uudeltakirkolta 1924—1925 (Winterin kok.). 4865, 5084, 5141.</p>
+            <p>Halme, Alli. 13-v. 1913. Perniö. Kertonut 1913 V. Saariluomalle. 1274, 2671, 2787, 4263.</p>
+            <p>Halme, Marjaana. Perniö. Suutarin leski. Synt. n. 1860 Perniössä. Kertonut 1913 V. Saariluomalle sekä 1914 ja 1920 V. Myrskylle. 1044, 1217, 1755, 1908, 2240, 2247, 2459, 2463, 2679, 3393.</p>
+            <p>Hammar, Kalle. Kiikala, Kruusla. Pelimanni, synt. Kiskossa n. 1835. Kertonut 1914 Niilo Kalliolle. 2983.</p>
+            <p>Hammar, Kustaava. Synt. 1848. Uskela. Kertonut 1909 K. Terhille. 3007.</p>
+            <p>Hammar, Miina. N. 60-v. 1916. Kisko. Kertonut 1916 Yrjö Toivoselle. 4486, 4503, 4525, 4533, 4534, 4556, 4558, 4611, 4629, 4642, 4652, 4707, 4740, 4755, 4757, 4768, 4873, 5163, 5164.</p>
+            <p>Hangelin, Elvira. 50-v. 1913. Muurla, jossa syntynytkin. Kertonut 1912, 1913 V. Saariluomalle. 2727, 3041.</p>
+            <p>Hangelin, Tyyne. 13-v. 1913. Muurla. Kertonut 1913 V. Saariluomalle. 3886.</p>
+            <p>Hanna. Ks. Antintytär, Johanna.</p>
+            <p>Heikinpoika, Johan. 70-v. 1913. Rymättylä. Kertonut 1913 Eemil Ketolaiselle. 602, 895.</p>
+            <p>Heikintytär, Henrika. Synt. n. 1850. Halikko, Vaskio. Kertonut 1914 Niilo Kalliolle. 1390, 2133, 2327.</p>
+            <p>Heikkilä, Kalle. Synt. 1859. Uskela. Kertonut 1913 V. J. Kalliolle. 134, 419, 562.</p>
+            <p>Heikkilä, Maria. N. 40-v. 1909 (toisten tietojen muk. 45-v. 1913, n. 50-v. 1914). Pöytyä, Himainen. Kuullut pikkutyttönä Pöytyälla m.m. äidiltään ja eräältä 80-vuotiaalta ukolta. Kertonut vv. 1909, 1912, 1913 E. Vihervaaralle. 627, 890, 891, 913, 948, 1096, 1198, 1481, 1973, 2050, 2165, 2378, 2891, 2957, 2967, 3104, 3117, 3154, 3217, 3327, 3681, 3941, 4427, 5134.</p>
+            <p>Heikkilä, Miina. N. 50-v. 1892. Marttilan pitäjän emäseurakunta. Kuullut lapsena samassa pitäjässä, useita isoäitivainajaltaan. Kertonut 1892 A. Hildenille. 30, 31, 205, 219, 251, 336, 365, 1081.</p>
+            <p>Heikkilä, Miina. Uskela. Synt. 1867 Halikossa. Tullut Uskelaan 1885. Kertonut 1913 V. J. Kalliolle. 652, 739, 804, 869, 1137, 1300, 1538, 1826, 2099, 2278, 2480, 2729, 2798, 2917, 3124, 3416, 3461, 3597, 3630, 3975, 4064.</p>
+            <p>Heikkilän Miina. N. 60-v. 1909.</p>
+            <p>Vahto. Kertonut 1909 E. A. Saarimaalle. 1343, 1502, 2207.</p>
+            <p>Heikkilä, Olga. 30-v. 1913. Sauvo. Korpela. Synt. Sauvossa. Kertonut 1913 V. Saariluomalle. 2683, 3618.</p>
+            <p>Heikkilä, Yrjö. Uskela. Moision kansak:n oppilas. Kerännyt Uskelasta 1913 (Moision kansak.). Kaikki saatu nähtävasti kotiväeltä, mihin viittaavat keräelmässä olevat kertojien nimimerkit. Kertonut 1914 Niilo Kalliolle. 741, 747, 812, 926, 1119, 1221, 1438, 1549, 1557, 1559, 1920, 1922, 2287, 2485, 2189, 3024, 3365, 3471, 3638, 3820, 4350.</p>
+            <p>Heininen, Saimi. Uudenkaupungin yhteislyseon oppilas. Kerännyt Uudeltakirkolta 1924—1925 (Winterin kok.). 4795, 4864, 4899, 4943, 4962, 5063, 5085, 5140.</p>
+            <p>Heino, Juho. Masku. Kertonut 1914 V. Saariluomalle. 2418.</p>
+            <p>Heinonen, Hilda. N. 30-v. 1915. Merimasku. Kertonut 1915 Yrjö Toivoselle. 853, 935.</p>
+            <p>Heinonen, Hilda. Maaria. Kertonut 1913 Vilho Marjaselle. 2361.</p>
+            <p>Heinonen, Ida, puusepän emäntä. Uskela, Isokylä. Synt. 1869 Halikossa Talolan Keskitalossa. „Kertojan todella ihmeteltävää muistia kuvaa m.m. seuraava tapaus: Kerran yhdessä sisarensa kanssa pienentäessään istutusperunoita löi hän vetoa tämän kanssa siitä, kumpi heistä. osaisi enemmän lauluja. He alkoivatkin laulaa. Vuoroin aina säkeistön esittivät. Jo tuli ilta, ja työ täytyi keskeyttää, mutta kummaltakaan eivät vielä olleet laulut loppuneet. Sopivaa tilaisuutta ei taas sattunutkaan lähimmässä tulevaisuudessa, ja niin jäi asia ratkaisematta. Vanhempi sisar on nyt jo unohtanut melkein kaikki laulunsa, mutta kertojaltamme on viime vuosina kirjoitettu muistiin lähes 300 säkeistöä. Muutakin kansanrunoutta on hän runsaasti sanellut, esim. sananlaskuja noin 6000 kpl., mikä lienee suurin määrä sananlaskuja, jonka joku suomalainen on esittänyt.“ (niilo kallio Halikon Hakoniskat I 5—6). Kertonut 1910—1914 E. I., Niilo ja V. J. Kalliolle. Kuullut m.m. seuraavilta henkilöiltä: äitipuoleltaan, „Pärnäspään piialta“, joka on kuullut Angelniemessä, „Juhani vaarilta“, joka on syntynyt Marttilassa n. 1800 ja tullut Halikkoon 1820, „Lähremäe Miinalta“, „Jurvalan Matilta“, „Nikkilän Hakalalta“, „Paltan Karuliinalta“, „Vainjon kupparilta“, „Viiromäen Leenalta“. 3, 6, 98, 99, 106, 120, 130, 137, 138, 142, 150, 164, 166, 204, 230, 245, 258, 261, 262, 265, 287, 313, 318, 328, 347, 349, 378, 379, 388, 392, 395, 407, 422, 443, 450, 457, 462, 494, 502, 505, 533, 543, 558, 559, 570, 571, 623, 624, 629, 662, 701, 708, 710, 727, 735, 761, 823, 857, 868,</p>
+            <p>872, 878, 879, 888, 910, 1031, 1072, 1077, 1104, 1142, 1251, 1271, 1408, 1428, 1429, 1543, 1544, 1545, 1738, 1829, 1830, 1919, 1986, 2022, 2027, 2071, 2102, 2103, 2104, 2105, 2132, 2135, 2282, 2284, 2285, 2455, 2483, 2484, 2608, 2610, 2630, 2633, 2634, 2702, 2703, 2704, 2801, 2802, 2803, 2872, 2887, 2916, 2921, 2944, 2960, 2961, 3014, 3019, 3064, 3065, 3091, 3092, 3100, 3114, 3123, 3127, 3186, 3204, 3269, 3313, 3362, 3405, 3459, 3460, 3464, 3489, 3532, 3571, 3596, 3629, 3631, 3632, 3733, 3773 a, 3791, 3852, 3853, 3972, 3986, 3988, 4062, 4075, 4133, 4145, 4188, 4218, 4220, 4287, 4300, 4318, 4415.</p>
+            <p>Heinonen, Vilhelmiina. 60-v. 1914. Lieto. Kertonut 1914 V. Saariluomalle. 218, 581, 932, 956, 1858, 2042, 3199, 3288, 3430, 3935, 3962.</p>
+            <p>Heinonen, Ville. Uskela. Kertonut 1912 V. J. Kalliolle. 4063.</p>
+            <p>Heinänen, Miina. Suomusjärvi, jossa syntynytkin. Kertonut 1913 V. Saariluomalle. 794.</p>
+            <p>Helander, Kaarle. Naantali, Luonnonmaa, Käkölä. Kertonut 1890 A. R. Niemelle. 324.</p>
+            <p>Helander, Matti. N. 60-v. 1892. Marttilan pitäjän emäseurakunta. Kuullut nuorena joltakin vanhalta naiselta Kuusjoelta. Kertonut 1892 A. Hildénille. 333.</p>
+            <p>Helenius, Ulla. 79-v. 1913. Suomusjärvi, jossa syntynytkin. Kertonut 1913 V. Saariluomalle. 1122, 1369, 1818, 2251, 2465, 3177, 3403, 3448, 3530, 3957, 4096.</p>
+            <p>Helin, August. 40-v. 1913. Askainen. Kertonut 1913 Saima Kärnälle. 326.</p>
+            <p>Hellan isäntä. N. 50-v. 1909. Karjala. Kertonut 1909 E. A. Saarimaalle. 3516.</p>
+            <p>Helle, Amanda t. Manta. Maarian pappilan kuskin vaimo, synt. Maskussa. Kertonut 1914 J. M. Tallgrenille. 1640, 1745, 2739, 3324, 3542, 3676, 4242.</p>
+            <p>Helminen, Hilma. 40-v. 1910. Pöytyä, Pappilan lääni. Kuullut lapsena Pöytyän Juvan kylässä. Kertonut 1910 E. Vihervaaralle. 280, 1989, 4393.</p>
+            <p>Helström, Tilda. 45-v. Uskela. Kertonut 1913 Olga Lindebergille (Moision kansak.). 3913, 4325.</p>
+            <p>Henriksson, Kristian. 40-v. 1913. Lokalahti, Mäkilä. Kuullut äidiltään. Kertonut 1913 Laina Hänniselle. 4479.</p>
+            <p>Henriksson, Miina. 56-v. 1913. Maaria. Torpan vaimo. Kertonut 1913 Vilho Marjaselle. 1308, 1639, 2151, 2360, 2535, 2738, 2836, 2859, 3587.</p>
+            <p>Hento, Vainö. Uskela. Moision kansak:n oppilas. Kerännyt 1913 Uskelasta (Moision kansak.). 748, 806, 1150, 1285, 1437, 1558, 2000, 2110, 2296, 2490, 2609, 2639, 4070.</p>
+            <p>Hepola, J. N. 60-v. 1892. Koski. missä syntynytkin. Kertonut 1892 J. E. Liipolalle. 1191, 1255.</p>
+            <p>Herralan vanhaemäntä. Synt. 1838. Velkua. Kertonut 1914 Niilo Kalliolle. 2210.</p>
+            <p>Hiitola, Amanda. Uskela. Kuullut Mynämäessä. Kertonut 1912 Niilo Kalliolle. 1753.</p>
+            <p>Hiitola, Elli. Uskela. Kertonut 1912 Niilo Kalliolle. 2286.</p>
+            <p>Hildén, Johanna. 79-v. 1914. Lieto. Kertonut 1914 V. Saariluomalle. 1183, 1312, 1752.</p>
+            <p>Hildén, Juho. 77-v. 1914. Lieto. Kertonut 1914 V. Saariluomalle. 912, 4432.</p>
+            <p>Himaissuo, Liisa. Pöytyä, Himainen. Kertonut 1912 E. Vihervaaralle. 475, 588, 858.</p>
+            <p>Himberg, E. Sauvo. Kertonut 1913 N. V. Mannerhoville. 500, 644, 919, 1127, 1526, 2469, 3750, 4235, 4413.</p>
+            <p>Himberg, Frans. Uskela, jossa synt. 1847. Sokea. Oppinut suuren osan loitsuista ja lauluista 1850-luvulla äidiltään Maria Loviisa Himbergilta (synt. 1811 Perniössä, kuollut 1880 Uskelassa), osittain myös isältään (synt. 1808 Perniössä ja muuttanut 1841 Uskelaan) ja veljeltään Kallelta. Kertonut 1913 V. J. Kalliolle. 1, 107, 136, 244, 253, 264, 308, 391, 420, 563, 622, 631, 653, 805, 871, 881, 904, 1018, 1028, 1102, 1103, 1140, 1280, 1379, 1435, 1541, 1737, 1828, 1918, 1999, 2101, 2280, 2481, 2799, 2918, 3017, 3067, 3126, 3268, 3395, 3463, 3533, 3566, 3585, 3813, 3888, 3889, 3902, 3959, 3999, 4066, 4100, 4146, 4207, 4219, 4281, 4330, 4414.</p>
+            <p>Himberg, V. Sauvo. Kertonut 1913 N. V. Mannerhoville. 311, 401, 524, 720, 1995.</p>
+            <p>Himmelroos, Eedvart. Perniö. Kertonut 1914 V. Myrskylle. 539.</p>
+            <p>Holmin vanhaemäntä. Synt. 1843 Perniön Tuohitossa. M.p. Perniön Pohjankorvessa. Kertonut 1914 V. Myrskylle. 11, 372.</p>
+            <p>Holmin vanhaisäntä. Perniö, Pohjankorpi. Kertonut 1914 V. Myrskylle. 433.</p>
+            <p>Hongelin, Kalle. Rymättylä, Paavainen. Kertonut 1919 E. Vihervaaralle. 4489, 4567.</p>
+            <p>Honkala, Hilma. Kuusjoki. Kansak. oppilas. Kerännyt 1913 Kuusjoelta (Pennanen S. 58—85). 766, 1617, 1854, 2339, 2623, 2656, 3049, 3380, 3562, 3746, 3757, 4033, 4083.</p>
+            <p>Honkanen, K. Sauvo. Kertonut 1913 N. V. Mannerhoville. 529.</p>
+            <p>Huhtala, Maria. 73-v. 1912. Pöytyä, Karhunoja. Kertonut 1912 E. Vihervaaralle. 1782, 2988.</p>
+            <p>Hurmerinnan emäntä. Perniö, missä syntynytkin. Kertonut 1913 V. Saariluomalle. 496, 497, 636, 2460, 3445, 3607, 3802, 3896, 4264.</p>
+            <p>Hurmerinta, Ilta. Uudenkaupungin yhteislyseon oppilas. Kerännyt Uudestakaupungista 1924—1925 (Winterin kok.). 4965, 5056, 5065.</p>
+            <p>Hällström, Sofia. Sauvo. Kertonut 1913 N. V. Mannerhoville. 1422, 1528, 1758, 1820, 2088, 2684, 3006, 3411, 3617, 3899, 3900.</p>
+            <p>Höijer, Emil. Perniö, Teijo. Kertonut 1915 E. B. Höijerille. 4583, 4609, 4645, 4673, 4706, 4732, 4743, 4767, 4798, 4820, 4872, 4891, 4906, 4915, 4938, 4969, 4977, 4995, 5015, 5030, 5066, 5099, 5124, 5125, 5166.</p>
+            <p>Höijer, Ida. 53-v. 1916. Perniö, Teijo. Kertonut 19l5 E. B. Höijerille. 4582, 4610, 4644.</p>
+            <p>Höök, Ulrika. Ks. Joutsen, K. O. „Iso Hanna“. Ks. Antintytär, Johanna.</p>
+            <p>Isolaurila, Eeva. N. 75-v. 1913. Yläne, Heinijoki. Talon emäntä. Kertonut 1913 Viktor Yliselle. 1063, 1494, 1977, 2398, 2399, 2557, 2751, 2966, 3686, 3715, 4197, 4390.</p>
+            <p>Isotalo, F. Laitila. Kertonut 1906 A. Isotalolle. 513.</p>
+            <p>Isotorppari, Josefiina. 94-v. 1914. Muurla. Kertonut 1914 V. Saariluomalle. 1602, 4024, 4226.</p>
+            <p>Itänen, Herman l. „Sokea Herman“. 67-v. 1909. Uusikirkko. Kertonut 1909 E. A. Saarimaalle, 1916 Jalo J. Kummiselle. 180, 1038, 1237, 2221, 2580, 3560, 4607.</p>
+            <p>Jaakkola, Hilma. Maaria. Kertonut 1914 J. M. Tallgrenille. 1641.</p>
+            <p>Jaakkola, Maijastiina. N. 60-v. 1892. Marttilan pitäjän emäseurakunta. Kuullut lapsena samassa pitäjässä, m.m. torppari Anttilalta. Kertonut 1892 A. Hildénille. 26, 247, 366.</p>
+            <p>Jansén, mylläri. Synt. 1855. Perttelin kirkonkylä. Kuullut n:on 32 Marttilassa Oskar Lindströmiltä n. 30 v. sitten, n:on 54 Karunassa nuorena, n:on 320 Sillanpään Ulla-vainaalta, joka on syntynyt n. 1800 ja kotoisin Kuusjoelta. Kertonut 1914 Perttelissä Niilo Kalliolle. 32, 54, 320.</p>
+            <p>Johansson, Maria. 73-v. 1928. Pyhäranta, Kaunissaaren kylä. Kalastajan leski, verkonkutoja ja -parsija. Kotoisin Pyhästämaasta. Kertonut 1928 Lauri Koskiselle.</p>
+            <p>4468.</p>
+            <p>Johansson, Matias. 78-v. 1928. Pyhäranta, Reilan kylä. Ent. renkimies. Kertonut 1928 Lauri Koskiselle. 4477.</p>
+            <p>Johantytär, Justiina Vilhelmiina. 80-v. 1914. Yläne. Kuullut isoäidiltään. Kertonut 1914 J. M. Tallgrenille. 980, 1327, 1873, 2060, 2402.</p>
+            <p>Jokelan emäntä. Vahto. Kertonut 1914 V. Saariluomalle. 1345, 2209, 2572, 3344. Jokelan isäntä. Vahto. Kertonut 1914 V. Saariluomalle. 432, 4312.</p>
+            <p>Jokinen, Manda. 61-v. 1913. Muurla, jossa syntynytkin. Kertonut 1912—1914 V. Saariluomalle. 506, 507, 508.</p>
+            <p>Jokisaari, Rauha. 28-v. 1913. Muurla, jossa syntynytkin. Kertonut 1913 V. Saariluomalle. 2726, 4123.</p>
+            <p>Joutsen, K. O., puuseppä. Pertteli. Kuullut isoäidiltään Ulrika Höökiltä (synt. n. 1800). Kertonut 1914 Niilo Kalliolle. 424, 1175, 1252, 1405, 2330, 3044, 3206. Juhanpoika, Juha. 70-v. 1913. Taivassalo, Niittula. Kertonut 1913 Laina Hänniselle. 4452. Juhantalon vanhaemäntä. 69-v. 1909. Askainen, Lempoinen. Kertonut 1909 E. A. Saarimaalle. 1874, 2758, 3691.</p>
+            <p>Julin, Kustaava. Synt. 1839. Askainen. Kertonut 1913 V. J. Kalliolle. 85, 201, 476, 477, 608, 680, 900, 941.</p>
+            <p>Junnila. Kunnallislautakunnan esimies. N. 67-v. 1909. Vahto. Kertonut 1909 E. A. Saarimaalle. 634.</p>
+            <p>Justén, Joel. 90-v. 1913. Rymättylä. Kertonut 1913 Eemil Ketolaiselle. 535.</p>
+            <p>Järvinen, A. Uskela. Kertonut 1913 Väinö Alholle (Moision kansak.). 3272.</p>
+            <p>Järvinen, Miina. 50-v. 1913. Pöytyä, Kolkkinen. Synt. Karinaisissa. Kertonut 1913 E. Vihervaaralle. 1196, 3216.</p>
+            <p>Kaares, Emil (Eemil). Uskela. Moision kansak:n oppilas. Kerännyt Uskelasta 1913 (Moision kansak.). 1560, 2297, 3470, 3822, 4112, 4182.</p>
+            <p>Kaitilan vanhamuori. Laitila, Katinhäntä. Kertonut 1909 E. A. Saarimaalle. 3519. Kajander, Manda. 43-v. 1913. Maaria. Kertonut 1913 Vilho Marjaselle. 21. Kajander. Maria, vanhaemäntä. Paimio, jossa synt. 1840 ja koko ikänsä elänyt. Kertonut 1914 Niilo Kalliolle. 156,167, 580, 911, 3210.</p>
+            <p>Kalelan emäntä. Vahto. Kertonut 1914 V. Saariluomalle. 1112, 2571, 3693, 3770.</p>
+            <p>Kallio, Emma. 46-v. 1912. Pöytyä, Mustanoja. Kertonut 1912 E. Vihervaaralle. 977.</p>
+            <p>Kallionpää, Irene. Uskela. Moision kansak:n oppilas. Kerännyt 1913 Uskelasta (Moision kansak.). 1151, 1286, 1382, 1561, 1984, 2111, 2298, 2710, 2808, 2868, 2925, 3069, 3472, 3534, 3640, 3700, 3823, 3907, 3960, 4113, 4224, 4351.</p>
+            <p>Kangashaka, E. Uskela. Moision kansak:n oppilas. Kerännyt 1913 Uskelasta (Moision kansak.). 749, 923.</p>
+            <p>Kangasmaa, Augusta. Synt. n. 1880 Askainen. Kuullut palvelijaltaan Idalta. Kertonut 1913 V. J. Kalliolle. 1338.</p>
+            <p>Kangasmaa, E, pastori. Paattinen. Synt. 1889 Turussa. Kertonut 1913 E. T. Kalliolle. 2355.</p>
+            <p>Kangasmaa, Helmi. Synt. n. 1885. Askainen. Oppinut äidiltään Juhanna Veräjankorvalta (synt. 1842 Askaisten Vanhassakylässä), joka taas on kuullut isoäidiltään Liisalta (synt. n. 1775, kuollut 1855). Kertonut 1913 V. J. Kalliolle. 1210, 1693, 1795, 1876, 1967, 2422, 2567, 2760, 2839, 3161, 3235, 3297, 3338, 3401, 3506, 3554, 3800, 3876, 4249.</p>
+            <p>Kankare, Eeva. N. 60-v. 1892 (?) Marttilan pitäjän emäseurakunta. Kuullut pienenä äitivainajaltaan. Kertonut 1892 A. Hildénille. 69, 132.</p>
+            <p>Kankare, Rauha, kirkonvartijan vaimo. Maaria. Kuullut lapsena eräältä Turussa asuvalta vanhalta vaimolta. Kertonut 1914 J. M. Tallgrenille. 3323.</p>
+            <p>Karinoja, Joeli. Ks. Fagerroos, Maria.</p>
+            <p>Karbiin, Maija. N. 60-v. 1892. Marttilan pitäjän emäseurakunta. Kuullut lapsena äitivainajaltansa samasta pitäjästä. Kertonut 1892 A. Hildénille. 335.</p>
+            <p>Karjanoja, Joeli. Pöytyä, Pappilan lääni. Kertonut 1912, 1916 E. Vihervaaralle. 3990, 4531.</p>
+            <p>Karlin, Anna. 15-v. 1914. Pöytyä, Himainen. Kertonut 1914 E. Vihervaaralle. 4854.</p>
+            <p>Karlin, Maria. N. 50-v. 1908. Pöytyä, Himainen. Kertonut 1908 T. V. Lehtisalolle ja 1912 E. Vihervaaralle. 593, 2376, 4435.</p>
+            <p>Karlsson, Alice. Rymättylä. Kertonut 1913 Alli Koisaarelle. 2410, 2412, 2562, 2981, 3734, 3766, 3777, 3871, 3943.</p>
+            <p>Karru, Juho. N. 60-v. 1928. Pyhäranta, Valkamaa. „Vanha talon isäntä, mainio kertoja ja oikein ystävällinen.“ Kertonut 1928 Lauri Koskiselle. 4483, 4495, 4553, 4576.</p>
+            <p>Kataja, Tilda. N. 40-v. 1915. Uusikirkko. Kuullut Kalle Rosblomilta. Kertonut 1915 Jalo J. Nummiselle. 3247.</p>
+            <p>Katajisto (Katavisto), Miina. 63-v. 1909. Pöytyä, Kolkkinen. Kuullut lapsena Pöytyan Juvan kylässä, jossa on syntynyt. Kertonut 1909, 1910, 1913, 1914 E. Vihervaaralle. 1058, 1397, 1783, 1958, 2051, 2171, 2381, 2382, 2615, 2979, 2996, 3219, 3291, 3499, 3683, 4742,4960.</p>
+            <p>Kattelus, Anna. 77-v. 1909. Koski. Kuullut äidiltään emäntä Liisa Tilkaselta (kotoisin Karmaisista). Kertonut 1909 Eelis Kesälälle. 585, 973, 1034, 1110, 1195,1479, 1654, 2047, 2161, 2374, 2613, 2861, 2953, 3939, 4134, 4409.</p>
+            <p>Kaunonen, Ida. Uudenkaupungin maaseurakunta. Kertonut 1915 Helmer Winterille. 1005.</p>
+            <p>Kauppi, Juho. Lieto. Kertonut 1914 V. Saariluomalle. 1644.</p>
+            <p>Keinonen, Siimi. Halikon Toijalan kansakoulun oppilas. Kerännyt 1913 Halikosta (Toijalan kansakoulu). 4619, 4696, 4716, 4717, 4748, 4760, 4761, 4815, 4839, 4882, 4889, 4910, 4919, 4954, 4958, 4987, 5002, 5013, 5022, 5041, 5042, 5123, 5150.</p>
+            <p>Kelander, Vilhelmiina. 75-v. 1916. Uusikirkko, Palsa. Kertonut 1916 Jalo J. Nummiselle. 4672.</p>
+            <p>Keskinen, Lempi. 12-v. 1914. Kansak:n oppilas. Piikkiö, Harvaluoto. Kertonut 1912 Kalle Häyriselle. 1628, 2857.</p>
+            <p>Keskitalo, Kaarlo Pöytyä, Mustanoja. Kertonut 1912 E. Vihervaaralle. 591, 592. Keskitalo, Raakkeli. 14-v. 1912. Pöytyä, Mustanoja. Kertonut 1912 E. Vihervaaralle. 3329, 3710.</p>
+            <p>Ketola. 82-v. 1909. Maskun merikulma. Kertonut 1909 E. A. Saarimaalle. 2200.</p>
+            <p>Ketola, Juho. N. 65-v. 1892. Marttilan pitäjän emäseurakunta. Kuullut saman pitäjän Euran kappelissa (nyk. Tarvasjoen pitäjä). Kertonut 1892 A. Hildénille. 362.</p>
+            <p>Ketola, Maijastiina. N. 50-v. 1892. Marttilan pitäjän emäseurakunta. Kuullut lapsena samalla paikkakunnalla. Kertonut 1892 A. Hildénille. 250, 339.</p>
+            <p>Ketolainen, A. 42-v. 1913. Rymättylä. Kertonut 1913 Eemil Ketolaiselle. 1675. Kissala, Karoliina. Yläne. Kuullut äidiltään n. v. 1873 Kertonut 1913 Varma Rantasalolle. 105, 113, 464, 671, 952, 1205, 1326, 1667, 1787, 1889, 1901, 1962, 2394, 2396, 2838, 2875, 3084, 3225, 3331, 3685, 3729, 3778.</p>
+            <p>Kivialho, Mathilda, puusepän vaimo. Synt. Kiskossa 15 p. helmik. 1852 ja elänyt koko ikänsä tässä pitäjässä. Kertonut 1913, 1914 Kaaperi Kivialholle. 225, 307, 410, 640, 730, 793, 880, 1413, 1519, 1729, 2464, 3001, 3176. 3529, 3610, 3805, 3994.</p>
+            <p>Kivikankareen emäntä. Uskela. Kertonut 1912 Niilo Kalliolle. 1997, 3062.</p>
+            <p>Kivisaari, Matilda. Suomusjärvi, Laideke. Kertonut 1911 Lauri Kivisaarelle. 1520, 1756.</p>
+            <p>Klenberg, August. 22-v. 1913. Karuna, missä syntynytkin. Kertonut 1913 V. Saariluomalle. 2256, 3309, 3807, 4228, 4265, 4266.</p>
+            <p>Klenbergin emännöitsijä. 60-v. 1913. Karuna. Kertonut 1913 V. Saariluomalle. 2257.</p>
+            <p>Klenberg, Kaarlo. 28-v. 1913. Karuna, jossa syntynytkin. Kertonyt 1913 V. Saariluomalle. 2017, 2256, 2680, 3254, 3410, 4370</p>
+            <p>Koivu, Frans, kansak:n oppilas. Piikkiö, Harvaluoto. Kertonut 1913 Kalle Häyriselle. 439.</p>
+            <p>Koivumäen emäntä. 50-v. 1913. Vehmaa, Rautila. Kertonut 1913 Laina Hänniselle. 4458.</p>
+            <p>Kolin, Juho. 40—45-v. 1913. Maaria, Kärsämäki. Kuullut Mietoisissa. Kertonut 1913 Laina Hänniselle. 4443, 4449, 4476, 4505.</p>
+            <p>Korento, Enok. Suomusjärvi, jossa syntynytkin. Kertonut 1913 V. Saariluomalle. 224, 2871, 4215.</p>
+            <p>Koroinen, M. Maarian Koroisten isäntä. Synt. 1848 Prunkkalassa. Kertonut 1914 J. M. Tallgrenille. 2152.</p>
+            <p>Korplander, Anna. 65-v. 1913. Pöytyä, Koivisto. Kertonut 1913 E. Vihervaaralle. 2178, 2547.</p>
+            <p>Koskela, Eevaliisa. N. 50—60-v. 1892. Marttilan pitäjän emäseurakunta. Kuullut lapsena samassa pitäjässä ja Karinaisissa. Kertonut 1892 A. Hildénille. 70, 314, 337.</p>
+            <p>Koskela, Katri. Kansakoulun oppilas. Kuusjoki. Kerännyt 1913 Kuusjoelta (Pennanen S. 198— 207). 2660, 2732, 2833, 3384, 4036, 4376.</p>
+            <p>Koskela, Martta. Kansak:n oppilas. Kuusjoki. Kerännyt 1913 Kuusjoelta (Pennanen S. 197). 3053.</p>
+            <p>„Kosken mamma“. Yläne. Kertonut 1913Varma Rantasalolle. 291, 597.</p>
+            <p>Koski, Fredriikka. Juhantalon vanhaemäntä Askaisissa. Kertonut 1914 Jalmari J. Jaatiselle. 1339,1968, 2568, 2840, 3799, 4046.</p>
+            <p>Koski, Jalmari. Moision kansak:n oppilas. Uskela. Kerännyt 1913 Uskelasta (Moision kansak.). 1152, 1564, 1740, 1834, 1924, 1925, 2299, 2926, 4069.</p>
+            <p>Koski, Kalu. Sauvo. Kertonut 1913 N. V. Mannerhoville. 2089.</p>
+            <p>Koskinen, Karoliina. Suomusjärvi, Laideke. Kertonut 1911 Lauri Kivisaarelle. 1414, 1817, 2248.</p>
+            <p>Koskinen, Nestori. Talon isäntä. N. 40-v. 1928. Pyhäranta, Kauhianpää. Kertonut 1928 Lauri Koskiselle. 4056, 4520.</p>
+            <p>Kotisalmi, Olga. Synt. 1876. Uskela, missä nuorena oppinut. Kertonut 1913 V. J. Kalliolle. 257, 316, 416, 417, 435, 560, 649, 650, 736, 802, 921, 3567.</p>
+            <p>Kreivilä, Marjaana. Yläne, Uusikartano. Kertonut 1892 M. Laineelle. 707.</p>
+            <p>Kreivilän emäntä. N. 40-v. 1909. Paattinen. Kertonut 1909 E. A. Saarimaalle. 582, 2367.</p>
+            <p>Kreivilän palvelija(tar). Synt. Vahdolla. Paattinen. Kertonut 1914 J. M.Tallgrenille. 1315, 2743, 3678.</p>
+            <p>Kreivilän vanhaemäntä (Mathilda Christianintytär). 71-v. 1914. Paattinen, synt. Liedossa. Kertonut 1914 J. M. Tallgrenille. 1474, 1775, 1859, 2366, 4305.</p>
+            <p>Kropo-Fia. 73-v. 1910. Uskela, Anjala, synt. Uskelan Isossakylässä. Kertonut 1910 E. I. Kalliolle. 1250, 3624.</p>
+            <p>Kräkilä, Laura. Vehmaa, Himonen. Kertonut 1913 Laina Hänniselle. 4498.</p>
+            <p>Kräkilän emäntä. Vehmaa. Kertonut 1913 Laina Hänniselle. 3695.</p>
+            <p>Kujala, Antti. Pöytyä, Kolkkinen. Kertonut 1912 E. Vihervaaralle. 587.</p>
+            <p>Kujala, Eedla. 60-v. 1909. Pöytyä, Mustanoja. Kuullut pikkutyttönä Pöytyällä. Kertonut 1909 E. Vihervaaralle. 1483, 1659, 2169, 2383, 2384, 2544.</p>
+            <p>Kujanpää, Manda. 58-v. 1912. Pöytyä, Ordenoja. Kertonut 1912 E. Vihervaaralle. 976,1203, 1780, 2173, 2174, 3222, 3500, 3701.</p>
+            <p>Kujanpää, Maria. N. 45-v. 1892, Marttila. Kuullut Saustilan Tiinavainajalta. Kertonut 1892 A. Hildénille. 1254.</p>
+            <p>Kujanpää, Oskar. N. 40-v. 1892. Marttila. Kuullut lapsena samassa pitäjässä. Kertonut 1892 A. Hildénille. 1954.</p>
+            <p>Kukkula-muori. N. 68-v. 1913. Syntynyt ja ollut koko elämänsä Kaarinassa. Sanoi olevansa „hyvä plato“ ja elävänsä Kaarinassa niin kauan, kunnes „jalat edellä viedään“. Kertonut 1913 E. I. Kalliolle. 217, 667, 774, 889,1633, 2354.</p>
+            <p>Kuukasten Sofi. 60-v. 1913. Taivassalo. Kertonut 1913 Laina Hänniselle. 4451.</p>
+            <p>Kuula, Herman, kalastaja. 62-v. 1914. Yläne. Kertonut 1914 Laina Hänniselle. 430.</p>
+            <p>Kuusela, Mari. 70-v. 1913. Muurla, missä syntynytkin. Kertonut 1909, 1913, 1914 V. Saariluomalle. 48, 60, 97, 121, 122, 123, 124, 125, 147, 153, 154, 169, 222, 237, 254, 255, 256, 260, 269, 273, 385, 394, 447, 449, 480, 485, 486, 495, 518, 520, 531, 532, 537, 626, 628, 658, 700, 822, 943, 1599.</p>
+            <p>Kylänpää, Otto. Kuusjoki. Kansak:n oppilas. Kerännyt Kuusjoelta 1913 (Pennanen S. 38—57). 765, 3048, 3491, 4030.</p>
+            <p>Laakso, Saima. Uskela. Moision kansak:n oppilas. Kerännyt 1913 Uskelasta (Moision kansak.). 750, 873, 1153, 1288, 1383,1565,1926, 2112, 2300, 3491, 2809, 2899, 2927, 3026, 3275, 3368, 3600, 3643, 3825, 3908, 3909, 3979, 4009, 4070, 4114, 4155, 4352.</p>
+            <p>Laaksonen, Ester. Halikon Toijalan kansakoulun oppilas. Kerännyt 1913 Salosta (Toijalan kansakoulu). 4649, 4678, 4695, 4759, 4775, 4814, 4879, 4985, 5020, 5035, 5074, 5103, 5115, 5147.</p>
+            <p>Laaksonen, Ingne. Uskela. Moision kansak:n oppilas. Kerännyt 1913 Uskelasta (Moision kansak.). 807, 2301, 2492, 2711, 2928, 3027, 3276, 3826, 3976, 1010, 4156.</p>
+            <p>Laaksonen, Irene. 19-v. 1913. Sauvo, missä syntynytkin. Kertonut 1913 V. Saariluomalle. 3898.</p>
+            <p>Laaksonen, Juha. Lokalahti. Kertonut 1908 A. Kangastukselle. 1705, 3087.</p>
+            <p>Laaksonen, Miina. 50-v. Uskela. Kertonut 1913 Olga Lindebergille (Moision kansak.). 3475.</p>
+            <p>Lagerström, Vilhelmiina. 63-v. 1909. Uskela, jossa elänyt koko ikänsä. Kertonut 1909 V. J. Kalliolle. 2797.</p>
+            <p>Lahtonen, Väinö. Yläne. Kertonut 1913 Varma Rantasalolle. 1786, 3684, 3765.</p>
+            <p>Laine, Alli. Kuusjoki. Kansak:n oppilas. Kerännyt 1913 Kuusjoelta (Pennanen, S. 101—119, 212— 214). 768, 842, 961, 1047, 1176, 1618, 1946, 2140, 2341, 2657, 3050, 3144, 4032, 4126.</p>
+            <p>Laine, Amanda. 43-v. 1913. Uskela. Kertonut 1913 Tilda Laineelle (Moision kansak.). 3827, 4115.</p>
+            <p>Laine, F. Uusikaupunki. Kertonut 1910 Yrjö Iisalolle. 1099.</p>
+            <p>Laine, Kyllikki. 13-v. 1913. Pöytyä, Mustanoja. Kertonut 1913 E. Vihervaaralle. 5050.</p>
+            <p>Laine, Impi. Uskela. Kertonut 1913 Tilda Laineelle (Moision kansak.) ja 1914 Niilo Kalliolle. 742, 808, 813, 1144, 1154, 1222, 1289, 1384, 1439, 1440. 1566, 1835, 1927, 2113, 2288, 2705, 2922, 3020, 3128, 3465, 3635, 3703, 4103, 4148, 4341.</p>
+            <p>Laine, Manda, emännöitsijä. Synt. Muurlassa 1865, muuttanut Pertteliin 1880. Oppinut useimmat Miina Lindqvistiltä. M.p. Perttelin Vihmalossa. Kertonut 1914 Niilo Kalliolle. 277, 573, 635, 826, 877, 1105, 1302, 1389, 1450, 1603, 1766, 1944, 2026, 2069, 2131, 2331, 2512, 3042, 3200, 3283, 3488, 3581, 3851, 3961, 4027, 4196, 4261, 4417.</p>
+            <p>Laine, Tilda. Uskela. Moision kansak:n oppilas. Kerännyt 1913 Uskelasta (Moision kansak.). 1154, 1222, 1289, 1384, 1439, 1440, 1566, 1835, 1927, 2113, 2302, 2493, 2712, 2929, 3130, 3474, 3644, 3704, 3827, 4115, 4353.</p>
+            <p>Laine, Vilho. 49-v. 1913. Uskela. Kertonut 1913 Tilda Laineelle (Moision kansak.). 1927, 2712, 4353.</p>
+            <p>Laksos-Salvi, Vilho. 72-v. 1928. Pyhäranta, Ihoden kylä. Kertonut 1928 Lauri Koskiselle. 4469.</p>
+            <p>Laksos-Salvin vanhaemäntä. 71-v. 1928. Pyhäranta, Ihoden kylä. Tunnettu syyhy- ym. tautien lääkäri. Kertonut 1928 Lauri Koskiselle. 4496.</p>
+            <p>Lang, Amanda. 56-v. 1921. Uskela. Kertonut Ingrid Langille. 1590.</p>
+            <p>Laukkanen, Tuure. Usskela. Moision kansak:n oppilas. Kerännyt 1913 Uskelasta (Moision kansak.). 1155, 1567, 392S, 2001, 2072, 2114, 2115, 2303, 2456, 2640, 2713, 2810, 3028, 3189, 3369, 3828, 3910, 4073, 4116, 4354.</p>
+            <p>Lauste, Elna. N. 19-v. 1913. Kaarina. Kertonut 1913 E. I. Kalliolle. 3860.</p>
+            <p>Lauste, Kosti. N. 19-v. 1913. Kaarina. Kertonut 1913 E. I. Kalliolle. 3150, 3931.</p>
+            <p>Lax, Emma. 56-v. 1913. Tammela, Kaukijärvi. Kuullut lapsena Marttilassa. Kertonut 1913 E. Vihervaaralle. 947, 971,1025, 1109, 1190, 1317, 1359, 1396, 1476, 1477, 1652, 1777, 1885, 2160, 2373, 2540, 2620, 2746, 3078, 3089, 3090, 3111, 3153, 3215, 3397, 3433, 3588, 3680, 3760, 3862, 4201, 4275, 4290, 4306, 4319, 4322, 4407, 5080.</p>
+            <p>Leena Kaisa. N. 75-v. 1892. Marttilan pitäjän emäseurakunta. Kuullut lapsena samassa pitäjässä. Kertonut 1892 A. Hildénille. 1056, 1188, 2045.</p>
+            <p>Lehti, Hilda. Halikon Toijalan kansakoulun oppilas. Kerännyt 1913 Salosta (Toijalan kansakoulu). 4647, 4653, 4662, 4676, 4691, 4693, 4713, 4734, 4746, 4751, 4772, 4803, 4809, 4823, 4824, 4836, 4844, 4860, 4877, 4887, 4893, 4904, 4907, 4933, 4940, 4951, 4959, 4972, 4983, 4999, 5018, 5037, 5072, 5101, 5113, 5145.</p>
+            <p>Lehtimäki, Tyyne. Uskela. Moision kansak:n oppilas. Kerännyt 1913 Uskelasta (Moision kansak.). 809, 1568.</p>
+            <p>Lehtinen, K., kauppias. Synt. n. 1885. Angelniemi, Kokkila. Kuullut n. 35 v. sitten Huitlan Matilta (silloin 60—65-v.) Angelniemessä ja Maria Simontyttäreltä, joka oli synt. Halikossa n. 1835. Kertonut 1914 Niilo Kalliolle. 357, 530, 1192, 1372.</p>
+            <p>Lehtinen, Kustaa. 38-v. 1913. Muurla. Synt. Koskella, muuttanut v. 1898 Muurlaan. Kertonut 1913 V. Saariluomalle. 71, 263, 279, 321, 344, 376, 403, 459, 584, 760,1192, 1451, 1478, 1653, 2046, 2127, 2601, 3982, 4227, 4260, 4272, 4274, 4286.</p>
+            <p>Lehtinen, Maria. 12-v. 1910. Pöytyä, Himainen. Kertonut 1910 E. Vihervaaralle. 1888.</p>
+            <p>Lehtinen, Vilho. 35-v. 1914. Piikkiö, Harvaluoto. Oppinut Laitilassa. Kertonut 1914 Kalle Häyriselle. 2971.</p>
+            <p>Lehtisalo, Risto. 13-v. 1913. Pöytyä, Mustanoja. Kertonut 1913 E. Vihervaaralle. 4792.</p>
+            <p>Lehtiö, Juho. Muurla. Kertonut 1914 V. Saariluomalle. 659.</p>
+            <p>Lehto, Maria. Maarian pappilan „deja“. Synt. Pöytyällä 1871. Kertonut 1914 J. M. Tallgrenille. 2040.</p>
+            <p>Lehto, Maria. Halikko, missä synt. 1851. Kertonut 191.3 V. J. Kalliolle. 63, 174, 259, 423, 663, 824, 2134, 2943.</p>
+            <p>Lehto, Saara. 28-v. 1921. Turku. Kuullut pikkutyttönä syntymäpitäjänsä Paimion Vistan kylässä. Kertonut 1921 E. Vihervaaralle. 4667, 4701, 4723, 4750, 4752, 4763, 4784, 4807, 4819, 4840, 4849, 4890, 4895, 4897, 4913, 4924, 4945, 4976, 5078, 5126, 5131, 5133, 5159.</p>
+            <p>Lehto (ent. Manelius), Viktor. Synt. 1849 Halikon kirkonkylässä, muuttanut n. v. 1870 Halikon Viurlan Kankareen torppaan. Kertonut 1913 V. J. Kalliolle 19, 62, 288, 572, 762, 4420, 4421.</p>
+            <p>Lehtonen, Ester. Uusikaupunki. Kertonut 1920 Helmer Winterille. 1717, 1806, 2850, 4180, 4316.</p>
+            <p>Lehtonen, Ester. Uudenkaupungin yhteislyseon oppilas. Kerännyt Uudestakaupungista 1924—1925 (Winterin kok.). 5053, 5087, 5088.</p>
+            <p>Lehtonen, Mikko. 73-v. 1928. Pyhäranta, Ropa. „Mökin mies, mitä parhain kertoja, erinomainen muisti.“ Kertonut 1928 Lauri Koskiselle. 4439, 4500, 4501, 4507, 4510, 4521, 4522, 4532, 4581.</p>
+            <p>Lehtonen, Robert. Yläne. Kuullut isältään. Kertonut 1913 Varma Rantasalolle. 892, 1325, 1869, 2187, 2393, 2552, 3712, 3867, 4244.</p>
+            <p>Lehtosaari, T. 50-v. 1913. Kertonut 1913 Yrjö Lehtosaarelle (Moision kansak.). 1569, 2117, 2305, 2495, 2641, 3029, 3132, 3705, 3830, 4012, 4072.</p>
+            <p>Lehtosaari, Yrjö. Moision kansak:n oppilas. Uskela. Kerännyt 1913 Uskelasta, nimimerkeistä päättäen nähtävästi omalta kotiväeltä kaikki (Moision kansak.). 751, 1157, 1290, 1569, 2117, 2305, 2495, 2641, 3029, 3132, 3371, 3705, 3830, 4012, 4072, 4357.</p>
+            <p>Leino, Edvard, tehtailija. Salo. Kertonut 1914? Niilo Kalliolle. 1071.</p>
+            <p>Leinonen, Elna. Yläne. Kertonut 1913 Varma Rantasalolle. 196, 232, 829.</p>
+            <p>Leinonen, Miina. 53-v. 1909. Pöytyä. Kuullut lapsena Pöytyän Raatikaisten kylässä. M.p. Pöytyän Kolkkisissa. Kertonut 1909 E. Vihervaaralle. 1956, 2168, 3326, 4138.</p>
+            <p>Leppämäki, Aina. 14-v. 1914. Pöytyä, Riihikoski. Kertonut 1916 E. Vihervaaralle. 4686, 5048, 5081.</p>
+            <p>Leppämäki, Hanna. 40-v. 1909. Pöytyä, Mäkiäinen. Kuullut pikkutyttönä Pöytyällä. Kertonut 1909 E. Vihervaaralle. 2170, 2995.</p>
+            <p>Lidström, Juho. Perniö, Korvenkylä. Kertonut 1914 V. Myrskylle. 1517, 2884.</p>
+            <p>Lietz (Litz), Gustaava. Muurla. Kertonut 1914 V. Saariluomalle. 3660.</p>
+            <p>Liipola, Juliana, talon emäntä. N. 55-v. 1891. Koski, missä syntynyt. Kertonut 1893 J. S. Liipolalle. 3544.</p>
+            <p>Lillberg, Bernt. Sauvo. Kertonut 1913 N. V. Mannerhoville. 488.</p>
+            <p>Lillberg, Edla. 76-v. 1913. Sauvo, missa syntynyt. Kertonut 1913 V. Saariluomalle. 797. 1264, 1732, 1910, 2259, 2468, 2682.</p>
+            <p>Lindbergin (Limperin) Lotta. 74-v. 1909. Merimasku. Kuullut Raisiossa, josta on muuttanut Merimaskuun. Kertonut 1909 E. A. Saarimaalle. 2199, 2416, 3689, 4240, 4247.</p>
+            <p>Lindeberg, Olga. Uskela. Moision kansak:n oppilas. Kerännyt 1913 Uskelasta (Moision kansak.). 874, 1570, 2118, 2306, 2496, 2642, 2930, 3475, 3792, 3831, 3912, 3913, 4013, 4325.</p>
+            <p>Lindell, F. U., urkuri. 80-v. 1925. Taivassalo. Kertonut 1925 Jalmari Saariolle. 1704, 2990.</p>
+            <p>Lindén, Vilhelm. 79-v. 1928. Pyhäranta, Rihtniemi. Kertonut 1928 Lauri Koskiselle. 4508.</p>
+            <p>Lindfors, Juho. 50-v. 1913. Suomusjärvi, Lahnajärvi, jossa syntynyt. Kertonut 1913 V. Saariluomalle. 12. 13, 53, 183, 305, 306, 319, 346, 373, 455, 509, 550, 551.</p>
+            <p>Lindfors, Riikka. Muurla, missä syntynyt. Kertonut 1912, 1913 V. Saariluomalle. 1171, 2007, 3040, 3485, 4268.</p>
+            <p>Lindgren, Johan. 70-v. 1913. Rymättylä. Kertonut 1913 Eemil Ketolaiselle. 323. Lindgren, Johanna. Muurla. Kertonut 1914 V. Saariluomalle. 1355, 1452, 1940, 2025, 3661.</p>
+            <p>Lindholm, Alma. 41-v. 1913. Rymättylä. Kertonut 1913 Eemil Ketolaiselle. 676. Lindholm, Gabriel. 87-v. 1915. Muurla. Kertonut 1915 V. Saariluomalle. 61, 95. Lindholm, Kalle. Synt. Muurlassa. M.p. Uskelassa. Kuullut pohjalaiselta. Kertonut 1913(?) V. Saariluomalle. 492.</p>
+            <p>Lindholm, Maria. 65-v. 1913. Rymättylä. Kertonut 1913 Eemil Ketolaiselle. 38, 1064, 1207.</p>
+            <p>Lindholm, Miina. Maaria. Kertonut 1913 Paavo Isotalolle. 931, 966, 1023, 1309, 1311, 1636, 1883, 2038, 2150, 2359, 3077, 3151, 3673, 4038.</p>
+            <p>Lindholm, Stiina. 74-v. 1928. Pyhäranta, Hirslahti. Syntyjään pyhärantalainen, Kertonut 1928 Lauri Koskiselle. 4530.</p>
+            <p>Lindqvist, Kustaa. 55-v. 1913. Muurla, missä syntynytkin. Kertonut 1913 V. Saariluomalle. 3484.</p>
+            <p>Lindqvist, Miina. Ks. Laine, Manda.</p>
+            <p>Lindqvist, Vilho. Mynämäki. Kertonut 1909, 19.10 E. A. Saarimaalle. 102, 300, 716. Lindroos, Hanna. 47 v. 1914. Kertonut 1914 Vilho Myrskylle. 637.</p>
+            <p>Lindroos, Johan. Kiikala, Rekjoki. Kertonut 1887 K. V. Petterssonille. 128, 129, 342.</p>
+            <p>Lindroos, K. 80-v. 1913. Uskela. Kertonut 1913 Sanni Linturille (Moision kansak.). 4158.</p>
+            <p>Lindroth, Josefiina. Uskela, missä synt. 1835. Oppinut useimmat isältään n. 1850. Kertonut 191.3 V. J. Kalliolle. 15, 136, 213, 285, 348, 406, 654, 740, 922, 1141, 1281, 1380, 1542, 2281, 2482, 2919, 3018, 4000.</p>
+            <p>Lindström. Synt. n. 1840. Askainen. Kertonut 1913 V. J. Kalliolle. 2421.</p>
+            <p>Lindström, A. Rymättylä. Kertonut 1913 Alli Koisaarelle. 3229, 3333.</p>
+            <p>Lindström, Eeva. Uskela. Kuullut n. 1870 Turussa äidiltään, joka oli kotoisin Paimiosta. M.p. Uskelassa. Kertonut 1909—14 Niilo Kalliolle. 193, 578, 772, 964, 1050, 1146, 1552, 1950, 2352, 2737, 3816, 4152.</p>
+            <p>Lindström, Fiija. 67-v. 1910. Pöytyä, Mustanoja. Kertonut 1910 E. Vihervaaralle. 1321.</p>
+            <p>Lindström, Helmi. 15-v. 1909. Pöytyä, Mustanoja. Kuullut äidiltään Fiija Lindströmiltä. Kertonut 1909 E. Vihervaaralle. 3096.</p>
+            <p>Lindström, Maria. Sauvo. Kertonut 1913 N. V. Mannerhoville. 1269.</p>
+            <p>Lindström, Oskar. Ks. Jansén.</p>
+            <p>Lindström (Linström), Tilda. 60— 70-v. 1913. Uskela. Kertonut 1913 Tilda Laineelle (Moision kansak.). 1154, 1222, 1384, 1439, 1440, 1566, 1835, 2113, 2302, 2493, 2929, 3130, 3474, 3644, 3704.</p>
+            <p>Linturi, Sanni. Moision kansak:n oppilas. Uskela. Kerännyt 1913 Uskelasta, pääasiallisesti kotiväeltään (Moision kansak,). 565.</p>
+            <p>Litz, Gustaava. Ks. Lietz.</p>
+            <p>Lundberg, Paul. 13-v. 1913. Turku. Kuullut Marttilassa syntyneeltä n. 40-vuotiaalta äidiltään. Kertonut 1917 E. Vihervaaralle. 4786.</p>
+            <p>Lundstedt, Matti, torppari ja kalastaja. Synt. 1844 Velkualla. M.p. Velkuan Vähässämaassa. Kertonut 1914 Niilo Kalliolle. 614.</p>
+            <p>Luodon Kraatarin emäntä. Synt. 1838. Velkua. Kertonut 1914 Niilo Kalliolle. 2573.</p>
+            <p>Luukka (Luukku?), Justiina. 60— 70-v. 1914. Vahto, synt. Pöytyällä. M.p. Vahdolla. Kertonut 1914 V. Saariluomalle. 1067, 1273, 1503, 3733.</p>
+            <p>Luukkan vanhaemäntä. 70-v. 1909. Vahto, synt. Pöytyälla, missä kuullut suurimman osan. Muuttanut 20:n vanhana Vahdolle. Kertonut 1909 E. A. Saarimaalle. 2164, 3955.</p>
+            <p>Luukku, Justiina. Ks. Luukka, Justiina.</p>
+            <p>Lääkinoja, Gabriel. 71-v. 1910. Synt. Yläneellä, missä useimmat nuorena oppinut. M.p. Pöytyällä. Kertonut 1909, 1910, 1911 E. Vihervaaralle. 49, 177, 231, 304, 429, 596, 978, 1036, 1062, 1204, 1259, 1401, 1665, 2185, 2391, 2551, 3083, 3502, 3549, 4309.</p>
+            <p>Löfgren, Hanna. 50-v. 1912. Pöytyä, Mustanoja. Kuullut Maariassa. Kertonut 1912 E. Vihervaaralle. 1051.</p>
+            <p>Lönnqvist, Anni. Halikon Toijalan kansakoulun oppilas. Kerännyt 1913 Halikosta (Toijalan kansakoulu). 4616, 4633, 4664, 4680, 4697, 4718, 4719, 4777, 4782, 4805, 4862, 4883, 4911, 4920, 4935, 4955, 4974, 4988, 5023, 5039, 5043, 5076, 5105, 5120, 5151.</p>
+            <p>Mannerjärvi, Arttur. Synt. n. 1893. Lemu. Kertonut 1913 V. J. Kalliolle. 146, 609, 610, 901.</p>
+            <p>„Manneruuska“, Haapasaaren räätälin vaimo. 82-v. 1909. Laitila, Untamala. Kertonut 1909 E. A. Saarimaalle. 1087, 1892, 3166, 3167, 3304, 3557, 3578.</p>
+            <p>Masalin, Eriika (Riikka) Serafiina. Sauvo. Kertonut 1913 N. V. Mannerhoville. 499, 1421, 1527, 1911, 2260, 2791, 3616, 3808, 3997, 4229.</p>
+            <p>Masalin, Kustaa Alfred. Sauvo. Kertonut 1913 N. V. Mannerhoville. 861, 1420, 3180, 3451, 4277.</p>
+            <p>Masalin, Otto Vihtori. 65-v. 1913. Sauvo, missä syntynytkin. Kertonut 191.3 N. V. Mannerhoville. 55, 56, 355, 356, 2912, 3180, 3310, 4140, 4387.</p>
+            <p>Masalin, Riikka Serafiina. Ks. Masalin, Eriika Serafiina.</p>
+            <p>Mattila, Anna Liisa. 64-v. 1916. Pöytyä, Ortenoja. Kertonut 1916 E. Vihervaaralle. 4671, 4947.</p>
+            <p>Mattila, Maria. N. 60-v. 1892. Marttilan pitäjän emäseurakunta. Kuullut lapsena. Kertonut 1892 A. Hildénille. 246.</p>
+            <p>Mattila, Miina. N. 50—60-v. 1892. Marttilan pitäjän emäseurakunta. Kuullut lapsena saman pitäjän Palaisten kylässä. Kertonut 1892 A. Hildénille. 970, 1054.</p>
+            <p>Mattila, E. Yläne. Kertonut 1920 Martti Haaviolle. 4236, 4239.</p>
+            <p>Mattsson, Karl, torppari ja merimies, Kaunelan torpan vanhaisäntä. Angelniemi. Synt. 1827 Perniön Alastalossa. M.p. Angelniemen kirkonkylässa. Kertonut 1914 Niilo Kalliolle. 57, 722.</p>
+            <p>Mattsson, Matti, torppari ja kalastaja. Piikkiö, Harvaluoto. Synt. 1848 Pielavedellä, tullut 1863 Piikkiöön. Kertonut 1914 Niilo Kalliolle. 192, 470, 471, 828.</p>
+            <p>Maaritsintytär, Hanna. 30-v. 1913. Vehmaa, Laitinen. Oppinut äidiltään. Kertonut 1913 Laina Hänniselle. 1364.</p>
+            <p>Merilä, L. Mietoinen. Kuullut n. 60 v. sitten isoäidiltään. Kertonut 1913 Olga Merilälle. 2203, 2425, 2761, 2841.</p>
+            <p>Merilä, Maikki. Mietoinen. Kuullut isoäidiltään. Kertonut 1913 Olga Merilälle. 3236.</p>
+            <p>Merilä, Mauno. Uskela. Moision kansak:n oppilas. Kerännyt 1913 Uskelasta (Moision kansak.). 883, 1572, 1573, 3372, 4044, 4087.</p>
+            <p>Merilä, Vihtor. 45-v. 1913. Vehmaa, Antola. Kertonut 1913 Laina Hänniselle. 4457.</p>
+            <p>Merilä, Väinö. Moision kansak:n oppilas. Uskela. Kerännyt 1913 Uskelasta (Moision kansak.). 3574, 2304, 2497, 2715, 3133, 3420, 3915, 4160.</p>
+            <p>Mickelsson, Ulrika. Angelniemi, Sapalahti. Synt. 1839 Uskelassa, tullut 45-vuotiaana Angelniemeen. Kertonut 1914 Niilo Kalliolle. 180, 1129.</p>
+            <p>Mikkelsson, Gabriel. 74-v. 1913. Perniö (synt. muualla, ollut kauan Perniössä). Kertonut 1913 V. Saariluomalle. 1116, 1216, 1513, 2077, 2242.</p>
+            <p>Mikola, Sofia. 55-v. 1928. Pyhämaa. Kertonut 1928 Iina Seppäselle. 2446.</p>
+            <p>Myllylä, Jalmari. Yläne. Kertonut 1913 Varma Rantasalolle. 1489, 1666, 1785, 1867, 3224, 3295.</p>
+            <p>Myrsky, Herman. 46-v. 1914. Perniö, Tuohitto, synt. Uskelassa. Kertonut 1914 Vilho Myrskylle. 408, 525, 526, 719, 792, 1118, 1367, 1368, 1410, 2014, 2015, 2245, 2461, 2677, 3000, 3803, 3993.</p>
+            <p>Myrsky, Miina. 50-v. 1914. Perniö, Tuohitto. Kertonut 1914 Vilho Myrskylle ja yhden Rauha Sjölundille. 282, 729, 790, 791, 903, 1218, 1248, 2462, 2624, 2972, 3360, 3408, 3444, 3773b, 3780, 3804.</p>
+            <p>Mäenpää, Maria. 44-v. 1910. Pöytyä, Pappilan lääni. Kertonut 1910,1911,1912 E. Vihervaaralle. 474, 594, 595, 706, 1728, 3398.</p>
+            <p>Mäenpää, Vihtori. 13-v. 1910. Pöytyä. Kuullut äidiltään Maria Mäenpäältä. Kertonut 1911 E. Vihervaaralle. 3080.</p>
+            <p>Mäki, Hanna. 71-v. 1913. Maaria. Kertonut 1913 Vilho Marjaselle. 1073, 1182.</p>
+            <p>Mäkilä, Anna. 16-v. 1910. Kuullut Raisiossa. M.p. Pöytyällä. Kertonut 1909 E. Vihervaaralle. 1682.</p>
+            <p>Mäkilä, Sofi. 76-v. 1913. Sauvo, synt. Perttelissä. Elänyt 60 v. Sauvossa. Kertonut 1913 V. Saariluomalle. 498,1126,1371, 1731,1759, 1983, 1994, 2018, 2087, 2625, 2681, 2973, 3452, 4317.</p>
+            <p>Mäkinen, Maria. N. 45-v. 1842. Marttilan pitäjän emäseurakunta. Kuullut lapsena samassa pitäjässä. Kertonut 1892 A. Hildénille. 338.</p>
+            <p>Mäkinen, Sofia. 57-v. 1913. Rymättylä. Kertonut 1913 E. Ketolaiselle. 1673.</p>
+            <p>Mäkipää, Helmi. Halikon Toijalan kansakoulun oppilas. Kerännyt 1913 Halikosta (Toijalan kansakoulu). 4681, 4698, 4720, 4731, 4780, 4816, 4826, 4828, 4846, 4912, 4921, 4989, 5003, 5004, 5024, 5044, 5117, 5152, 5153.</p>
+            <p>Mäntyniemi, Maria. 57-v. 1914. Muurla. Kertonut 1914 V. Saariluomalle. 1108, 1941, 2326, 3140, 3487, 3540, 3582.</p>
+            <p>Narjus, Juho. 74-v. 1913. Piikkiö, Harvaluoto. Kertonut 1913 Kalle Häyriselle. 1267,1625, 1751, 3346, 2734.</p>
+            <p>Nautelan Seppä. Lieto. Kertonut 1914 V. Saariluomalle. 24.</p>
+            <p>Niemi, Edvard. Pertteli, Vihmalon Niemen talon nuori-isäntä. Synt. 1882 Perttelissä. Kertonut 1914 Niilo Kalliolle. 190, 211, 425, 463, 1392, 2028, 4206, 5161.</p>
+            <p>Niemi, Kaarlo. 44-v. 1919. Halikko. Kertonut 1919 E. Vihervaaralle. 4303.</p>
+            <p>Niemi, Rauha. Uusikanpunki. Kertonut 1920 Helmer Winterille. 2439, 2849, 2866, 2867, 3103, 3248, 3576, 3721, 3748, 4315.</p>
+            <p>Nieminen, Elna. Halikon Toijalan kansakoulun oppilas. Kerännyt 1913 Salosta (Toijalan kansakoulu). 4632, 4648, 4677, 4694, S714, 4715, 4735, 4747, 4758, 4773, 4802, 4S13, 4837, 4843, 4878, 4880, 4888, 4894, 4898, 4908, 4917, 4934, 4952, 4973, 4984, 5000, 5019, 5034, 5038, 5073, 5102, 5114, 5146.</p>
+            <p>Nieminen, Kosti. Uskela. Moision kansak:n oppilas. Kerännyt 1913 Uskelasta (Moision kansak.). 924, 1930, 3833, 4358.</p>
+            <p>Niemmen, Lempi. Halikon Toijalan kansakoulun ospilas. Kerännyt 1913 Halikosta (Toijalan kansakoulu). 4617, 4665, 4682, 4699, 4762, 4778, 4817, 4884, 4922, 4956, 5005, 5025, 5045, 5077, 5106, 5118, 5154.</p>
+            <p>Niinisalo, Agnes. Kuusjoki, Raatala. Kansak:n oppilas. Kerännyt Kuusjoelta 1913 (Pennanen, S. 216—296). 770, 827, 849, 963, 1048, 1305, 1462, 1855, 1949, 2011, 2036, 2141, 2344, 2345, 2527, 2661, 2733, 2834, 3054, 3075, 3146, 3147, 3385, 3564, 3579, 3667, 3758, 3981, 4037, 4128, 4173, 4380.</p>
+            <p>Niinistö, Ester. Halikon Toijalan kansakoulun oppilas. Kerännyt 1913 Halikosta (Toijalan kansakoulu). 4618, 4634, 4666, 4683, 4700, 4721, 4749, 4779, 4783, 4806, 4818, 4829, 4858, 4863, 4885, 4905, 4923, 4942, 4957, 4975, 4990, 5010, 5026, 5046, 5107, 5119, 5155, 5156.</p>
+            <p>Niinivaara, Alina. Perniö. Kertonut 1919 Eemil Vihervaaralle. 1518, 4513, 5012.</p>
+            <p>Niittu-Sipi. Taivassalo, Palletvuori. Kertonut 1913 Laina Hänniselle. 3346.</p>
+            <p>Nikkarla, Ilmari. Synt. n. 1893. Lemu. Kertonut 1913 V. J. Kalliolle. 942.</p>
+            <p>Nikula, Ville. 50-v. 1928. Pyhäranta, Kauhianpään kylä. Talon isäntä. Kertonut 1928 Lauri Koskiselle. 4470.</p>
+            <p>Nilkkula, Kustaa. N. 60-v. 1892. Marttilan pitäjän emäseurakunta. Kuullut isävainajaltaan saman pitäjän. Euran kappelista (= Tarvasjoen pitäjästä). Kertonut 1892 A. Hildénille. 350, 363.</p>
+            <p>Nilkkula, Miina. N. 60-v. 1892. Marttilan pitäjän emäseurakunta. Kuullut äitivainajaltansa samasta pitäjästä. Kertonut 1892 A. Hildénille. 969, 2158.</p>
+            <p>Nissi, Kustaa. Rusko. Kertonut 1914 V. Saariluomalle. 504.</p>
+            <p>Nummela, Matti. Pöytyä, Karhunoja. Kertonut 1912 E. Vihervaaralle. 589.</p>
+            <p>Nummelin, Efraim. Synt. 1850. Pertteli, Kankareen torpan vanhaisäntä. Kuullut Link-vainaalta Salossa n. 30 v. sitten. M.p. Perttelin Haalin kulmalla. Kertonut 1914 Niilo Kalliolle. 17, 59, 210, 214, 271.</p>
+            <p>Nummelin, Hilma. 52-v. 1928. Uusikirkko. M.p. Pyhässämaassa. Kertonut 1928 Iina Seppäselle. 1243, 1805, 2771, 2991.</p>
+            <p>Nummelin, Ilma. 11-v. 1914. Vahto. Kertonut 1914 V. Saariluomalle. 2067.</p>
+            <p>Nummelin, Ville. 60-v. 1913. Perniö, Tuohitto, missä syntynytkin. Kertonut 1911 V. Saariluomalle ja 1915 Vilho Myrskylle, 109, 110.</p>
+            <p>Nummi, Eedla. Kuusjoki. Kansak:n oppilas. Kerännyt 1913 Kuusjoelta (Pennanen, S. 132—144). 962, 1303, 1947, 2525, 3051, 4033, 4374</p>
+            <p>Nummila, Evert. Muurla. Kertonut 1914 V. Saariluomalle. 18.</p>
+            <p>Nummila, Miina. N. 40-v. 1892. Marttila. Kuullut lapsena. Kertonut 1892 A. Hildénille. 1395, 3498.</p>
+            <p>Numminen. Miina. N. 30-v. 1892. Marttilan pitäjän emäseurakunta; kuullut lapsena vanhalta akalta samasta pitäjästä ja erään runon Kustaa Ahlgrenilta (n. 35-v.) samasta pitäjästä. Kertonut 1892 A. Hildénlle. 28, 334.</p>
+            <p>Nurmela, Josefiina. 45-v. 1910. Pöytyä. Kolkkinen. Kertonut 1911 E. Vihervaaralle. 1485, 2386, 2748, 2786.</p>
+            <p>Nurmela, Katri. 14-v. 1914. Pöytyä, Kolkkinen. Kertonut 1914 E. Vihervaaralle. 4847, 5009.</p>
+            <p>Nurmi, Alma. Pöytyä, Mustanoja. Kertonut 1919 E. Vihervaaralle. 2883, 3762, 4541, 5098.</p>
+            <p>Nurmi, Artturi. 11-v. 1912. Pöytyä, Kaulanperä. Kertonut 1912 E. Vihervaaralle. 2177.</p>
+            <p>Nurmi, August. 32-v. 1913. Uskela. Työmies. Kertonut 1913 Lempi Nurmelle (Moision kansak.). 3194.</p>
+            <p>Nurmi, H. 37-v. 1913. Uskela. Kertonut 1913 Lempi Nurmelle (Moision kansak.). 1931, 2119, 2308, 2498, 2900, 2932, 3648, 4359.</p>
+            <p>Nurmi, Lempi. Moision kansak:n oppilas. Uskela. Kerännyt 1913 Uskelasta (Moision kansak.). 1158, 1675, 1931, 2003, 2119, 2308, 2498, 2644, 2812, 2900, 2932, 3030, 3134, 3190, 3194, 3476, 3648, 3834, 3977, 4015.</p>
+            <p>Nurmi, V. 45-v. 1913. Uskela. Kertonut 1913 Lempi Nurmelle (Moision kansak.). 1158, 1575, 2003, 2644, 3030, 3834, 3977.</p>
+            <p>Nyberg, Evert. 58-v. 1922. Uskela. Kertonut Ella Nyyrikille (Moision kansak.). 1704, 3404, 3924.</p>
+            <p>Nyblom, Miina. Uusikirkko, Siivola. Kertonut 1915 Juho Aallolle. 2, 620.</p>
+            <p>Nygren, Vilhelmiina. Synt. 1846 Uskelassa. Kuullut n. 1855:n tienoilla osittain isältään, joka oli kotoisin Kiikalan Rekjoelta, äiti Kunsjoelta. Kertonut 1913 V. J. Kalliolle. 133, 184, 226, 317, 380, 411, 553, 642, 795, 917, 1125, 1278, 1370, 1419, 1524, 1982, 2085, 2466, 2790, 2911, 3004, 3450, 3615.</p>
+            <p>Nyyrikki, Ella. Moision kansak:n oppilas. Uskela. Kerännyt 1913 Uskelasta (Moision kansak.). Kertonut 1914 Niilo Kalliolle. 742, 752, 925, 927, 1291, 1430, 1442, 1550, 1576, 1577, 1761, 2004, 2106, 2289, 2309, 2635, 2645, 2716, 2804, 2813, 3031, 3257, 3373, 3477, 3598, 3636, 3649, 3903, 3916, 4004, 4104, 4117, 4149, 4162, 4355, 4360.</p>
+            <p>Oilin, Elisabeth. Perniö, Tuohitto. Synt. 1849 Marttilassa. Kertonut 1914 V. Myrskylle. 310, 341, 1275, 1409, 1816, 2068, 2080, 2910, 3308, 3609.</p>
+            <p>Ojamäki, Aakusti. N. 20-v. 1892. Marttila. Kuullut lapsena Marttilan pitäjässä. Kertonut 1892 A. Hildénille. 27, 2371.</p>
+            <p>Olenius, Amanta. 58-v. 1914. Uskela, Veitakkala. Kertonut 1914 Sofia Saarnelle 187, 655, 754, 1163, 1584, 1741, 1838, 2121, 2503, 2816, 2937, 3136, 3481, 3655, 3754, 3840, 3922, 4019.</p>
+            <p>Olenius, Ulrik. 79-v. 1921. Uskela. Kertonut 1921—1922 Ingrid Langille. 1166, 1404, 1446, 1590, 1742, 1935, 2124, 2316, 2621, 2649, 2874, 3421, 3793, 3844, 4225, 4283, 4329, 4539, 4614, 4635, 4636, 4875, 5158.</p>
+            <p>Orelli, pelimanni. 69-v. 1909. Nousiainen. Kertonut 1909 E. A. Saarimaalle. 981, 2204, 3110, 3237, 3299, 3717.</p>
+            <p>Orellin vaimo. N. 50-v. 1909. Nousiainen. Kotoisin Prunkkalasta, kuullut siellä. Kertonut 1909 E. A. Saarimaalle. 1185, 1746, 3432, 4406.</p>
+            <p>Orenius, Anna. N. 40-v. 1892. Marttilan pitäjän emäseurakunta. Kuullut mahd. lapsena Iitissä. Kertonut 1892 A. Hildénille. 1884.</p>
+            <p>Paananen, Hilda. Synt. 1888. Kotoisin Askaisten Lioluodolta. Kertonut 1913 V. J. Kalliolle. 1692.</p>
+            <p>Paanu, Emilja. 80-v. 1921. Kuusjoki. Kertonut 1921-1922 Ella Nyyrikille. 1178,1463, 1624, 1750, 1768, 2012, 2529, 2530, 2611, 2662, 2835, 2951, 3055, 3601, 3668, 4594, 4621, 4627, 5011, 5027, 5127.</p>
+            <p>Paasikivi, Aili Kyllikki. Uudenkaupungin yhteislyseon oppilas. Kerännyt Uudestakaupungista 1924—1925 (Winterin kok.). 4640, 4727, 4796, 4867, 4900, 4992.</p>
+            <p>Paavola, Samu. Mynämäki, kotoisin Laitilasta. Kertonut 1917 Jalo J. Nummiselle. 4511, 4524, 4551.</p>
+            <p>Pajunen. Yläne. Kertonut 1913 Varma Rantasalolle. 3226.</p>
+            <p>Paldán, Aino Sisko.Uudenkaupungin yhteislyseon oppilas. Kerännyt Uudestakaupungista 1924— 1925 (Winterin kok.). 4728, 4797, 4870, 4903, 4937, 4994.</p>
+            <p>Palenius, Iida. Suomusjärvi, Laideke. Kertonut 1911 Lauri Kivisaarelle. 1909.</p>
+            <p>Palmu, Siiri. Uudenkaupungin yhteislyseon oppilas. Kerännyt Uudestakaupungista 1924—1925 (Winterin kok.). 4868, 4993.</p>
+            <p>Palonen, Vihtori. Rusko. Kertonut 1914 V. Saariluomalle. 1337, 3690, 4293.</p>
+            <p>Palttala, itsellinen. 80-vuot. (1903) äijä Liedossa. Oli kuullut Möörön vanhaltaisännältä naapurikylässä. Kertonut 1903 Vihtori Toivoselle. 361.</p>
+            <p>Parikka, Anna. Vahto. Kertonut 1914 V. Saariluomalle. 1903, 2842, 3163.</p>
+            <p>Parikka, Anselm. 30-v. 1909. Kuullut pikku poikana äidiltään kotipitäjässään Vahdolla (äiti 70-v. 1909), oppinut myöskin 4-vuotiaana 70-vuotiaalta vahtolaiselta vaimolta. M.p. Pöytyän Haverin kylässä. Kertonut 1909—1914 E. Vihervaaralle, 1914 V. Saariluomalle. 41, 88, 223, 611, 612, 613, 681, 1027, 1098, 1213, 1344, 1501, 1698, 1902, 2065, 2208, 2429, 2570, 2985, 3301, 4047, 4208, 4262, 4311,4651, 5029.</p>
+            <p>Parikka, Ulla. Vahto. Kertonut 1914 E. Saariluomalle. 867, 1111, 1700, 2066, 3302, 4048.</p>
+            <p>Pavén, Gustava. Piikkiö, Niemenkulma, jossa synt. 1829. Kertonut 1914 Niilo Kalliolle. 175,191, 574, 929, 1000, 1012, 1180,1466, 1856, 2145, 2351, 2531, 2736, 3057, 3148, 3209, 3286, 3493, 3670, 3776, 3859, 4213.</p>
+            <p>Pavén, Hanna. Maaria, synt. Maarian Kärsämäen kylässä 1869. Kertonut 1914 J. M. Tallgrenille. 3932.</p>
+            <p>Pelander, Väinö. 13-v. 1913. Pertteli. Kertonut 1913 V. Saariluomalle. 687.</p>
+            <p>Peltolan muori. 74-v. 1909. Paattinen. Kuullut Prunkkalassa, josta muuttanut 5 v. sitten. Kertonut 1909 E. A. Saarimaalle. 1024, 1475, 1860, 3095, 3115, 3679, 3936, 4135.</p>
+            <p>Peltomaa, Matti. 75-v. 1909. Pöytyä. Kuullut nuorena kotipitäjässään Prunkkalassa. Kertonut 1909 E. Vihervaaralle. 1094.</p>
+            <p>Peltomaa, Tiina. 71-v. 1910. Pöytyä. Kertonut 1909, 1910 E. Vihervaaralle. 670, 2908.</p>
+            <p>Peltonen, Kiilo. Moision kansak:n oppilas. Uskela. Kerännyt 1913 Uskelasta (Moision kansak.). 753, 1578, 1985, 3256.</p>
+            <p>Peltosalo, Tilda. 35-v. 1914. Vahto. Kertonut 1914 V. Saariluomalle. 1214, 1233, 1699, 3966.</p>
+            <p>Penttilä, Liina. Taivassalo. Kertonut 1912 Sulo Kalliolle. 1701, 2211, 2667, 2668.</p>
+            <p>Penttilä, Vendla. Nousiainen. Kertonut 1919 E. Vihervaaralle. 1696, 2428.</p>
+            <p>Petäjä, Kaisu. 13-v. 1913. Pöytyä, Kolkkinen. Kertonut 1913 E. Vihervaaralle. 4764, 4808.</p>
+            <p>Petäjä, Manda. 41-v. 1910. Pöytyä. Kertonut 1910 E. Vihervaaralle. 1887.</p>
+            <p>Petäjä, Serafiina. 40-v. 1910. Pöytyä, Kolkkinen. Kertonut 1909, 1910 E. Vihervaaralle. 975, 1398, 1957, 2053, 2172, 2870, 3156.</p>
+            <p>Petäjä, Vendla. 42-v. 1917. Turku. Kuullut isoäidiltään pikku tyttöna Kiikalassa. Kertonut 1917 E. Vihervaaralle. 4929.</p>
+            <p>Pihlaja, Bertta. 50-v. 1913. Muurla. Kertonut 1913 V. Saariluomalle. 820, 876, 1106, 1107, 1172, 1298, 1386, 1598, 1725, 2725, 3538, 4074.</p>
+            <p>Pitkänen, Elli. Moision kansak:n oppilas. Uskela. Kerännyt 1913 Uskelasta (Moision kansak.). 1159, 1223, 1443, 1579, 2073, 2717, 2933, 3032, 3318, 3736, 3917, 4163, 4257.</p>
+            <p>Plumska, rihmankutoja. N. 60-v. 1909. Nousiainen. Kertonut 1909 E. A. Saarimaalle. 2426, 3949.</p>
+            <p>Prännäri, Aapo. Uskela, missä syntynytkin. Kertonut 1913 V. Saariluomalle. 171.</p>
+            <p>Puonti, Riika. N. 40-50-v. 1892. Marttilan pitäjän emäseurakunta. Kuullut lapsena samassa pitäjässä. Kertonut 1892 A. Hildénille. 1187, 1776, 1861, 2157, 2234.</p>
+            <p>Puukki, Aino. Uudenkaupungin yhteislyseon oppilas. Kerännyt Uudeltakirkolta 1924—1925 (Winterin kok.). 4963, 5008, 5064.</p>
+            <p>Pöylijoki, Helvi. 13-v. 1914. Pöytyä, Pappilan lääni. Kertonut 1914 E. Vihervaaralle. 4914.</p>
+            <p>Raikko (Raiko), Fiia. N.40-v. 1892. Marttilan pitäjän emäseurakunta. Kuullut lapsena samassa pitäjässä. Kertonut 1892 A. Hildénille. 68, 1055, 2372.</p>
+            <p>Rainio, Serafia. Maaria, Raunistula. Kertonut 1913 Laina Hänniselle. 3076.</p>
+            <p>Raitanen, August. 61-v. 1921. Uskela, Karjaskylä. Kertonut 1922 Aili Rintalalle. 1589.</p>
+            <p>Rannikko, Anna. 23-v. 1914. Angelniemi. Kertonut 1914 J. M. Tallgrenille. 2262, 2686.</p>
+            <p>Ranta, Fiina. 36-v. 1915. Merimasku, missä synt. Kertonut 1915 Yrjö Toivoselle. 3873.</p>
+            <p>Ranta, Kustaa. 69-v. 1914. Lieto. Kertonut 1914 V. Saariluomalle. 67, 117, 143, 194, 195, 322, 382, 668, 715, 946, 1093, 1253, 1772, 2041. 4039.</p>
+            <p>Ranta, Maria. 65-v. 1914. Lieto. Kertonut 1914 V. Saariluomalle. 1313, 2538.</p>
+            <p>Rantala (Rautala?), Aappo. 79-v. 1914. Perniö, Haaroinen. Synt. Kiskossa. Kertonut 1914 V. Myrskylle. 2676, 3528.</p>
+            <p>Rantala, Elsa. Moision kansak:n oppilas. Uskela, Karjaskylä. Kerännyt 1913 Uskelasta (Moision kansak.). 1932, 2310, 2646, 2934, 3478, 3650, 3835, 3918, 4016, 4361.</p>
+            <p>Rantala, Juho. 35-v. 1913. Perniö. Kertonut 1913 V. Saariluomalle. 36, 2673, 2909, 3059, 3606.</p>
+            <p>Rantala, Juho. Yläne. Kertonut 1914 Laina Hänniselle. 36.</p>
+            <p>Rantala, Kaapo. 79-v. 1914. Perniö, Haarois. Synt. Kiskossa. Kertonut 1914 V. Myrskylle. 1120 2081, 2246.</p>
+            <p>Rantala, Maria. 60-v. 1914. Yläne. Kertonut 1914 Laina Hänniselle. 158, 197, 233, 1496, 2194, 2403.</p>
+            <p>Rantala, Martta. Uskela. Moision kansak:n oppilas. Kerännyt 1913 Uskelasta (Moision kansak.). 810, 2311, 2499, 2647, 2935, 3191, 3479, 3651, 4164, 4362.</p>
+            <p>Rantanen, Hanna (Villen Hanna), itsellisen vaimo. N. 70-v. 1913. Yläne, Heinjoki. Kertonut 1913 Viktor Yliselle. 1495, 1671, 1789, 1872, 1963, 2189, 2400, 2558, 2618, 3102 b, 3764, 4391, 4395.</p>
+            <p>Rask: „Ukko Rask“. 76-v. 1913. Suomusjärvi, missä syntynyt. Kertonut 1913 V. Saariluomalle. 52, 641, 731.</p>
+            <p>Raunio, Saara. Salo. Kansak:n jatkokurssilainen. Kerännyt Salosta 1914 (Niilo Kallio 1282—1321). 817, 1592, 1593, 3374.</p>
+            <p>Reilander. 82-v. 1928. Pyhäranta, Nihden kylä. Suutari, vanha merimies, puhelias kertoja. Kertonut 1928 Lauri Koskiselle. 4471.</p>
+            <p>Reukka, Kristiina. 70-v. 1913. Suomusjärvi. Kertonut 1913 V. Saariluomalle. 1268, 2016, 2082, 2236, 2250, 3119, 3612, 3996, 4254.</p>
+            <p>Rietz, Edvart. Muurla. Kertonut 1914 V. Saariluomalle. 343.</p>
+            <p>Riihimäki, Tilda, torpan vanhaemäntä. 60—70-v. 1914. Rusko, synt. Kokemäellä. Kertonut 1914 V. Saariluomalle. 81, 235, 238, 1015, 1792, 1965, 2417, 2619, 2757, 3160, 3232, 4137, 4214.</p>
+            <p>Riikilä, Samuel. 65-v. 1913. Lokalahti, Mattinen. Kertonut 1913 Laina Hänniselle. 4506.</p>
+            <p>Riksten, Johannes. 85-v. 1928. Pyhämaa. Kertonut 1928 Iina Seppäselle. 2864.</p>
+            <p>Rinne, Mariaana. 54-v. 1913. Piikkiö, Harvaluoto. Kertonut 1913 Kalle Häyriselle. 1464, 2142, 2143 3056.</p>
+            <p>Rontteli, Hanna. 62-v. 1909. Pöytyä, Kolkkinen. Kuullut tyttönä Pöytyän Auvaisten kylässä. Kertonut 1909 E. Vihervaaralle. 1484, 1658, 1727, 1779, 1955, 2543.</p>
+            <p>Roos, S. 60-v. 1913. Maaria, Raunistula. Kotoisin Kiikalasta. Kertonut 1913 Laina Hänniselle. 2074 2149, 2593.</p>
+            <p>Rosblom, Kalle. Ks. Kataja, Tilda.</p>
+            <p>Roslin, Isak. 48-v. 1903. Maaria, synt. Hinnerjoella. Kertonut 1903 pojalleen I. A. Roslinille. 209.</p>
+            <p>Roslund, Elsie. Uudenkaupungin yhteislyseon oppilas. Kerännyt Uudestakaupungista 1924—1925 (Winterin kok.). 5089.</p>
+            <p>Rossala, Joose. N. 50—60v. 1892.</p>
+            <p>Marttilan pitäjän emäseurakunta. Kuullut lapsena samassa pitäjässä isävainajaltaan. Kertonut 1892 A. Hildénille. 330,1318.</p>
+            <p>Rossala, Maijastiina. N. 50-v. 1892. Marttilan pitäjän emäseurakunta. Kuullut lapsena samassa pitäjässä. Kertonut 1892 A. Hildénille 100, 1080.</p>
+            <p>Rosten, Aino. Uudenkaupungin yhteislyseon oppilas. Kerännyt Uudestakaupungista 1924—1925 (Winterin kok.). 5054, 5090, 5142.</p>
+            <p>Rosvall, Fredrik. Mynamäki. Kertonut 1909—1910 E. A. Saarimaalle. 47, 619.</p>
+            <p>Rukka, Juho. 75-v. 1913. Suomusjärvi. Kertonut 1913 V. Saariluomalle. 1993.</p>
+            <p>Ruohonen, Lyydi (Lyyli). 27-v. 1913. Pöytyä, Pappilan lääni. Kertonut 1913 E. Vihervaaralle. 1060, 2181, 2546, 2750, 2980, 4320.</p>
+            <p>Ruonan emäntä. 40-v. 1913. Suomusjärvi, Kettula. Synt. Suomusjärvellä. Kertonut 1913 V. Saariluomalle. 1219, 1415, 1819, 4131.</p>
+            <p>Ruonti, Fetu. Ks. Grönroos. Viktor.</p>
+            <p>Rytsälä, Lyyli. Uudenkaupungin yhteislyseon oppilas. Kerännyt Laitilasta 1924—1925 (Winterin kok.). 5059, 5096.</p>
+            <p>Saaren talon vanhaemäntä. Synt. 1844. Pertteli, Vihmalo. Kertonut 1914 Niilo Kalliolle. 375.</p>
+            <p>Saaren talon vanhaisäntä. Synt. 1844. Pertteli, Vihmalo. Kertonut 1914 Niilo Kalliolle. 64.</p>
+            <p>Saari, Jonne. 16-v. 1913. Rymättylä. Kertonut 1913 Eemil Ketolaiselle. 436, 440.</p>
+            <p>Saariluoma, Mari. 51-v. 1912. Muurla, missä syntynytkin. Kertonut 1912, 1913, 1914 V. Saariluomalle. 94, 140, 148, 149, 241, 242, 501, 566, 567, 568, 569, 692, 725, 726, 759, 819, 821, 886, 909, 958,1747,2024, 2820, 2942, 3201, 3280,3423,3568,3569,3570,3850, 3887, 3891, 3970, 3989, 4090, 4195, 4273, 4385, 4416.</p>
+            <p>Saariluoma, Ville. 52-v. 1912. Muurla, synt. Uskelassa. Kertonut 1912—1914 V. Saariluomalle. 4, 5, 709, 818, 1387, 1600, 1939, 2129, 2904, 4258, 4285.</p>
+            <p>Saarinen, Lauri. 50-v. 1909. Pöytyä, Pappilan lääni. Kertonut 1909 E. Vihervaaralle. 33, 73,104, 116, 389, 510, 633, 2379.</p>
+            <p>Saariska. Pertteli. Kuullut äitivainaaltaan Hetalta n. 60 v. sitten. Kertonut 1914 Niilo Kalliolle. 3425.</p>
+            <p>Saarni, Anna. Moision kansak:n oppilas. Uskela. Kerännyt 1913 Uskelasta (Moision kansak.). 1580, 1836, 2500, 2718, 2936, 3033, 3072, 3135, 3652, 4118, 4165.</p>
+            <p>Saarni, Kalle, satulaseppä. Pertteli, missä synt. 1865. Kertonut 1914 Niilo Kalliolle. 20, 426.</p>
+            <p>Saarni, Mathilda, torpan emäntä. Pertteli, synt. 1875 Kuusjoella. Kuullut Mäkelän muorilta Kuusjoella. Kertonut 1914 Niilo Kalliolle. 491.</p>
+            <p>Sahlsten, Eelin. Kuusjoki. Kansak:n oppilas. Kerännyt 1913 Kuusjoelta (Pennanen S.15—37). 764, 960, 1460, 1945, 2654, 2832, 3047, 3143, 3208, 3665, 3929, 4029, 4370.</p>
+            <p>Sainio, Ilmari. Piikkiö, Harvaluoto, kansak:n oppilas. Kertonut 1914 Kalle Häyriselle. 1882, 3856, 3857.</p>
+            <p>Sainio, Juho. 40-v. 1913. Piikkiö, Harvaluoto. Kertonut 1913 Kalle Häyriselle. 2347.</p>
+            <p>Salmenkaisten torpan emäntä. 40-v. 1913. Vehmaa, Varjoranta. Kertonut 1913 Laina Hänniselle. 4460.</p>
+            <p>Salmi, Kustaa. Marttilan pitäjän emäseurakunta. Kuullut lapsena samassa pitäjässä. Kertonut 1892 A. Hildénille. 364.</p>
+            <p>Salmi, Sofia. Yläne. Kuullut äidiltään n. 30 v sitten. Kertonut 1913 Varma Rantasalolle. 1491, 1868, 1975.</p>
+            <p>Salminen, Anna. N. 60-v. 1913. Lemu. Kuullut nuorena Lemun pitäjässä silloin 90 vuoden vanhalta isoaidiltään. Kertonut 1913 Saima Kärnälle. 353, 2423.</p>
+            <p>Salminen, Arvo. 14-v. 1910. Pöytyä. Kertonut 1911 E. Vihervaaralle. 2880, 2881, 2882.</p>
+            <p>Salminen, Iivari. Moision kansak:n oppilas. Uskela, Karjaskylä. Kerännyt 1913 Uskelasta (Moision kansak.). 811, 1160, 1385, l581, 2120, 2312, 2901, 3653, 3836, 3919.</p>
+            <p>Salminen, Ilmari. Moision kansak:n oppilas. Uskela, Karjaskylä. Kerännyt 1913 Uskelasta (Moision kansak.). 1161, 1292, 1837, 2313, 2501, 2902, 3034, 3837, 3978, 4363.</p>
+            <p>Salminen, Miina. Masku, Humikkala. Kertonut 1914 V. Saariluomalle. 1686, 1793, 2063, 4294, 4400.</p>
+            <p>Salminen, M. Maaria. Kertonut 1913 Vilho Marjaselle. 3861.</p>
+            <p>Salmisen emäntä. 45-v. 1913. Mietoinen, Valaskallio. Kertonut 1913 Laina Hänniselle. 4502.</p>
+            <p>Salokannel, Amanda. 70-v. 1914. Perniö, Kumjonpäa. Kertonut 1914 V. Myrskylle. 1516, 1907, 2079, 2244, 3443, 3608, 3895.</p>
+            <p>Salonen, Aini. Uudenkaupungin yhteislyseon oppilas. Kerännyt Lokalahdelta 1924—1925 (Winterin kok.). 4991, 5061.</p>
+            <p>Salonen, Elli. Piikkiö, Harvaluoto, kansak:n oppilas. 13-v. 1910. Kertonut 1910 Kalle Häyriselle. 1465, 1626, 2348, 3349, 2735, 3858.</p>
+            <p>Saloranta, Juho. 75-v. 1928. Pyhäranta, Ihoden kylä. Kertonut 1928 Lauri Koskiselle. 4484.</p>
+            <p>Samper ks. Sandberg.</p>
+            <p>Sandell, Elin. 35-v. 1913. Perniö, synt. Perniön Hakkalassa. Kertonut 1913 V. Saariluomalle. 2674, 3060.</p>
+            <p>Sandberg (Samper), Sofia. 50-v. 1913. Uskela. Kertonut 1913 Olga Lindebergille (Moision kansak.). 3912.</p>
+            <p>Sandell, (Marjaana) Gustaava. 82-v. 1913. Muurla, synt. Uskelassa.</p>
+            <p>Kertonut 1913, 1914 V. Saariluomalle. 1388, 1453, 1601, 1726, 1744, 1844, 1846, 2130, 2992, 3039, 4302.</p>
+            <p>Santala, Juho 1. Juha. 75-v. 1914. Masku. Kertonut 1914 V. Saariluomalle. 3439, 4232, 4401.</p>
+            <p>Sarin, Lempi. Muurla. Kertonut 1912 V. Saariluomalle. 3375.</p>
+            <p>Sarin, Tilda. Yli 50-v. 1913. Muurla, synt. Perttelissä, muuttanut 16-vuotiaana Muurlaan. Kertonut 1913 V. Saariluomalle. 1845, 2325, 3203, 3396.</p>
+            <p>Sarlund. Maaria, Raunistula. Kertonut 1913 Laina Hänniselle. 3428 3573, 3707, 4482, 4487, 4578.</p>
+            <p>Sarlund, Maria. 26-v. 1913. Maaria, Raunistula. Kertonut 1913 Laina Hänniselle. 1001, 3674, 4478, 4637.</p>
+            <p>Sarlund, Senja. 22-v. 1913. Maaria, Raunistula. Kertonut 1913 Laina Hänniselle. 4555, 4643.</p>
+            <p>Satola, Eeva. 52-v. 1928. Pyhäranta. „Mökin eukko Kodisjoen rajoilla, mainio kertoja.“ Kertonut 1928 Lauri Koskiselle. 4473.</p>
+            <p>Seger, Edla. N. 30-v. 1892. Marttilan pitäjan emäseurakunta. Kuullut isävainajaltaan samasta pitäjästä. Kertonut 1892 A. Hildénille. 386.</p>
+            <p>Seppälä, Sofia. Yläne. Kuullut useat vanhemmiltaan. Kertonut 1913 Varma Rantasalolle. 76, 331, 672, 830, 914, 1002, 1014, 1260, 1492, 1669, 1898, 1961, 2058, 2188, 2553, 2617, 3098, 3294, 3590, 3890, 4321.</p>
+            <p>Seppälä, Tilda. 40-v. 1914. Muurla. Kertonut 1914 V. Saariluomalle. 3282.</p>
+            <p>Seppälän emäntä. 81-v. 1914. Masku. Kertonut 1914 V. Saariluomalle. 865.</p>
+            <p>Seppä-Matti. 74-v. 1909. Yläne. Kertonut 1909 E. A. Saarimaalle. 45, 74.</p>
+            <p>Siik, Eufrosyne. Angelniemi, Lehtiniemen torpan emäntä. Synt. 1834 Kuusjoella, muuttanut 1868 Angelniemeen. Kertonut 1911 Niilo Kalliolle. 1375, 1733, 2092, 2472, 3455.</p>
+            <p>Siivonen, Emmi. Yläne. Kertonut 1913 Varma Rantasalolle. 4382.</p>
+            <p>Siivonen, Sofia. 58-v. 1928. Pyhämaa. Kertonut 1928 Iina Seppäselle. 1247, 1509, 1991, 2231, 2778, 3252, 3358, 3525, 3699, 3745, 4297.</p>
+            <p>Silén, Elin. Synt. toukok. 1868 Turussa. Äiti Huittisista, isä Janakkalasta, Turussa nainut. Nuorempia lapsia on kolme. „Siellä Turussa kuulin niin laulettavan. Äitini kukaties“ niin lauloi, kun nukutti lapsia. Muita lasten nukuttajia ei paljon kuullut lapsena. Laulanut 1888 A. A. Lähteenkorvalle. 1896.</p>
+            <p>Silenius, Ulriika. 50-v. 1913. Suomusjärvi; missä syntynytkin. Kertonut 1913 V.Saariluomalle. 1757.</p>
+            <p>Silkreen, A., rouva, n. 65-v. 1913, n. 70-v. 1922. Uskela. Kertonut 1913 Ella Nyyrikille (Moision kansak.), 1921—22 Ella Nyyrikille. 1167, 1291, 2004, 2125, 2317, 2318, 2592, 2600, 2716, 2974, 3477, 3482, 3649, 3845, 3916.</p>
+            <p>Simola, Eriika. 67-v. 1909. Pöytyä, Himainen. Kuullut nuorena kotipitäjässään. Kertonut 1909 E. Vihervaaralle. 1200, 1258, 2377.</p>
+            <p>Simola, Justus. N. 35-v. 1892. Marttilan pitäjän emäseurakunta. Kuullut lapsena samassa pitäjässä. Kertonut 1892 A. Hildénille. 43.</p>
+            <p>Simontytär, Serefiia (Serafiina). 85-v. 1914. Masku. Kertonut 1914 V. Saariluomalle. 2201, 2419.</p>
+            <p>Sinervo, Eedla. 80-v. 1914. Perniö. Kertonut 1914 V. Myrskylle. 51.</p>
+            <p>Sinervo, Evi. Uskela. Kansakoulun jatkokurssilainen. Kerännyt 1914 Uskelasta (Kallio Niilo 1322— 1343). 845, 1431, 2632, 2805.</p>
+            <p>Sinervo, Fiia. 80-v. 1913. Perniö, missä syntynytkin. Kertonut 1913 V. Saariluomalle. 1115, 1512, 1515, 2078, 2239, 2457, 3897.</p>
+            <p>Sinervä, Juha(-o). 50—60 v. 1914. Rusko. Kertonut 1914 V. Saariluomalle. 1335, 1500.</p>
+            <p>Sjöberg, Helma. Uudenkaupungin yhteislyseon oppilas. Kerännyt Uudestakaupungista 1924—1925 (Winterin kok.). 5095, 5129.</p>
+            <p>Sjölund, Alma. 51-v. 1928. Pyhämaa. Kertonut 1928 Iina Seppäselle. 1811.</p>
+            <p>Sjölund, Miina. 66-v. 1928. Pyhämaa. Kertonut 1928 Iina Seppäselle. 1215, 1720, 1810, 2230, 2588, 2669, 3102 c, 3105, 3523, 3524, 3594, 4054.</p>
+            <p>Skarp, Kaarle. 13-v. 1885. Perniö, Lupaja. Kertonut 1885 G. E. Hjorthille. 1114, 3307.</p>
+            <p>Snellman, Manda. Paimio, Vista. Synt. 1841 Paimiossa, asunut Liedossa vuodet 1865—1894, jonka jälkeen taas Paimiossa. Kertonut 1914 Niilo Kalliolle. 155, 176, 289, 359, 428, 452, 579, 632, 666, 699, 713,771, 930,1181, 1467, 1643, 1770, 2146, 2533, 3671, 4422.</p>
+            <p>Sofi: Pikku Sofi. 70-v. 1913. Sauvo, missä syntynytkin. Kertonut 1913 V. Saariluomalle. 2086.</p>
+            <p>Soini, Elli. Uskela. Kertonut 1912 Niilo Kalliolle. 2701.</p>
+            <p>Starck: Ukko Starck. Lieto. Kertonut 1914. V. Saariluomalle. 1773.</p>
+            <p>Stark, Johanna. 77-v. 1928. Pyhäranta, Rihtniemi. Kotoisin Kokemäeltä, mistä jo nuorena siirtynyt Pyhäänrantaan. Kuppari, ent. palvelijatar, hyvä kertoja. Kertonut 1928 Lauri Koskiselle. 4057, 4523.</p>
+            <p>Stenholm, Amanda. N. 65-v. 1915. Turku, synt. Merimaskussa. Kertonut 1915 Yrjö Toivoselle. 198, 293, 677, 782, 788, 841, 859, 1037, 1791, 1890, 1978, 2415, 2564, 2998, 3159, 3574, 3872, 3945, 4245, 4397, 5108, 5122.</p>
+            <p>Stenros, Frans. 83-v. 1928. Pyhäranta, Kaunissaaren kylä. „Mökin mies, hyvä kertoja, ystävällinen ukko.“ Kertonut 1928 Lauri Koskiselle. 4472.</p>
+            <p>Stenvall, Justiina. 70-v. 1909. Pöytyä, Pappilan lääni. Kuullut tyttönä kotipitäjässään Pöytyällä. Kertonut 1909—1913 E. Vihervaaralle. 44, 72, 384, 586, 1026, 1083, 1095, 1201, 1257, 1322, 1482, 1656, 1662, 1863, 1988, 2167, 2542, 2895, 2987, 3155, 3218, 3546, 3963, 4291, 4739.</p>
+            <p>Stigell, Vendla. 60-v. 1915. Turku. Kuullut Perttelissä. Kertonut 1915,1920 Martti Haaviolle. 1070, 1455, 1606, 2514, 3775, 4269, 4289.</p>
+            <p>Stohl, Edla. Muurla. Kertonut 1914 V. Saariluomalle. 4212.</p>
+            <p>Stang, Iida. Kuusjoki. Kansak:n oppilas. Kertonut 1909 V. J. Kalliolle. Kerännyt 1913 Kuusjoelta (Pennanen S. 145—175). 769, 1177, 1304, 1948, 2343, 2516, 2526, 2659, 3052, 3583, 3666, 4034, 4172, 4375.</p>
+            <p>Sundgren, Selma. Mietoinen. Kertonut 1913 Olga Merilälle. 4079.</p>
+            <p>Suomi, Aakusti, renki. N. 21-v. 1892. Marttilan pitäjän emäseurakunta. Kuullut Heikki Suutarilta (n. 60 v. vanha), joka on muuttanut Urjalasta Marttilaan. Kertonut 1892 A. Hildénille. 329.</p>
+            <p>Suomi, Aarne. Uskela. Kansak:n jatkokurssilainen. Kerännyt 1914 Uskelasta (Kallio Niilo 1344— 1395). 743, 814, 1432, 1921, 2107, 2290.</p>
+            <p>Suominen, Fiija. 38-v. 1909. Pöytyä, Riihikoski. Kuullut tyttönä kotipitäjässään Laitilassa. Kertonut 1909 E.Vihervaaralle. 1043.</p>
+            <p>Suominen, Hulda. 13-v. 1914. Pöytyä, Riihikoski. Kertonut 1914 E. Vihervaaralle. 5049.</p>
+            <p>Suominen, Martta. Mynämäki, Aikkinen. Kertonut 1917 Jalo J. Nummiselle. 1236, 1349, 1979, 2435, 2767, 2845, 3391, 4499.</p>
+            <p>Suominen, Miina. 51-v. 1911. Pöytyä. Mustanoja. Kertonut 1911 E. Vihervaaralle. 4442.</p>
+            <p>Suominen, Yrjö. Piikkiö. Kansak:n oppilas. 13-v. 1914. Kertonut 1914 Kalle Häyriselle. 1627.</p>
+            <p>Suomus, Toini, Salo. Kansak:n jatkokurssilainen. Kerännyt 1914 Salosta (Kallio Niilo 1396—1419). 928, 1842, 2322, 3483, 4106.</p>
+            <p>Suvanto, A. Muurla. Kertonut 1912 V. Saariluomalle. 3422.</p>
+            <p>Suvanto, Emilia. 35-v. 1913. Vehmaa, Rautilan Vihasten emäntä. Kertonut 1913 Laina. Hänniselle. 4456.</p>
+            <p>Sätilä, Amalia. 41-v. 1912. Pöytyä, Kolkkinen. Kertonut 1912 E. Vihervaaralle. 590. Taimi, Hilma. Yläne, Rantala. Kertonut 1914 Laina Hänniselle. 2193, 3942.</p>
+            <p>Takala, Aina (Aino). Rusko. Kertonut 1914 V. Saariluomalle. 783. 1891.</p>
+            <p>Takala, M. 60-v. 1913. Uskela. Kertonut 1913 Lempi Nurmelle (Moision kansak.). 3190, 3476.</p>
+            <p>Takala, Sofia. 69-v. 1914. Rusko. Synt. Vehmaalla. Kertonut 1914 V. Saariluomalle. 605, 954, 984, 1100,1228,1334,1684, 2235, 2566, 3592, 3768.</p>
+            <p>Talonen, Oskar. Synt. n. 1893. Lemu. Kertonut 1913 V. J. Kalliolle. 86.</p>
+            <p>Tammelin, Elin. N. 20-v. 1915. Turku. Oppinut äidiltään (54-v. 1915), joka synt. Merimaskussa. Kertonut 1915 Yrjö Toivoselle. 3688, 5109.</p>
+            <p>Tammelin, Juha (Juho). Uskela, jossa synt. 1838. Oppinut eriaikoina. Kertonut 1913 V. J. Kalliolle. 172, 418, 651, 803, 1017, 1138, 1220, 1279, 1378, 1539, 1735, 1736, 1917, 2100, 2898, 4189, 4256.</p>
+            <p>Tammelin, Sofia. Uskela. Synt. 1846 Sauvossa. Tullut 2-vuotiaana Halikkoon ja 21-v. Uskelaan, jossa m.p. Kertonut 1913 V. J. Kalliolle. 284, 561, 737, 738, 870, 907, 944, 1139, 1540, 1827, 1998, 2023, 2279, 3015, 3016, 3066, 3125, 3267, 3462, 4065, 4092, 4171.</p>
+            <p>Tammi, Serafia. 63-v. 1913. Lokalahti, Hakula. Kertonut 1913 Laina Hänniselle. 4455.</p>
+            <p>Tamminen, K. Poliisi. Salo. Synt. 1852 Orimattilassa. Kertonut 1913 Vappu Tammiselle. 1091, 1879, 2319, 3535.</p>
+            <p>Tammivirta, Kalle. Muurla. Kertonut 1912,1913 V. Saariluomalle. 409, 915, 916.</p>
+            <p>Tapomäen Maija. Synt. n. 1825. Pertteli, Kirkonkylä. Kertonut 1914 Niilo Kalliolle. 278.</p>
+            <p>Terho, Ulla. 60-v. 1913. Suomusjärvi, Kettula, jossa syntynytkin. Kertonut 1913 V. Saariluomalle. 1276, 1416, 1521, 4241.</p>
+            <p>Teräs: Sotamies Teräksen vaimo. N. 50-v. 1909. Masku. Kertonut 1909 E. A. Saarimaalle. 1345, 1685.</p>
+            <p>Tienhaara, Vilhelmiina. Synt. n. 1853 Kiikalassa. M.p. Uskelassa. Kertonut 1911 V. J. Kalliolle. 2084, 2255.</p>
+            <p>Tiensuu, Manta. N. 30-v. 1892. Marttila. Oppinut lapsena. Kertonut 1892 A. Hildénille. 1033, 1651, 1862, 2159, 3214, 3937.</p>
+            <p>Tillin vanhaemäntä. N. 70-v. 1909. Askainen. Kertonut 1909 E. A. Saarimaalle. 1688, 1966, 2420, 3505, 4434.</p>
+            <p>Toivonen, Alma. Uskela. Kertonut 1912 Niilo Kalliolle. 1546, 2873, 2920.</p>
+            <p>Toivonen, Kustaava. 73-v. 1928. Pyhämaa, Ketteli. Kertonut 1928 Iina Seppäselle. 2595, 3727, 4098.</p>
+            <p>Toivonen, Maria. 51-v. 1928. Sepän emäntä. Pyhämaa, Pitkäluoto. Kertonut 1928 Iina Seppäselle. 2449, 4608.</p>
+            <p>„Toivoska“. Uskela. Kertonut 1912 Niilo Kalliolle. 1548.</p>
+            <p>Tomander, Ida. 60-v. 1913. Perniö. Kertonut 1913 V. Saariluomalle. 1365, 1514, 1906, 2076, 2243, 2458.</p>
+            <p>Toponen, Oskari („Harjattulan Oskari“). Kakskerta. Kertonut 1910 A. Kangastukselle. 3740.</p>
+            <p>Tulonen, Kustaa. Työmies. Angelniemi, Kokkilan Kanamäki. Synt. 1857 A:ssä. Kertonut 1914 Niilo Kalliolle. 185, 302, 412, 555, 697, 798,1373,1529,1912, 2470, 3620.</p>
+            <p>Tuomi, Hanna. 75-v. 1913. Pöytyä, Kolkkinen. Kertonut 1913 E. Vihervaaralle. 1400, 1784, 2182, 2548.</p>
+            <p>Tuominen, Aina. 32-v. 1913. Sauvo, jossa synt. Kertonut 1913 V. Saariluomalle. 2885, 3005.</p>
+            <p>Tuominen, Betti. 40-v. 1913. Muurla. Syntynyt Pohjanmaalla Vaasan läänissä. Oppinut luult. siellä, mutta ei muistanut varmaan. M.p. Muurlassa. Kertonut 1913 V. Saariluomalle. 1748.</p>
+            <p>Tuominen, Jalmari. 29-v. 1913. Muurla, jossa syntynyt. Kertonut 1912 V. Saariluomalle. 1092.</p>
+            <p>Tuominen, Juho (J.). 70-v. 1912. Muurla. Kertonut 1912 V. Saariluomalle. 1092, 4089.</p>
+            <p>Tuominen, Juho. 47-v. 1910. Pöytyä, Mustanojan kylä. Kuullut Paimion Huson kylässä. Kertonut 1910 E. Vihervaaralle. 576, 665.</p>
+            <p>Tuominen, Kaarlo (Kalle). 44—45-v. 1913. Muurla, jossa synt. Kertonut 1913 V. Saariluomalle. 236, 484, 3281, 3320, 3537.</p>
+            <p>Tuominen, Lyydia. Kuusjoki. Kansak:n oppilas. Kerännyt 1913 Kuusjoelta (Pennanen S. 86— 100). 767, 2340, 3381, 3855, 4125, 4372.</p>
+            <p>Tuominen, Maria. 57-v. 1914. Maarian pappilan voudin vaimo. Synt. Loimaalla. Kertonut 1914 J. M. Tallgrenille. 1638, 1642, 2154, 3212, 3741, 3796, 3933.</p>
+            <p>Turpio, A. Rymättylä. Kertonut 1913 Alli Koisaarelle. 833, 1208, 3437.</p>
+            <p>Tätilä, Ville. N. 45-v. 1928. Pyhäranta, Rohdainen (kirkonkylä). „Mökin mies, hyvä kertoja, tietää ikäisekseen paljon“. Kertonut 1928 Lauri Koskiselle. 4554.</p>
+            <p>Uotilan isäntä. 60-v. 1914. Yläne. Kertonut 1914 Laina Hänniselle. 37, 78, 390, 852, 894.</p>
+            <p>Vaahtoranta, Tauno. Uudenkaupungin yhteislyseon oppilas. Kerännyt Uudestakaupungista 1924 —1925 (Winterin kok.). 5091.</p>
+            <p>Vahlsten, Justiina. N. 75-v. 1892. Eura (Tarvasjoki), Killala. Oppinut lapsena. Kertonut 1892 A. Hildénille. 2156.</p>
+            <p>Wahlman, Iris. Uudenkaupungin yhteislyseon oppilas. Kerännyt Uudestakaupungista 1924—1925 (Winterin kok.). 4966, 5057, 5094.</p>
+            <p>Vahlström, A. Rymättylä. Kertonut 1913 Alli Koisaarelle. 3971.</p>
+            <p>Vallin, Maria. 54-v. 1910. Uskela. Oppinut lapsena U:ssa. Kertonut 1910 Antti Valveelle. 58, 163, 239, 490, 564, 645, 734, 799, 856, 906, 1131, 1277, 1531, 1913, 2264, 2913, 3193, 3412, 3456, 3531, 3622.</p>
+            <p>Vallin, Mariana. Yläne. Kertonut 1913 Varma Rantasalolle. 35, 953, 1871, 2554, 2555, 3107, 4331.</p>
+            <p>Wallin, S. A. Kisko. Kertonut 1910 Antti Valveelle. 639.</p>
+            <p>Wallin, Salli. Uudenkaupungin yhteislyseon oppilas. Kerännyt Laitilasta 1924—1925 (Winterin kok.). 5097.</p>
+            <p>Valpola, Eeva. 73-v. 1928. Pyhäranta, Lahdenvainion kylä. Vahaemäntä. Kertonut 1928 Lauri Koskiselle. 4485.</p>
+            <p>Valtanen (Valtonen?), E. Rymättylä. Kertonut 1913 Alli Koisaarelle. 1330, 2197, 2409, 2411, 3085, 3230, 3965, 4045, 4078.</p>
+            <p>Valtonen, Adolfina. 71-v. 1928. Pyhämaa. Kertonut 1928 Iina Seppäselle. 2589, 2777, 2782, 3522, 4552.</p>
+            <p>Vanhakylä, Liisa. Synt. n. 1775, kuollut n. 1855. Askainen. Ks.</p>
+            <p>Veräjänkorva Juhanna.</p>
+            <p>Vanhapere. Emäntä. 45-v. 1928. Pyhämaa. Kertonut 1928 Iina Seppäselle. 1813, 3099, 4402.</p>
+            <p>Vapaavuori, Olga. Kansak:n oppilas. Kuusjoki. Kerännyt 1913 Kuusjoelta (Pennanen S. 1—14, 176—190). 2950, 3145, 3541, 3584, 4377.</p>
+            <p>Vapalan isäntä. Uusikirkko. Kertonut 1914 Laina Hänniselle. 4463.</p>
+            <p>Veräjänkorva, Helmi. Askainen. Kertonut 1914 Jalmari J. Jaatiselle, 1796, 2569, 3298, 3440, 3507, 3555, 3692, 3769, 4398.</p>
+            <p>Verajänkorva, Juhanna. Veräjänkorvan vanha muori (vanhaemäntä). Askainen. Synt. 1842 AskaistenVanhassakylässä. Oppinut isoäidiltään Liisalta (L. Vanhakylä), joka syntynyt n. 1775, kuollut n. 1855. Kertonut 1909 E. A. Saarimaalle ja 1913 V. J. Kalliolle. 83, 84, 119, 200, 296, 377, 607, 679, 899, 939, 9-10, 1209, 1210, 1209, 1229, 1687, 3234, 3296, 3336, 3504, 5162.</p>
+            <p>Veräjänkorva, Vilhelmiina. Askainen. Kertonut 1914 Jalmari J. Jaatiselle. 1211, 1690.</p>
+            <p>Wialén, Aina. Uudenkaupungin yhteislyseon oppilas. Kerännyt Uudestakaupungista 1924—1925 (Winterin kok.). 4901, 5092.</p>
+            <p>Vigrén, Amanda. 52-v. 1913. Maaria. Oppinut somerniemeläiseltä Hilma Nummelinilta ja maarialaiselta Kristian Lundénilta (72-v. 1913). Kertonut 1913 Laina Hänniselle. 4504.</p>
+            <p>Vihervaara, Sigrid. Pöytyä. Kertonut 1909, 1911 E. Vihervaaralle. 669, 4566.</p>
+            <p>Viik, Hilda. Angelniemi, Sapalahden kartano, Uustorppa. Torpanemäntä. Synt. 1861 Marttilassa. Ollut Somerolla (15—21 v:n ikään), Kuusjoella (21—27 v.), Marttilassa ja Uskelassa kummassakin pari vuotta, sen jälkeen Angelniemessä. Kertonut 1914 Niilo Kalliolle. 556, 1128, 1374, 1530, 1821, 1990, 2091, 2263, 2471, 3454, 3621, 3752.</p>
+            <p>Viiman, Maria (Gustava). 76-v. 1913. Perniö. Kertonut 1913 V. Saariluomalle. 454, 1089, 1117, 1366, 2241, 2672, 3264, 3527, 3730.</p>
+            <p>Viirlän vanhaemäntä. 71-v. 1909. Nousiainen. Kuullut Laitilassa, josta muuttanut 16 v. sitten Nousiaisiin. Kertonut 1909 E. A. Saarimaalle. 2585.</p>
+            <p>Viitanen, Eeva. 69-v. 1920. Pöytyä, Aura. Kertonut 1920 Elli Raitiolle. 3261, 3436, 3501, 3763, 4412, 5047.</p>
+            <p>Vikström, Maria. N. 70-v. 1910 (76v. 1912). Pöytyä. Suutari Vikströmin vaimo. Kuullut pikku tyttönä isoäidiltään. Kertonut 1911 T. V. Lehtisalolle ja 1912, 1913 E. Vihervaaralle. 951,1057, 1059, 1084, 1085, 1361, 1399, 1959, 1974, 2163, 2180, 2238, 2389, 2549, 2749, 3112, 3173, 3328, 3743, 3864, 3964, 4043, 4136, 4308.</p>
+            <p>Vilhelmintytär, Hilda. N. 20-v. 1892. Marttilan pitäjän emäseurakunta. Kuullut lapsena saman pitäjän Kosken kappelissa. Kertonut 1892 A. Hildénille. 972, 4408.</p>
+            <p>Viljanen, Kustaava. 64-v. 1928. Pyhämaa. Kertonut 1928 Iina Seppäselle. 1809, 2597, 2781, 2854, 2982, 3559, 3992, 4052, 4055.</p>
+            <p>Virta, J. Kaarina. Kertonut 1910 A. Kangastukselle. 4077.</p>
+            <p>Virta, Olga. 53-v. 1914. Uskela, Loppi. Oppinut Uskelassa. Kertonut Sofia Saarnelle 657, 756,801, 1165, 1381, 1587, 2123, 2940, 3037, 3843, 4021.</p>
+            <p>Virtanen, Augusta. 14-v. 1914. Muurla. Kertonut 1914 V. Saariluomalle. 1173, 4392.</p>
+            <p>Virtanen, Fiina. Maarian pappilan rengin vaimo. Synt. 1862 Orihpäässä. Kertonut 1914 J. M. Tallgrenille. 967, 1078, 1310, 1470, 1637, 1972, 2039, 2153, 2364, 2537, 2612, 2664, 2740, 2964, 3795, 4097.</p>
+            <p>Virtanen, Juha. 48-v. 1913. Pöytyä, Kolkkinen. Kuullut lapsena (n. 40 v. sitten) isoäidiltään. Kertonut 1913 E. Vihervaaralle. 3221, 3548, 3595, 3744.</p>
+            <p>Virtanen, Karuliina. Pertteli. Synt. 1865 Perttelin Kaukolassa. Kuullut Karuliina Alénilta (synt. 1830) Uskelan Isossakylässä. Kertonut 1914 Niilo Kalliolle. 286.</p>
+            <p>Virtanen, Lempi. Uskela. Moision kansak:n oppilas. Kerännyt 1913 Uskelasta (Moision kansak.). 1162, 1293, 1444, 1582, 1583, 1933, 2314, 2502, 2648, 2814, 2815, 2902, 3035, 3277, 3480, 3654, 3838, 3839, 3920, 3921, 4017, 4018, 4119, 4237, 4364.</p>
+            <p>Virtanen, Liisa. 51-v. 1913. Pöytyä, Kolkkinen. Kertonut 1913 E. Vihervaaralle. 950, 1016, 1864, 2056, 2387, 2545, 2890, 3082, 3220, 3435, 3711, 3863, 4175, 4186, 4243, 4292, 4384, 4389.</p>
+            <p>Virtanen, M. 40-v. 1913. Uskela. Kertonut 1913 Lempi Nurmelle (Moision kansak.). 4161.</p>
+            <p>Virtanen, Oskari. Sauvo. Kertonut 1913 N. V. Mannerhoville. 2090.</p>
+            <p>Virtanen, Selma. 12-v. 1913. Pöytyä, Kolkkinen. Kertonut 1913 E. Vihervaaralle. 4961.</p>
+            <p>Vuohenoja, Maria. 75-v. 1910. Pöytyä, Kaulansuu. Kertonut 1910 E. Vihervaaralle. 2055.</p>
+            <p>Vuorenpää: Torppari Vuorenpään äiti. Laitila, Pahojoki. Kertonut 1909 E. A. Saarimaalle. 1088, 1718, 2226, 2441, 3250, 3725.</p>
+            <p>Vuori, Edla. 70-v. 1914. Lieto. Kertonut 1914 V. Saariluomalle. 1360, 1471, 2365, 3058, 3543, 3934, 4040, 4230.</p>
+            <p>Vuorinen, Emil. 36-v. 1913. Muurla, missä Syntynytkin. Kertonut 1913 V. Saariluomalle. 1938, 3198, 3258, 3737, 3738.</p>
+            <p>Vuorinen, Helmi. 12-v. 1914. Pöytyä, Himainen. Kertonut 1914 E. Vihervaaralle. 4704.</p>
+            <p>Vuorinen, Juho. N. 40-v. 1892. Marttilan pitäjän emäseurakunta. Kuullut lapsena samassa pitäjässä. Kertonut 1892 A. Hildénille. 29, 383.</p>
+            <p>Vähämäki, Maria. K. 60-v. 1892. Marttilan pitäjän emäseurakunta. Kuullut lapsena samassa pitäjässä. Kertonut 1892 A. Hildénille. 367.</p>
+            <p>Väinölä, Aina. Uskela. Kertonut 1912 Niilo Kalliolle. 1547.</p>
+            <p>Vätti, Iida. 40-v. 1909. Pöytyä, Himainen. Kuullut lapsena Pöytyällä. Kertonut 1909 E. Vihervaaralle. 3682, 4042.</p>
+            <p>Vätti, Liisu. 9-v. 1912. Pöytyä, Himainen. Kertonut 1912 E. Vihervaaralle. 3386.</p>
+            <p>Vätti, Vihtori. 40-v. 1909. Pöytyä, Himainen. Kertonut 1909, 1913 E. Vihervaaralle. 1657, 4045, 4233.</p>
+            <p>Ylijoki, Esteri. 12-v. 1913. Pöytyä, Koivisto. Kuullut noin 70-vuotiaalta isoäidiltään. Kertonut 1913 E. Vihervaaralle. 4928.</p>
+            <p>Ylijoki, Maria. 62-v. 1909. Pöytyä, Koivisto. Synt. Orihpäässä, jossa oppinut pikku tyttönä. Kertonut 1909 E. Vihervaaralle. 1866.</p>
+            <p>Ylijoki, Tilda. 40-v. 1913. Pöytyä, Koivisto. Kertonut 1913 E. Vihervaaralle. 1061, 1487, 1663, 1865, 2179, 2390, 2550, 2862, 2997, 3223, 3547.</p>
+            <p>Yli-Kleme, Justiina.62-v. 1909. Loimaa, Pappinen. Kuullut lapsena äidiltään syntymäkylässään Pöytyän Karhunojalla. Kertonut 1909 E. Vihervaaralle. 2052, 2380.</p>
+            <p>Ylimattila, Ida, talon vanhaemäntä. 64-v. 1914. Paattinen. Kertonut 1914 V. Saariluomalle. 968,1052, 1079, 1473, 1648, 1774, 1897, 1953, 2370, 2539, 2744, 2837, 2969, 2986, 3152, 3213, 3259, 3289, 3431, 3496, 3677, 3709, 4082.</p>
+            <p>Yliräikkä, Aina. 40-v. 1913. Pöytyä, Mustanoja. Kertonut 1913 E. Vihervaaralle. 2385.</p>
+            <p>Ylistuvan vanha emäntä. Kustavi, missä synt. 1840. Kertonut 1914 Niilo Kalliolle. 616.</p>
+            <p>Ylä-Mattisen isäntä. Lokalahti. Kertonut 1913 Laina Hänniselle. 4454.</p>
+            <p>Ylöstupa, Eljas. Suomusjärvi, missä syntynytkin. Kertonut 1913 V. Saariluomalle. 4216.</p>
+            <p>Åkerman, Sofia („Vanhamyllyn mamma“), torpparin leski. Yli 70-v. 1913. Yläne, Heinijoki. Kertonut 1933 Viktor Yliselle. 979, 1790, 1899, 2013, 2059, 2190, 2401, 2594, 2876, 3158, 3870.</p>
+            <p>Österros. 64-v. 1928. Pyhämaa. Kertonut 1928 Iina Seppäselle. 2450, 2779, 3118. Österros, emäntä. Pyhämaa. Kertonut 1928 Iina Seppäselle. 2596, 3169.</p>
+        </div></body>
+    </text>
+</TEI>

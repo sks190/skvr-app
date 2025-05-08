@@ -1,0 +1,85 @@
+<?teipublisher template="alkulauseet.html" odd="teipublisher.odd" view="single"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>IV1: alkusanat</title>
+                <author>Väinö Salminen</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                <pubPlace>Helsinki</pubPlace>
+                <date>2024</date>
+                <availability>
+                    <p>Tekijänoikeudet: Suomalaisen Kirjallisuuden Seura</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Suoman kansan vanhat runot IV. Keski-Inkerin runot. 1. Toisinnot 1−1503.</title>
+                    <author>Väinö Salminen (toimittaja)</author>
+                    <pubPlace>Helsinki</pubPlace>
+                    <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                    <date>1925</date>
+                    <series>
+                        <title>Suomalaisen Kirjallisuuden Seuran toimituksia</title>
+                        <biblScope>140, I.</biblScope>
+                    </series>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURAN</p>
+            <p>TOIMITUKSIA.</p>
+            <p>140 OSA.</p>
+            <p>I.</p>
+            <p>SUOMEN KANSAN VANHAT RUNOT IV.</p>
+            <p>KESKI=INKERIN RUNOT.</p>
+            <p>1.</p>
+            <p>TOISINNOT 1–1503.</p>
+            <p>JULKAISSUT</p>
+            <p>
+                <hi rend="bold">VÄINÖ SALMINEN.</hi>
+            </p>
+            <p>HELSINKI 1925.</p>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURA JASUOMALAISEN KIRJALLISUUDEN SEURAN KIRJAPAINON O Y.</p>
+            <p>HELSINKI 1925,SUOMALAISEN KIRJALLISUUDEN SEURAN KIRJAPAINON OY.</p>
+            <p>Sisällysluettelo.</p>
+            <table type="contents">
+                <row rend="heading"><cell>Sivut</cell><cell/></row>
+                <row rend="heading"><cell>Alkulause</cell><cell/></row>
+                <row rend="heading"><cell>Julkaistut kokoelmat:</cell><cell/></row>
+                <row><cell>D. E. D. Europaeus n:t 1—626</cell><cell>1—219</cell></row>
+                <row><cell>H. A. Reinholm n:t 627—741</cell><cell>220—260</cell></row>
+                <row><cell>A. Törneroos n:t 742—910</cell><cell>261—328</cell></row>
+                <row><cell>Törneroos ja Tallqvist n:t 911—1341</cell><cell>329—546</cell></row>
+                <row><cell>O. Groundstroem n:t 1342—1503</cell><cell>547—635</cell></row>
+                <row rend="heading"><cell>Jäljennöksiä runonkerääjien käsialoista:</cell><cell/></row>
+                <row><cell>A. Törneroos</cell><cell>647</cell></row>
+                <row><cell>Th. Tallqvist</cell><cell>648</cell></row>
+            </table>
+            <p/>
+            <div>
+                <p>
+                    <hi rend="italics">Keski-Inkerillä</hi> käsitetään tässä julkaisussa laajahkoa aluetta, joka ulottuu Länsi-Inkeristä Nevajokeen ja Tosnajoen seuduille, niin että sen äärimäiset pitäjät idässä ovat Inkere ja Liissilä, jota vastoin Järvisaari ja Markkova luetaan Itä-Inkeriin kuuluviksi.</p>
+                <p>Käyttäessään tätä osaa on tutkijan otettava huomioon seuraavat seikat:</p>
+                <p>
+                    <hi rend="italics">Europaeuksen</hi> toisintojen muistiinpanopaikkojen suhteen ei ole kokonaan luotettava julkaisijan paikanmääräyksiin, jotka on osoitettu hakasien välissä. Epävarmimpiin kohtiin onkin merkitty vain laajempi saantialue, esim. Nuolijoki—Liissilä, jolla tarkoitetaan, että toisinto on saatu näiden tai niiden välillä olevien pitäjien, siis Nuolijoen, Tuuterin, Venjoen, Inkeren, Liissilän tienoilta.</p>
+                <p>
+                    <hi rend="italics">H. A. Reinholmin</hi> alkuperäinen käsikirjoitus on Suomen Muinaismuistoyhdistyksen omaisuutta. Suomalaisen Kirjallisuuden Seuran arkistossa talletetaan vain Reinholmin niistä tekemiä kopioita, jotka eivät aina täysin vastaa alkuperäisiä muistiinpanoja. (Ks. Reinholmin kokoelmista lähemmin G. J. Nymanin tutkimusta „H. A. Reinholm“).</p>
+                <p>
+                    <hi rend="italics">A. Törneroosin</hi> alkuperäisestä käsikirjoituksesta on vain osa säilynyt. Se löytyi sahajauhoista erään Ruoholahdenkadun varrella olevan talon ullakolta ja joutui seuran haltuun vasta v. 1916.</p>
+                <p>
+                    <hi rend="italics">Törneroosin</hi> ja <hi rend="italics">Tallqvistin</hi> nimellä käypä käsikirjoitus on luultavasti Tallqvistin käsialaa ja pitäisi sen sisältää mainittujen kerääjien saaliit puhtaaksikirjoitettuina. Todellisuudessa se on, jos on ollut useita toisintoja, kokoonpanoa. Ellei eri toisinjoja ole saatu sopeutumaan yhdeksi runoksi, on lisäsäkeitä kirjoitettu „toisintoina“ sivun alareunaan. Muistiinpanopaikkojen määrääminen on ollut mahdoton sen vuoksi, että puhtaaksikirjoitetun kokoelman runot ovat kokoonpanoa ja sitäpaitsi järjestetyt aineen mukaisesti, joten ei alkuperäinen saantijärjestys ole säilynyt. Kokoelmassa ei ole ainoatakaan laulupaikkaa merkittynä. Kerääjäin matkakertomuksesta käy selville, miltä paikkakunnilta he runoja saivat.  Mutta vasta jokaiseen toisintoon kohdistuva yksityiskohtainen vertailu saattaa ehkä selvittää, mistä mikin runo on kotoisin.</p>
+                <p>
+                    <hi rend="italics">O. Groundstroemin</hi> kokoelmasta on syytä käyttäjälle huomauttaa, että niiden virheellinen kieliasu ja monilukuiset väärin käsitetyt, väärin kuullut ja kirjoitetut sanat johtuvat siitä, että hän silloin osasi suomea melko puutteellisesti. Käsiala on kylläkin suurehkoa, mutta niin hätäisesti ja hermostuneesti sohittua, että lukutapa monesti jää epävarmaksi.</p>
+                <p>Helsingissä huhtikuun 14:ntenä 1925.</p>
+                <p>
+                    <hi rend="italics">Julkaisija.</hi>
+                </p>
+            </div>
+        </div></body>
+    </text>
+</TEI>

@@ -1,0 +1,250 @@
+<?teipublisher template="alkulauseet.html" odd="teipublisher.odd" view="single"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>V1: alkusanat</title>
+                <author>Väinö Salminen</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                <pubPlace>Helsinki</pubPlace>
+                <date>2024</date>
+                <availability>
+                    <p>Tekijänoikeudet: Suomalaisen Kirjallisuuden Seura</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Suoman kansan vanhat runot V. Itä- ja Pohjois-Inkerin runot. 1. Kertovaiset runot. Toisinnot 1−1354.</title>
+                    <author>Väinö Salminen (toimittaja)</author>
+                    <pubPlace>Helsinki</pubPlace>
+                    <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                    <date>1929</date>
+                    <series>
+                        <title>Suomalaisen Kirjallisuuden Seuran toimituksia</title>
+                        <biblScope>141, I.</biblScope>
+                    </series>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURAN TOIMITUKSIA.</p>
+            <p>
+                <hi rend="bold">141 OSA.</hi>
+            </p>
+            <p>
+                <hi rend="bold">I</hi>
+            </p>
+            <p>SUOMEN KANSAN VANHAT RUNOT V.</p>
+            <p>ITÄ- JA POHJOIS-INKERIN RUNOT.</p>
+            <p>1.</p>
+            <p>KERTOVAISET RUNOT.</p>
+            <p>TOISINNOT 1—1354.</p>
+            <p>JULKAISSUT VÄINÖ SALMINEN.</p>
+            <p>HELSINKI 1929.</p>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURA.</p>
+            <p>HELSlNKI 1929.</p>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURAN KIRJAPAINON OY.</p>
+            <p/>
+            <p>Sisällysluettelo.</p>
+            <table type="contents">
+                <row rend="heading"><cell>Sivut</cell><cell/></row>
+                <row rend="heading"><cell>Alkulause. Merkkien ja lyhennysten selityksiä.</cell><cell/></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">I. Kertovaisia runoja.</hi>
+                </cell><cell/></row>
+                <row><cell>Annikki ja kesti n:t 1—8</cell><cell>1—4</cell></row>
+                <row><cell>Emolle marjaan. Emon kuolo n:t 9—27</cell><cell>4—14</cell></row>
+                <row><cell>Hanhi kadonnut n:t 28—40</cell><cell>14—24</cell></row>
+                <row><cell>Hevonen kadonnut kyntäjältä (Pedot hevosen) n:t 41—48</cell><cell>24—29</cell></row>
+                <row><cell>Hevonen kadonnut veljeltä n:t 49—69</cell><cell>29—38</cell></row>
+                <row><cell>Hevosen varas oluen juojalta n:t 70—86</cell><cell>38—45</cell></row>
+                <row><cell>Inkeri ja lalmanti n:t 87—88</cell><cell>45—46</cell></row>
+                <row><cell>Iso härkä n:o 89</cell><cell>46</cell></row>
+                <row><cell>Iso sika n:t 90—97</cell><cell>46—48</cell></row>
+                <row><cell>Iso tammi n:t 98—109</cell><cell>48—52</cell></row>
+                <row><cell>Jalka kiveen n:t 110—113</cell><cell>52—53</cell></row>
+                <row><cell>Itkun tiedustelu n:t 114—117</cell><cell>53—55</cell></row>
+                <row><cell>Kalevanpojan kaski n:o 118</cell><cell>55</cell></row>
+                <row><cell>Kantele-jakso n:t 119—162</cell><cell>55—79</cell></row>
+                <row><cell>Katrina kotikananen n:t 163—174</cell><cell>79—84</cell></row>
+                <row><cell>Kauno kalaan. Sulhon kylvettäjä n:t 175—194</cell><cell>84—95</cell></row>
+                <row><cell>Kilpalaulanta n:t 195—202</cell><cell>95—97</cell></row>
+                <row><cell>Kirkon tarvispuun etsintä n:t 203—204</cell><cell>97—98</cell></row>
+                <row><cell>Kojosen poika, Konnulta ja Tuonelta kosinta, Vävyn tuomiset n:t 205—278</cell><cell>98—147</cell></row>
+                <row><cell>Kolmen käen kukunta n:t 279—284</cell><cell>147—149</cell></row>
+                <row><cell>Kouluun kotonta n:t 285—290</cell><cell>149—150</cell></row>
+                <row><cell>Kullervo-runosto n:t 291—341</cell><cell>151—186</cell></row>
+                <row><cell>Kultakangasta kutova neito n:t 342—350</cell><cell>186—189</cell></row>
+                <row><cell>Kultaneidon taonta n:t 351—368</cell><cell>189—202</cell></row>
+                <row><cell>Kuolonsanomat n:t 369—402</cell><cell>202—216</cell></row>
+                <row><cell>Laivassa surmattu veli n:t 403—407</cell><cell>216—218</cell></row>
+                <row><cell>Lauri Lappalainen n:t 408—433</cell><cell>218—235</cell></row>
+                <row><cell>Leino leski n:t 434—460</cell><cell>235—247</cell></row>
+                <row><cell>Lohikäärme ja neito n:t 461—497</cell><cell>247—265</cell></row>
+                <row><cell>Lunastettava neito n:t 498—515</cell><cell>265—278</cell></row>
+                <row><cell>Luojan virsi n:t 516—518</cell><cell>278—280</cell></row>
+                <row><cell>Luomisruno n:t 519—564</cell><cell>280—296</cell></row>
+                <row><cell>Läksin suolle sotkuilleni n:t 565—569</cell><cell>296—297</cell></row>
+                <row><cell>Mansikka mäellä huusi n:t 570—577</cell><cell>297—298</cell></row>
+                <row><cell>Mari marjasta tulee n:t 578—579</cell><cell>298</cell></row>
+                <row><cell>Marjatielle kadonnut n:o 580</cell><cell>299</cell></row>
+                <row><cell>Marketan runo n:t 581—619</cell><cell>299—325</cell></row>
+                <row><cell>Meren kosijat n:t 620—662</cell><cell>325—348</cell></row>
+                <row><cell>Meren neito, metsän sulho n:o 663</cell><cell>348</cell></row>
+                <row><cell>Miehentappaja neito n:t 664—676</cell><cell>348—358</cell></row>
+                <row><cell>Myyty neito n:t 677—701</cell><cell>358—374</cell></row>
+                <row><cell>Neito kasvoi Kaaritsassa n:t 702—703</cell><cell>375</cell></row>
+                <row><cell>Oljamissa käynti n:t 704—747</cell><cell>375—408</cell></row>
+                <row><cell>Pilviin viety n:t 748—767</cell><cell>408—417</cell></row>
+                <row><cell>Pilvivene n:t 768—773</cell><cell>417—419</cell></row>
+                <row><cell>Pontuksen laivaretki n:t 774—790</cell><cell>419—425</cell></row>
+                <row><cell>Purren itku n:o 791</cell><cell>425—426</cell></row>
+                <row><cell>Päivän kera kilpaa n:t 792—795</cell><cell>426—427</cell></row>
+                <row><cell>Päivän päästö n:t 796—800</cell><cell>427—429</cell></row>
+                <row><cell>Riionpoika ja Katri n:o 801</cell><cell>429—430</cell></row>
+                <row><cell>Ristitty metsä n:t 802—803</cell><cell>430—431</cell></row>
+                <row><cell>Saarenmaan palo n:t 804—809</cell><cell>431—432</cell></row>
+                <row><cell>Saaren neito n:t 810—824</cell><cell>432—437</cell></row>
+                <row><cell>Sairastava neito n:t 825—835</cell><cell>437—441</cell></row>
+                <row><cell>Sineen ja mataraan n:t 836—837</cell><cell>442</cell></row>
+                <row><cell>Satoi ukko uutta lunta n:o 838</cell><cell>442</cell></row>
+                <row><cell>Sisaren turmelus n:t 839—856</cell><cell>442—460</cell></row>
+                <row><cell>Soljella sotaan n:t 857—-858</cell><cell>460</cell></row>
+                <row><cell>Sormin soutu n:t 859—869</cell><cell>460—463</cell></row>
+                <row><cell>Sotamiehen otto (rekryyttirunot) n:t 870—902</cell><cell>463—474</cell></row>
+                <row><cell>Sotasanomat n:t 903—918</cell><cell>474—482</cell></row>
+                <row><cell>Suka mereen. Miekka merestä n:t 919—938</cell><cell>482—492</cell></row>
+                <row><cell>Taivaankappalten kosinta n:t 939—940</cell><cell>492</cell></row>
+                <row><cell>Tytärten hukuttaja n:t 941—985</cell><cell>492—522</cell></row>
+                <row><cell>Varas koristeet n:t 986—1017</cell><cell>523—537</cell></row>
+                <row><cell>Varkaalle menijä neito n:t 1018—1029</cell><cell>538—544</cell></row>
+                <row><cell>Vedenkantaja neito n:t 1030—1044</cell><cell>544—551</cell></row>
+                <row><cell>Vene ja purje puhki kivisillä kengillä n:t 1045—1061</cell><cell>551—559</cell></row>
+                <row><cell>Veneenveisto ja laivanretki n:t 1062—1094</cell><cell>559—577</cell></row>
+                <row><cell>Veneeseen pyrkivä neito n:t 1095—1104</cell><cell>578—582</cell></row>
+                <row><cell>Viron orja n:t 1105—1132</cell><cell>582—600</cell></row>
+                <row><cell>Yli meren menijä n:t 1133—1138</cell><cell>600—601</cell></row>
+                <row><cell>Yöjalassa kymmenen kylää käynyt poika n:t 1139—1149</cell><cell>601—604</cell></row>
+                <row><cell>Äidin vaivojen palkinto n:t 1150—1156</cell><cell>604—608</cell></row>
+                <row rend="heading"><cell>Sivut</cell><cell/></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">II. Erilaisia runoja.</hi>
+                </cell><cell/></row>
+                <row><cell>Ajatteli amputauti n:o 1157</cell><cell>609</cell></row>
+                <row><cell>Aloin syötellä oroja n:o 1158</cell><cell>609—610</cell></row>
+                <row><cell>Hullu poika villipyörä n:t 1159—1162</cell><cell>610—611</cell></row>
+                <row><cell>Humalan ja ohran keskustelu n:t 1163—1168</cell><cell>611—612</cell></row>
+                <row><cell>Hämeen ihmeet n:t 1169—1187</cell><cell>612—616</cell></row>
+                <row><cell>Iso miulle orosen osti n:t 1188—1193</cell><cell>616—619</cell></row>
+                <row><cell>Isä neuvo poikajaasen, sika porsastaan n:o 1194</cell><cell>619</cell></row>
+                <row><cell>Karjalan kaset palavat n:t 1195—1203</cell><cell>619—621</cell></row>
+                <row><cell>Kolme kosijaa, ruunaa, riihtä n:t 1204—1205</cell><cell>621—622</cell></row>
+                <row><cell>Kukkalatva kuusi n:t 1206—1210</cell><cell>622—623</cell></row>
+                <row><cell>Kukko lauloi Kuurinmaalla n:t 1211—1212</cell><cell>623</cell></row>
+                <row><cell>Kurjet soilla riitelevät n:t 1213—1224</cell><cell>623—625</cell></row>
+                <row><cell>Kuulin kuin orava laulo n:t 1225—1226 a</cell><cell>625—626</cell></row>
+                <row><cell>Kynnin kymmenen vakoa n:t 1227—1228</cell><cell>626—627</cell></row>
+                <row><cell>Lintunen lehossa laulo: Luulisin ison tulevan n:t 1229—1234</cell><cell>627—629</cell></row>
+                <row><cell>Läksi lintu lentämään n:o 1235</cell><cell>629—630</cell></row>
+                <row><cell>Läksin hirven hiihäntään n:t 1236—1238</cell><cell>630</cell></row>
+                <row><cell>Läksin linnaan likaksi n:t 1239—1249</cell><cell>630—632</cell></row>
+                <row><cell>Läksin neittä noutamaan n:o 1250</cell><cell>632</cell></row>
+                <row><cell>Löysin kultaisen omenan n:t 1251—1253</cell><cell>633</cell></row>
+                <row><cell>Mie oon mies metsän kävijä n:o 1254</cell><cell>634</cell></row>
+                <row><cell>Mikä tuolla näkyy? n:t 1255—1257</cell><cell>634—635</cell></row>
+                <row><cell>Morsiamen kuolo n:o 1258</cell><cell>635—636</cell></row>
+                <row><cell>Olin etsivä oroista n:t 1259—1261</cell><cell>636</cell></row>
+                <row><cell>Onko teiän Osmolassa? n:t 1262—1263</cell><cell>636—637</cell></row>
+                <row><cell>Onnensa kylvettäjä ja pieksijä n:t 1264—1269</cell><cell>637—638</cell></row>
+                <row><cell>Pahasulhollinen. (Neitonen mäellä itki) u:t 1270—1279</cell><cell>639—644</cell></row>
+                <row><cell>Paimenessa pillin tehnyt. Vuohen kanssa voittosilla n:o 1280</cell><cell>644</cell></row>
+                <row><cell>Pauloja punova paha mies n:t 1281—1282</cell><cell>644—646</cell></row>
+                <row><cell>Päänpesu lipeällä n:o 1283</cell><cell>645</cell></row>
+                <row><cell>Repo itki riekutteli n:t 1284—1294</cell><cell>646—648</cell></row>
+                <row><cell>Susi lausui lampahalle n:o 1295</cell><cell>648</cell></row>
+                <row><cell>Älä tulp tupaan n:o 1296—1302</cell><cell>648—650</cell></row>
+                <row rend="heading"><cell>Sivut</cell><cell/></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">Katkelmia.</hi>
+                </cell><cell/></row>
+                <row><cell>Ilmarinen n:o 1303</cell><cell>650</cell></row>
+                <row><cell>Iso sikan:t 1304—1306</cell><cell>650</cell></row>
+                <row><cell>Isä illalla tulee n:o 1307</cell><cell>651</cell></row>
+                <row><cell>Jaaman tammat tappeliit n:o 1308</cell><cell>651</cell></row>
+                <row><cell>Kullervo-runoa n:o 1309</cell><cell>651</cell></row>
+                <row><cell>Meren haravoiminen n:o 1310</cell><cell>651</cell></row>
+                <row><cell>Merenkylpijä neito n:o 1311</cell><cell>651—652</cell></row>
+                <row><cell>Ostin mettä, join olutta n:o 1312</cell><cell>652</cell></row>
+                <row><cell>Ristitty metsä n:o 1313</cell><cell>652</cell></row>
+                <row><cell>Saarenmaan saunat lämpiävät n:o 1314</cell><cell>652</cell></row>
+                <row><cell>Sormin soutu n:t 1315—1316</cell><cell>653</cell></row>
+                <row><cell>Sotamiehen otto n:t 1317—1318</cell><cell>653</cell></row>
+                <row><cell>Suka mereen n:o 1319</cell><cell>653</cell></row>
+                <row><cell>Vene puhki kivisillä kengillä n:t 1320—1321</cell><cell>653—654</cell></row>
+                <row><cell>Väinämöinen n:t 1322—1323</cell><cell>654</cell></row>
+                <row rend="heading"><cell>Sivut</cell><cell/></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">Erilaisista aiheista yhdistettyjä.</hi>
+                </cell><cell/></row>
+                <row><cell>N:t 1324—1330</cell><cell>664—661</cell></row>
+                <row rend="heading"><cell>Sivut</cell><cell/></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">Tilapäisluonteisia?</hi>
+                </cell><cell/></row>
+                <row><cell>Isä viinan juoja n:o 1331</cell><cell>.662</cell></row>
+                <row><cell>Korppi kalujen tekijänä n:o 1332</cell><cell>662</cell></row>
+                <row><cell>Meiän pappi paksuvatsa n:t 1333—1334</cell><cell>662</cell></row>
+                <row><cell>Miltä maalta kotoisin n:o 1335</cell><cell>662</cell></row>
+                <row rend="heading"><cell>Sivut</cell><cell/></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">Lisiä.</hi>
+                </cell><cell/></row>
+                <row><cell>Emon kuolo n:t 1336—1337</cell><cell>663</cell></row>
+                <row><cell>Hevonen kadonnut veljeltä n:t 1338—1339 a</cell><cell>663—664</cell></row>
+                <row><cell>Iso sika n:o 1340</cell><cell>664</cell></row>
+                <row><cell>Itkun tiedustelu n:o 1341</cell><cell>664</cell></row>
+                <row><cell>Ajatteli amputauti n:o 1342</cell><cell>665</cell></row>
+                <row><cell>Kanteleen soitto n:o 1343</cell><cell>665</cell></row>
+                <row><cell>Kaanteleen synty n:o 1344</cell><cell>665—666</cell></row>
+                <row><cell>Kojosen kosinta n:t 1345—1346</cell><cell>666—667</cell></row>
+                <row><cell>Kullervo-runo n:o 1347</cell><cell>667—669</cell></row>
+                <row><cell>Laivassa surmattu veli n:t 1348—1349</cell><cell>669—670</cell></row>
+                <row><cell>Leino leski n:o 1350</cell><cell>670</cell></row>
+                <row><cell>Oljamissa käynti n:o 1351</cell><cell>670</cell></row>
+                <row><cell>Paha anoppi n:o 1352</cell><cell>671</cell></row>
+                <row><cell>Revon itku n:o 1353</cell><cell>672</cell></row>
+                <row><cell>Sotasanomat n:o 1354</cell><cell>672</cell></row>
+            </table>
+            <p/>
+            <p>Itä- ja Pohjois-Inkerin runoalue käsittää Järvisaaren ja Markkovan pitäjät Laatokan eteläpuolella sekä kaikki Nevajoen pohjoispuolella olevat pitäjät Suomen rajalle asti. Tämän alueen runot on julkaistu aineenmukaisesti  järjestettyinä eikä kuten Länsi- ja Keski-Inkeri kokoelmittain. Tämä on ollut mahdollista sen vuoksi, ettei alueelta ole ollut kerääjäin kokoonpanemia toisintoja. Silti on tässä, kertovat runot sisältävässä niteessä, monia laulajien itsensä yhdistämiä toisintoja, usein sellaisiakin, että käyttäjä voi arvella, että parista kolmesta runosta yhteenliitetty toisinto olisi voitu yhtä hyvin liittää toiseenkin ryhmään. Kukin toisinto on silti julkaistu vain yhdessä paikassa eikä toiseen runoon kuuluvaa katkelmaa ole julkaistu uudelleen niinkuin Karjalan runot sisältävissä niteissä. Syynä on ollut se, että julkaisu olisi tullut siten huomattavasti laajemmaksi ja kalliimmaksi. Jotta tutkija löytäisi muihin runoihin eksyneet katkelmat, liitän tämän alueen viimeisen osan alkuun mahdollisimman yksityiskohtaisen aineenmukaisen luettelon. Samalla mainitsen, että Länsi- ja Keski-Inkeristä on olemassa laatimani erisnimien luettelo, jonka käsikirjoitus on Kalevalaseuran hallussa ja sellainen valmistuu myöskin Itä- ja Pohjois-Inkeristä samalla kuin nämä osat. Toivottavasti ottaa sen joku seura julkaistavakseen, joten tutkija aineenmukaisten ja erisnimien luetteloiden avulla valtavasta toisintomääristä löytää haluamansa ainekset.</p>
+            <p>Julkaisun järjestelystä mainittakoon:</p>
+            <p>Kertovat runot on julkaistu aakkosjärjestyksessä eikä niinkuin Karjalan runot Kalevalan runojen järjestystä noudattaen. Sitä paitsi ei ole eroitettu Kalevala-aiheisia ja muita kertovia runoja eri osastoiksi, sillä Inkerissä eroittelu olisi käyttöä tehnyt tutkijalle vain monimutkaisemmaksi.</p>
+            <p>Saman runon toisinnot on julkaistu pitäjittäin järjestettyinä etelästä pohjoiseen, vieläpä yritetty samaa järjestelyä sovelluttaa eri pitäjien kyliinkin. Jos kylä ei ole ollut selville saatavissa, on vanhimmat muistiinpanot julkaistu ensin, esim. Europæuksen ja Reinholmin.</p>
+            <p>Eri kerääjien muistiinpanemista toisinnoista:</p>
+            <p>
+                <hi rend="italics">V.</hi> <hi rend="italics">Alavalla</hi> ei ole ollut tilaisuutta verrata kaikkia tässä niteessä julkaistuja muistiinkirjoittamiaan toisintoja alkuperäisiin stenogrammeihin. Siitä johtuu myöskin, ettei julkaisijan ole ollut mahdollista saada selville muutamien toisintojen laulajia. Niin valitettava kuin tämä seikka onkin, ei se työn kiireellisyyden vuoksi ole ollut autettavissa, sen vuoksi, ettei tällä etevällä kerääjällä ole nykyisin ollut aikaa laajan ja rikkaan kokoelmansa tarkistamiseen.</p>
+            <p>
+                <hi rend="italics">A. A. Boreniuksen</hi> (Lähteenkorvan) runoihin liittyvät monilukuiset alamuistutukset johtuvat alkuperäisessä käsikirjoituksessa olevista korjauksista  ja korjausten korjauksista, joita on sekä pitkin että poikin. Siihen, että käsikirjoitus on sellaiseksi muodostunut, on syynä se, että hän on samaan toisintoon merkinnyt sekä sanellen että laulaen esitetyt muodot, jotka eroavat usein huomattavasti toisistaan. Vieläpä toisenkin laulajan tekemät korjaukset tahi lisät on kirjoitettu samaan perusmuistiinpanoon.</p>
+            <p>
+                <hi rend="italics">H. A. Reinholmin</hi> kokoelmista ovat tutkijat käyttäneet hänen myöhemmin puhtaaksikirjoittamiaan ja osaksi kokoonpanemiaan tahi kokoonpantuja runoja, erittelemiään ja osaksi kielellisesti siloittelemiaan toisintoja. Tässä on julkaistu muistiinpanot alkuperäisen Kansallismuseon hallussa olevan alku-muistiinpanon mukaan.</p>
+            <p>Julkaisematta jätetyt kirjallisuudesta opitut toisinnot on lueteltu kunkin runoryhmän lopussa alamuistutuksissa. Kun jostakin runosta on karsittu ilmeisesti kirjasta opittu kappale, on tilalla rivi katkoviivoja ja alamuistutuksessa huomautus, että Pienestä Runon-sepästä opittu kappale on poistettu.</p>
+            <p>Helsingissä helmikuun 14 p. 1929.</p>
+            <p>
+                <hi rend="bold italics">Julkaisija.</hi>
+            </p>
+            <p>
+                <hi rend="bold">Lyhennyksien ja merkkien selitykset.</hi>
+            </p>
+            <p>[ ] = Hakasissa olevat kohdat ovat toimittajan lisäämiä.⌜⌝ = Puolihakasia on käytetty osoittamaan, että joku sana tahi kirjain on käsikirjoituksessa niin epäselvä, että julkaisija on epävarma sen lukutavasta.</p>
+            <p>* * = Jos jonkun säkeen tahi runokappaleen molemmin puolin on tähdet, merkitsee se, että säe tahi säkeet on myöhemmin lisätty, reunaan tahi rivien väliin.</p>
+            <p>
+                <hi rend="bold">Alamuistutuksissa</hi>:</p>
+            <p>al. = Sanan alapuolelle kirjoitettu.kk:ssa = Käsikirjoituksessa.r. = Reunaan kirjoitettu.yl. = Yläpuolelle.</p>
+            <p>| | = Pystyviivojen välissä oleva kohta on käsikirjoituksesta pyyhitty.</p>
+        </div></body>
+    </text>
+</TEI>

@@ -1,0 +1,703 @@
+<?teipublisher template="esittely.html" odd="teipublisher.odd" view="single"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Esittely</title>
+                <author>Kati Kallio ja Jukka Saarinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>SKVR. Karjalaisten, inkeriläisten ja suomalaisten kansanrunojen verkkopalvelu.</edition>
+                <respStmt>
+                    <resp>Kirjoittajat</resp>
+                    <name>Kati Kallio, Jukka Saarinen</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                <pubPlace>Helsinki</pubPlace>
+                <date>2024</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Pohjana käytetty Jukka Saarisen laatimaa aiemman SKVR-tietokannan esittelytekstiä sekä Kallion 
+                    kirjoittamia osuuksia artikkelista <ref target="https://doi.org/10.30666/elore.126008">“Eteneminen omalla vastuulla. Lähdekriittinen laskennallinen 
+                        näkökulma sähköisiin kansanrunoaineistoihin”</ref>, <hi rend="italics">Elore</hi> 30(1): 59−90).
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="intro">
+                <pb n="1"/>
+                <div xml:id="part1">
+                    <head>Esittely</head>
+                    <fw type="authors">Kati Kallio ja Jukka Saarinen</fw>
+                    <p>SKVR-teoksen 34 niteessä SKVR-teoksen 34 niteessä (1908–1948, 1997) pyrittiin julkaisemaan merkittävimpänä pidetty arkistoihin tallennettu ja 
+                        kirjallisista lähteistä löydetty kalevalamittainen runous. Julkaisemisestaan lähtien se on toiminut 
+                        tutkijoiden ja kansanrunoudesta kiinnostuneiden keskeisenä lähdeaineistona. Suurin osa aineistosta 
+                        on peräisin Suomalaisen Kirjallisuuden Seuran kokoelmista.</p>
+                    <p>SKVR:n julkaisijoiden päämääränä oli täydellinen kalevalamittaisen runouden ainesjulkaisu. Teossarja 
+                        sisältää myös esimerkiksi suorasanaisia loitsuja ja uusimittaisia kehtolauluja ja lastenrunoja, 
+                        ja toisaalta siitä puuttuu kalevalamittaisia aineistoja, jotka koettiin sopimattomiksi tai ei-perinteisiksi.</p>
+                    <p>SKVR:ssa julkaisematonta ja myöhemmin kertynyttä aineistoa alettiin 1960-luvulta lähtien työstää 
+                        julkaisemattoman kalevalamittaisen runouden kortistoksi, jonka digitoitu versio (JR) on liitetty mukaan verkkopalveluun. 
+                        JR-aineisto on toimittamaton ja tarkistamaton, ja saattaa sisältää vääriäkin tietoja. Kalevalamittaisen perinteen 
+                        ohella se sisältää esimerkiksi leikinalkajaisloruja, riimillisiä kansanlauluja, kirjallislähtöisiä tai aikanaan 
+                        sopimattomiksi katsottuja runoja, vepsäläistä aineistoa, luonnonäänten jäljittelyitä sekä muutamia karjalaisia 
+                        itkuvirsiä ja saamelaisia joikuja. <ref target="https://www.finlit.fi/arkisto/">SKS:n arkistossa</ref> 
+                        on tämän lisäksi myös  karjalaisia ja inkeriläisiä runolauluäänitteitä, joista suuri osa on litteroitu ja osa nuotinnettu. 
+                        Ne eivät kuitenkaan sisälly JR-aineistoon.</p>
+                    <p>Verkkoaineisto on mahdollisimman uskollinen versio historiallisesta kirjasarjasta: lähinnä vain 
+                        ilmeisiä virheitä on korjattu. Se sisältää yhteensä 89 247 tekstiä. Täydentävässä JR-aineistossa on tällä hetkellä 
+                        85 610 tekstiä. SKVR-verkkopalvelu liittyy SKS:n laajempaan hankkeeseen saattaa digitoituna tutkimuskäyttöön ja luettavaksi suuria 
+                        aineistokokonaisuuksia. SKS:n erilaisia digitoituja aineistoja on saatavilla 
+                        <ref target="https://www.finlit.fi/aineistomme-verkossa/">SKS:n verkkosivuilla</ref> sekä Finnassa, 
+                        josta löytyvät myös vanhimpien runoaineistojen käsikirjoitukset. SKVR-korpus on ladattavissa kokonaisuudessaan 
+                        <ref target="https://github.com/sks190/SKVR">SKS:n GitHub-sivulta</ref>.</p>
+                    <p>Runolauluaineistoja on myös muualla. Virolaisia sähköisiä runoaineistoja on julkaistu 
+                        <ref target="https://folklore.ee/era/ava.htm">Eesti Rahvaluule Arhiivin</ref> (Viron Kansanrunousarkisto) 
+                        yhä täydentyvässä tietokannassa <ref target="https://www.folklore.ee/regilaul/andmebaas"><hi rend="italics">Eesti Regilaulude Andmebaas</hi></ref> 
+                        (Virolaisen runolaulun tietokanta. Eesti Rahvaluule Arhiivissa on laajoja äänitekokoelmia paitsi Viron, myös Inkerin ja Venäjän Karjalan 
+                        alueelta. Venäjällä etenkin Petroskoissa Karjalan tutkimuskeskuksen Kielen, historian ja kirjallisuuden 
+                        instituutin kokoelma sisältää paljon 1900-luvun käsikirjoitus- ja ääniteaineistoja Karjalasta ja Inkeristä. 
+                        Suomessa 1900-luvun ääniteaineistoja on myös esimerkiksi Kotuksen arkistossa, Tampereen yliopiston 
+                        Kansanperinteen arkistossa sekä Juminkeon arkistossa.
+                    </p>
+                </div>
+                <pb n="2"/>
+                <div xml:id="part2">
+                    <head>Lähdekriittisiä huomioita</head>
+                    <list type="bulleted">
+                        <item>osassa SKVR-aineistoa paikka- ja keruuaikatiedot puuttuvat tai ne ovat epävarmoja. Kirjasarjan 
+                            toimittajien päättelemät paikkatiedot on yleensä merkitty hakasulkuihin, toisinaan varustettu myös 
+                            kysymysmerkeillä.</item>
+                        <item>JR-aineiston paikka- ja keruutietoja ei ole tarkistettu, eli ne voivat sisältää virheitä. Aineisto 
+                            sisältää monenlaisia kopioita ja alkuperältään epävarmoja aineistoja.</item>
+                        <item>paikkatiedot ilmaisevat yleensä runon esittäjän koti- tai synnyinpaikan.</item>
+                        <item>paikka-, tallennusaika- ja tallentajatiedot ovat aineistossa sekä alkuperäisen kirjasarjan antamassa 
+                            muodossa että pitäjittäin, vuosittain ja tallentajittain koodattuina. Tekstihakuja lukuunottamatta 
+                            haut ja rajaukset kohdistuvat yhtenäistettyihin muotoihin.</item>
+                        <item>jos runon tarkka tallennusaika ei ole tiedossa, se on koodattu vuosisadan aloitusvuodelle (esim. 1800).</item>
+                        <item>tallentajat merkitsivät runoja muistiin hyvin vaihtelevin tavoin ja taustatiedoin. Osa kirjoitti 
+                            tarkasti ylös esittäjän käyttämiä murremuotoja ja laulukieltä, osa ennemminkin oman murteensa tai 
+                            suomen yleiskielen mukaan. Paikoin mukana on myös väärinymmärryksiä.</item> 
+                        <item>kirjasarjan toimittajat täydensivät lyhenteinä merkittyjä sanoja ja säkeitä hakasulkumerkinnöillä parhaansa mukaan. 
+                            Nämä eivät aina välttämättä vastaa esittäjän alkuperäistä runoa.</item>
+                        <item>yleensä ei ole tiedossa, saneliko vai lauloiko esittäjä runonsa. Sanellessa sanat ja säkeet voivat lyhentyä 
+                            tai puhekielistyä. Ilmeisesti monet tallentajat suosivat sanelemista.</item>
+                        <item>alkuperäiset arkistokäsikirjoitukset voivat paikoin sisältää enemmän taustatietoja kuin SKVR- tai JR-kokoelmiin 
+                            toimitetut tai kopioidut tekstit, ja käsikirjoitus voi antaa arvokasta tietoa tallentamistilanteesta. Tarkkoja 
+                            tietoja etsiessä kannattaa siis tarkistaa myös nämä. Vanhimmat käsikirjoitukset on digitoitu ja niitä voi SKS:n 
+                            arkiston ohella tarkastella myös <ref target="https://finlit.finna.fi">FINNA-palvelun</ref> kautta.</item>
+                        <item>vaikka sekä tallentajat että SKVR:n toimittajat pyrkivät karsimaan kirjallisesti opitut runot, niitä 
+                            otettiin jonkin verran mukaan sekä tarkoituksella – jos niissä oli myös selkeästi suullisia elementtejä – 
+                            että vahingossa. Kirjalliset vaikutteet voivat selittää joitain pitkien runojen samankaltaisuuksia 
+                            toisistaan etäisemmillä alueilla. JR-aineistoon on otettu mukaan myös selvästi kirjallisuudesta opittuja tai itse 
+                            kirjalliseen tyylii sepitettyjä runoja.</item>
+                        <item>etenkään varhaisimmat runonkerääjät eivät tallentaneet tietoja runojen laulajista, eikä aineistoa 
+                            ole koodattu edes tunnettujen laulajien osalta. Tietoja esittäjistä kerättiin joidenkin 
+                            niteiden loppuun laulajaluetteloiksi.</item>
+                        <item>
+                            osa runoista on julkaistu kokoelmassa useampaan kertaan, joskus vaihtelevilla paikkatiedoilla tai 
+                                runotyyppinimillä varustettuna, joskus runon osina tai hieman eri tavoin toimitettuna versioina.
+                            <list>
+                                <item>esimerkiksi J. Länkelä toimitti ja yhdisteli Länsi-Inkerin keräelmästään paranneltuja 
+                                    versioita, jotka on painettu Länsi-Inkerin osion ensimmäiseen niteeseen. Kun hänen alkuperäiset 
+                                    kenttämuistiinpanonsa myöhemmin löytyivät, ne otettiin mukaan osion kolmanteen niteeseen.</item>
+                                <item>etenkin varhaiset runomuistiinpanot kiersivät käsikirjoituksina oppineiston parissa, ja osasta 
+                                    on arkistoon ja SKVR-kokoelmaan päätynyt useita versioita.</item>
+                                <item>JR-aineisto sisältää kopioita myös SKVR-aineistosta. Esimerkiksi Carl Niclas Keckmanin kokoelmassa 
+                                    on paljon kopioita Elias Lönnrotin aineistoista.</item>
+                            </list>
+                        </item>
+                        <item>Monet Christfried Gananderin runot SKVR-niteessä XV ovat Matti Kuusen tekemiä hypoteettisia 
+                            rekonstruktioita, joissa hän käytti hyväkseen paljon myöhempää aineistoa muilta alueilta. Ne eivät siis 
+                            ole alkuperäisiä Gananderin tallentamia runoja, eikä niitä voi käyttää alkuperäisen kansanrunon tapaan. 
+                            Kuusi ilmaisi käyttämänsä lähteet koodisarjoina runotekstien alaviitteissä ja selitti toimintatapansa 
+                            esipuheessa.
+                        </item>
+                        <item>Kirjasarja sisältää osien V3 sekä VI2 liitteinä myös joitain toimitettuja kansanrunokokoelmia: näiden 
+                            runot eivät siis välttämättä vastaa täysin alkuperäisiä tallennettuja runoja. Lisäksi toimitettuja ja 
+                            esimerkiksi lehdissä julkaistuja runoja sisältyy myös etenkin 1800-luvun alkupuolen kokoelmiin.</item>
+                    </list>
+                </div>
+                <pb n="3"/>
+                <div xml:id="part3">
+                    <head>Runolaulu, kalevalamittainen runous, vanhat runot</head>
+                    <p>Samankaltainen runomuoto tunnetaan lähes kaikkien itämerensuomalaisten kielten parista: suomesta, karjalasta, 
+                        inkeroisesta, vatjasta ja virosta. Runomitta on perinteen kielellisten piirteiden ja levinneisyyden 
+                        perusteella todennäköisesti peräisin ajalta, jolloin nämä kielet eivät olleet vielä kehittyneet erilleen. 
+                        Lajikirjo on laaja: esikristillisiä ja kristillisiä teemoja sisältäviä kertovia runoja, paikallisyhteisöjen 
+                        ajankohtaisista asioista tai historiakäsityksistä kertovia runoja, moninaista lyriikkaa huolesta, surusta, 
+                        ihmissuhteista ja -kohtaloista, työlauluja, vuodenkiertoon ja vuotuisjuhliin liittyviä runoja, kehtolauluja, 
+                        häärunoja, lastenlauluja, loitsuja, sananlaskuja, arvoituksia, pilkkalauluja ja niin edelleen.</p>
+                    <p>Aikana ennen luterilaisia virsiä, kirjallista runoutta ja riimillisiä kansanlauluja kalevalamittainen runous 
+                        eli runolaulu oli keskeisin itämerensuomalainen runomuoto. Sen rinnalla eli myös vapaamittaisia itkuvirsiä 
+                        sekä moninaisia proosakerronnan muotoja.</p>
+                    <p>Pääosa runoaineistosta on tallennettu 1800-luvulla ja 1900-luvun alkupuoliskolla. Ensimmäinen SKVR-kokoelman 
+                        runomuistiinpano on vuodelta 1564, viimeinen vuodelta 1939. Mikael Agricola julkaisi jo vuonna 1544 
+                        Rukouskirjansa kalenteriosassa kalevalamitasta juontuvan sananlaskun ja lorun, mutta sananlaskuja ei ole 
+                        kerätty kattavasti SKVR-kokoelmaan. 1600-luvulta lähtien laadittiin ja julkaistiin myös kirjallisia 
+                        kalevalamittaisia runoja. Runoja on tallennettu myös SKVR:n toimittamisen jälkeen. Etenkin Virossa Setomaalla 
+                        runoja lauletaan yhä katkeamattomana perinteenä, mutta esimerkiksi kalevalamittaiset Tuu tuu tupakkirulla tai 
+                        Nuku nuku nurmilintu ovat lapsuudesta tuttuja monelle suomalaiselle.</p>
+                    <p>Runojen ikä on monitahoinen kysymys. Jokainen tallennettu runo on laulajansa tai sanelijansa tallennushetkellä 
+                        tuottama. Perinnealueesta, laulajasta sekä runon lajista ja tyypistä riippui, pyrittiinkö teksti toistamaan 
+                        mahdollisimman perinteisenä vai loiko esittäjä omia säkeitään tai yhdistelikö perinteisiä aihelmia 
+                        vapaasti. Kaikkina aikoina on myös luotu uusia runoja, usein aiempien ilmausten ja motiivien pohjalta. 
+                        Yksikin runoteksti sisältää usein aihelmia ja ilmaisuja monilta eri aikakausilta. Kaikkina aikoina 
+                        runoaihelmia on paitsi kulkenut itämerensuomalaisten kielten puhujien välillä, myös omaksuttu kieliryhmiltä, joiden kanssa on oltu kontaktissa.</p>
+                    <figure type="standard">
+                        <graphic url="/exist/apps/skvr/resources/images/2023_Elore_10_tallennushistoria.png"/>
+                        <figDesc>SKVR-kokoelman (sininen), virolaisen ERAB-tietokannan (keltainen) sekä SKS:n julkaisemattomien 
+                            runojen JR-kokoelman (punainen) aineisto aikajanalla tallennusajan mukaan. Pisteet merkitsevät yksittäisiä 
+                            tallennusvuosia, kuvaaja on laskettu viiden vuoden keskiarvon mukaan. Vasemmalle on merkitty pisteillä 
+                            ennen 1800-lukua tallennettu aineisto ja yläreunaan kaksi suurinta, kuvan ylittävää tallennusvuotta. 
+                            Kuva: Eetu Mäkelä (Kallio et al. 2023).</figDesc>
+                    </figure>
+                </div>
+                <pb n="4"/>
+                <div xml:id="part4">
+                    <head>Runojen kielet ja esittäjien etniset taustat</head>
+                    <p>SKVR-aineistoa ei ole koodattu kielen tai esittäjän etnisyyden mukaan. Vienassa, Aunuksessa ja Raja-Karjalassa 
+                        suurin osa aineistoa on tallennettu karjalankielisiltä laulajilta, Raja-Karjalassa osa suomenkielisiltä. 
+                        Inkerin alueella merkittävä määrä on tallennettu inkeroisten asuttamista pitäjistä, paljon myös inkerinsuomalaisilta 
+                        ja vatjalaisilta. Nykyisen Suomen sekä Ruotsin ja Norjan alueella pääosa tallennuksista on tehty suomenkielisiltä, 
+                        mutta aineiston esittäjissä oli mukana myös karjalankielisiä, suomenruotsalaisia, romaneja ja saamelaisia. 
+                        Karjalankielisiä ortodoksilaulajia eli tallennusaikana myös Kainuun Suomussalmen vienalaiskylissä sekä Ilomantsissa, 
+                        ja jotkut Pohjois-Karjalan vanhat suvut periytyvät karjalankielisistä, alueella jo ennen Ruotsin 1600-luvun valloituksia 
+                        asuneista suvuista.</p>
+                    <p>SKVR-aineiston kattamat alueet olivat monikielisiä. Monikielisillä alueilla myös runoperinteet ovat olleet keskenään vuorovaikutuksessa. 
+                        Nykyisen Suomen alueella puhuttiin vanhastaan etenkin suomea, ruotsia, 
+                        saamea ja karjalaa, Venäjän Karjalan alueella karjalaa, lyydiä, vepsää, venäjää ja suomea, Inkerin 
+                        maaseudulla taas inkeroista, vatjaa, suomea, viroa ja venäjää. Lauluja kulki myös kielirajojen yli, ja 
+                        ihmiset lauloivat toistensa lauluja. Etenkin itämerensuomalaisten kielten välillä laulujen siirtyminen 
+                        kielestä toiseen on ollut suhteellisen helppoa, ja vanhakantainen runokieli oli myös eri kielissä usein samankaltaisempi 
+                        kuin puhekielet.</p>
+                    <p>Runojen kielelliset piirteet eivät aina ole yksiselitteisiä. Toisaalta myös muistiinpanijoiden äidinkieli – 
+                        yleensä suomi tai ruotsi – ja taidot vaikuttivat siihen, miten esityksen mukaisesti kielelliset piirteet tallentuivat.</p>
+                    <p>Suomen suuriruhtinaskunnan ulkopuolella eläneet ortodoksiseen kirkkoon kuuluneet karjalan-, inkeroisen ja 
+                        vatjankieliset yhteisöt eivät yleensä identifioituneet suomalaisiksi. Esimerkiksi Inkerin alueella uskonto 
+                        oli etnistä identiteettiä merkittävämpi tekijä, joka ohjasi myös avioitumista. Ortodoksit inkeroiset ja 
+                        vatjalaiset puhuivat itsestään venäjänuskoisina ja luterilaisista suomenuskoisina.</p>
+                    <p>Venäjän valloittamaan Suomen suuriruhtinaskuntaan vuonna 1812 liitetyn Raja-Karjalan ja Karjalan Kannaksen 
+                        tilanne oli hieman toisenlainen. Kuten Inkeriin, ortodoksisille karjalan- ja inkerinkielisille alueille oli 
+                        jo 1600-luvulta 1700-luvulle kestäneen Ruotsin vallan ajan seurauksena muuttanut paljon suomenkielistä 
+                        luterilaista väestöä. Kun Venäjä sitten liitti alueet suuriruhtinaskuntaan, myös karjalan- ja 
+                        inkeroisenkieliset saattoivat puhua itsestään passin mukaan suomalaisina. Kuuluisasta Kannaksen inkeroiskylien 
+                        ortodoksista runontaitajasta Larin Paraskesta puhutaan usein suomalaisena, samoin rajakarjalaisista 
+                        laulajista.</p>
+                    <p>Suomi, karjala ja inkeroinen ovat läheisiä sukukieliä. Suullisen kulttuurin aikana kielten rajat eivät olleet 
+                        yksiselitteisiä: puheenparsi muuttui kylästä toiseen. Riittävän kaukana toisistaan asuvien oli jo vaikeampaa 
+                        ymmärtää toisiaan. Suomen itämurteet ovat kielihistoriallisesti lähempänä karjalan kieltä kuin suomen kielen 
+                        länsimurteita. 1600-luvulta lähtien inkeroisen kieli on ollut vahvassa kontaktissa suomen kielen kanssa, ja 
+                        Inkerissä inkerinsuomi ja inkeroinen ovat monin paikon lähentyneet toisiaan, samoin kuin karjala ja suomi 
+                        Raja-Karjalassa.</p>
+                    <p>Etenkin 1900-luvun alussa karjalan ja inkeroisen kielistä oli tapana puhua suomen murteina. Tälle oli sekä 
+                        tieteellisiä että poliittisia perusteita. Kielten rajat oli tapana määritellä paljon laajemmiksi kuin nykyään, ja 
+                        poliittisesti haluttiin hahmottaa koko pohjoisten itämerensuomalaisten kielten alue yhtenä kokonaisuutena, 
+                        jonka tulisi kuulua yhden valtion alle. Paikoin, kuten SKVR-kirjasarjan nimessä, suomalaisuuden alle 
+                        laskettiin lähes kaikki sukukielet: suomea saatettiin käyttää merkityksessä “itämerensuomalainen”.</p>
+                    <p>Nykyään karjalan ja inkeroisen kieli tunnustetaan omiksi kielikseen. Moni Suomessa elävä karjalankielinen 
+                        tai inkeroisten jälkeläinen katsoo olevansa paitsi kansalaisuudeltaan, myös kieleltään ja etnisyydeltään 
+                        suomalainen. Toisaalta monet niin Suomessa ja kuin Venäjälläkin asuvista karjalankielisistä katsovat olevansa 
+                        etnisesti ja kielellisesti karjalaisia, inkeroisenkieliset ja heidän jälkeläisensä inkeroisia. Inkeroisen 
+                        kieltä puhuvia on Venäjällä enää muutamia.</p>
+                </div>
+                <pb n="5"/>
+                <div xml:id="part5">
+                    <head>Runoperinteen nimitykset</head>
+                    <p>Itämerensuomalaista vanhaa runoa on kutsuttu monilla eri nimillä. Laulajilleen runot olivat <hi rend="italics">lauluja, 
+                        virsiä</hi> eli runoja tai <hi rend="italics">luettelemisia, lumoja</hi> ja <hi rend="italics">lukuja</hi> eli loitsuja tai runoja. 
+                        Luettelemisiksi on kutsuttu myös itkuvirsiä. Kun sekä runo että virsi alkoivat viimeistään uuden 
+                        ajan alussa tarkoittaa myös kirjallista runoa ja luterilaista virttä, hämärtyivät nämä merkitykset.</p>
+                    <p>Kansanrunoihin pitkälti perustuvasta, Lönnrotin luomasta Kalevalasta lähtien on kansanrunoista puhuttu Kalevalan 
+                        runoina, kalevalaisina runoina tai kalevalamittaisina runoina. Termejä on kritisoitu, sillä ne nimeävät paljon 
+                        ennen Kalevalaa syntyneet runot kirjallisen teoksen mukaan, ja kantavat usein myös romantisoivia ja ihannoivia 
+                        sävyjä. Toisaalta ne ovat yleisesti tunnettuja ja yksiselitteisiä. Niiden rinnalla on puhuttu myös 
+                        itämerensuomalaisesta vanhasta tai suullisesta runoudesta tai kansanrunoudesta.</p>
+                    <p>Nykyään käytetään usein käsitettä <hi rend="italics">runolaulu</hi>, jota käytettiin jo suomalaisissa 1600-luvun kirjallisissa 
+                        lähteissä. 1800-luvun lopulla ja 1900-luvulla tutkijat käyttivät sitä usein muodossa runonlaulu. 
+                        Viroksi käytetään usein nimitystä <hi rend="italics">regilaul</hi>. <hi rend="italics">Regi</hi> 
+                        eli ‘tanssi’ juontuu saksan kielestä – suomeksi taas rekilaulu tarkoittaa päinvastoin uusimittaista 
+                        riimillistä laulua.
+                    </p>
+                </div>
+                <pb n="6"/>
+                <div xml:id="part6">
+                    <head>Runojen esittäminen</head>
+                    <p>Runoja on lajista ja esitystilanteesta riippuen käytetty lauluina, resitaatioina, sopotuksina tai
+                        rytmisenä puheena.</p>
+                    <p>Runosävelmät olivat tyypillisesti yhden tai kahden runosäkeen pituisia ja sävelalaltaan suppeita. Laulaja 
+                        saattoi joko toistaa sävelmää hyvin samankaltaisena tai muunnella sitä jopa niin, että sävelmäsäe ei laulun 
+                        kuluessa toistunut kertaakaan täysin samanlaisena. Laulussa saattoi olla myös samanlaisina joka säkeen tai 
+                        säeparin jälkeen toistuvia kertaumia eli refrengejä, ja runosäkeitä voitiin kerrata eri tavoin.</p>
+                    <p>Laulaa voitiin yksin, kaksin tai joukolla. Jos laulajia oli useampia, laulettiin useimmiten esilaulajan ja 
+                        jälestälaulajan tai kuoron vuorotteluna, joillain seuduilla kuten Virossa Kihnun saarella tai häälauluja Vienan 
+                        Karjalassa myös kaikki yhdessä.</p>
+                    <p>Monilla alueilla käytössä oli vanhakantaisempien sävelmien ohella myös muista laulun ja musiikin lajeista 
+                        omaksuttuja laaja-alaisempia ja pidempiä sävelmiä. Loitsuja usein resitoitiin, sopotettiin tai puhuttiin 
+                        rytmisesti, mutta joitain loitsuja myös laulettiin. Lastenloruja ja sananlaskuja saatettiin puhua, resitoida 
+                        tai laulaa.</p>
+                    <p>Kiinteä runomitta tarkoitti sitä, että periaatteessa minkä hyvänsä laulun saattoi esittää millä hyvänsä 
+                        runosävelmällä. Käytännössä sävelmät määräytyivät etenkin Etelä-Karjalassa, Inkerissä ja Virossa usein 
+                        laulutilanteen ja laulun lajin mukaan: oli esimerkiksi tanssisävelmiä, hääsävelmiä, vuotuisjuhlasävelmiä, 
+                        kehtolaulusävelmiä, työlaulusävelmiä tai metsässä laulamisen sävelmiä. Lisäksi oli usein alueellisia tai 
+                        paikallisia yleissävelmiä, joita voitiin käyttää monissa erilaisissa tilanteissa.</p>
+                    <p>Suomen ja Vienan Karjalan alueella yleisin sävelmätyyppi oli viisi-iskuinen, usein kaksisäkeinen niin kutsuttu 
+                        “Kalevalasävelmä”, josta oli paljon erilaisia muunnelmia. Inkerissä ja Virossa yleisimpiä olivat neli-iskuiset 
+                        yksi- tai kaksisäkeiset sävelmätyypit. Vaikka laulua ei yleensä säestetty, runosävelmiä ja niiden kaltaista 
+                        musiikkia voitiin soittaa myös kanteleella, jouhikolla ja vanhakantaisilla puhaltimilla, myös yhtä aikaa 
+                        laulun kanssa.</p>
+                    <p>Runosävelmämuistiinpanoja on julkaistu Suomen Kansan Sävelmiä -sarjan osissa IV:1 ja IV:2. Nämä löytyvät 
+                        myös <ref target="http://esavelmat.jyu.fi/">Suomen Kansan eSävelmiä -tietokannasta</ref>. Karjalaisia ja 
+                        inkeriläisiä äänitteitä on julkaistu Kalevala Heritage -levyllä (Ondine 1995), virolaisia sävelmiä 
+                        <ref target="https://www.folklore.ee/pubte/eraamat/rahvamuusika/ee/index">Eesti rahvamuusika antoloogiassa</ref>. 
+                        Virolainen <ref target="https://www.folklore.ee/regilaul/lugu/">Regilaulu lugu</ref> (Story of Runosong) -sivusto 
+                        esittelee runolaulua perinteisten laulujen nykyäänitteiden avulla. <ref target="https://laul.setomaa.ee/">Seto Laulupärimus -sivusto</ref> 
+                        keskittyy setonkieliseen moniääniseen perinteeseen, 
+                        <ref target="https://www.folklore.ee/pubte/eraamat/vadjaisuri/en/index">Vadja ja isudi rahvalaulud</ref> taas 
+                        vatjalaisten ja inkeroisten. Luterilaisen Suomen alueelta vanhoja äänitteitä ei lastenlauluja lukuunottamatta 
+                        juuri ole, sillä perinteiset tavat laulaa runoa eivät äänitysmahdollisuuksien auetessa enää olleet yleisiä. </p>
+                </div>
+                <pb n="7"/>
+                <div xml:id="part7">
+                    <head>Runomitta</head>
+                    <p>Kalevalamitta on perinteisesti riimitön ja säkeistötön runomuoto. Se koostuu yleensä 8–10-tavuisista säkeistä, 
+                        jotka jaottuvat neljään runojalkaan eli kahdeksaan runoasemaan. Ensimmäisessä runojalassa voi olla 2–4 tavua, 
+                        muissa on yleensä kaksi. Säkeen viimeinen tavu voi jäädä esittämättä. Joskus säkeet voivat olla tavanomaista 
+                        lyhyempiä tai pidempiä, jopa kuudesta kahteentoista tavua. Eri alueilla ja eri aikoina runomitta on saanut 
+                        erilaisia muotoja, usein suhteessa puhekielen kehityskulkuihin.</p>
+                    <p>Kalevalamitassa säkeen sisäinen alkusointuisuus on runsasta, mutta se ei 
+                        välttämättä sido kaikkia säkeen sanoja yhteen tai esiinny jokaisessa säkeessä. Monimuotoista parallelismia 
+                        eli säkeenkertoa, saman asian toistamista tai täydentämistä peräkkäisissä säkeissä esiintyy. Runon 
+                        lauserakenne mukailee säerakennetta.</p>
+                    <p>Klassisessa kalevalamitassa pitkät pääpainolliset tavut sijoittuvat runojalan nousuun eli mitan painollisille 
+                        kohdille, lyhyet pääpainolliset tavut laskuun eli mitan painottomille kohdille. Ensimmäistä runojalkaa tämä 
+                        sääntö ei kuitenkaan koske, ja toisessakin jalassa siitä poiketaan useammin kuin säkeen loppupuoliskossa. 
+                        Suomen kielessä pääpainolliset tavut ovat sanan alkutavuja, ja tavut ovat lyhyitä, jos ne loppuvat lyhyeen 
+                        vokaaliin (e-, le-). Yhdyssanan osat käyttäytyvät kuin erilliset sanat. Muiden kuin pääpainollisten tavujen 
+                        sijoittuminen on vapaata.</p>
+                    <p>Säetyyppejä klassisessa kalevalamitassa on kaksi: normaalitrokee, jossa sanapainot ja runomitan painolliset 
+                        asemat osuvat yksiin</p>
+                    <p>vaka | vanha | Väinä-|möinen</p>
+                    <p>ja murrelmasäe, jossa lyhyt pääpainollinen tavu (kuten i-) osuu säkeen painottomille osille</p>
+                    <p>tietä-|jä i-|jän i-|kuinen. </p>
+                    <p>Normaalitrokeen ja murrelmasäkeen osuus on usein noin puolet ja puolet. Etenkin suomen kielen länsimurteiden 
+                        alueella sanojen lyhentyminen on vaikuttanut runomuotoon, ja välillä myös lyhyet pääpainolliset tavut 
+                        asettuvat runosäkeen painollisiin asemiin. Tällöin murrelmasäkeitä esiintyy harvemmin.</p>
+                </div>
+                <pb n="8"/>
+                <div xml:id="part8">
+                    <head>SKVR:n aineisto ja toimitusperiaatteet</head>
+                    <p>SKVR-sarja julkaistiin aluekohtaisina niteinä, jotka usein jaoteltiin runolajien tai -teemojen mukaan ja 
+                        näiden alla paikkakunnittain. Lisäksi vuonna 1997 julkaistiin useita alueita koskeva täydennysosa. 
+                        Toimitusperiaatteet vaihtelivat jonkin verran niteittäin, toimittajittain ja ajan myötä. Esimerkiksi 
+                        Inkerin osat julkaistiin kerääjäkohtainen kokoelma kerrallaan. Julkaisuperiaatteista on tarkempia tietoja 
+                        nidekohtaisissa esipuheissa.</p>
+                    <p>Tärkeimpänä pidettiin Kalevalan myytti- ja sankarirunojen keskeisimpiä lähdeaineistoja. Tämän vuoksi 
+                        ensimmäisinä julkaistiin vienankarjalaiset runot Maailmansyntyrunosta alkaen. Sähköisessä aineistossa 
+                        runojen signumit noudattavat kirjasarjan järjestystä. Siten myös tietokantamuoto näyttää haetut runot usein 
+                        kirjasarjan antamassa järjestyksessä. Koko runoluetteloa katsova saa ensimmäisenä luettavakseen 
+                        Miihkaline Simanan Jyskyjärvellä vuonna 1835 Elias Lönnrotille laulaman Maailmansynnyn ja Kanteleen synnyn 
+                        sisältävän runosikermän. Pääosin lyhyitä loitsuja, kehtolauluja ja lastenrunoja sisältävät Uudenmaan 
+                        keräelmät taas tulevat aluekohtaisista niteistä viimeisinä.</p>
+                    <p>Ensimmäisinä julkaistiin karjalankielisen alueen runot Vienasta ja Aunuksesta, sitten monikielisen Inkerin runot, 
+                        seuraavaksi savolaiset, rajakarjalaiset ja pohjoiskarjalaiset runot sekä savolaismurteiden alueeseen kuuluvat 
+                        Skandinavian metsäsuomalaisten runot. Tämän jälkeen siirryttiin länsimurteiden alueelle Varsinais-Suomeen, 
+                        Hämeeseen, Satakuntaan ja Pohjanmaalle. Etelä-Karjalan (eli nykyisen Suomen Etelä-Karjalan, Laatokan Karjalan 
+                        eteläisimmän osan sekä Karjalan kannaksen) ja Uudenmaan runot julkaistiin viimeisinä vuosina 1936–1948, ja 
+                        näiden jälkeen vielä täydennysosa vuonna 1997.</p>
+                    <figure type="pair">
+                        <p>
+                            <graphic url="/exist/apps/skvr/resources/images/map_octavo_collection_skvr_POEM_parishes.png"/>
+                            <graphic url="/exist/apps/skvr/resources/images/map_octavo_collection_skvr_POEM_counties.png"/>
+                        </p>
+                        <figDesc>SKVR-kokoelman runosäkeet kartalla perinnealueittain ja pitäjittäin. Osassa runoja on vain 
+                            perinnealuetason paikkatieto, eli ne eivät näy pitäjäkartalla. Kuva: Maciej Janicki, Kati Kallio, 
+                            Jukka Saarinen &amp; Eetu Mäkelä (FILTER-hanke); karttapohja: Samppa Mäkelä, Jakob Lindström, Jukka 
+                            Saarinen &amp; Kati Kallio.
+                        </figDesc>
+                    </figure>
+                    <p>Karttakuvista näkyy toisaalta aineiston kattavuus, toisaalta sen painottuminen tietyille alueille. 
+                        Karjalankielisillä alueilla Venäjän Karjalassa pitäjät olivat laajempia ja asutus paljon harvempaa, Länsi- ja 
+                        Etelä-Suomessa taas pitäjät kooltaan paljon pienempiä, mutta asukasluvultaan suurempia. Pitäjän ja tekstin tasolla eniten 
+                        aineistoa on SKVR-kokoelmassa Länsi-Inkerin Narvusista (3202 tekstiä), Larin Parasken kotipitäjästä 
+                        Lempaalasta (2955 tekstiä) sekä Vienan Karjalan Vuokkiniemestä (2347 tekstiä), jonka Lönnrot mainitsi 
+                        Kalevalan kannalta tärkeimmäksi pitäjäksi. Karttakuvien näyttämässä runosäkeiden määrässä taas korostuvat 
+                        edellisten ohella Soikkola, Vuole, Suistamo, Ilomansi ja Kaprio. Karjalan ja Inkerin alueilta tallennetut runot ovat 
+                        keskimäärin pidempiä kuin muualta kertyneet, ja ne sisältävät enemmän vanhakantaista epiikkaa, häälauluja ja 
+                        vuotuisjuhliin liityviä lauluja sekä moninaisempaa lyriikkaa.</p>
+                </div>
+                <pb n="9"/>
+                <div xml:id="part9">
+                    <head>Runotyyppihakemisto</head>
+                    <p>SKVR-kirjasarja sisältää vaihtelevin periaattein tehtyjä aluekohtaisia runotyypin ja aiheen mukaisia hakemistoja. Näiden pohjalta 
+                        ja osin uusiksi analysoiden on 1980-luvulta lähtien luotu yhtenäistä SKVR-hakemistoa. Se jakautuu kahdeksaan 
+                        pääluokkaan:</p>
+                    <list type="numbered">
+                        <item>1. Kertovat runot</item>
+                        <item>2. Lyriikka</item>
+                        <item>3. Erilaisissa tilanteissa</item>
+                        <item>4. Häärunot</item>
+                        <item>5. Lastenrunot</item>
+                        <item>6. Loitsut</item>
+                        <item>7. Erilaisia pieniä runoja</item>
+                        <item>8. Sekalaisia runoja</item>
+                    </list>
+                    <p>Runotyyppejä näiden luokkien ja niiden sisältämien alaluokkien alla on kaikkiaan lähes 7500. Osaan 
+                        runotyypeistä kuuluu vain yksi teksti, osaan useita satoja. Yksi runoteksti voi kuulua usean eri runotyypin 
+                        alle.</p>
+                    <p>Hakemiston laatimisperiaatteet vaihtelevat kategorioittain. Kertovat runot on jaoteltu runokokonaisuuden, 
+                        teeman tai kertomusrakenteen mukaan, lyriikka taas pienempien aiheiden ja aihelmien mukaisesti. Loitsut on 
+                        pyritty jaottelemaan funktion tai tilanteen mukaisesti. Häärunot on jaoteltu häärituaalin kulun mukaan. 
+                        Etenkin loitsujen osalta runotyypin alle voi kuulua hyvinkin erilaisia tekstejä, tai samankaltainen teksti 
+                        voi sijoittua usean otsikon alle, jos sitä tiedetään käytetyn erilaisiin tarkoituksiin.</p>
+                    <p>Jo Inkerin osien toimittaja Väinö Salminen totesi, että yksiselitteistä hakemistoa oli vaikeaa tehdä, sillä 
+                        runoaihelmat ja -ilmaisut liittyivät kokonaisuuksiksi monin erilaisin tavoin. Yksi aihelma saattaa liittyä 
+                        moniin erilaisiin runotyyppeihin tai esiintyä itsenäisenä. Tarinoista saattaa olla monenlaisia versioita, ja 
+                        laulaja saattoi yhdistellä niitä toisiinsa.</p>
+                    <p>Senni Timonen on analysoinut inkeriläisten laulajien omia lajikäsityksiä. Nämä rakentuivat ennemminkin 
+                        laulutilanteiden, aloitusaihemien ja esitystapojen kuin tekstien samankaltaisuuden pohjalle. Runotyyppi tai 
+                        -aihelma saattoi kuulua useaan eri lajiin.</p>
+                    <p>Etenkin lyhyiden fragmenttien tai viitteiden jaotteleminen runotyyppien alle on vaikeaa. Hakemistossa on 
+                        merkitty asteriskilla * sellaiset tekstit, joiden suhde runotyyppiin on epävarma tai viittauksenomainen.</p>
+                    <p>Osaan hakemiston runotyypeistä on liitetty selostus siitä, mitä tyyppi pitää sisällään tai millä perusteilla 
+                        se on rajattu. Mukana on usein myös merkintöjä runotyypin aiemmin käytetyistä vaihtoehtoisista nimityksistä 
+                        sekä sille läheisistä runotyypeistä.</p>
+                    <p>Julkaisemattomien runojen JR-aineisto ei kuulu SKVR-hakemistoon. Arkistossa JR-aineistosta on olemassa 
+                        SKVR-kirjasarjan osakohtaisten runotyyppien mukaan järjestetty keskeneräinen kortisto.</p>
+                </div>
+                <pb n="10"/>
+                <div xml:id="part10">
+                    <head>Julkaisemattomien runojen kokoelma</head>
+                    <p>Julkaisemattomien runojen aineisto JR on SKVR-aineistoa täydentävä ja osin jopa sen kanssa päällekkäinen tarkistamaton 
+                        ja toimittamaton kokoelma. Se sisältää virheitä, kaksoiskappaleita sekä epävarmoja ja mahdollisesti vääriäkin tietoja. 
+                        Kalevalamittaisen suullisen perinteen ohella mukaan on otettu mukaan myös esimerkiksi leikinalkajaisloruja ja 
+                        lastenlauluja, kirjallislähtöisiä runoja, riimillisiä lauluja, proosakerrontaa sekä satunnaisia karjalaisia itkuvirsiä, 
+                        luonnonäänten jäljittelyitä, vienankarjalaisia joikuja ja jopa yksittäisiä saamelaisia joikuja. Mukana on myös esimerkiksi muutamia 
+                        kerääjien saatekirjeitä ja tietoja informanteista eli aineistoa, joka ei sisällä runotekstejä.</p>
+                    <p>Arkistossa olevaan julkaisemattoman aineiston kortistoon sisältyy yli 85 000 runotekstiä. Verkkopalvelussa tekstejä on 
+                        JR-aineiston osalta 85 610 kappaletta. Tämä määrä saattaa muuttua, jos aineistossa havaitaan merkittäviä suoraan 
+                        kopioituja aineksia tai siihen halutaan lisätä verkkoaineistoista vielä pois jääneitä tallenteita. Sähköiseen korpukseen 
+                        on digitoinnin jälkeen lisätty Volmari Porkan pikakirjoituksista purettu osio.</p>
+                    <p>Aineistoon ei toistaiseksi ole hakemistoa, eli se on käytettävissä vain sana- ja metatietohakujen eli tekstisisällön, tallennusajan, 
+                        kerääjän, paikkakunnan ja signumin mukaan. Aiheenmukainen kortisto on käytettävissä SKS:n arkistossa, mutta se ei ole 
+                        yhtenäinen uuden sähköisen SKVR-hakemiston kanssa. JR-aineisto ei myöskään enää täysin vastaa kortistoa, josta se on 
+                        digitoitu: tekstejä ja niiden metatietoja on jonkin verran tarkistettu ja korjattu FILTER-hankkeessa vuosina 2021–2023.</p>
+                    <p>JR:n tekstit ovat niin kutsuttua raakadataa. Niitä ei ole editoitu tieteelliseksi korpukseksi kuten SKVR. Metatietoja tai 
+                        tekstejä ei pääosin ole tarkistettu. Esimerkiksi lyhennyksiä ei ole avattu, ja säkeen sisäiset korjausmerkinnät on 
+                        kirjoitettu osaksi sanoja ja säkeitä. Tämä vaikuttaa tekstien haettavuuteen.</p>
+                    <p>SKVR:n sähköisessä versiossa tekstin lähde on painettu SKVR-kirjasarja. Jos painetussa SKVR-aineistossa on alkuperäiseen 
+                        arkistomuistiinpanoon nähden virhe, tästä voidaan tehdä sähköiseen aineistoon huomautus, mutta itse teksti säilytetään 
+                        samana. JR:n lähde puolestaan on kopiokortin takana oleva alkuperäinen arkistokäsikirjoitus. Jos sähköisessä tekstissä 
+                        on digitoinnista tai konekirjoitusvaiheesta juontuva virhe, se korjataan.</p>
+                    <figure type="standard2">
+                        <graphic url="/exist/apps/skvr/resources/images/map_npoems_jr.png"/>
+                        <figDesc>JR-aineiston runot kartalla. Kartalla ei näy se osa aineistoa, joka ei sisällä pitäjäkohtaista paikkatietoa. 
+                            Kuva: Maciej Janicki, Kati Kallio, Jukka Saarinen &amp; Eetu Mäkelä (FILTER-hanke); karttapohja: Samppa Mäkelä, 
+                            Jakob Lindström, Jukka Saarinen &amp; Kati Kallio.</figDesc>
+                    </figure>
+                    <p>SKVR-aineistoon verrattuna JR on maantieteellisesti kattavampi ja tasaisempi. Etenkin Suomen länsimurteiden alueelta 
+                        suuri osa aineistosta on lastenlauluja ja -loruja sekä uusimittaista aineistoa. Aineistossa on myös yksi runo Viron 
+                        Pärnumaalta ja kaksitoista Setomaalta. </p>
+                    <fw type="subHeader">Julkaisemattomien runojen historia</fw>
+                    <p>Julkaisemattomilla runoilla (JR) tarkoitetaan SKS:n arkistossa olevaa kortistomuotoista kokonaisuutta, johon on aikanaan 
+                        kopioitu arkiston kokoelmista niitä runoja, jotka eivät sisälly Suomen Kansan Vanhat Runot -julkaisuun. SKVR:n alueelliset 
+                        osat julkaistiin vuosien 1908 ja 1948 välillä. Kun teossarja tuli valmiiksi, oli jo saman tien selvää, että se ei sisältänyt 
+                        kaikkea tarpeellista. SKVR:stä oli jo toimitusvaiheessa jätetty pois uudenaikaiseksi, kirjallisvaikutteisiksi tai 
+                        sopimattomaksi katsottua aineistoa. Lisäksi aluekohtaisten osien valmistumisten jälkeen oli SKS:n kokoelmiin ehditty 
+                        tallentaa paljon uutta.</p>
+                    <p>1960-luvun lopulla professori Matti Kuusi käynnisti hankkeen, joka tähtäsi tämän aineksen julkaisemiseen SKVR:n täydennysosina. 
+                        SKS:n Kansanrunousarkiston kokoelmista inventoitiin ne runotekstit, joita ei löytynyt SKVR:stä tai jotka oli julkaistu 
+                        puutteellisina. Inventaariolistan olisi periaatteessa pitänyt sisältää kaikki Kansanrunousarkistoon ennen vuotta 1970 
+                        kertynyt runoaines, mutta kartoitustyö näyttää jääneen kesken eikä kaikkia keruusarjoja näin ollen ole mukana. 
+                        Inventaariolistan perustella alettiin 1970-luvun puoliväliin mennessä kopioida tekstejä konekirjoittaen korteille.</p>
+                    <p>Konekirjoittajien ohjeistukset eivät aina olleet kovin tarkkoja. Kortit järjestettiin niin kutsutuksi 
+                        julkaisemattoman aineksen kortistoksi. Kortit olivat siinä kolmena kappaleena, jotka oli järjestetty kolmeksi 
+                        osakortistoksi: 1) kerääjänmukaisesti, 2) paikkakunnan – laulajan mukaisesti ja 3) sisällönmukaisesti. 
+                        Kortisto, joka valmistui 1990-luvun alussa, on ollut käytettävissä arkiston tiloissa.</p>
+                    <p>SKVR:n täydennysosia tästä aineistosta ei kuitenkaan tehty kuin Elias Lönnrotin aineistojen osalta: osa julkaisematta 
+                        jääneestä Lönnrotiana-kokoelmasta (303 kpl) julkaistiin osana SKVR XV:tä, mutta julkaisemattomiin siitä jäi vielä 1239 
+                        tekstiä. Tähän niteeseen otettiin mukaan myös muuta aineistoa Volmari Porkalta, Henricus Florinukselta sekä Christfrid 
+                        Gananderilta.</p>
+                    <fw type="subHeader">Sisältö</fw>
+                    <p>JR on koostettu inventoimalla arkistosta tiettyihin perinnelajeihin luokiteltuja julkaisemattomia aineistoja, ilmeisesti 
+                        ainakin b1 eli kalevalamittainen runo tai laulu, b3 eli loitsu tai virpomisluku, b5 eli leikki, tanssi sekä 
+                        b7 eli pilasaarna, pikapuhe, pyrkimäluku, käännetty sanonta, salakieli, kansanomainen parodia. Samalla poimittiin myös joitakin muita perinnelajeja, joita 
+                        siihen asti ei oltu siirretty kopiokortistoon. Siten JR-korpus sisältää runo- ja loitsuaineistojen ohella myös 
+                        esimerkiksi uusimittaista lauluperinnettä ja arvoituksia. Myös itkuvirret on todennäköisesti inventoitu ja kopioitu 
+                        samassa hankkeessa. Varsinaisia itkuvirsiä ei JR-aineistoon paljoa sisälly – ne on luultavasti siirretty pääosin 
+                        omaksi kortistokseen jo alussa.</p>
+                    <p>Pääosin JR-aineisto on verrannollista SKVR:n kanssa. Syyt, miksi joku aineisto ei ole mukana SKVR:ssä, jakautuvat käytännössä 
+                        neljään kategoriaan:</p>
+                    <list type="numbered">
+                        <item>1. Uudet vasta kunkin alueellisen osan julkaisun jälkeen kerätyt tekstit. Lukumääräisesti tämä lienee suurin syy 
+                            julkaisemattomuuteen.</item>
+                        <item>2. Tekstit, jotka eivät olleet käytettävissä tai joita ei löydetty julkaisua varten.</item>
+                        <item>3. Uusi tai epäaidoksi katsottu runous, kuten rahvaanrunot, oppineiden runot ja kirjallisuudesta otetut vaikutteet, 
+                            sekä ylipäätään itse tehdyiksi katsotut ”ei perinteiset” runot.</item>
+                        <item>4. Seksuaaliperinne.</item>
+                    </list>
+                    <p>Kategoriat 3 – 4 ovat osin päällekkäiset, koska seksuaaliperinne on tavallista uudemmiksi katsotuissa lauluissa. 
+                        Seksuaaliperinnettä, jota esiintyy mm. lemmenostoloitsuissa, on mukana SKVR:ssä, mutta aika monessa osassa 
+                        sukupuolielimiin liittyviä sanoja on sensuroitu tyyliin ”k-ä”, ”v-u”. SKVR:ssa on jätetty myös runonosia julkaisematta 
+                        kommentilla ”Jatko uutta runoa” tms. Näitä pyrittiin poimimaan julkaisemattomien runojen aineistoon.</p>
+                    <fw type="subHeader">Formaatti</fw>
+                    <p>Kopiokorttien formaatti on sama kuin arkiston muidenkin kopiokortistojen, eli ensin annetaan paikkakunta (”perinteen 
+                        kotipaikka”) ja sen jälkeen kerääjän nimi ja tarkempi arkistosignum (sidossarja eli S-sarja tai kerääjäsidos sekä 
+                        toisinnon numero) ja keruuvuosi. Sen alapuolella, tavallisesti väliviivalla aloitettuna, on tieto informantista tai 
+                        muuta kontekstietoa. Oikeassa yläkulmassa on perinnealueen tunnus – perinnealue on johdettu suoraan paikkakunnan nimestä.</p>
+                    <figure type="standard2">
+                        <graphic url="/exist/apps/skvr/resources/images/IMG_8244.jpg"/>
+                        <figDesc>JR-kokoelman kortteja</figDesc>
+                    </figure>
+                    <p>”Kerääjä” ei arkistokokoelmissa tarkoita välttämättä oikeaa kerääjää eli sitä, joka muistiinpanon on tehnyt, vaan 
+                        paremminkin kokoelmaa, joka on luovuttanut aineiston arkistoon. Luovuttaja voi olla esimerkiksi yhteisö. Tieto 
+                        kerääjästä löytyy usein alapuolisissa kontekstitiedoissa.  Samoin ”keruuvuosi” ei välttämättä viittaa 
+                        todelliseen keruuvuoteen vaan aineiston arkistoon saapumisvuoteen. ”Perinteen kotipaikka” viittaa yleensä informantin 
+                        koti- tai syntymäpaikkaan, tai paikkaan, jossa hän on runon oppinut.</p>
+                    <p>Kerääjänmukainen kortisto sisältää aineistot juuri siinä järjestyksessä kuin ne kokoelmissa esiintyvät. Tämä on kortiston 
+                        pääkappale (“masterkappale”). Aineiston digitointi tehtiin tästä kortistosta. Alueellinen kortisto on järjestetty 
+                        alueittain, pitäjittäin ja pitäjän sisällä laulajien tai esittäjien mukaan, jos tämä tieto on olemassa. Aiheenmukainen 
+                        kortisto on järjestetty alueittain, alueen sisällä pääsääntöisesti mukaillen  vastaavan SKVR-osan aiheenmukaista 
+                        järjestystä. Aiheenmukaista kortistoa ei ole yhdenmukaistettu SKVR-hakemiston (tyyppihakemiston) kanssa eikä 
+                        aiheenmukainen tieto ole mukana JR-korpuksessa. Kortisto on käytettävissä SKS:n arkistossa.</p>
+                    <p>Tekstien kirjoituksessa on noudatettu SKVR:n tapaisia periaatteita, eli tekstit kirjoitetaan tarkasti sellaisenaan kuin 
+                        ne ovat lähteessä eli käsikirjoituksissa. Pääeroja SKVR:n ja JR:n välillä on muutama.</p>
+                    <list type="bulleted">
+                        <item>SKVR:ssa lyhentäen ja tai muuten puutteellisesti merkityt sanat ja säkeet on täydennetty hakasulkeisiin, mutta JR:ssa 
+                            tätä ei ole tehty.</item>
+                        <item>SKVR:ssa teksteihin tehdyt korjailut ja muutokset on pääsääntöisesti tuotu esille alaviitteissä, kun taas JR:ssa 
+                            muutokset ovat yleensä esitetty itse tekstissä. Tiedossamme ei ole kirjallista ohjetta siitä, miten korjaukset ja 
+                            muutokset oli tarkoitus merkitä. Joitain yhteisiä piirteitä JR-aineistosta löytyy, mutta eri konekirjoittajilla on 
+                            selvästi ollut omia käytäntöjään.</item>
+                        <item>JR:ssä erikoismerkit on tehty kirjoituskoneella, jos mahdollista, tai jälkikäteen lisätty kynällä. 
+                            Konekirjoittajat ovat saattaneet myös jättää erikoismerkit merkitsemättä tai yksinkertaistaneet transkriptiota 
+                            (joskus tästä on erillinen huomautus tekstissä). Lisäyksiä on merkitty kauttaviivoilla, joskus rivien väliin 
+                            tulleet lisäykset on laitettu rivien väliin (SKVR:n mukaisia asteriskeja * on käytetty myös mutta hyvin 
+                            satunnaisesti). Kauttaviivoja on voitu käyttää myös muihin tarkoituksiin; usein niillä on merkitty 
+                            konekirjoittajien omia kommentteja, kuten epäselvissä kohdissa käytettyjä kysymysmerkkejä /?/. Korjaukset 
+                            eivät aina koske kokonaisia sanoja. Sähköisessä aineistossa nämä merkinnät johtavat välillä epäselvyyksiin ja 
+                            erikoisen näköisiin säkeisiin.</item>
+                        <item>SKVR:ssa tekstin suorasanaiset osuudet on esitetty pienemmällä fontilla. Koska konekirjoituksessa ei oikeastaan 
+                            voi olla fonttieroja, suorasanaiset eivät JR-aineistossa erotu muuten kuin rivinvaihdoin.</item>
+                        <item>Rivinvaihdoilla on JR-aineistossa monta merkitystä. Tyhjä rivi voi olla kerääjän tekemä jäsennys tai 
+                            konekirjoittajan tulkinta jäsennyksestä, esimerkiksi otsikko, vaihto suorasanaisesta runotekstiin tai säkeistöjako 
+                            uusimittaisissa lauluissa. Tyhjiä rivejä, jotka ovat vain erottaneet suorasanaista osiota tai otsikkoa muusta 
+                            tekstistä, on poistettu, koska ero ilmaistaan sähköisessä tekstissä muulla tavoin.</item>
+                    </list>
+                </div>
+                <pb n="11"/>
+                <div xml:id="part11">
+                    <head>Tallennushistoria</head>
+                    <p>SKVR-kokoelman vanhin teksti on kirjanpitäjän vuonna 1564 tilikirjan irtolehdelle kirjoittama loitsu Ruton 
+                        sanat. Varhaisimmat tekstit eivät ole varsinaisesti kansanperinteen dokumentointia varten tehtyjä, vaan muita 
+                        tarkoituksia varten ylös kirjoitettuja. Laajin joukko koostuu 1600-luvun oikeudenkäyntipöytäkirjoihin 
+                        tallentuneista loitsuista.</p>
+                    <p>1700-luvulla Turun yliopiston oppineet alkoivat tallentaa runoja laajemmin. Yleensä runojen yhteyteen ei 
+                        merkitty mitään oheistietoja, edes tallennusseutua, ja oppineet kopioivat niitä toisiltaan. Kiitos kopioiden 
+                        ja kirjoihin painettujen runonäytteiden, Turun palo vuonna 1827 ei tuhonnut kaikkea tallentunutta aineistoa. 
+                        Ajalta ennen 1800-lukua on aineistossa kuitenkin vain noin 800 tekstiä, suurin osa näistä Christfried 
+                        Gananderin sanakirjakäsikirjoituksesta ja teoksesta <hi rend="italics">Mythologia Fennica</hi>.</p>
+                    <p>1800-luvun alussa erityisesti Sakari Topelius vanhempi, A. I. Arwidsson sekä K. A. Gottlund tekivät merkittäviä 
+                        tallennuksia erityisesti Savosta, Kainuusta ja Pohjanmaalta, Topelius myös vienankarjalaisilta 
+                        laukkukauppiailta. Vuosisadan alkupuoliskon merkittävin tallentaja oli Elias Lönnrot, jonka tallennukset ovat 
+                        määrältään, monipuolisuudeltaan ja maantieteelliseltä laajuudeltaan ainutlaatuisia. Yksi vuonna 1831 
+                        perustetun Suomalaisen Kirjallisuuden Seuran tehtävistä oli Lönnrotin tallennustyön ja eeposhankkeen 
+                        tukeminen. Hän oli ainoa, joka yhä uudestaan suuntasi myös Suomesta käsiin katsottuna vaikeakulkuiseen Vienan 
+                        Karjalaan. Toisten tallentajien retket näin kauas olivat yksittäisiä.</p>
+                    <p>Kalevalan ensimmäisen version ilmestyminen vuonna 1835 innosti myös muita tallennustyöhön. Määrällisesti 
+                        merkittävin oli D. E. D. Europaeus, joka juuri ennen Kalevalan toisen version ilmestymistä vuonna 1849 
+                        tallensi muutaman vuoden aikana Lönnrotiakin laajemman kokoelman. Vuosisadan puolivälistä lähtien 
+                        tallentaminen väheni, mutta lähti 1880-luvulla ennen näkemättömään nousuun. Taustalla oli 
+                        kansanrunoudentutkimuksen synty ja halu saada tutkittavaksi suullista runoutta kattavasti kaikilta seuduilta 
+                        ja yhä laajemmalla lajikirjolla. Siinä missä kansanrunojulkaisuja varten tallennettaessa päähuomio oli vielä 
+                        tallentamattomissa runoissa, aihelmissa ja ilmaisuissa, tutkimuksen kannalta olivat kiinnostavia myös melko 
+                        samanlaisetkin, vain hieman toisistaan poikkeavat versiot sekä tiedot laulajista.</p>
+                    <p>SKS maksoi tallentajille matkastipendejä, ja aineistoja kertyi sen kokoelmiin. Aineistoja tallensivat ja lähettivät 
+                        myös yksityishenkilöt oma-alotteisesti. Kokoelmia alettiin oman talon valmistumisen jälkeen vuonna 1890 
+                        järjestää systemaattisemmin. Jo 1800-luvun lopulla oli myös pyrkimyksiä 
+                        “Kalevalan lähdeaineiston” julkaisemiseksi. SKVR-sarjan ensimmäinen osa ilmestyi vuonna 1908.</p>
+                    <p>1900-luvun puolella alkoi tallentua runsaammin aineistoa myös aiemmin vähemmälle huomiolle jääneiltä suomen 
+                        länsimurteiden alueilta. Opiskelijat, koululaiset ja kotiseutuaktiivit osallistuivat myös tallentamiseen.</p>
+                    <p>Runoja on tallennettu käsin kirjoittamalla, usein lyhenteitä käyttäen, sekä vahalieriöille, 
+                        lakkalevyille, sotien jälkeen magneettinauhoille tai uudemmille äänitysvälineille tallentaen. Suurin osa 
+                        aineistoa on tallennettu ainoastaan tekstinä: sävelmien tallentajat liikkuivat yleensä erikseen ja kirjoittivat 
+                        sekä runoa että sävelmää vihkoihinsa vain muutamia säkeitä. Ensimmäiset äänitykset olivat 
+                        teknologisista syistä enimmillään muutaman minuutin mittaisia.</p>
+                    <p>Tallentamisen tavoitteet ja menetelmät sekä tallentajien suhteet paikallisiin väestöihin vaihtelivat sekä ajan 
+                        myötä että tallentajittain ja paikkakunnittain. Eri tallentajia kiinnostivat eri perinne- ja runolajit ja eri ihmisryhmät. 
+                        Etenkin syrjäisemmillä alueilla, suuriruhtinaskunnan ulkokopuolella ja ortodoksiväestön keskuudessa 
+                        tallentaminen oli usein vaikeampaa ja tallentajienkin ennakkoluulot vahvempia. Runonkerääjillä oli usein 
+                        ihanteellisia mielikuvia siitä, mitä he olivat tallentamassa, ja pettymys saattoi olla kova, jos pitkiä, eheitä, 
+                        vanhoja, poeettisesti täyteläisiä ja mitaltaan säännöllisiä runoja olikin vaikea löytää, tai jos esittäjät 
+                        eivät vastanneet mielikuvia arvokkaista muinaisuuden välittäjistä.</p>
+                    <p>1900-luvulle tultaessa yhteiskunnan hierarkkisuus oli hieman loiventunut ja toisaalta tallentajia ja oppineita 
+                        oli alkanut nousta enemmän myös alemmista yhteiskuntaluokista. Tallentamassa kulki myös naiskerääjiä. Kaikki 
+                        tämä monipuolisti tallentamista. Toisaalta samaan aikaan yhteiskunta oli suuressa kirjallistumisen, 
+                        teollistumisen ja muun modernisoitumisen tuottaman muutoksen tilassa, mikä vaikutti myös suullisiin 
+                        kulttuureihin. Monin paikoin vanhat lauluperinteet ja rituaalit alkoivat jäädä käytöstä.1900-luvun myötä 
+                        tallenteissa alkaa näkyä entistä vahvemmin vanhojen aikojen ja esittäjien lapsuusaikojen muistelemisen sävyä.</p>
+                </div>
+                <pb n="12"/>
+                <div xml:id="part12">
+                    <head>Digitointihistoria</head>
+                    <p>Aineistojen digitointi on paljolti riippuvaista aiemmasta tallennus- ja järjestelyhistoriasta ja siitä, 
+                        missä muodossa aineisto ja sen metatiedot ovat eri aikoina olleet.</p>
+                    <p>Vuonna 1998 SKS:n kansanrunousarkisto ehdotti Viron kansanrunousarkistolle yhteistyötä runoaineistojen 
+                        digitoimiseksi – aloite oli tullut aiemmin akateemikko Arvo Krikmanilta. Työ aloitettiin Viron 
+                        Kansanrunousarkistossa Krikmanin johtamana SKVR-aineistosta 2000-luvun alussa. Tarkoituksena oli 
+                        saattaa teossarja mahdollisimman pitkälti alkuperäistä vastaavaan sähköiseen tekstimuotoon. Sama ryhmä 
+                        jatkoi ensin SKS:ssa kuvatun julkaisemattoman aineiston kortiston ja sitten virolaisen kortistoaineiston 
+                        parissa.</p>
+                    <p>Arvo Krikmann rakenteisti tekstimuotoon digitoidun SKVR-aineiston xml-muotoon keskusteltuaan rakenteesta 
+                        Jukka Saarisen ja Pasi Klemettisen kanssa. Jukka Saarinen tarkisti ja korjasi aineistoa, antoi kullekin 
+                        tekstille ID-tunnisteen, koodasi kerääjä-, paikka- ja vuositiedot yksiselitteisiksi atribuuteiksi ja 
+                        yhtenäisti erikoismerkkien koodiston Unicode-pohjaiseksi. </p>
+                    <p>Julkaisemattomien runojen (JR) osalta metatietojen ja erikoismerkkien normaalistamista ei tehty, ja korpus 
+                        oli vuoteen 2022 asti käytettävissä vain SKS:n arkiston tekstitiedostoina sekä manuaalisena kortistona. 
+                        FILTER-hankkeessa Jukka Saarinen ja Maciej Janicki ovat normaalistaneet JR-korpuksen paikka-, aika ja 
+                        kerääjänimitiedot, ja Saarinen on tehnyt aineistoon jokin verran korjauksia. Korpusta ei ole kuitenkaan 
+                        kattavasti tarkistettu, ja etenkin paikkatiedoissa on yhä epäjohdonmukaisuuksia. JR-korpus julkaistaan sähköisenä myöhemmin.
+                    </p>
+                    <p>Korpusten  perusrakenne on yksikkötasolla sama: metatiedot (paikka, aika, kerääjänimi tai aineiston 
+                        luovuttanut toimija, arkistosignum, vapaa metatietokenttä), vapaa tekstikenttä ja itse runoteksti säkeittäin 
+                        aseteltuna sekä joskus vapaata tekstiä, alaviitteitä tai kommentaaria myös runotekstin jälkeen. Runoteksti 
+                        noudattaa yleensä alkuperäisen lähteen kieliasua – SKVR-korpuksessa toimittajien täydennykset on merkitty 
+                        hakasulkeisiin. SKVR-aineistossa on käytössä Jukka Saarisen laatima säännöstö, joka tekstihakujen 
+                        helpottamiseksi poistaa diakriittiset merkit ja erikoismerkit. Teksti näytetään verkkopalvelussa kuitenkin 
+                        julkaisua vastaavassa muodossa erikoismerkkeineen.
+                    </p>
+                    <p>SKVR-verkkopalvelua (2024–) varten Niklas Alén on muokannut korpuksen XML-koodauksen TEI-muotoon. 
+                    </p>
+                </div>
+                <pb n="13"/>
+                <div xml:id="part13">
+                    <head>Korpusmuutokset</head>
+                    <fw type="authors">Jukka Saarinen</fw>
+                    <p>Edelliseen SKVR-palveluun (2005–2024) verraten sekä korpuksen dataa että rakennetta on korjattu ja tarkennettu. 
+                        Korpusta käytettäessä on mainittava sen versio, ja vanhoja versioita ei kannata käyttää.</p>
+                    <p><hi rend="italics">Paikkatiedot</hi></p>
+                    <p>Paikkatietojen koodausvirheet, jotka ovat aiheuttaneet hakujen kohdentumisen vääriin paikkoihin, on korjattu.</p>
+                    <p>Paikat on myös kohdistettu siten, että sekä hakutulokset että paikkojen sijoittaminen kartalle on mahdollista tehdä 
+                        aiempaa yksiselitteisemmin. Koska paikkatietojen pohjana olevat pitäjä- ja seurakuntarajat sekä -nimet ovat 
+                        muuttuneet aineiston kartunta-ajan kuluessa, on käytetty suunnilleen 1900-luvun alun aluejakoja ja nimityksiä. 
+                        Esimerkiksi Karkkila on Pyhäjärvi Ul., Kalanti on Uusikirkko Tl. On syytä huomioida, että maalais(seura)kunnat 
+                        ja niihin sisältyvät kaupungit eivät aina erotu hauissa, koska kerääjät ovat tavallisesti käyttäneet tämänkaltaisia 
+                        nimiä paikkaa tarkemmin erottelematta.</p>
+                    <p>Edellisessä versiossa erillisinä alueina olleet Ruija, Länsi-Pohja, metsäsuomalaisten alueet ja Tverin / Valdain Karjala 
+                        on jaettu pienempiin alueisiin, kuntiin tai seurakuntiin.</p>
+                    <p>FILTER-hankkessa on tuotettu SKVR-aineiston paikkakoodausta vastaava karttapohja, joka on tarkoitus avata vapaaseen käyttöön.
+                    </p>
+                    <p><hi rend="italics">Kerääjätiedot ja vuositiedot</hi></p>
+                    <p>
+                        Kerääjien ja vuositietojen koodauksissa havaittuja virheitä on korjattu. Tarkemmat päivämäärät, silloin kun ne ovat tiedossa, 
+                        tarjotaan entisten varioivien tekstikenttämerkintöjen lisäksi myös koodattuina päiväyksinä.</p>
+                    <p><hi rend="italics">Runotekstit</hi></p>
+                    <p>Havaittuja virheitä on korjattu.</p>
+                    <p><hi rend="italics">Alaviitteet</hi></p>
+                    <p>Alaviitteissä on ollut runsaasti skannausvirheitä. Monessa tapauksessa alaviitteitä on myös kohdistettu väärään 
+                        toisintoon. Viitenumeroita on puuttunut ja joitain viitteitä on jäänyt skannaamatta. Alaviitteiden rakenteistamisen 
+                        yhteydessä havaitut virheet on korjattu (ks. jäljempänä).</p>
+                    <p>Jo painetussa SKVR:ssä on alaviitteissä virheitä. Tyypillisimmillään alaviitteitä puuttuu tekstistä, tekstissä 
+                        olevaan numeroon ei liity viitettä tai alaviitteet on sijoitettu väärään toisintoon. Tekstistä puuttuvat 
+                        alaviitenumerot on lisätty, mikäli tekstikohta on täysin yksiselitteisesti voitu kohdistaa oikeaan alaviitteeseen. 
+                        Joissain tapauksissa alaviitenumero saattaa puuttua painetusta lähteestä, mutta se on myöhemmin lisätty 
+                        digitaaliseen versioon. Osa alaviitteistä voidaan tulkita toisintokohtaisiksi kommenteiksi eikä tekstistä 
+                        välttämättä löydy viitettä vastaavaa numeroa.</p>
+                    <p>Alaviitteet on tehty omiksi yksiköikseen siten, että tekstissä oleva viitenumero on yhdistetty vastaavaan 
+                        alaviitetekstiin. Tekstin saa näkyville, kun vie osoittimen viitenumeron päälle. Tekstin lopussa on painetun 
+                        teoksen tapaan kaikki alaviitteet järjestyksessä. On huomattava, että jo painetun SKVR:n alaviitteissä on virheitä, 
+                        minkä vuoksi kaikki viitetekstit eivät tule näkyviin, eikä kaikkiin viitteisiin löydy tekstistä numeroa.</p>
+                    <p><hi rend="italics">Säenumerot</hi></p>
+                    <p>SKVR:n painettu versio numeroi säkeet – tai joskus rivit – viiden numeron välisin säenumeroin. Painetussa tekstissä 
+                        ne erottuvat marginaalissa olevana pienempänä numerona. Vanhassa korpusversiossa säenumerot olivat erottamaton osa 
+                        säettä, uudessa versiossa ne erottuvat säkeestä lihavoituna rivinylisenä kirjaimena säkeen alussa. Ne eivät ole 
+                        mukana erikoismerkittömässä tekstissä tai tekstihaussa.</p>
+                </div>
+                <pb n="14"/>
+                <div xml:id="part14">
+                    <head>Kirjallisuutta ja lähdeaineistoja</head>
+                    <p>Anttonen, Pertti. 2005. <hi rend="italics">Tradition through Modernity: Postmodernism and the Nation-State in Folklore 
+                        Scholarship</hi>. Helsinki: Finnish Literature Society. <ref target="https://doi.org/10.21435/sff.15">https://doi.org/10.21435/sff.15</ref>.</p>
+                    <p>Frog 2019. The Finnic Tetrameter – A Creolization of Poetic Form? Teoksessa <hi rend="italics">Studia Metrica et Poetica</hi>, 
+                        6(1): 20–78. <ref target="https://ojs.utlib.ee/index.php/smp/article/view/smp.2019.6.1.02/10407">https://ojs.utlib.ee/index.php/smp/article/view/smp.2019.6.1.02/10407</ref>
+                    </p>
+                    <p>Jevsejev, V. Ja., toim. 1950. <hi rend="italics">Karelskije epitšeskije pesni. Leningrad: Akademija nauk SSSR, Karelo-finski 
+                        filial AN SSSR, Institut istorii, jazyka i literatury</hi>.</p>
+                    <p>Harvilahti, Lauri 2013. “The SKVR Database of Ancient Poems of the Finnish People in Kalevala Meter and the 
+                        Semantic Kalevala.” <hi rend="italics">Oral Tradition</hi> 28(2): 223−232. Luettu 22.4.2023. 
+                        <ref target="http://journal.oraltradition.org/issues/28ii/harvilahti">http://journal.oraltradition.org/issues/28ii/harvilahti</ref>.</p>
+                    <p>Harvilahti, Lauri. 2019. History of Computational Folkloristics in Finland and Some Current Perspectives. 
+                        Teoksessa <hi rend="italics">Folkloristics in the Digital Age</hi>, toimittaneet Pekka Hakamies ja Anne Heimo, 
+                        158−175. Helsinki: Suomalainen Tiedeakatemia.</p>
+                    <p>Hautala, Jouko. 1950. <hi rend="italics">Suomen kansan vanhojen runojen julkaisutyön vaiheita</hi>. Eripainos SKVR-sarjan osasta XIV. 
+                        Helsinki: Suomalaisen Kirjallisuuden Seura.</p>
+                    <p>Jaago, Tiiu 2010. ”Traditsioon ja regilaul folkloristika muutuvas kontekstis.” 
+                        <hi rend="italics">Keel ja kirjandus</hi> 53(8): 592−610.</p>
+                    <p>Järv, Risto. 2016. ”The Singing Wolf Meets His Kin Abroad: Web-Based Databases of the Estonian Folklore 
+                        Archives”. <hi rend="italics">Estudis de Literatura Oral Popular. Studies in Oral Folk Literature</hi> 5: 29−44. Luettu 22.4.2023. 
+                        <ref target="https://raco.cat/index.php/ELOP/article/view/327998">https://raco.cat/index.php/ELOP/article/view/327998</ref>.</p>
+                    <p>Järv, Risto ja Mari Sarv. 2014. “From Regular Archives to Digital Archives.” Teoksessa <hi rend="italics">Corpora ethnographica 
+                        online. Strategies to digitize ethnographical collections and their presentation on the Internet</hi>. Rostocker 
+                        Studien zur Volkskunde und Kulturgeschichte 5, toimittanut Christoph Schmitt, 49−60. Münster: Waxmann Verlag 
+                        GmbH.</p>
+                    <p>Kalkun, Andreas. 2015. <hi rend="italics">Seto laul eesti folkloristika ajaloos: Lisandusi representatsiooniloole</hi>. 
+                        Tartto: Eesti Kirjandusmuuseumi Teaduskirjastus.</p>
+                    <p>Kallio, Kati, Frog ja Mari Sarv. 2017. What to Call the Poetic Form: Kalevala-Meter or Kalevalaic Verse, regivärss, 
+                        Runosong, the Finnic Tetrameter, Finnic Alliterative Verse, or Something Else? <hi rend="italics">RMN Newsletter</hi> 12–13: 94–117. 
+                        <ref target="http://hdl.handle.net/10138/305420">http://hdl.handle.net/10138/305420</ref>.</p>
+                    <p>Kallio, Kati, Maciej Janicki, Eetu Mäkelä, Liina Saarlo, Jukka Saarinen &amp; Mari Sarv 2023: 
+                        Eteneminen omalla vastuulla. Lähdekriittinen laskennallinen näkökulma sähköisiin kansanrunoaineistoihin. 
+                        <hi rend="italics">Elore</hi> 30(1): 59−90. <ref target="https://doi.org/10.30666/elore.126008">https://doi.org/10.30666/elore.126008</ref>
+                    </p>
+                    <p>Klemettinen, Pasi, toim. 2006. ”Ei se synny synnyttämättä”. Selvitys digitointiprojektin vaiheista ja 
+                        työprosesseista. Helsinki: Suomalaisen Kirjallisuuden Seura. Luettu 22.4.2023. 
+                        <ref target="https://www.finlit.fi/sites/default/files/mediafiles/tutkimus/elias_loppuraportti.pdf">https://www.finlit.fi/sites/default/files/mediafiles/tutkimus/elias_loppuraportti.pdf</ref>.</p>
+                    <p>Krohn, Kaarle. 1916. <hi rend="italics">Suomen kansan vanhojen runojen julkaisu</hi>. Porvoo: WSOY.</p>
+                    <p>Kundozerova, Maria. 2022: “Baza dannyh “Karelskije runy”: ideja sozdanija, kontseptsija, perspektivy.” <hi rend="italics">Almanah 
+                        severojevropejskih i baltijskih issledovanij</hi> 7: 233−240. 
+                        <ref target="http://dx.doi.org/10.15393/j103.art.2022.2386">http://dx.doi.org/10.15393/j103.art.2022.2386</ref>.</p>
+                    <p>Kurki, Tuulikki, toim. 2004. <hi rend="italics">Kansanrunousarkisto, lukijat ja tulkinnat</hi>. Helsinki: 
+                        Suomalaisen Kirjallisuuden Seura.</p>
+                    <p>Kuusi, Matti 1949. <hi rend="italics">Sampo-eepos. Typologinen analyysi</hi>. SUSA XCVI. Helsinki.</p>
+                    <p>Kuusi, Matti ja Ülo Tedre. 1979. “Regivärsilise ja kalevalamõõdulise laulutraditsiooni vahekorrast: Dialog 
+                        üli lahe.” <hi rend="italics">Keel ja kirjandus</hi> 22: 70−78.</p>
+                    <p>Kuutma, Kristin ja Tiiu Jaago, toim. 2005. <hi rend="italics">Studies in Estonian Folkloristics and Ethnology. A Reader and 
+                        Reflexive History</hi>. Tartto: Tartu University Press.</p>
+                    <p>Kõiva, Mare. 2019. <hi rend="italics">Eesti loitsud I. Arstimissõnad I</hi>. Tartu: EKM Teaduskirjastus.</p>
+                    <p>Laaksonen, Pekka ja Jukka Saarinen, toim. 2004. <hi rend="italics">Arkiston avain: Kansanrunousarkiston kortistot, hakemistot, 
+                        luettelot, lyhenteet</hi>. 2. uud. laitos. Helsinki: SKS.</p>
+                    <p>Laugaste, Eduard. 1975. <hi rend="italics">Eesti rahvaluule</hi>. Tallinn: Valgus.</p>
+                    <p>Lavonen, N. A., toim. 1989. <hi rend="italics">Kiestingin kansanlauluja. Pesennyj folklor kestengskih karel</hi>. 
+                        Petrozavodsk: Karelija.</p>
+                    <p>Leino, Pentti 1986. <hi rend="italics">Language and metre. Metrics and the metrical system of Finnish</hi>. Helsinki: SKS.</p>
+                    <p>Leino, Pentti 2002 [1975]. Äidinkieli ja vieras kieli: rahvaanrunouden metriikkaa. Teoksessa <hi rend="italics">Mittoja, muotoja, merkityksiä</hi>. Helsinki: SKS, 207–230. [Kalevalaseuran vuosikirja 55 (1975) s. 26–48.]
+                    </p>
+                    <p>Mironova, V. P., toim. 2006. <hi rend="italics">Epitšeskije pesni Južnoj Karelii. Anuksen karjalazien eeppizet pajot</hi>. Petrozavodsk: Periodika.</p>
+                    <p>Oras, Janika. 2008. <hi rend="italics">Viie 20. sajandi naise regilaulumaailm. Arhiivitekstid, kogemused ja mälestused</hi>. 
+                        Tartu: Eesti Kirjandusmuuseumi Teaduskirjastus.</p>
+                    <p>Saarinen, Jukka. 2001. Kalevalaic Poetry as a Digital Corpus. <hi rend="italics">FF Network</hi> 22 (2001): 4−9. 
+                        <ref target="https://www.folklorefellows.fi/kalevalaic-poetry-as-a-digital-corpus/">https://www.folklorefellows.fi/kalevalaic-poetry-as-a-digital-corpus/</ref></p>
+                    <p>Sarajas, Annamari. 1956. <hi rend="italics">Suomen kansanrunouden tuntemus 1500−1700-lukujen kirjallisuudessa</hi>. Porvoo: WSOY.</p>
+                    <p>Sarv, Mari. 2019. ”Poetic Metre as a Function of Language. Linguistic Grounds for Metrical Variation in Estonian 
+                        Runosongs”. <hi rend="italics">Studia Metrica et Poetica</hi> 6 (2): 102−48. 
+                        <ref target="https://doi.org/10.12697/smp.2019.6.2.04">https://doi.org/10.12697/smp.2019.6.2.04</ref>.</p>
+                    <p>Sarv, Mari ja Janika Oras. 2020. ”From Tradition to Data: The Case of Estonian Runosong.” 
+                        <hi rend="italics">ARV. Nordic Yearbook of Folklore</hi> 76: 105−17. 
+                        <ref target="https://gustavadolfsakademien.bokorder.se/svSE/serie/140/arv">https://gustavadolfsakademien.bokorder.se/svSE/serie/140/arv</ref>. (Luettu 23.4.2023.)</p>
+                    <p>Siikala, Anna-Leena 1994. Transformations of the Kalevala Epic. Teoksessa <hi rend="italics">Songs beyond the Kalevala. Transformations 
+                        of Oral Poetry</hi>. Toim. Anna-Leena Siikala &amp; Sinikka Vakimo. Helsinki: SKS, 15–38.</p>
+                    <p>Tarkka, Lotte. 2005. <hi rend="italics">Rajarahvaan laulu. Tutkimus Vuokkiniemen kalevalamittaisesta runokulttuurista 1821−1921</hi>. Helsinki: SKS.</p>
+                    <p>Tarkka, Lotte, Heidi Haapoja-Mäkelä ja Eila Stepanova. 2019. ”Kalevalaisuus, kieli-ideologiat ja suomalaisuuden 
+                        myytit”. Teoksessa <hi rend="italics">Eurooppa, Suomi, Kalevala. Mikä mahdollisti Kalevalan?</hi> Kalevalaseuran vuosikirja 98, 
+                        toimittaneet Ulla Piela, Pekka Hakamies ja Pekka Hako, 79−106. Helsinki: SKS.</p>
+                    <p>Timonen, Senni. 2004. <hi rend="italics">Minä, tila, tunne. Näkökulmia kalevalamittaiseen kansanlyriikkaan</hi>. Helsinki: SKS.</p>
+                    <p>Väisänen, A. O. 1917. <hi rend="italics">Suomen kansan sävelmäin keräys: Vaiheet ja tulokset</hi>. Helsinki: SKS.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

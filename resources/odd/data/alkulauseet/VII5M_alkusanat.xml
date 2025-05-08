@@ -1,0 +1,171 @@
+<?teipublisher template="alkulauseet.html" odd="teipublisher.odd" view="single"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>VII5M: alkusanat</title>
+                <author>Väinö Salminen</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                <pubPlace>Helsinki</pubPlace>
+                <date>2024</date>
+                <availability>
+                    <p>Tekijänoikeudet: Suomalaisen Kirjallisuuden Seura</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Skandinavian metsäsuomalaisten runot</title>
+                    <author>Väinö Salminen (toimittaja)</author>
+                    <pubPlace>Helsinki</pubPlace>
+                    <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                    <date>1933</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div>
+            <p>SKANDINAVIAN METSÄSUOMALAISTEN RUNOT</p>
+            <p>JULKAISSUT VÄINÖ SALMINEN</p>
+            <p>HELSINKI 1933</p>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURA</p>
+            <p/>
+            <p>Alkulause.</p>
+            <p>Skandinavian metsäsuomalaisten runot ovat lähinnä savolaisia niinkuin heidän kielensäkin. Ne olisi siis pitänyt liittää Savon runojen alkuun. Mutta kun käsilläoleva Raja- ja Pohjois-Karjalan runojen viimeinen osa ei muodosta suunnitelmanvahvuista nidettä, oli pakko ottaa metsäsuomalaisten runot täydennykseksi.</p>
+            <p>Muutamat julkaisijan osviitat ovat näiden vertailevalle tutkimukselle tärkeitten runojen käyttäjille välttämättömiä.</p>
+            <p>Maakuntaa ei aina ole runon otsakkeeseen merkitty, mutta on helppo muistaa, että vain Gottlundin v. 1817 tekemät muistiinpanot ovat pohjoisista suomalaismetsistä, etupäässä Taalaista. Kaikki muut kokoelmat ovat joko Värmlannista tahi norjanpuoleisista rajakylistä.</p>
+            <p>Muistiinpanopaikat on yleensä tarkoin voitu määritellä, paitsi Gottlundin papereissa olevat toisinnot 724—729. Ne ovat todennäköisesti 1700-luvulta ja muodostavat foliolehden. Paitsi runoista ilmenee muutamista lehden lopussa olevista kylien nimistä, että tuo käsikirjoitus on metsäsuomalaisten alueelta. Kirjoittaja ei liene edes osannut suomea, mikäli oikeinkirjoituksesta voi päättää.</p>
+            <p>Gottlundin muistiinpanoista on huomattava, etteivät ne ole alkuperäisiä, kuten tutkijat ovat luulleet, vaan puhtaaksikirjoitettuja. Matkavarustuksistaan Gottlund näet kertoo, että niihin kuului pyyhittävä lehtiö (plån), jota hän aina piti taskussaan voidakseen kirjoittaa muistiin sukutarinat ja runot tarvitsematta matkakirstustaan penkoa esille kirjoitusneuvoja. Tuo laite oli kirjan muotoinen ja sen lehtien pinnat rihvelitaulun tapaisia. Hän mainitseekin kerran erehdyksestä pyyhkineensä laatalta runot ennenkuin oli ne kirjoittanut puhtaaksi paperille. Olen muutamissa kohdin huomannut omituisten kirjainerehdysten johtuvan siitä, että Gottlund sisällystä täysin ymmärtämättä on heikon suomenkielen ja oikeinkirjoitustaitonsa lisäksi tehnyt kopioimisvirheitä.</p>
+            <p>Sanakirjasäätiön hallussa olevien (Helmi Helminen, Maija Juvas, Tahvo Liljeblad, Astrid Reponen), samoin Lauri Kettusen ja julkaisijan muistiinpanojen foneettista asua on yksinkertaistutettu sikäli, ettei diftongia ilmaisevaa kaarta ole merkitty, samoin on käytetty j:tä eikä vastaavaa foneettista merkkiä. Näin on menetelty painatuskulujen huojentamiseksi.</p>
+            <p>Muistiinkirjoittajien joukossa on toisia, jotka eivät ollenkaan ole osanneet suomea, toisia, joille suomalainen oikeinkirjoitus on ollut tuiki tuntematon. Niihin olen liittänyt hakasiin oman tulkintani siten helpoittaakseni sisällyksen ymmärtämistä. Muutamille säkeille ei ole ollut metsäsuomalaisten runoissa vastineita, joten on otettava huomioon, että olen voinut erehtyä niiden tulkinnassa, etenkin kun Savon runot eivät vielä ole tulleet julkisuuteen.</p>
+            <p>Maisteri <hi rend="i">Helmi</hi> <hi rend="i">Helminen</hi> on etsinyt Sanakirjasäätiön kokoelmissa olevat runo- ja loitsutoisinnot käytettäväkseni. Lausun hänelle siitä kiitokseni.</p>
+            <p>Helsingissä elokuulla 1933.</p>
+            <p>
+                <hi rend="b i">Väinö Salminen.</hi>
+            </p>
+            <p/>
+            <p>Sisällysluettelo.</p>
+            <table type="contents">
+                <row rend="heading"><cell>Alkulause</cell><cell>III—IV</cell></row>
+                <row rend="heading"><cell>Sisällysluettelo </cell><cell>VI—VIII</cell></row>
+                <row><cell>Metsäsuomalaisten runojen ja loitsujen kertojain luettelo</cell><cell>IX—XII</cell></row>
+                <row rend="heading"><cell>I. Kertovia runoja.</cell><cell/></row>
+                <row><cell>Akka neuvo poikoansa n:o 1 </cell><cell>3</cell></row>
+                <row><cell>Hämeen ihmeet n:o 2 </cell><cell>3</cell></row>
+                <row><cell>Kanteleensoitto n:ot 3—4 </cell><cell>3—4</cell></row>
+                <row><cell>Kettu itki poikiansa n:ot 5—8, 382 </cell><cell>4</cell></row>
+                <row><cell>Pani lehmänsä leholle n:o 9 </cell><cell>4</cell></row>
+                <row><cell>Samporuno n:o 10 </cell><cell>4—5</cell></row>
+                <row><cell>Varas koristeet n:o 11 </cell><cell>5</cell></row>
+                <row rend="heading"><cell>II. Lyyrillisiä lauluja.</cell><cell/></row>
+                <row><cell>Jouvu, jouvu järvelle n:o 12 </cell><cell>6</cell></row>
+                <row><cell>Lohi lauloi longotteli n:o 13 </cell><cell>6</cell></row>
+                <row><cell>Olipa täällä sulhasia n:o 14 </cell><cell>6</cell></row>
+                <row><cell>Taloon tullessa n:o 15 </cell><cell>6</cell></row>
+                <row><cell>Siitä kiitän Kiesustani n:o 16 </cell><cell>6—7</cell></row>
+                <row><cell>Pilo minun, pilo lintu n:o 17 </cell><cell>7</cell></row>
+                <row><cell>Tuoppi tuotu, toinen juotu n:o 18 </cell><cell>7</cell></row>
+                <row><cell>Uula uikutti mäessä n:o 19 </cell><cell>7</cell></row>
+                <row><cell>Voi minua poloinen poika n:o 20 </cell><cell>7</cell></row>
+                <row><cell>Voi veikkonen n:ot 21—22 </cell><cell>7—8</cell></row>
+                <row><cell>Yks kaks kolme neljä n:o 23 </cell><cell>8</cell></row>
+                <row><cell>Yks on nilkku toinen nalkku n:o 24</cell><cell>8</cell></row>
+                <row rend="heading"><cell>LASTEN LAULUJA, KETJU- JA TUUTILAULUJA.</cell><cell/></row>
+                <row><cell>Antti armias naitettiin n:ot 25—26 </cell><cell>8—9</cell></row>
+                <row><cell>Hiiri hevossa, käärme piiskana n:o 27 </cell><cell>9</cell></row>
+                <row rend="heading"><cell>KETJURUNOJA.</cell><cell/></row>
+                <row><cell>Hiiren runo n:ot 28—29 </cell><cell>9—10</cell></row>
+                <row><cell>Missä voi? n:ot 30—31, 384 </cell><cell>10</cell></row>
+                <row><cell>Pakeneva n:ot 32—35 </cell><cell>10—12</cell></row>
+                <row rend="heading"><cell>TUUTILAULUJA.</cell><cell/></row>
+                <row><cell>Tiirun liirun lintu pieni n:ot 36—38, 383 </cell><cell>12</cell></row>
+                <row><cell>Tullin lullin tuppinahka n:o 39 </cell><cell>12</cell></row>
+                <row rend="heading"><cell>LEIKKILUKUJA.</cell><cell/></row>
+                <row><cell>Arvoitellessa n:o 40 </cell><cell>12—13</cell></row>
+                <row><cell>Kintaan kantaminen n:o 41</cell><cell>13</cell></row>
+                <row><cell>Rollota rollota n:o 42 </cell><cell>13</cell></row>
+                <row><cell>Vippu vappu n:o 43 </cell><cell>13</cell></row>
+                <row rend="heading"><cell>III. Loitsut.</cell><cell/></row>
+                <row rend="heading"><cell>HALTIAT.</cell><cell/></row>
+                <row><cell>Luotteet lovia myöten n:o 44 </cell><cell>17</cell></row>
+                <row><cell>Haltian nosto n:ot 45—46 </cell><cell>17—18</cell></row>
+                <row><cell>Maahinen n:ot 47—51 </cell><cell>18—19</cell></row>
+                <row><cell>Näkki n:ot 52—55 </cell><cell>19</cell></row>
+                <row><cell>Ukonilmaa ja myrskyä vastaan n:ot 56—57 </cell><cell>19</cell></row>
+                <row rend="heading"><cell>KIROT.</cell><cell/></row>
+                <row><cell>Kiroista päästö n:ot 58—59</cell><cell>20</cell></row>
+                <row rend="heading"><cell>LOUKKAANTUMAT, PUREMAT JA PISTÄMÄT.</cell><cell/></row>
+                <row><cell>Ampiainen n:ot 60—79 </cell><cell>20—23</cell></row>
+                <row><cell>Kiven vihat n:ot 80—93 </cell><cell>23—25</cell></row>
+                <row><cell>Käärmeen synty n:ot 94—105 </cell><cell>25—28</cell></row>
+                <row><cell>Käärmeenpureman parannus 106—119 </cell><cell>28—31</cell></row>
+                <row><cell>Käärmeen pidätys n:o 120 </cell><cell>31—32</cell></row>
+                <row><cell>Kyyn jälki n:ot 121—122 </cell><cell>32</cell></row>
+                <row><cell>Niukahdus n:ot 123—139 </cell><cell>32—37</cell></row>
+                <row><cell>Pakkasen luvut n:ot 140—152 </cell><cell>37—39</cell></row>
+                <row><cell>Puun jälki n:ot 153—161 </cell><cell>40—41</cell></row>
+                <row><cell>Raudan puhuttelu n:ot 162—179 </cell><cell>41—46</cell></row>
+                <row><cell>Veren sulku n:ot 180—189 </cell><cell>46—48</cell></row>
+                <row><cell>Siikanen (rikka silmässä) n:ot 190—205 </cell><cell>48—51</cell></row>
+                <row><cell>Suden hampaan jälki n:o 206 </cell><cell>51</cell></row>
+                <row><cell>Tulen synty, palaneelle n:ot 207—220 </cell><cell>51—55</cell></row>
+                <row rend="heading"><cell>TAUDIT.</cell><cell/></row>
+                <row><cell>Ammus n:ot 221—225 </cell><cell>55—57</cell></row>
+                <row><cell>Kaikkien kipujen parannus n:ot 226—227 </cell><cell>57—61</cell></row>
+                <row><cell>Kaikenlaista kivistystä vastaan n:o 228 </cell><cell>61</cell></row>
+                <row><cell>Kohtaus n:ot 229—238, 385 </cell><cell>61—63</cell></row>
+                <row><cell>Koi n:ot 239—243 </cell><cell>63—64</cell></row>
+                <row><cell>Luuvalo n:o 244 </cell><cell>64</cell></row>
+                <row><cell>Nikotus n:o 245 </cell><cell>64—65</cell></row>
+                <row><cell>Painajainen n:ot 246—250 </cell><cell>65</cell></row>
+                <row><cell>Paise n:ot 251—259, 386 </cell><cell>65—68</cell></row>
+                <row><cell>Pistos n:ot 260—271 </cell><cell>68—72</cell></row>
+                <row><cell>Riisi n:ot 272—276 </cell><cell>72—73</cell></row>
+                <row><cell>Rupeama—Pyhänenä n:ot 277—281 </cell><cell>73—75</cell></row>
+                <row><cell>Rupeama, tartunta n:ot 282—285 </cell><cell>75—78</cell></row>
+                <row><cell>Sätkä n:ot 286—288 </cell><cell>78—79</cell></row>
+                <row><cell>Turska n:ot 289—296 </cell><cell>79—80</cell></row>
+                <row><cell>Vatsatauti n:o 297 </cell><cell>80</cell></row>
+                <row><cell>Yskään n:o 298 </cell><cell>80—81</cell></row>
+                <row><cell>Ähky n:ot 299—312 </cell><cell>81—84</cell></row>
+                <row rend="heading"><cell>KARJANHOITO.</cell><cell/></row>
+                <row><cell>Hevosen nivellys n:o 313 </cell><cell>84</cell></row>
+                <row><cell>Karjan suojeleminen karhulta n:ot 314—332, 381 </cell><cell>84—91</cell></row>
+                <row><cell>Suden luku n:o 333 </cell><cell>91</cell></row>
+                <row><cell>Lehmän lypsyn edistäminen n:o 334 </cell><cell>91</cell></row>
+                <row><cell>Lehmän suostuttaminen uuteen paikkaan n:ot 335—337</cell><cell>91—92</cell></row>
+                <row><cell>Vasikalle, joka menee toiseen karjaan n:o 338 </cell><cell>92</cell></row>
+                <row><cell>Kontion nostattaminen n:ot 339—340 </cell><cell>92</cell></row>
+                <row><cell>Porsaitten menestykseksi n:ot 341—344 </cell><cell>92—93</cell></row>
+                <row><cell>Sikaa teurastettaessa n:o 345 </cell><cell>93</cell></row>
+                <row rend="heading"><cell>METSÄSTYS.</cell><cell/></row>
+                <row><cell>Karhun pyynti. Metsästyksen alkaessa n:o 346 </cell><cell>93</cell></row>
+                <row><cell>Ennen ampumista n:ot 347—348 </cell><cell>94</cell></row>
+                <row><cell>Tupaan tuotaessa n:o 349 </cell><cell>94</cell></row>
+                <row><cell>Karhunkalloja puuhunpantaessa n:o 350 </cell><cell>94</cell></row>
+                <row><cell>Metsästäjän luku n:o 351—355 </cell><cell>94—96</cell></row>
+                <row rend="heading"><cell>KALASTUS.</cell><cell/></row>
+                <row><cell>Onkijan luku n:ot 356—357</cell><cell>96</cell></row>
+                <row rend="heading"><cell>ERILAISIA LOITSUJA.</cell><cell/></row>
+                <row><cell>Kengittäessä n:o 358 </cell><cell>96</cell></row>
+                <row><cell>Koiran asetussanat n:o 359 </cell><cell>96</cell></row>
+                <row><cell>Kun pisti ruokaa suuhun n:o 360 </cell><cell>96</cell></row>
+                <row><cell>Kylvettäessä n:o 361 </cell><cell>97</cell></row>
+                <row><cell>Lapsen maitohammasta kiukaalle viskattaessa n:o 362</cell><cell>97</cell></row>
+                <row><cell>Lemmennosto n:ot 363—367 </cell><cell>97—98</cell></row>
+                <row><cell>Nosteen luku n:ot 368—369 </cell><cell>98</cell></row>
+                <row><cell>Löylyn sanoja n:ot 370—373 </cell><cell>98</cell></row>
+                <row><cell>Para n:o 374 </cell><cell>99</cell></row>
+                <row><cell>Patjankuorta täytettäessä n:o 375 </cell><cell>99</cell></row>
+                <row><cell>Katkelmia n:ot 376—377 </cell><cell>99</cell></row>
+                <row><cell>Minä piitän pitkät matkat n:ot 378—379 </cell><cell>99</cell></row>
+                <row><cell>Lehmä pihalle n:o 380 </cell><cell>99</cell></row>
+                <row><cell>Karhun luku n:o 381 </cell><cell>99—100</cell></row>
+                <row><cell>Lisiä n:ot 382—386 </cell><cell>100</cell></row>
+                <row><cell>Lyhennykset ja merkit</cell><cell>102</cell></row>
+            </table>
+        </div></body>
+    </text>
+</TEI>

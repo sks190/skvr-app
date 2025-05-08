@@ -1,0 +1,1358 @@
+<?teipublisher template="alkulauseet.html" odd="teipublisher.odd" view="single"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>I1: kerääjät ja laulajat</title>
+                <author>A. R. Niemi</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                <pubPlace>Helsinki</pubPlace>
+                <date>2024</date>
+                <availability>
+                    <p>Tekijänoikeudet: Suomalaisen Kirjallisuuden Seura</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Suoman kansan vanhat runot I. Vienan Läänin Runot. I. Kalevalan-aineiset runot. Toisinnot 1−700.</title>
+                    <author>A. R. Niemi (toimittaja)</author>
+                    <pubPlace>Helsinki</pubPlace>
+                    <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                    <date>1908</date>
+                    <series>
+                        <title>Suomalaisen Kirjallisuuden Seuran toimituksia</title>
+                        <biblScope>121, I.</biblScope>
+                    </series>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>al01</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div>
+            <p>Käsikirjoitusten ja lähteitten luettelo.</p>
+            <p>Kerääjät on lueteltu ajanmukaisessa järjestyksessä. Isommat numerot osottavat runon numeroa käsikirjoituksessa, niiden jälessä olevat minä numerona tai numeroina se on tässä teoksessa.</p>
+            <p>Topeliuksen keräykset.</p>
+            <p>
+                <hi rend="bold">1.</hi> 1222 a) 8.</p>
+            <p>
+                <hi rend="bold">1</hi> 728. Akonlahdesta.</p>
+            <p>
+                <hi rend="bold">2.</hi> 651 a). (Keckmanin kopio).</p>
+            <p>
+                <hi rend="bold">1</hi> 354, 386; <hi rend="bold">2</hi> 449; <hi rend="bold">3</hi> 597; <hi rend="bold">6</hi> 63 a), <hi rend="bold">8</hi> 63.</p>
+            <p>1—3 Akonlahdesta, 6, 8 Tsenasta.</p>
+            <p>
+                <hi rend="bold">3.</hi> 1222 a) 12.</p>
+            <p>
+                <hi rend="bold">1</hi> 686; <hi rend="bold">5</hi> 65; <hi rend="bold">6</hi> 367; <hi rend="bold">7</hi> 176. Vuokkiniemestä.</p>
+            <p>
+                <hi rend="bold">4.</hi> 1222 a) 18.</p>
+            <p>
+                <hi rend="bold">3</hi> 261. Vuonnisesta.</p>
+            <p>
+                <hi rend="bold">5.</hi> Suomen kansan vanhoja runoja ynnä myös nykyisempiä lauluja. I—V.</p>
+            <p>I, <hi rend="bold">ss. 3—18</hi> 774; <hi rend="bold">ss. 6—9</hi> 366; <hi rend="bold">ss. 21—4</hi> 158, <hi rend="bold">ss. 25—6 (= 651 a) 8)</hi> 63; <hi rend="bold">ss. 27—30</hi> 403; <hi rend="bold">ss. 29</hi> 622.</p>
+            <p>II, <hi rend="bold">ss. 6—11</hi> 449 a); <hi rend="bold">ss. 15—18</hi> 63 b).</p>
+            <p>III, <hi rend="bold">ss. 2—9</hi> 728 a); <hi rend="bold">ss. 20—2</hi> 354 a); <hi rend="bold">ss. 24—7</hi> 597 a).</p>
+            <p>V, <hi rend="bold">ss. 1—4</hi> 261 a).</p>
+            <p>Tsenasta, Akonlahdesta ja Vuonnisesta.</p>
+            <p>Sjögrenin keräykset.</p>
+            <p>
+                <hi rend="bold">6.</hi> Suomi III, 15. Painettu alkup. Pietarin Keisarill. Tiedeakatemian omistaman käsikirjoituksen XX M VI vol. 20. mukaan.</p>
+            <p>
+                <hi rend="bold">412</hi> 935; <hi rend="bold">414</hi> 565; <hi rend="bold">417</hi> 64; <hi rend="bold">418</hi> 404, 254 623; <hi rend="bold">419</hi> 624, 255, 478; <hi rend="bold">431</hi> 185; <hi rend="bold">432 </hi>79; <hi rend="bold">433</hi> 826.</p>
+            <p>412, 414 Uhtuesta, 417—19 Tsenasta, 431—2 Vuonnisesta, 433 Uhtuesta.</p>
+            <p>Fellmanin keräykset.</p>
+            <p>
+                <hi rend="bold">7.</hi> Pitkä vihko n:o 4090.</p>
+            <p>
+                <hi rend="bold">42</hi> 75; <hi rend="bold">45</hi> 786.</p>
+            <p>Venehjärvestä.</p>
+            <p>
+                <hi rend="bold">8.</hi> „Anteckningar i Lappmarken“ teoksesta I, s. <hi rend="bold">498</hi> 66.</p>
+            <p>Vuokkiniemestä.</p>
+            <p>Lönnrotin keräykset.</p>
+            <p>
+                <hi rend="bold">9. </hi>A II 2<hi rend="italics">.</hi>
+            </p>
+            <p>
+                <hi rend="bold">1 </hi>729; <hi rend="bold">2</hi> 30, 355, 450, 598; <hi rend="bold">3</hi> 520, 159, 387, 599; <hi rend="bold">6</hi> 674; <hi rend="bold">7</hi> 970; <hi rend="bold">8</hi> 863;<hi rend="bold"> 12 b)</hi> 730.</p>
+            <p>Akonlahdesta.</p>
+            <p>
+                <hi rend="bold">10. </hi>A II 3.</p>
+            <p>
+                <hi rend="bold">32</hi> 259, 184; <hi rend="bold">34</hi> 793; <hi rend="bold">38</hi> 262; <hi rend="bold">39</hi> 185 a); <hi rend="bold">40</hi> 79 a); <hi rend="bold">41</hi> 640; <hi rend="bold">42 </hi>794; <hi rend="bold">43</hi> 689; <hi rend="bold">45</hi> 487; <hi rend="bold">49</hi> 51, 398; <hi rend="bold">62</hi> 412; <hi rend="bold">65</hi> 80, 263, 488, 532, 931; <hi rend="bold">73</hi> 795; <hi rend="bold">81</hi> 302.</p>
+            <p>32, 34 Ponkalahdesta, 38—43, 45 Vuonnisesta, 49 Kivijärvestä, 62, 65, 73 Vuonnisesta, 81 Vuokkiniemestä.</p>
+            <p>
+                <hi rend="bold">11.</hi> A II 4.</p>
+            <p>
+                <hi rend="bold">3</hi> 634, 303, 408; <hi rend="bold">4</hi> 784.</p>
+            <p>Tollonjoelta.</p>
+            <p>
+                <hi rend="bold">12.</hi> A II 5.</p>
+            <p>
+                <hi rend="bold">7 </hi>272, 537; <hi rend="bold">8</hi> 95, 496, 876; <hi rend="bold">10</hi> 897; <hi rend="bold">13</hi> 142; <hi rend="bold">20</hi> 189; <hi rend="bold">21</hi> 647, 96; <hi rend="bold">22</hi> 97, 648; <hi rend="bold">23</hi> 1002; <hi rend="bold">24</hi> 420, 313; <hi rend="bold">25</hi> 314; <hi rend="bold">26 b)</hi> 695 b); <hi rend="bold">26 a)</hi> 695;<hi rend="bold"> 27</hi> 273, 497; <hi rend="bold">28</hi> 813;<hi rend="bold"> 33</hi> 538;<hi rend="bold"> 34</hi> 696;<hi rend="bold"> 36 a)</hi> 421;<hi rend="bold"> 39 </hi>814; <hi rend="bold">40</hi> 815; <hi rend="bold">49</hi> 816, 498; <hi rend="bold">50</hi> 695 a); <hi rend="bold">58</hi> 98, 190; <hi rend="bold">68 </hi>877; <hi rend="bold">69</hi> 318, 104; <hi rend="bold">72</hi> 827; <hi rend="bold">73</hi> 105, 655; <hi rend="bold">75 a)</hi> 233; <hi rend="bold">77</hi> 828; <hi rend="bold">78</hi> 829; <hi rend="bold">79</hi> 936; <hi rend="bold">82</hi> 898; <hi rend="bold">85</hi> 937; <hi rend="bold">86 </hi>106, 656; <hi rend="bold">87</hi> 830.</p>
+            <p>7—8, 10, 13, 20—8, 33—4, 36 a), 39—40, 49—50, 58 Lonkasta, 68—9, 72—3, 75 a), 77—9, 82, 85—7 Uhtuesta.</p>
+            <p>
+                <hi rend="bold">13.</hi> A II 6.</p>
+            <p>
+                <hi rend="bold">1</hi> 1003; <hi rend="bold">2</hi> 107; <hi rend="bold">3</hi> 319; <hi rend="bold">4</hi> 376; <hi rend="bold">5</hi> 906, 657, 878; <hi rend="bold">6</hi> 278; <hi rend="bold">7</hi> 831; <hi rend="bold">21</hi> 234; <hi rend="bold">23</hi> 832; <hi rend="bold">25</hi> 566; <hi rend="bold">26 </hi>320; <hi rend="bold">27</hi> 344; <hi rend="bold">29</hi> 539, 502; <hi rend="bold">31</hi> 652; <hi rend="bold">39</hi> 480; <hi rend="bold">42</hi> 221; <hi rend="bold">47</hi> 867; <hi rend="bold">48</hi> 622 a), 403 a); <hi rend="bold">55—6</hi> 63 c); <hi rend="bold">57</hi> 174; <hi rend="bold">58</hi> 300; <hi rend="bold">59</hi> 927, 1000; <hi rend="bold">60</hi> 625; <hi rend="bold">62—3</hi> 479; <hi rend="bold">66</hi> 758, 251, 468; <hi rend="bold">67</hi> 758 a); <hi rend="bold">68</hi> 469, 527; <hi rend="bold">70</hi> 54; <hi rend="bold">72</hi> 759; <hi rend="bold">73</hi> 865;<hi rend="bold"> 74</hi> 925; <hi rend="bold">75</hi> 615; <hi rend="bold">76 </hi>399; <hi rend="bold">77</hi> 678; <hi rend="bold">79</hi> 170; <hi rend="bold">80</hi> 978; <hi rend="bold">86 </hi>362, 760; <hi rend="bold">92</hi> 683; <hi rend="bold">106</hi> 892; <hi rend="bold">107</hi> 171;<hi rend="bold"> 111—112</hi> 470, 55, 528;<hi rend="bold"> 113</hi> 762;<hi rend="bold"> 114</hi> 217;<hi rend="bold"> 121</hi> 557;<hi rend="bold"> 125 </hi>558.</p>
+            <p>1—7, 21, 23, 25—7, 29 Uhtuesta, 31, 39, 42 Vuokkiniemestä, 47—8, 55—60, 62—3 Tsenasta, 66—8, 70, 72—7, 79—80, 86, 92, 106—7, 111—14, 121, 125 Latvajärvestä.</p>
+            <p>
+                <hi rend="bold">14.</hi> A II 7.</p>
+            <p>
+                <hi rend="bold">5 </hi>295; <hi rend="bold">6</hi> 975; <hi rend="bold">7</hi> 613, 249; <hi rend="bold">12</hi> 521, 31; <hi rend="bold">14</hi> 731; <hi rend="bold">20</hi> 675.</p>
+            <p>5—7 Kivijärvestä, 12, 14, 20 Akonlahdesta.</p>
+            <p>
+                <hi rend="bold">15.</hi> A II 8.</p>
+            <p>
+                <hi rend="bold">36</hi> 938. Uhtuesta.</p>
+            <p>
+                <hi rend="bold">16.</hi> A II 9.</p>
+            <p>
+                <hi rend="bold">4</hi> 573; <hi rend="bold">5</hi> 954; <hi rend="bold">6 </hi>208; <hi rend="bold">8</hi> 701; <hi rend="bold">10</hi> 955; <hi rend="bold">11</hi> 281; <hi rend="bold">12</hi> 1, 574; <hi rend="bold">14</hi> 514; <hi rend="bold">15</hi> 11, 580; <hi rend="bold">16 </hi>861; <hi rend="bold">17</hi> 962, 914; <hi rend="bold">18</hi> 283; <hi rend="bold">19</hi> 707; <hi rend="bold">21</hi> 885; <hi rend="bold">28 </hi>503; <hi rend="bold">30—3</hi> 108; <hi rend="bold">35</hi> 939; <hi rend="bold">36</hi> 658, 109, 540, 833; <hi rend="bold">37</hi> 321, 110; <hi rend="bold">38 </hi>195; <hi rend="bold">39</hi> 377; <hi rend="bold">40</hi> 834; <hi rend="bold">41</hi> 659, 345; <hi rend="bold">43</hi> 111; <hi rend="bold">47</hi> 899; <hi rend="bold">48</hi> 879; <hi rend="bold">50 </hi>699; <hi rend="bold">51</hi> 940; <hi rend="bold">55 </hi>541; <hi rend="bold">67</hi> 941; <hi rend="bold">80</hi> 504; <hi rend="bold">83</hi> 567.</p>
+            <p>4—6, 8, 10—12, 14 Kellovaarasta, 15—19, 21 Jyskyjärvestä, 28, 30—3, 35—41, 43, 47—8, </p>
+            <p>50—1, 55, 67, 80, 83 Uhtuesta.</p>
+            <p>
+                <hi rend="bold">17.</hi> 1835 ja 1836—7 vuosien matkakert. sisältävä folio-vihko.</p>
+            <p>Sivu <hi rend="bold">8</hi> 1005. Uhtuesta.</p>
+            <p>
+                <hi rend="bold">18.</hi> R-kokoelma.</p>
+            <p>
+                <hi rend="bold">554</hi> 52; <hi rend="bold">555</hi> 466; <hi rend="bold">557—8</hi> 755; <hi rend="bold">559</hi> 360; <hi rend="bold">562</hi> 756; <hi rend="bold">571</hi> 868; <hi rend="bold">573 </hi>776; <hi rend="bold">581</hi> 405, 627; <hi rend="bold">582</hi> 71; <hi rend="bold">583</hi> 177; <hi rend="bold">594</hi> 787; <hi rend="bold">595</hi> 181; <hi rend="bold">605 </hi>481; <hi rend="bold">606</hi> 72, 778; <hi rend="bold">608</hi> 222; <hi rend="bold">612</hi> 628; <hi rend="bold">616</hi> 749; <hi rend="bold">617</hi> 459; <hi rend="bold">618</hi> 167; <hi rend="bold">619 </hi>609; <hi rend="bold">620</hi> 248; <hi rend="bold">630 b)</hi> 460; <hi rend="bold">631</hi> 46; <hi rend="bold">632</hi> 890; <hi rend="bold">649</hi> 610; <hi rend="bold">657</hi> 47; <hi rend="bold">659</hi> 750; <hi rend="bold">660</hi> 461, 48; <hi rend="bold">664</hi> 168; <hi rend="bold">670</hi> 462; <hi rend="bold">671 a)</hi> 463.</p>
+            <p>554—5, 557—9, 562 Kivijärvestä, 571, 573 Tsenasta, 581—3 Vuokkiniemestä, 594—5 Venehjärvestä, 605—6, 608, 612 Vuokkiniemestä, 616—20, 630 b)—632, 649, 657, 659—60, 664, 670, 671 a) Kostamuksesta.</p>
+            <p>
+                <hi rend="bold">19.</hi> Q-kokoelma.</p>
+            <p>
+                <hi rend="bold">229</hi> 32; <hi rend="bold">230</hi> 389, 600; <hi rend="bold">234—6</hi> 967; <hi rend="bold">237</hi> 721.</p>
+            <p>229—30 Akonlahdesta, 234—7 Miinoasta.</p>
+            <p>Cajanin keräykset.</p>
+            <p>
+                <hi rend="bold">20.</hi> 8:s-osa arkin kokoa oleva vihko.</p>
+            <p>Sivv. <hi rend="bold">17</hi> 76, 179; <hi rend="bold">18 </hi>482; <hi rend="bold">19</hi> 258; <hi rend="bold">20</hi> 56, 400, 999; <hi rend="bold">22</hi> 244; <hi rend="bold">23</hi> 732, 733; <hi rend="bold">24</hi> 180, 626; <hi rend="bold">25</hi> 67, 413; <hi rend="bold">39 </hi>483; <hi rend="bold">48</hi> 798; <hi rend="bold">53</hi> 836; <hi rend="bold">54</hi> 788; <hi rend="bold">56</hi> 799.</p>
+            <p>Sivu 17—19 Venehjärvestä, s. 20 Latvajärvesta, s. 22—3 Akonlahdesta, s. 24 Venehjärvestä, Vuokkiniemestä, s. 25 Vuokkiniemestä, Vuonnisesta, s. 39 Vuokkiniemestä?, s. 48 Vuonnisesta, s. 53 Uhtuesta, s. 54 Venehjärvestä, s. 56 Vuonnisesta.</p>
+            <p>
+                <hi rend="bold">21.</hi> Folio-vihko.</p>
+            <p>
+                <hi rend="bold">6 </hi>315, <hi rend="bold">7 </hi>196; <hi rend="bold">8</hi> 775; <hi rend="bold">13</hi> 820; <hi rend="bold">14</hi> 568; <hi rend="bold">14 a)</hi> 563; <hi rend="bold">19</hi> 68; <hi rend="bold">19 a) </hi>76 a); <hi rend="bold">19 b)</hi> 69; <hi rend="bold">20</hi> 81; <hi rend="bold">20 a)</hi> 70; <hi rend="bold">21</hi> 322; <hi rend="bold">23</hi> 112; <hi rend="bold">24</hi> 796; <hi rend="bold">26 </hi>835; <hi rend="bold">26 a)</hi> 836 a); <hi rend="bold">27 </hi>378; <hi rend="bold">27 b)</hi> 400 a); <hi rend="bold">28</hi> 388; <hi rend="bold">29</hi> 489; <hi rend="bold">29 a) </hi>482 a); <hi rend="bold">33</hi> 490; <hi rend="bold">35</hi> 837; <hi rend="bold">35 a)</hi> 788 a); <hi rend="bold">35 b)</hi> 799 a); <hi rend="bold">36</hi> 797; <hi rend="bold">37</hi> 942, 1004; <hi rend="bold">38</hi> 542; <hi rend="bold">40</hi> 113; <hi rend="bold">40 a)</hi> 56 a); <hi rend="bold">42</hi> 179 a); <hi rend="bold">43</hi> 258 a); <hi rend="bold">44</hi> 378 a); <hi rend="bold">45</hi> 700; <hi rend="bold">52</hi> 264; <hi rend="bold">55</hi> 197; <hi rend="bold">59</hi> 252; <hi rend="bold">84 a)</hi> 880; <hi rend="bold">130</hi> 900; <hi rend="bold">131</hi> 316; <hi rend="bold">159</hi> 688; <hi rend="bold">161</hi> 683 a); <hi rend="bold">162 </hi>339; <hi rend="bold">165</hi> 978 a); <hi rend="bold">169</hi> 684; <hi rend="bold">176</hi> 761; <hi rend="bold">177 a) </hi>297 a); <hi rend="bold">177 b)</hi> 251 a), 758 b); <hi rend="bold">178</hi> 759 a); <hi rend="bold">178 a)</hi> 763; <hi rend="bold">181</hi> 54 a); <hi rend="bold">182</hi> 469 a), 527 a); <hi rend="bold">183</hi> 170 a).</p>
+            <p>6 Lonkasta, 7 Uhtuesta?, 8 Tsenasta?, 13 Alajärvestä, 14 Uhtuesta, 14 a) Alajärvestä, 19 Vuokkiniemestä, 19 a) Venehjärvestä, 19 b) Vuokkiniemestä, 20 Vuonnisesta, 20 a) Vuokkiniemestä, 21 Uhtuesta, 23 Uhtuesta?, 24 Vuonnisesta, 26, 26 a), 27 Uhtuesta, 27 b) Latvajärvestä, 28 Akonlahdesta, 29 Vuonnisesta, 29 a) Venehjärvestä, 33 Vuonnisesta, 35 Uhtuesta, 35 a) Venehjärvestä, 35 b)—36 Vuonnisesta, 37—8 Uhtuesta, 40 Uhtuesta?, 40 a) Latvajärvestä, 42—3 Venehjärvestä, 44 Uhtuesta, 45, 52 Vuonnisesta, 55 Uhtuesta, 59 Latvajärvestä, 84 a) Uhtuesta, 130 Uhtuesta, 131 Lonkasta, 159—161, 162, 165, 169, 176, 177 a), 177 b), 178, 178 a), 181—3 Latvajärvestä.</p>
+            <p>Gottlundin keräykset.</p>
+            <p>
+                <hi rend="bold">22.</hi> N:t 329 b)—592 d) sisältävä nide.</p>
+            <p>
+                <hi rend="bold">589</hi> 387 a); <hi rend="bold">590</hi> 30 a), 598 a); <hi rend="bold">591</hi> 30 b); <hi rend="bold">592 a)</hi> 450 a), 355 a).</p>
+            <p>Akonlahdesta.</p>
+            <p>Castrénin keräykset.</p>
+            <p>
+                <hi rend="bold">23.</hi> Kokoelma 11 b) Yliopiston Kirjastossa.</p>
+            <p>
+                <hi rend="bold">42</hi> 676;<hi rend="bold"> 44</hi> 54 b), 399 a);<hi rend="bold"> 45</hi> 759 b), 362 a);<hi rend="bold"> 47</hi> 339 a);<hi rend="bold"> 76</hi> 697 a); <hi rend="bold">77</hi> 235; <hi rend="bold">151</hi> 697; <hi rend="bold">172</hi> 115; <hi rend="bold">177</hi> 25; <hi rend="bold">178</hi> 968; <hi rend="bold">178 a)</hi> 155.</p>
+            <p>42, 44—5, 47 Latvajärvestä, 76—7, 151, 172 Uhtuesta, 177—8 a) Miinoasta.</p>
+            <p>
+                <hi rend="bold">24.</hi> Hvarjeh. ant. 10 b) Yliopiston Kirjastossa.</p>
+            <p>Sivu 16 114. Uhtuesta.</p>
+            <p>
+                <hi rend="bold">25.</hi> 1839 vuoden matkakert. Suom. Kirj. Seuralla 114 a).</p>
+            <p>Uhtuesta.</p>
+            <p>Europaeuksen keräykset.</p>
+            <p>
+                <hi rend="bold">26.</hi> K-kokoelma.</p>
+            <p>
+                <hi rend="bold">24</hi> 323; <hi rend="bold">29</hi> 960, 912; <hi rend="bold">30</hi> 9, 579; <hi rend="bold">31</hi> 993; <hi rend="bold">32</hi> 146; <hi rend="bold">33</hi> 713; <hi rend="bold">35</hi> 439, 551; <hi rend="bold">36</hi> 589; <hi rend="bold">46</hi> 21, 440, 516; <hi rend="bold">47</hi> 714; <hi rend="bold">50</hi> 715; <hi rend="bold">51</hi> 966; <hi rend="bold">55</hi> 720; <hi rend="bold">58</hi> 996; <hi rend="bold">63</hi> 160; <hi rend="bold">66 b)</hi> 33; <hi rend="bold">67</hi> 734; <hi rend="bold">69</hi> 390; <hi rend="bold">72</hi> 597 b); <hi rend="bold">76</hi> 245; <hi rend="bold">77</hi> 34; <hi rend="bold">78</hi> 356, 391; <hi rend="bold">80</hi> 522; <hi rend="bold">81</hi> 451; <hi rend="bold">85</hi> 35, 601; <hi rend="bold">87</hi> 289; <hi rend="bold">88</hi> 161; <hi rend="bold">89</hi> 246; <hi rend="bold">93</hi> 213; <hi rend="bold">99</hi> 394, 39, 605; <hi rend="bold">100</hi> 743; <hi rend="bold">101</hi> 40, 164; <hi rend="bold">102</hi> 293; <hi rend="bold">108</hi> 735; <hi rend="bold">111</hi> 736; <hi rend="bold">121</hi> 737; <hi rend="bold">128</hi> 290; <hi rend="bold">137</hi> 921; <hi rend="bold">138 </hi>747; <hi rend="bold">160</hi> 779; <hi rend="bold">161</hi> 406; <hi rend="bold">169</hi> 629; <hi rend="bold">170</hi> 780; <hi rend="bold">174</hi> 616; <hi rend="bold">175</hi> 471; <hi rend="bold">176</hi> 57; <hi rend="bold">182</hi> 138; <hi rend="bold">185</hi> 800; <hi rend="bold">189</hi> 82; <hi rend="bold">196</hi> 126; <hi rend="bold">197</hi> 948; <hi rend="bold">209</hi> 505; <hi rend="bold">216</hi> 660; <hi rend="bold">220</hi> 236; <hi rend="bold">223</hi> 324; <hi rend="bold">226</hi> 116; <hi rend="bold">247</hi> 838; <hi rend="bold">256</hi> 506; <hi rend="bold">259 b)</hi> 543; <hi rend="bold">269</hi> 204, 992; <hi rend="bold">272</hi> 510; <hi rend="bold">274</hi> 128; <hi rend="bold">286</hi> 205; <hi rend="bold">287</hi> 848; <hi rend="bold">305</hi> 129; <hi rend="bold">306</hi> 511; <hi rend="bold">309</hi> 130; <hi rend="bold">314</hi> 963; <hi rend="bold">315</hi> 915; <hi rend="bold">316</hi> 862; <hi rend="bold">317</hi> 12; <hi rend="bold">318</hi> 581; <hi rend="bold">320</hi> 148;<hi rend="bold"> 329</hi> 446.</p>
+            <p>24 Uhtuesta, 29—32 Suurestajärvestä, 33, 35—6, 46—7, 50—51 Kiimasjärvestä, 55, 58 Luvajärvestä, 63, 66 b) 67, 69, 72, 76—8, 80 Akonlahdesta, 81, 85 Akonlahden r. a., 87 Akonlahden r. a., 88 Akonlahden r. a., 89, 93 Akonlahdesta, 99—102 Hietajärveltä, 108, 111, 121 Akonlahden r. a., 128 Akonlahdesta, 137—8 Kontokista?, 160 Vuokkiniemestä, 161 Vuokkiniemen r. a., 169—70 Vuokkiniemestä, 174—6 Latvajärvestä, 182, 185, 189 Vuonnisesta, 196—7 Tsiksasta, 209, 216, 220, 223, 226, 247, 256, 259 b) Uhtuesta, 269, 272, Pohj. r. a., 274 Pistojärvestä? 286—7, 305—6, 309 Pohj. r. a., 314—18, 320 Jyskyjärvestä, 329 Miinoasta.</p>
+            <p>
+                <hi rend="bold">27.</hi> Lönnrotin S-kokoelmassa.</p>
+            <p>
+                <hi rend="bold">26</hi> 1006. Uhtuen r. a.</p>
+            <p>Boreniuksen keräykset.</p>
+            <p>
+                <hi rend="bold">28.</hi> I. 1871 vuoden puhtaaksikirjoitettu kokoelma.</p>
+            <p>
+                <hi rend="bold">39</hi> 854, 333; <hi rend="bold">43</hi> 544; <hi rend="bold">44</hi> 117, 661; <hi rend="bold">46 </hi>935 a); <hi rend="bold">47</hi> 119; <hi rend="bold">48</hi> 325; <hi rend="bold">49 </hi>279; <hi rend="bold">51</hi> 120, 662; <hi rend="bold">52</hi> 943; <hi rend="bold">54</hi> 507, 988; <hi rend="bold">56</hi> 237; <hi rend="bold">57</hi> 569, 839; <hi rend="bold">60 </hi>680, 139; <hi rend="bold">63</hi> 83; <hi rend="bold">64</hi> 84; <hi rend="bold">64:n loppu</hi> 84 a); <hi rend="bold">65</hi> 491, 533; <hi rend="bold">66</hi> 265; <hi rend="bold">67</hi> 801; <hi rend="bold">68</hi> 872; <hi rend="bold">69</hi> 414, 414 a); <hi rend="bold">70</hi> 802; <hi rend="bold">71</hi> 341; <hi rend="bold">72</hi> 641; <hi rend="bold">73</hi> 186; <hi rend="bold">74</hi> 690; <hi rend="bold">75</hi> 308; <hi rend="bold">76</hi> 370; <hi rend="bold">78</hi> 78, 371, 639, 679; <hi rend="bold">79</hi> 410, 77, 340; <hi rend="bold">80</hi> 789; <hi rend="bold">82</hi> 182; <hi rend="bold">83</hi> 409, 790; <hi rend="bold">84</hi> 791; <hi rend="bold">85</hi> 928, 928 a); <hi rend="bold">86</hi> 1001; <hi rend="bold">88</hi> 484; <hi rend="bold">89 </hi>305, 74; <hi rend="bold">90</hi> 976; <hi rend="bold">91</hi> 617, 764; <hi rend="bold">92</hi> 866; <hi rend="bold">93</hi> 58; <hi rend="bold">95</hi> 253; <hi rend="bold">96</hi> 765; <hi rend="bold">97</hi> 766; <hi rend="bold">98</hi> 529; <hi rend="bold">99</hi> 363; <hi rend="bold">100</hi> 472; <hi rend="bold">101</hi> 401; <hi rend="bold">102</hi> 392, 603; <hi rend="bold">106</hi> 604, 393; <hi rend="bold">107</hi> 742; <hi rend="bold">108</hi> 163; <hi rend="bold">109</hi> 998; <hi rend="bold">110</hi> 677; <hi rend="bold">111</hi> 38; <hi rend="bold">112</hi> 36.</p>
+            <p>39 Valasjoesta, 43—4, 46—9, 51—2, 54, 56—7 Uhtuesta, 60, 63—76 Vuonnisesta, 78 Aajuolahdesta, 79—80, 82—84 Venehjärvestä, 85—6, 88 Vuokkiniemestä, 89 Pirttilahdesta, 90 Kivijärvestä, 91—3, 95—101 Latvajärvestä, 102, 106—11 Lytästä, 112 Akonlahdesta.</p>
+            <p>
+                <hi rend="bold">29.</hi> II. 1872 vuoden puhtaaksikirjoitettu kokoelma.</p>
+            <p>
+                <hi rend="bold">1</hi> 744; <hi rend="bold">5</hi> 767; <hi rend="bold">8</hi> 219; <hi rend="bold">9</hi> 220;<hi rend="bold"> 12</hi> 364, 474;<hi rend="bold"> 13</hi> 172;<hi rend="bold"> 21</hi> 60, 475; <hi rend="bold">22</hi> 618; <hi rend="bold">23</hi> 619, 768; <hi rend="bold">26</hi> 769; <hi rend="bold">32</hi> 777; <hi rend="bold">38</hi> 907, 663, 881; <hi rend="bold">39</hi> 841; <hi rend="bold">40</hi> 664, 423; <hi rend="bold">44</hi> 239; <hi rend="bold">48</hi> 118; <hi rend="bold">49</hi> 826 a); <hi rend="bold">50</hi> 842; <hi rend="bold">51</hi> 990; <hi rend="bold">53</hi> 240; <hi rend="bold">54</hi> 509, 199; <hi rend="bold">55</hi> 953; <hi rend="bold">57</hi> 570; <hi rend="bold">58</hi> 571; <hi rend="bold">59</hi> 1009; <hi rend="bold">61</hi> 803, 85, 140; <hi rend="bold">62</hi> 123, 668; <hi rend="bold">65 </hi>855; <hi rend="bold">66</hi> 672; <hi rend="bold">67</hi> 334; <hi rend="bold">73</hi> 135; <hi rend="bold">81</hi> 951; <hi rend="bold">82</hi> 372; <hi rend="bold">83</hi> 691; <hi rend="bold">84</hi> 415, 373; <hi rend="bold">85</hi> 88; <hi rend="bold">86</hi> 267, 807; <hi rend="bold">87</hi> 692; <hi rend="bold">88</hi> 83 a); <hi rend="bold">89</hi> 534, 268; <hi rend="bold">90</hi> 342, 342 a); <hi rend="bold">91</hi> 806; <hi rend="bold">92</hi> 309; <hi rend="bold">93</hi> 874; <hi rend="bold">95</hi> 644; <hi rend="bold">96 </hi>645; <hi rend="bold">97</hi> 417; <hi rend="bold">98</hi> 227; <hi rend="bold">99</hi> 89, 141, 269, 311, 535; <hi rend="bold">110</hi> 809, 90, 374, 418; <hi rend="bold">113</hi> 91; <hi rend="bold">114</hi> 693; <hi rend="bold">115</hi> 810; <hi rend="bold">116</hi> 187; <hi rend="bold">117</hi> 492; <hi rend="bold">118</hi> 92, 343, 375, 419; <hi rend="bold">119</hi> 93, 493; <hi rend="bold">120</hi> 811; <hi rend="bold">121</hi> 694; <hi rend="bold">122</hi> 188; <hi rend="bold">123</hi> 94, 270, 536; <hi rend="bold">124</hi> 972, 922; <hi rend="bold">125</hi> 973, 923; <hi rend="bold">126</hi> 752; <hi rend="bold">134</hi> 748; <hi rend="bold">135</hi> 214; <hi rend="bold">139</hi> 154; <hi rend="bold">140</hi> 382; <hi rend="bold">141</hi> 445; <hi rend="bold">142</hi> 441, 20, 150; <hi rend="bold">145</hi> 442, 22, 151, 351, 517, 590; <hi rend="bold">146</hi> 716, 887; <hi rend="bold">147</hi> 552; <hi rend="bold">149</hi> 717; <hi rend="bold">155</hi> 443, 23; <hi rend="bold">156 </hi>286; <hi rend="bold">157</hi> 718, 152, 888; <hi rend="bold">158</hi> 24, 444, 518; <hi rend="bold">159</hi> 591; <hi rend="bold">160</hi> 153; <hi rend="bold">161 </hi>719; <hi rend="bold">162</hi> 438, 19; <hi rend="bold">163</hi> 4, 576; <hi rend="bold">164</hi> 702; <hi rend="bold">165</hi> 957, 908; <hi rend="bold">166</hi> 858; <hi rend="bold">167</hi> 703; <hi rend="bold">168</hi> 281 a); <hi rend="bold">169</hi> 433, 3, 575; <hi rend="bold">170</hi> 2, 144, 574 a); <hi rend="bold">171</hi> 242; <hi rend="bold">174</hi> 514 a); <hi rend="bold">175</hi> 956; <hi rend="bold">177</hi> 704, 883, 910; <hi rend="bold">178</hi> 958; <hi rend="bold">179</hi> 860; <hi rend="bold">180</hi> 434, 5; <hi rend="bold">181</hi> 436, 8; <hi rend="bold">183</hi> 147.</p>
+            <p>1 Hietajärveltä, 5, 8—9, 12—13, 21—3, 26 Latvajärvestä, 32 Tsenasta, 38—40, 44, 48—51, </p>
+            <p>53—4 Uhtuesta, 55 Sompajärvestä, 57—9 Uhtuesta,  61 Vuonnisesta, 62 Uhtuesta, 65—7 Haikolasta, 73 Sompajärvestä, 81 Hämeestä, 82—93, 95—99, 110, 113—23 Vuonnisesta, 124—6 Kenttijärvestä, 134—5 Kontokista, 139—41 Luvajärvestä, 142, 145—7, 149, 155—61 Kiimasjärvestä, 162 Nokeuksesta, 163—71, 174—75 Kellovaarasta, 177—80 Liedmasta, 181 Tsolmosta, 183 Suurestajärvestä.</p>
+            <p>
+                <hi rend="bold">30.</hi> Kons. v. II, 1872 vuoden matkalta.</p>
+            <p>
+                <hi rend="bold">45</hi> 843, 327; <hi rend="bold">s. 49</hi> 844; <hi rend="bold">s. 52</hi> 949; <hi rend="bold">s. 78</hi> 134, 207; <hi rend="bold">s. 82</hi> 88 a).</p>
+            <p>45:n muist., s. 49 Uhtuesta. s. 52 Tsiksasta, s. 78 Akkalasta, s. 82 Vuonnisesta.</p>
+            <p>
+                <hi rend="bold">31.</hi> Taskukirja.</p>
+            <p>Sivu<hi rend="bold"> 42</hi> 41. Hietajärveltä.</p>
+            <p>
+                <hi rend="bold">32.</hi> I:seen konseptivihkoon tehty vert v. 1872.</p>
+            <p>
+                <hi rend="bold">44</hi>:n vert. 117 b). Uhtuesta.</p>
+            <p>
+                <hi rend="bold">33.</hi> III 1877 vuoden kokoelma.</p>
+            <p>
+                <hi rend="bold">2</hi> 44; <hi rend="bold">3</hi> 746; <hi rend="bold">4</hi> 457; <hi rend="bold">5</hi> 608; <hi rend="bold">6</hi> 971; <hi rend="bold">7</hi> 296; <hi rend="bold">9</hi> 61, 476;<hi rend="bold"> 11</hi> 58 a); <hi rend="bold">12</hi> 473 a), 529 b);<hi rend="bold"> 13</hi> 766 b);<hi rend="bold"> 14</hi> 298 a);<hi rend="bold"> 15</hi> 979 a);<hi rend="bold"> 16</hi> 218 a);<hi rend="bold"> 18 </hi>559 a);<hi rend="bold"> 20</hi> 173;<hi rend="bold"> 29</hi> 59;<hi rend="bold"> 34</hi> 685;<hi rend="bold"> 35</hi> 136;<hi rend="bold"> 36</hi> 770;<hi rend="bold"> 44</hi> 926;<hi rend="bold"> 49</hi> 766 c); <hi rend="bold">56</hi> 893; <hi rend="bold">58</hi> 298 b); <hi rend="bold">73</hi> 365, 402, 620; <hi rend="bold">75</hi> 771, 477; <hi rend="bold">78</hi> 870; <hi rend="bold">79 </hi>789 b); <hi rend="bold">80</hi> 410 a), 77 a), 340 a); <hi rend="bold">81</hi> 791 a); <hi rend="bold">82</hi> 409 b); <hi rend="bold">84</hi> 369, 184 a), 411, 638; <hi rend="bold">87</hi> 307; <hi rend="bold">89</hi> 793 a); <hi rend="bold">90</hi> 871, 531; <hi rend="bold">91</hi> 260; <hi rend="bold">96</hi> 494; <hi rend="bold">108 </hi>83 c), 645 a); <hi rend="bold">110</hi> 646, 271; <hi rend="bold">111</hi> 802 b); <hi rend="bold">112</hi> 802 c); <hi rend="bold">114</hi> 982; <hi rend="bold">115 </hi>895; <hi rend="bold">s. 119</hi> 10 a), 913; <hi rend="bold">123</hi> 301; <hi rend="bold">131</hi> 943 b); <hi rend="bold">132</hi> 17, 585; <hi rend="bold">133 </hi>711; <hi rend="bold">134</hi> 965, 917; <hi rend="bold">136</hi> 282; <hi rend="bold">137</hi> 859; <hi rend="bold">138</hi> 909.</p>
+            <p>2—6 Niskajärvestä, 7 Kivijärvestä, 9, 11—16, 18, 20, 29, 34—6, 44, 49, 56, 58, 73, 75 Latvajärvestä, 78—82 Venehjärvestä, 84, 87, 89—91 Ponkalahdesta, 96, 108, 110—112, 114—15 Vuonnisesta, s. 119 Suurestajärvestä, 123 Tsenasta, 131 Uhtuesta, 132—4 Piismalahdesta, 136—8 Kellovaarasta.</p>
+            <p>
+                <hi rend="bold">34.</hi> 1:sen matkan kopioihin v. 1877 tehdyt lisäykset ja muutokset.</p>
+            <p>
+                <hi rend="bold">64:n vert.</hi> 84 b);<hi rend="bold"> 65:n v.</hi> 491 a), 533 a);<hi rend="bold"> 66:n v.</hi> 265 a);<hi rend="bold"> 67:n v.</hi> 801 a); <hi rend="bold">68:n v.</hi> 872 a);<hi rend="bold"> 70:n v.</hi> 802 a);<hi rend="bold"> 72:n v.</hi> 641 a);<hi rend="bold"> 73:n v.</hi> 186 a);<hi rend="bold"> 74:n v. </hi>690 a);<hi rend="bold"> 75:n v.</hi> 308 a);<hi rend="bold"> 76:n v.</hi> 370 a).</p>
+            <p>Vuonnisesta.</p>
+            <p>
+                <hi rend="bold">35.</hi> 1:sen matkan konseptivihkoon v. 1877 tehdyt lisäykset ja muutokset.</p>
+            <p>
+                <hi rend="bold">43:n vert.</hi> 544 b);<hi rend="bold"> 44:n v.</hi> 117 c);<hi rend="bold"> 46:n v.</hi> 935 c);<hi rend="bold"> 52:n v.</hi> 943 a); <hi rend="bold">80:n v.</hi> 789 a); <hi rend="bold">82:n v.</hi> 182 a); <hi rend="bold">83:n v.</hi> 409 a); <hi rend="bold">84:n v.</hi> 791 b); <hi rend="bold">91:n v.</hi> 617 a); <hi rend="bold">92:n v.</hi> 866 a); <hi rend="bold">93:n v.</hi> 58 b); <hi rend="bold">95:n v.</hi> 253 a); <hi rend="bold">96:n v.</hi> 765 a); <hi rend="bold">97:n v.</hi> 766 a);<hi rend="bold"> 99:n v.</hi> 363 a);<hi rend="bold"> 101:n v.</hi> 401 a);<hi rend="bold"> 108:n v.</hi> 163 b).</p>
+            <p>43, 44, 46, 52 Uhtuesta, 80, 82—4 Venehjärvestä, 91—3, 95—7, 99, 101 Latvajärvestä, 108 Lytästä.</p>
+            <p>
+                <hi rend="bold">36.</hi> 2:sen matkan konseptivihkoon v. 1877 tehdyt lisäykset ja muutokset.</p>
+            <p>
+                <hi rend="bold">1:n vert.</hi> 744 a); <hi rend="bold">87:n</hi> <hi rend="bold">v</hi>. 692 a); <hi rend="bold">88:n v.</hi> 83 b); <hi rend="bold">89:n v.</hi> 534 a), 268 a); <hi rend="bold">92:n v.</hi> 309 a);<hi rend="bold"> 120:n v.</hi> 811 a);<hi rend="bold"> 163:n v. </hi>4 a), 576 a);<hi rend="bold"> 164:n v.</hi> 702 a); <hi rend="bold">165:n v. </hi>957 a);<hi rend="bold"> 169:n v. </hi>433 a);<hi rend="bold"> 170:n v. </hi>2 a), 144 a).</p>
+            <p>1 Hietajärveltä, 87—9, 92, 120 Vuonnisesta, 163—5, 169—70 Kellovaarasta.</p>
+            <p>
+                <hi rend="bold">37.</hi> IV. Muistoonpanoja vuodelta 1879.</p>
+            <p>
+                <hi rend="bold">1</hi> 62; <hi rend="bold">2</hi> 772; <hi rend="bold">3</hi> 621; <hi rend="bold">6</hi> 299; <hi rend="bold">9</hi> 200; <hi rend="bold">10</hi> 845;<hi rend="bold"> 11</hi> 328.</p>
+            <p>1—3, 6 Latvajärvestä, 9—11 Uhtuesta.</p>
+            <p>Genetzin keräykset</p>
+            <p>
+                <hi rend="bold">38.</hi> I. 1871 vuoden puhtaaksikirjoitettu kokoelma.</p>
+            <p>
+                <hi rend="bold">3</hi> 193; <hi rend="bold">4</hi> 277; <hi rend="bold">5</hi> 819; <hi rend="bold">6</hi> 983; <hi rend="bold">8</hi> 1008; <hi rend="bold">9</hi> 422, 276, 650;<hi rend="bold"> 11</hi> 357, 602.</p>
+            <p>3—4 Jyvöälahdesta, 5—6, 8—9 Luomajärvestä, 11 Akonlahdesta.</p>
+            <p>
+                <hi rend="bold">39.</hi> Kons. arkki vuodelta 1871. Bor. III, k. 19, 21.</p>
+            <p>Sivu <hi rend="bold">3</hi> 232, 987, 825;<hi rend="bold"> s. 13</hi> 864; <hi rend="bold">s. 18</hi> 544 a), 661 a); <hi rend="bold">s. 19</hi> 117 a); <hi rend="bold">s. 21</hi> 935 b).</p>
+            <p>S. 3 Enonsuusta, s. 13 Akonlahdesta, s. 18—19, 21 Uhtuesta.</p>
+            <p>
+                <hi rend="bold">40.</hi> II. 1872 vuoden puhtaaksikirjoitettu kokoelma.</p>
+            <p>
+                <hi rend="bold">6</hi> 781; <hi rend="bold">8</hi> 980; <hi rend="bold">10</hi> 484 a); <hi rend="bold">11</hi> 73; <hi rend="bold">12</hi> 630, 257; <hi rend="bold">17</hi> 304, 635; <hi rend="bold">18 </hi>178; <hi rend="bold">19</hi> 785; <hi rend="bold">20</hi> 230; <hi rend="bold">22</hi> 989; <hi rend="bold">24</hi> 946; <hi rend="bold">25</hi> 121, 665; <hi rend="bold">29</hi> 947; <hi rend="bold">31 </hi>203; <hi rend="bold">32</hi> 549; <hi rend="bold">33</hi> 991; <hi rend="bold">34</hi> 13, 582; <hi rend="bold">35</hi> 964, 916; <hi rend="bold">39</hi> 86, 642; <hi rend="bold">40 </hi>266, 87; <hi rend="bold">41</hi> 873; <hi rend="bold">42</hi> 643, 804; <hi rend="bold">43</hi> 416; <hi rend="bold">44</hi> 805; <hi rend="bold">46</hi> 310; <hi rend="bold">47</hi> 649, 99; <hi rend="bold">48</hi> 317; <hi rend="bold">49</hi> 698; <hi rend="bold">50</hi> 100, 143; <hi rend="bold">52</hi> 808; <hi rend="bold">54</hi> 611, 397; <hi rend="bold">55</hi> 464; <hi rend="bold">56</hi> 215; <hi rend="bold">60</hi> 45, 166, 247; <hi rend="bold">61</hi> 458, 524; <hi rend="bold">62</hi> 995; <hi rend="bold">63</hi> 149, 437; <hi rend="bold">64 </hi>712, 886, 918; <hi rend="bold">65</hi> 18, 586; <hi rend="bold">66</hi> 587; <hi rend="bold">69</hi> 285; <hi rend="bold">70</hi> 515; <hi rend="bold">71</hi> 435, 6, 577; <hi rend="bold">72</hi> 145, 7, 578; <hi rend="bold">73</hi> 959. 349, 911; <hi rend="bold">74</hi> 705, 350; <hi rend="bold">75</hi> 960 a), 912 a); <hi rend="bold">76</hi> 9 a), 579 a); <hi rend="bold">77</hi> 706, 884; <hi rend="bold">78</hi> 681; <hi rend="bold">79</hi> 961, 994; <hi rend="bold">81</hi> 10.</p>
+            <p>6, 8, 10—12 Vuokkiniemestä, 17—19 Tollonjoelta, 20 Jyvöälahdesta, 22, 24—5, 29 Uhtuesta. 31—3 Nurmilahdesta, 34—5 Jyskyjärvestä, 39—44, 46 Vuonnisesta, 47—50 Lonkasta, 52 Vuonnisesta, 54—6 Koivujärvestä, 60—1 Vonkajärvestä, 62 Nokeuksesta, 63—6 Pääkönniemestä, 69 Nokeuksesta, 70—3 Liedmasta, 74—9, 81 Suurestajärvestä.</p>
+            <p>
+                <hi rend="bold">41.</hi> Kons. 1. vuodelta 1872. Bor. III, k. 21.</p>
+            <p>
+                <hi rend="bold">2</hi> 631; <hi rend="bold">3</hi> 485; <hi rend="bold">5</hi> 630 a); <hi rend="bold">6</hi> 782; <hi rend="bold">7</hi> 981; <hi rend="bold">8</hi> 486; <hi rend="bold">9</hi> 407; <hi rend="bold">10</hi> 224.</p>
+            <p>Vuokkiniemestä.</p>
+            <p>
+                <hi rend="bold">42.</hi> Pikakirj. v. vuodelta 1872.</p>
+            <p>1:nen v. <hi rend="bold">Siv.</hi> <hi rend="bold">8, n. 1</hi> 632; <hi rend="bold">s.</hi> <hi rend="bold">8, n. 2</hi> 223; <hi rend="bold">s. 23, n. 2</hi> 274; <hi rend="bold">s. 23, n. 4 </hi>191; <hi rend="bold">s. 23, n. 5</hi> 817; <hi rend="bold">s. 27</hi> 525; <hi rend="bold">s. 28</hi> 751.</p>
+            <p>2:nen v. <hi rend="bold">Siv. 5</hi> 995 a); <hi rend="bold">s. 33</hi> 588.</p>
+            <p>l. v. s. 8 Vuokkiniemestä, s. 23 Lonkasta, s. 27—8 Koivujärvestä. 2 v. s. 5 Nokeuksesta, s. 33 Pääkönniemestä.</p>
+            <p>
+                <hi rend="bold">43.</hi> Kons. v. vuodelta 1872.</p>
+            <p>Sivu <hi rend="bold">53</hi> 857; s. <hi rend="bold">55</hi> 708, 709.</p>
+            <p>Siv. 53 Kuresta, s. 55 Jyskyjärvestä ja Suopassalmesta.</p>
+            <p>Bernerin keräykset.</p>
+            <p>
+                <hi rend="bold">44.</hi> 1872 vuoden puhtaaksikirjoitettu kokoelma.</p>
+            <p>
+                <hi rend="bold">21</hi> 225; <hi rend="bold">22</hi> 175; <hi rend="bold">27</hi> 216; <hi rend="bold">30</hi> 38 a); <hi rend="bold">32</hi> 358; <hi rend="bold">33</hi> 725; <hi rend="bold">36</hi> 969; <hi rend="bold">37 </hi>997; <hi rend="bold">38</hi> 722, 383; <hi rend="bold">39</hi> 243; <hi rend="bold">40</hi> 352; <hi rend="bold">41</hi> 156, 26; <hi rend="bold">45</hi> 127, 202; <hi rend="bold">47 </hi>14, 583; <hi rend="bold">48</hi> 673, 284; <hi rend="bold">49</hi> 710; <hi rend="bold">50</hi> 856, 905; <hi rend="bold">53</hi> 670, 131, 280, 427; <hi rend="bold">60</hi> 298; <hi rend="bold">62</hi> 473, 529 a); <hi rend="bold">63</hi> 218; <hi rend="bold">64</hi> 559; <hi rend="bold">65</hi> 979;<hi rend="bold"> 71</hi> 944; <hi rend="bold">73</hi> 545; <hi rend="bold">75</hi> 985; <hi rend="bold">76</hi> 231; <hi rend="bold">77</hi> 869; <hi rend="bold">79</hi> 122, 666; <hi rend="bold">80</hi> 198; <hi rend="bold">81</hi> 945, 901; <hi rend="bold">82 </hi>840; <hi rend="bold">83</hi> 238; <hi rend="bold">86</hi> 379, 424; <hi rend="bold">87</hi> 326; <hi rend="bold">88</hi> 667, 546; <hi rend="bold">89</hi> 508, 547.</p>
+            <p>21 Venehjärvestä, 22 Tsenasta, 27 Kivijärvestä, 30 Lytästä, 32 Akonlahdesta, 33 Sappovaarasta, 36—41 Miinoasta, 45 Luusalmesta, 47 Jyskyjärvestä, 48 Suopassalmesta, 49 Paanajärvestä, 50 Kuresta, 53 Koljolasta, 60, 62—5 Latvajärvestä, 71, 73 Uhtuesta, 75—6 Jyvöälahdesta, 77 Venehjärvestä, 79—83, 86—9 Uhtuesta.</p>
+            <p>
+                <hi rend="bold">45.</hi> Kons. v. vuodelta 1872.</p>
+            <p>Sivu <hi rend="bold">140</hi> 723. Miinoasta.</p>
+            <p>Hannikaisen keräykset.</p>
+            <p>
+                <hi rend="bold">46.</hi> Bor:n kokoelman n. 24. Kerääjän pikakirjoituksesta puhtaaksikirjoittama kokoelma.</p>
+            <p>
+                <hi rend="bold">6</hi> 291; <hi rend="bold">7</hi> 738; <hi rend="bold">10</hi> 37, 452; <hi rend="bold">14</hi> 163 a); <hi rend="bold">20</hi> 456, 523; <hi rend="bold">22</hi> 556; <hi rend="bold">23</hi> 42, 395, 606; <hi rend="bold">26</hi> 165, 745; <hi rend="bold">27</hi> 607, 43.</p>
+            <p>6—7, 10 Akonlahdesta, 14 Lytästä, 20, 22 Kuivajärveltä, 23, 26—7 Hietajärveltä.</p>
+            <p>Reijosen keräykset.</p>
+            <p>
+                <hi rend="bold">47.</hi> Kirjeitä Boreniukselle. Bor:n kokoelman k. 23.</p>
+            <p>N:t 396 ja 920. Hietajärveltä. Akonlahden r. a.</p>
+            <p>Basilierin keräykset.</p>
+            <p>
+                <hi rend="bold">48.</hi> 8:s-osa arkin kokoa oleva vihko vuodelta 1879.</p>
+            <p>Sivv. <hi rend="bold">7—16</hi> 15; ss. <hi rend="bold">12—15</hi> 584. Jyskyjärvestä.</p>
+            <p>Krohnin keräykset.</p>
+            <p>
+                <hi rend="bold">49.</hi> Vihko vuodelta 1881 ja lehtinen vuodelta 1884.</p>
+            <p>
+                <hi rend="bold">71</hi> 896; <hi rend="bold">72</hi> 88 b); <hi rend="bold">73</hi> 808 a); <hi rend="bold">74</hi> 312; <hi rend="bold">75</hi> 932; <hi rend="bold">77—8</hi> 875; <hi rend="bold">79</hi> 275, 818; <hi rend="bold">86</hi> 495; <hi rend="bold">87</hi> 353; <hi rend="bold">89</hi> 210; <hi rend="bold">4042</hi> 812.</p>
+            <p>71—8 Vuonnisesta, 79 Lonkasta, 86 Vuonnisesta, 87 Tetriniemestä, 89 Munankilahdesta, 4042 Vuonnisen r. a.</p>
+            <p>Varosen keräykset.</p>
+            <p>
+                <hi rend="bold">50.</hi> Kerääjän pikakirjoituksesta puhtaaksikirjoittama kokoelma. Bor:n kokoelman n. 27.</p>
+            <p>
+                <hi rend="bold">1 </hi>969 a); <hi rend="bold">2</hi> 156 a), 26 a); <hi rend="bold">3</hi> 447; <hi rend="bold">4</hi> 209; <hi rend="bold">5</hi> 722 a), 383 a); <hi rend="bold">6</hi> 553; <hi rend="bold">12 </hi>243 a); <hi rend="bold">15</hi> 28; <hi rend="bold">49</hi> 473 b), 529 c); <hi rend="bold">73</hi> 101; <hi rend="bold">74</hi> 241.</p>
+            <p>1—6, 12 Miinoasta, 15 Ristiniemestä, 49 Latvajärvestä, 73 Alajärvestä, 74 Uhtuesta.</p>
+            <p>Meriläisen keräykset.</p>
+            <p>
+                <hi rend="bold">51.</hi> Kuorissa V <hi rend="bold">5</hi>, 6; <hi rend="bold">6</hi>, 2; <hi rend="bold">7</hi>, 2, 3, 5. N:t 10890 b), 11295, 12665 b), 13724, 15381.</p>
+            <p>
+                <hi rend="bold">539</hi> 432; <hi rend="bold">851</hi> 368; <hi rend="bold">855 a)</hi> 636; <hi rend="bold">2042</hi> 335; <hi rend="bold">2116</hi> 952; <hi rend="bold">2133</hi> 950; <hi rend="bold">2344</hi> 16;<hi rend="bold"> 2345</hi> 682;<hi rend="bold"> 2347</hi> 448;<hi rend="bold"> 2349 a)</hi> 846;<hi rend="bold"> 2350</hi> 348;<hi rend="bold"> 2360</hi> 124; <hi rend="bold">2367</hi> 572.</p>
+            <p>539 Tuhkalasta, 851, 855 a) Pirttilahdesta, 2042 Luvajärvestä, 2116 Kokkosalmesta, 2133 Tsiksasta, 2344 Jyskyjärvestä, 2345, 2347 Tetriniemestä, 2349 a) Uhtuesta, 2350 Kananaisten kylästä, 2360, 2367 Uhtuesta.</p>
+            <p>Ollilaisen keräykset.</p>
+            <p>
+                <hi rend="bold">52.</hi> 2:nen lähetys. N:o 11725.</p>
+            <p>
+                <hi rend="bold">161</hi> 739. Akonlahdesta.</p>
+            <p>Rautellin keräykset.</p>
+            <p>
+                <hi rend="bold">53.</hi> 2:nen lähetys. N:o 12389.</p>
+            <p>
+                <hi rend="bold">917</hi> 361, 526; <hi rend="bold">918</hi> 687; <hi rend="bold">920</hi> 633; <hi rend="bold">940</hi> 560.</p>
+            <p>917 Kivijärvestä, 918, 920, 940 Vuokkiniemestä.</p>
+            <p>Marttisen keräykset.</p>
+            <p>
+                <hi rend="bold">54.</hi> 3:s ja 4:s lähetys. N:t 12403 ja 13458.</p>
+            <p>
+                <hi rend="bold">42 </hi>1019; <hi rend="bold">43</hi> 1020; <hi rend="bold">44</hi> 1021; <hi rend="bold">45</hi> 614, 250; <hi rend="bold">53</hi> 757; <hi rend="bold">54</hi> 361 a), 526 a); <hi rend="bold">56</hi> 977.</p>
+            <p>42—4 Kalevalasta opittuja, 45, 53—4, 56 Kivijärvestä.</p>
+            <p>Blomstedtin keräykset.</p>
+            <p>
+                <hi rend="bold">55.</hi> Neljännesarkin kokoa oleva vihko vuodelta 1894. N:o 13799.</p>
+            <p>
+                <hi rend="bold">5</hi> 555; <hi rend="bold">17</hi> 453; <hi rend="bold">22</hi> 156 b); <hi rend="bold">23</hi> 336; <hi rend="bold">28</hi> 243 b); <hi rend="bold">29</hi> 553 a).</p>
+            <p>5, 17 Akonlahdesta. 22—3. 28—9 Miinoasta.</p>
+            <p>Inhan keräykset.</p>
+            <p>
+                <hi rend="bold">56.</hi> Kokoelma vuodelta 1894.</p>
+            <p>
+                <hi rend="bold">13</hi> 821; <hi rend="bold">16</hi> 102, 651; <hi rend="bold">18</hi> 984; <hi rend="bold">18 c)</hi> 822; <hi rend="bold">20</hi> 192; <hi rend="bold">22</hi> 499; <hi rend="bold">23</hi> 500; <hi rend="bold">25</hi> 229; <hi rend="bold">26</hi> 564; <hi rend="bold">31</hi> 169; <hi rend="bold">32</hi> 294; <hi rend="bold">33</hi> 753; <hi rend="bold">37</hi> 49, 612; <hi rend="bold">38</hi> 465, 50; <hi rend="bold">40</hi> 754, 891; <hi rend="bold">43</hi> 974, 924; <hi rend="bold">73</hi> 984 a); <hi rend="bold">97</hi> 594; <hi rend="bold">125</hi> 228; <hi rend="bold">126</hi> (ja <hi rend="bold">128</hi>) 902; <hi rend="bold">130</hi> 428; <hi rend="bold">146</hi> 849, 426; <hi rend="bold">148</hi> 824; <hi rend="bold">155</hi> 425; <hi rend="bold">255</hi> <hi rend="bold">(= 153) </hi>280 a), 131 a), 512; <hi rend="bold">256 (= 151)</hi> 1007; <hi rend="bold">257 (= 152)</hi> 850; <hi rend="bold">258</hi> 1010; <hi rend="bold">259</hi> 1011; <hi rend="bold">260</hi> 1012; <hi rend="bold">264 (= 154) </hi>670 a), 132, 330, 427 a); <hi rend="bold">269</hi> 1013; <hi rend="bold">270</hi> 1014, 381, 429; <hi rend="bold">271</hi> 430, 851; <hi rend="bold">272</hi> 1015; <hi rend="bold">273</hi> 1016, 852; <hi rend="bold">276 </hi>331; <hi rend="bold">278</hi> 206; <hi rend="bold">280</hi> 903; <hi rend="bold">281</hi> 332, 346; <hi rend="bold">282</hi> 431, 671; <hi rend="bold">283</hi> 1017; <hi rend="bold">284</hi> 853, 133; <hi rend="bold">286 (= 150)</hi> 882; <hi rend="bold">287</hi> 904; <hi rend="bold">288</hi> 1018, 347.</p>
+            <p>13, 16, 18, 18 c), 20, 22—3, 25—6 Alajärvestä, 31—3, 37—8, 40, 43 Kenttijärvestä, 73 Alajärvestä, 97 Miinoasta, 125 Vuonnisesta, 126 (128) Pistojärvestä, 130 Koljolasta, 146 Ohdasta, 148 Kylänniemestä, 155 Uhtuesta, 255 (= 153)—60, 264 (= 154), 269—73, 276, 278, 280—4, </p>
+            <p>286—8 Koljolasta.</p>
+            <p>Karjalaisen keräykset.</p>
+            <p>
+                <hi rend="bold">57.</hi> Kokoelma vuodelta 1894.</p>
+            <p>
+                <hi rend="bold">6</hi> 501; <hi rend="bold">8</hi> 653; <hi rend="bold">9</hi> 103, 194, 654; <hi rend="bold">10</hi> 823; <hi rend="bold">11</hi> 986, 933; <hi rend="bold">15</hi> 306; <hi rend="bold">16</hi> 792; <hi rend="bold">19</hi> 231 a); <hi rend="bold">20</hi> 985 a), 934; <hi rend="bold">32</hi> 824 a); <hi rend="bold">36</hi> 530; <hi rend="bold">37</hi> 561; <hi rend="bold">47</hi> 157, 27, 519, 592; <hi rend="bold">48</hi> 724, 593, 919; <hi rend="bold">53</hi> 740; <hi rend="bold">54</hi> 162; <hi rend="bold">55</hi> 359; <hi rend="bold">64</hi> 741; <hi rend="bold">65</hi> 454, 292; <hi rend="bold">67 </hi>554; <hi rend="bold">81</hi> 513, 550; <hi rend="bold">82</hi> 329, 125; <hi rend="bold">83</hi> 669, 380, 548; <hi rend="bold">84</hi> 847; <hi rend="bold">85</hi> 201; <hi rend="bold">89</hi> 894; <hi rend="bold">93</hi> 637; <hi rend="bold">94</hi> 562; <hi rend="bold">95</hi> 183, 226; <hi rend="bold">102</hi> 773; <hi rend="bold">110</hi> 614 a), 250 a); <hi rend="bold">111</hi> 361 b), 526 b); <hi rend="bold">112</hi> 467, 53; <hi rend="bold">113</hi> 757 a); <hi rend="bold">120 </hi>137; <hi rend="bold">129</hi> 930; <hi rend="bold">141</hi> 218 b); <hi rend="bold">147</hi> 1022; <hi rend="bold">151</hi> 1023; <hi rend="bold">152</hi> 1024; <hi rend="bold">153 </hi>1025; <hi rend="bold">154</hi> 1026; <hi rend="bold">155</hi> 1027.</p>
+            <p>6, 8—11 Jyvöälahdesta, 15—16 Venehjärvestä, 19—20 Jyvöälahdesta, 32 Kylänniemestä, 36—7 Tollonjoelta, 47—8 Miinoasta, 53—5, 64—5, 67 Akonlahdesta, 81 Kiestingistä, 82—5 Uhtuesta, 89, </p>
+            <p>93—5 Venehjärvestä, 102 Latvajärvestä, 110—13 Kivijärvestä, 120, 129 Venehjärvestä, 141 Latvajärvestä, 147, 151—5 Kalevalasta opittuja.</p>
+            <p>Jouhkin keräykset.</p>
+            <p>
+                <hi rend="bold">58.</hi> 3:s lähetys vuodelta 1904. N:o 1590.</p>
+            <p>
+                <hi rend="bold">44</hi> 744 b). Hietajärveltä.</p>
+            <p>Niemen keräykset.</p>
+            <p>
+                <hi rend="bold">59.</hi> Muistoonpanoja vuosilta 1901 ja 1904.</p>
+            <p>
+                <hi rend="bold">108</hi> 467 a); <hi rend="bold">110</hi> 783; <hi rend="bold">111</hi> 929; <hi rend="bold">130</hi> 211; <hi rend="bold">143</hi> 337; <hi rend="bold">144</hi> 287, 384; <hi rend="bold">146</hi> 726; <hi rend="bold">154</hi> 385; <hi rend="bold">155</hi> 595; <hi rend="bold">162</hi> 212; <hi rend="bold">164—5</hi> 596; <hi rend="bold">167</hi> 29; <hi rend="bold">181</hi> 889; <hi rend="bold">182</hi> 727; <hi rend="bold">194</hi> 338.</p>
+            <p>108 Kivijärvestä, 110—11 Vuokkiniemestä, 130, 143—4, 146, 154—5, 162, 164—5, 167, </p>
+            <p>181—2 Sappovaarasta, 194 Akonlahdesta.</p>
+            <p>Ohrtin keräykset.</p>
+            <p>
+                <hi rend="bold">60.</hi> Kaksi neljännesarkin kokoa olevaa lehteä vuodelta 1906.</p>
+            <p>
+                <hi rend="bold">2</hi> 288, <hi rend="bold">3</hi> 455. Akonlahdesta.</p>
+            <p/>
+            <p>Runojen laulajat.</p>
+            <p>Luettelo, joka luonnollisesti käsittää ainoastaan teoksessa esiintyvät nimeltään tunnetut laulajat, on järjestetty runoaluettain ja osottaa kenelle runot on laulettu sekä minä numeroina ja missä runojaksoissa ne teoksessa tavataan.</p>
+            <p>Kellovaaran runoalue.</p>
+            <p>Kellovaara.</p>
+            <p>
+                <hi rend="italics">Moarie</hi> (Latvajärven Arhippa Perttusen sisar.)</p>
+            <p>Laulanut Lönnrotille (A II 9, 4—6, 8).</p>
+            <p>573 Laivar. — 954 Sisaren t. — 208 Ainor. — 701 Lemm. v.</p>
+            <p>
+                <hi rend="italics">Miihkalińe Simana.</hi>
+            </p>
+            <p>Laulanut Lönnrotille (A II 9, 10—12, 14) ja Boreniukselle (II, 166—171, 174—175).</p>
+            <p>955 Sisaren t. — 281 Väin. polvenh. — 1 (574) Sampoj. (Kant. s.) — 514 Kultaneid. t. — 858 Hiiden h. h. — 703 Lemm. v. — 281 a) Väin. polvenh. — 433 (3) (575) Kilpakos. (Sammon r.; Laivar.) — 2 (144) (574 a) Sampoj. (Kilpal.; Kant. s.) — 242 Vell. n. o. — 514 a) Kultaneid. t. — 956 Sisaren t.</p>
+            <p>
+                <hi rend="italics">Miihkalisen Simanan poika.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 169:n vert.—170:n vert.).</p>
+            <p>433 a) Kilpakos. — 144 a) Kilpalaul. — 2 a) Sampoj.</p>
+            <p>
+                <hi rend="italics">Riigoińe Maksima.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 163—165:n vert., III, 136—138).</p>
+            <p>4 (576) 4 a) (576 a)) Sampoj. (Kant. s.) — 702, 702 a) Lemm. v. — 957 (908) 957 a) Sisaren t. (Kalev. p. k.) — 282 Väin. polvenh. — 859 Hiiden h. h. — 909 Kalev. p. k.</p>
+            <p>Liedma.</p>
+            <p>
+                <hi rend="italics">Ahappeińe Iivana.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 177—178) ja Genetzille (II, 70—72).</p>
+            <p>704 (883) (910) Lemm.v. (Ison här. r.; Kalev. p. k.) — 958 Sisaren t. — 515 Kultaneid. t. — 435 (6) (577) Kilpakos. (Sammon r.; Laivar.) — 145 (7) (578) Kilpalaul. (Sampoj.; Kant. s.).</p>
+            <p>
+                <hi rend="italics">Ul'l'ana, Ahapein leski.</hi>
+            </p>
+            <p>Laulanut Genetzille (II, 73).</p>
+            <p>959 (349) (911) Sisaren t. (Tuonel. k.; Kalev. p. k.).</p>
+            <p>
+                <hi rend="italics">Vaźe, D'euhtin vaimo.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 179—180).</p>
+            <p>860 Hiiden h. h. — 434 (5) Kilpakos. (Sammon r.).</p>
+            <p>Tsolmo.</p>
+            <p>
+                <hi rend="italics">Oud'i, Trohkiman vaimo.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 181).</p>
+            <p>436 (8) Kilpakos. (Sammon r.).</p>
+            <p>Suurijärvi.</p>
+            <p>
+                <hi rend="italics">Ond'ŕeińe Gostja.</hi>
+            </p>
+            <p>Laulanut Europaeukselle (K, 29—30) ja Genetzille (II, 75—78).</p>
+            <p>960 (912) Sisaren t. (Kalev. p. k.) — 9 (579) Sampoj. (Laivar. ja Kant. s.) — 960 a) (912 a)) Sisaren t. (Kalev. p. k.) — 9 a) (579 a)) Sampoj. (Laivar. ja Kant. s.) — 706 (884) Sampoj. (Ison här. r.) — 681 Väin. tuomio.</p>
+            <p>
+                <hi rend="italics">Gostjańe Iivana.</hi>
+            </p>
+            <p>Laulanut Genetzille<hi rend="bold"> </hi>(II, 79, 81) ja Boreniukselle (III, s. 119).</p>
+            <p>961 (994) Sisaren t. (Kuolon s.) — 10 Sampoj. — 10 a) Sampoj. 913 Sisaren t.</p>
+            <p>
+                <hi rend="italics">Ond'ŕeińe Mehvo.</hi>
+            </p>
+            <p>Laulanut Genetzille (II, 74).</p>
+            <p>705 (350) Lemm. v. (Tuonelassa k.)</p>
+            <p>
+                <hi rend="italics">Paŕppeińe Vaśśilei.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 183).</p>
+            <p>147 Kilpalaul.</p>
+            <p>Jyskyjärven runoalue.</p>
+            <p>Jyskyjärvi.</p>
+            <p>
+                <hi rend="italics">Lauri Kynttińe.</hi>
+            </p>
+            <p>Laulanut Genetzille (II, 34—35).</p>
+            <p>13 (582) Sampoj. (Laivar.) — 964 (916) Sisaren t. (Kalev. p. k.).</p>
+            <p>
+                <hi rend="italics">T'iitta Pankrońi.</hi>
+            </p>
+            <p>Laulanut Genetzille (kons. v., s. 55).</p>
+            <p>708 Lemm. v.</p>
+            <p>
+                <hi rend="italics">Mikko Huitturi.</hi>
+            </p>
+            <p>Laulanut Bernerille (47).</p>
+            <p>14 (583) Sampoj. (Kant. s.).</p>
+            <p>
+                <hi rend="italics">Feodor Jaakonp. Kallioinen.</hi>
+            </p>
+            <p>Laulanut Basilierille (8:o ss. 7—16).</p>
+            <p>
+                <hi rend="b"/>15 (584) Sampoj. (Kant. s.).</p>
+            <p>
+                <hi rend="italics">Tjermi Tepanoff.</hi>
+            </p>
+            <p>Laulanut Meriläiselle (2344).</p>
+            <p>16 Luomisr.</p>
+            <p>Suopassalmi.</p>
+            <p>
+                <hi rend="italics">Stepana Leskińe.</hi>
+            </p>
+            <p>Laulanut Bernerille (48).</p>
+            <p>284, (673) Väin. polvenh. (Nimett. taud.).</p>
+            <p>Paanajärvi.</p>
+            <p>
+                <hi rend="italics">Lokina Tanińe.</hi>
+            </p>
+            <p>Laulanut Bernerille (49).</p>
+            <p>710 Lemm. v.</p>
+            <p>Kiimasjärven runoalue.</p>
+            <p/>
+            <p>Piismalaksi.</p>
+            <p>
+                <hi rend="italics">Iivanaińi Iivana, Rahusia.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (III, 132—134).</p>
+            <p>17 (585) Sampoj. (Kant. s.) — 711 Lemm. v. — 965 (917) Sisaren t. (Kalevan p. k.).</p>
+            <p>Pääkönniemi.</p>
+            <p>
+                <hi rend="italics">Fekli Jouhkiman poika.</hi>
+            </p>
+            <p>Laulanut Genetzille (II, 63—66).</p>
+            <p>149 (437) Kilpalaul. (Kilpakos.) — 712 (886) (918) Lemm. v. (Ison här. r.; Kalev. p. k.) — 18 (586) Sampoj. (Laivar. ja Kant. s.) — 587 Laivar. ja Kant. s.</p>
+            <p>
+                <hi rend="italics">Suavan Iivana.</hi>
+            </p>
+            <p>Laulanut Genetzille (pikak. v., s. 33).</p>
+            <p>588 a) Laivar.</p>
+            <p>
+                <hi rend="italics">Harkko.</hi>
+            </p>
+            <p>Laulanut Genetzille (pikak. v., s. 33).</p>
+            <p>588 b) Laivar.</p>
+            <p>Nokeus.</p>
+            <p>
+                <hi rend="italics">Haŕkkoińe Riigo.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 162).</p>
+            <p>438 (19) Kilpakos. (Sammon r.).</p>
+            <p>
+                <hi rend="italics">Makarien vaimo.</hi>
+            </p>
+            <p>Laulanut Genetzille (II, 62, pikak. v., s. 5).</p>
+            <p>995 Kuolon s. — 995 a) Kuolon s.</p>
+            <p>
+                <hi rend="italics">Matti Kemppańe.</hi>
+            </p>
+            <p>Laulanut Genetzille (II, 69).</p>
+            <p>285 Väin. polvenh.</p>
+            <p>Kiimasjärvi.</p>
+            <p>
+                <hi rend="italics">Seńkkańe Miihkali.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 142).</p>
+            <p>441 (20) (150) Kilpakos. (Sammon r.; Kilpalaul.).</p>
+            <p>
+                <hi rend="italics">Nasto, Huotarin vaimo.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 145—147).</p>
+            <p>442 (22) (151) (351) (517) (590) Kilpakos. (Sammon r.; Kilpalaul.; Tuonelassa k.; Kultaneidon t.; Laivar.) — 716 (887) Lemm. v. (Ison här. r.) — 552 Kojosen p. k.</p>
+            <p>
+                <hi rend="italics">Karppaińe Mihhei.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 149).</p>
+            <p>717 Lemm. v.</p>
+            <p>
+                <hi rend="italics">Mikittäińi Iivana.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 155—157).</p>
+            <p>443 (23) Kilpakos. (Sammon r.) — 286 Väin. polvenh. — 718 (152) (888) Lemm. v. (Kilpalaul.; Ison här. r.).</p>
+            <p>
+                <hi rend="italics">Jeusseińe Mikittä.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 158).</p>
+            <p>24 (444) (518) Sampoj. (Kilpakos.; Kultaneid. t).</p>
+            <p>
+                <hi rend="italics">Ińńińe Arhippa.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 159—161).</p>
+            <p>591 Laivar. ja Kant. s. — 153 Kilpalaul. — 719 Lemm. v.</p>
+            <p>Luvajärvi.</p>
+            <p>
+                <hi rend="italics">Ontreińi Tomenttie.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 139—141).</p>
+            <p>154 Kilpalaul. — 382 Vipusessa k. — 445 Ansiotöitä.</p>
+            <p>
+                <hi rend="italics">Moarie Outokinovna.</hi>
+            </p>
+            <p>Laulanut Meriläiselle (2042).</p>
+            <p>
+                <hi rend="b"/>335 Venep. ets.</p>
+            <p>Akonlahden runoalue.</p>
+            <p>Miinoa.</p>
+            <p>
+                <hi rend="italics">Marppa Jeussein tytär Häńńińi, Kliimon vaimo.</hi>
+            </p>
+            <p>Laulanut Bernerille (36—41), Varoselle (1—6, 12) ja Blomstedtille (22—23, 28—29).</p>
+            <p>969 Sisaren t. — 997 Kuolon s. — 722 (383) Lemm. v. (Vipusessa k.) — 243 Vell. n. o. — 352 Tuonelassa k. — 156 (26) Kilpalaul. (Sampoj.) — 969 a) Sisaren t. — 156 a) (26 a)) Kilpalaul. (Sampoj.) — 447 Kilpakos. — 209 Ainor. — 722 a) (383 a)) Lemm. v. (Vipusessa k.) — 553 Kojosen p. k. — 243 a) Vell. n. o. — 156 b) Kilpalaul. — 336 Venep. ets. — 243 b) Vell. n. o. — 553 a) Kojosen p. k.</p>
+            <p>
+                <hi rend="italics">Passa Hukkańe.</hi>
+            </p>
+            <p>Laulanut Bernerille (kons. v., s. 140).</p>
+            <p>723 Lemm. v.</p>
+            <p>
+                <hi rend="italics">Mikko Jehkimäińi Potapoff.</hi>
+            </p>
+            <p>Laulanut Karjalaiselle (47—48).</p>
+            <p>157 (27) (519) (592) Kilpalaul. (Luomisr.; Kultaneid. t.; Kant. s.) — 724 (593) (919) Lemm. v. (Laivar.; Kalev. p. k.)</p>
+            <p>
+                <hi rend="italics">Savinan pojan leski.</hi>
+            </p>
+            <p>Laulanut Inhalle (97 b)).</p>
+            <p>594 Laivar.</p>
+            <p>Ristiniemi.</p>
+            <p>
+                <hi rend="italics">Miihkali Samatainen.</hi>
+            </p>
+            <p>Kertonut Varoselle (15).</p>
+            <p>28 Sampoj.</p>
+            <p>Tetriniemi.</p>
+            <p>
+                <hi rend="italics">Huotari Uvenainen.</hi>
+            </p>
+            <p>Laulanut Krohnille (87).</p>
+            <p>353 Tuonelassa k.</p>
+            <p>
+                <hi rend="italics">Lari Arttemjeff.</hi>
+            </p>
+            <p>Laulanut Meriläiselle (2347).</p>
+            <p>448 Kilpakos.</p>
+            <p>Munankilaksi.</p>
+            <p>
+                <hi rend="italics">Matleena Ahtonen.</hi>
+            </p>
+            <p>Laulanut Krohnille (89).</p>
+            <p>210 Ainor.</p>
+            <p>Sappovaara.</p>
+            <p>
+                <hi rend="italics">Petri Huotarińi.</hi>
+            </p>
+            <p>Laulanut Bernerille (33).</p>
+            <p>725 Lemm. v.</p>
+            <p>
+                <hi rend="italics">Hilippä Huotarińi.</hi>
+            </p>
+            <p>Laulanut Niemelle (143—144, 146, 154—155, 162, 164—5, 167, 181—182).</p>
+            <p>337 Venep. ets. — 287 (384) Väin. polvenh. (Vipusessa k.) — 726 Lemm. v. — 385 Vipusessä k. — 595 Kant. s. — 212 Ainor. — 596 Laivar. — 29 Sampoj. — 889 Ison här. r. — 727 Lemm. v.</p>
+            <p>
+                <hi rend="italics">Hoto Nykäńi.</hi>
+            </p>
+            <p>Laulanut Niemelle (130) ja Ohrtille (2).</p>
+            <p>211 Ainor. — 288 Väin. polvenh.</p>
+            <p>Akonlaksi.</p>
+            <p>
+                <hi rend="italics">Timońe, Remsosen renki.</hi>
+            </p>
+            <p>Laulanut Topeliukselle (1222 a) 8, 1, 651 a) 1—3, Vanh. r. I, ss. 21—4) ja Europaeukselle (K, 72—72 a)).</p>
+            <p>728 (728 a)) Lemm. v. — 354 (354 a)) (386) Tuonelassa k. (Vipusessa k.) — 449 (449 a)) Kilpakos. — 597 (597 a)) Laivar. ja Kant. s. 158 Kilpalaul. — 597 b) Laivar. ja Kant. s. — 449 b) Kilpakos.</p>
+            <p>
+                <hi rend="italics">Trohkimaińi Soava.</hi>
+            </p>
+            <p>Laulanut Lönnrotille (A II 2, 1—3, 7—8, 12 b)) ja Gottlundille (589—592 a)).</p>
+            <p>729 Lemm. v. — 30 (355) (450) (598) Sampoj. (Tuonelassa k.; Kilpakos.; Laivar. ja Kant. s.) — 520 (159) (387) (599) Kultaneid. t. (Kilpalaul; Vipusessa k.; Laivar.) — 970 Sisaren t. — 863 Hiiden h. h. — 730 Lemm. v. — 387 a) Vipusessa k. — 30 a) (598 a)) Sampoj. (Kant. s.) — 30 b) Sampoj. — 450 a) 355 a) Kilpakos. (Tuonelassa k.).</p>
+            <p>
+                <hi rend="italics">Timońi Jeussei.</hi>1</p>
+            <p>Laulanut Cajanille (8:o, ss. 22—23).</p>
+            <p>244 Vell. n. o. — 732 Lemm. v. — 733 Lemm. v.</p>
+            <p>1 Tieto epävarma.</p>
+            <p>
+                <hi rend="italics">Jeussein T'imo.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (I, 112) ja Genetzille (I, 11, kons. v. Bor. III, k. 19, s. 13).</p>
+            <p>36 Sampoj. — 357 (602) Tuonelassa k. (Laivar.) — 864 Hiiden h. h.</p>
+            <p>
+                <hi rend="italics">Tero Omenaińi.</hi>
+            </p>
+            <p>Laulanut Bernerille (32).</p>
+            <p>358 Tuonelassa k.</p>
+            <p>
+                <hi rend="italics">Iivanaińi Prokko („Vitša-Prokko“).</hi>
+            </p>
+            <p>Laulanut Hannikaiselle (6—7, 10).</p>
+            <p>291 Väin. polvenh. — 738 Lemm. v. — 452 (37) Kilpakos. (Sampoj.).</p>
+            <p>
+                <hi rend="italics">Poahkomie Omenaińi.</hi>
+            </p>
+            <p>Laulanut Karjalaiselle (53—55).</p>
+            <p>740 Lemm. v. — 162 Kilpalaul. — 359 Tuonelassa k.</p>
+            <p>
+                <hi rend="italics">Marppa, Maksima Huotarisen vaimo.</hi>
+            </p>
+            <p>Laulanut Karjalaiselle (64).</p>
+            <p>741 Lemm. v.</p>
+            <p>
+                <hi rend="italics">Varvana Huotarin tytär Hämäläińi.</hi>
+            </p>
+            <p>Laulanut Karjalaiselle (65).</p>
+            <p>454 (292) Kilpakos. (Väin. polvenh.).</p>
+            <p>
+                <hi rend="italics">Okahvie Huotarińi.</hi>
+            </p>
+            <p>Laulanut Karjalaiselle (67).</p>
+            <p>554 Kojosen p. k.</p>
+            <p>
+                <hi rend="italics">Out'i Nykäńi.</hi>
+            </p>
+            <p>Laulanut Niemelle (194) ja Ohrtille (3).</p>
+            <p>338 Venep. ets. — 455 Kilpakos.</p>
+            <p>Lyttä.</p>
+            <p>
+                <hi rend="italics">Mikihvoara Omenaińi.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (I, 102).</p>
+            <p>392 (603) Vipusessa k. (Laivar. ja Kant. s.).</p>
+            <p>
+                <hi rend="italics">Ossippa Omenaińi.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (I, 106—111), Bernerille (30) ja Hannikaiselle (14).</p>
+            <p>604 (393) Laivar. ja Kant. s. (Vipusessa k.) — 742 Lemm. v. — 163 Kilpalaul. — 163 b) Kilpalaul. — 998 Kuolon s. — 677 Nimett. taud. — 38 Sampoj. — 38 a) Sampoj. — 163 a) Kilpalaul.</p>
+            <p>Kuivajärvi.</p>
+            <p>
+                <hi rend="italics">Varvana Iivanan tytär, Jyrin leski.</hi>
+            </p>
+            <p>Laulanut Hannikaiselle (20, 22).</p>
+            <p>456 (523) Kilpakos. (Kultaneid. t.) — 556 Kojosen p. k.</p>
+            <p>Hietajärvi.</p>
+            <p>
+                <hi rend="italics">Tarija l. Toarie Lesońi, Lari Huovisen vaimo.</hi>
+            </p>
+            <p>Laulanut Europaeukselle (K, 99—102).</p>
+            <p>394 (39) (605) Vipusessa k. (Sampoj.; Kant. s.) — 743 Lemm. v. 40 (164) Sampoj. (Kilpalaul.) — 293 Väin. polvenh.</p>
+            <p>
+                <hi rend="italics">Miina ja Ohvo Huovinen.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 1), taskukirj. s. 42.</p>
+            <p>744 Lemm. v. — 41 Sampoj.</p>
+            <p>
+                <hi rend="italics">Miina Huovinen.</hi>
+            </p>
+            <p>Laulanut Jouhkille (3 1. 44).</p>
+            <p>744 b) Lemm. v.</p>
+            <p>
+                <hi rend="italics">Jaakko Huovinen.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 1:n vert), Hannikaiselle (23) ja Reijoselle (kirje B:lle).</p>
+            <p>744 a) Lemm. v. — 42 (395) (606) Sampoj. (Vipusessa k.; Laivar.) — 396 Vipusessa k.</p>
+            <p>
+                <hi rend="italics">Anni Jouhkon tytär, Larisen T'imon leski.</hi>
+            </p>
+            <p>Laulanut Hannikaiselle (26—27).</p>
+            <p>165 (745) Kilpalaul. (Lemm. v.) — 607 (43) Laivar. ja Kant. s. (Sampoj.).</p>
+            <p>Niskajärvi.</p>
+            <p>
+                <hi rend="italics">Iivanaińe Ossippa.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (III, 2—3).</p>
+            <p>44 Sampoj. — 746 Lemm. v.</p>
+            <p>
+                <hi rend="italics">Iivanaiset Omośśo ja Ossippa.</hi>
+            </p>
+            <p>Laulaneet Boreniukselle (III, 4—6).</p>
+            <p>457 Kilpakos. — 608 Laivar. ja Kant. s. — 971 Sisaren t.</p>
+            <p>Kostamuksen—Kenttijärven runoalue.</p>
+            <p>Kontokki.</p>
+            <p>
+                <hi rend="italics">Moarie, Poavilan vaimo.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 134).</p>
+            <p>748 Lemm. v.</p>
+            <p>
+                <hi rend="italics">Ol'ona, Vaśśilein vaimo.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 135).</p>
+            <p>214 Ainor.</p>
+            <p>
+                <hi rend="italics">Lari</hi>1 <hi rend="italics">Poavilaińi.</hi>
+            </p>
+            <p>Laulanut Meriläiselle (2345).</p>
+            <p>682 Väin. tuomio.</p>
+            <p>1 Näin kk:ssa. Todennäköisesti: <hi rend="italics">Leva P.</hi>
+            </p>
+            <p>
+                <hi rend="italics">Jeremei Bogdanoff.</hi>
+            </p>
+            <p>Lähettänyt Marttiselle (42—44).</p>
+            <p>1019—21 Kalevalasta opittuja.</p>
+            <p>Koivujärvi.</p>
+            <p>
+                <hi rend="italics">Maŕkke Lesońe.</hi>
+            </p>
+            <p>Laulanut Genetzille (II, 54—56, pikak. v., ss. 27—28).</p>
+            <p>611 (397) Laivar. ja Kant. s. (Vipusessa k.) — 464 Kilpakos. — 215 Ainor. — 525 Kultaneid. t. — 751 Lemm. v.</p>
+            <p>Kenttijärvi.</p>
+            <p>
+                <hi rend="italics">Riikoińi Simana.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 125—126) ja Inhalle (31—33).</p>
+            <p>973 (923) Sisaren t. (Kalevan p. k.) — 752 Lemm. v. — 169 Kilpalaul. — 294 Väin. polvenh. — 753 Lemm. v.</p>
+            <p>
+                <hi rend="italics">Šimanaińi Iivana.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 124).</p>
+            <p>972 (922) Sisaren t. (Kalevan p. k.).</p>
+            <p>
+                <hi rend="italics">Oksenie Iivanan tytär, Karppasia.</hi>
+            </p>
+            <p>Laulanut Inhalle (37—38, 40).</p>
+            <p>49 (612) Sampoj. (Kant. s.) — 465 (50) Kilpakos. (Sammon r.) — 754 (891) Lemm. v. (Ison här. r.).</p>
+            <p>
+                <hi rend="italics">Out'i.</hi>
+            </p>
+            <p>Laulanut Inhalle (43).</p>
+            <p>974 (924) Sisaren t. (Kalev. p. k.).</p>
+            <p>Latvajärven runoalue.</p>
+            <p>Kivijärvi.</p>
+            <p>
+                <hi rend="italics">Iro, Päntin vaimo.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (I, 90) ja Bernerille (27).</p>
+            <p>976 Sisaren t. — 216 Ainor.</p>
+            <p>
+                <hi rend="italics">Aśjońi Kusma, Remsusia.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (III, 7).</p>
+            <p>296 Väin. polvenh.</p>
+            <p>
+                <hi rend="italics">Maura Marttińi.</hi>
+            </p>
+            <p>Laulanut Rautellille (917), Marttiselle (45, 53—54) ja Karjalaiselle (110—113).</p>
+            <p>361 (526) Tuonelassa k. (Kultaneid. t.) — 614 (250) Laivar. ja Kant. s. (Vellamon n. o.) — 757 Lemm. v. — 361 a) (526 a)) Tuonelassa k. (Kultaneid. t.) — 614 a) (250 a)) Laivar. ja Kant. s. (Vellamon n. o.) — 361 b) (526 b) Tuonelassa k. (Kultaneidon t.) — 467 (53) Kilpakos. (Sampoj.) — 757 a) Lemm. v. — 467 a) Kilpakos.</p>
+            <p>
+                <hi rend="italics">Out'i Lesońi.</hi>
+            </p>
+            <p>Laulanut Marttiselle (56).</p>
+            <p>977 Sisaren t.</p>
+            <p>Latvajärvi.</p>
+            <p>
+                <hi rend="italics">Arhippa Perttuńe.</hi>
+            </p>
+            <p>Laulanut Lönnrotille (A II 6, 66—68, 70—76, 79—80, 86, 92, 106—107) ja Cajanille (161—162, 165, 177 a) 177 b), 178, 178 a), 181—183) ja Castrénille (44—45, 47, 1204: 2).</p>
+            <p>758 (251) (468) Lemm. v. (Vell. n. o.; Kilpakos.) — 758 a) Lemm. v. — 469 (527) Kilpakos. (Kultaneid. t.) — 54 Sampoj. — 297 Väin. polvenh. — 759 Lemm. v. — 865 Hiiden h. h. — 925 Kalev. p. k. — 615 Laivar. ja Kant. s. — 399 Vipusessa k. — 170 Kilpalaul. — 978 Sisaren t. — 362 (760) Tuonelassa k. (Lemm. v.) 683 Väin. tuomio — 892 Ison här. r. — 171 Kilpalaul. — 683 a) Väin. tuomio — 339 Venep. ets. — 978 a) Sisaren t. — 297 a) Väin. polvenh. — 758 b) (251 a)) Lemm. v. (Vell. n. o.) — 759 a) Lemm. v. — 763 Lemm. v. — 54 a) Sampoj. — 469 a) 527 a) Kilpakos. (Kultaneid. t.) — 170 a) Kilpalaul. — 54 b) (399 a)) Sampoj. (Vipusessa k.) — 759 b) (362 a)) Lemm. v. (Tuonelassa k.) — 339 a) Venep. ets.</p>
+            <p>
+                <hi rend="italics">Arhippaińi Miihkali.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (I, 91—93:n vert., 95—101:n vert.), Bernerille (60, 62—65), Boreniukselle (III, 11—16, 18, 20, 29, 34—36, 44, 49, 56, 58), Varoselle (49) ja Karjalaiselle (141).</p>
+            <p>617 (764) 617 a) Laivar. ja Kant. s. (Lemm. v.) — 866, 866 a) Hiiden h. h. — 58, 58 b) Sampoj. — 253, 253 a) Vell. n. o. — 765, 765 a) Lemm. v. — 766. 766 a) Lemm. v. — 529 Kultaneid. t. — 363. 363 a) Tuonelassa k. — 472 Kilpakos. — 401, 401 a) Vipusessa k. — 298 Väin. polvenh. — 473 (529 a)) Kilpakos. (Kultaneid. t.) — 218 Ainor. — 559 Kojosen p. k. — 979 Sisaren t. — 58 a) Sampoj. — 473 a) (529 b)) Kilpakos. (Kultaneid. t.) — 766 b) Lemm. v. — 298 a) Väin. polvenh. — 979 a) Sisaren t. — 218 a) Ainor. — 559 a) Kojosen p k. — 173 Kilpalaul. — 59 Sampoj. — 685 Väin. tuomio. — 136 Taivaan t. — 770 Lemm. v. — 926 Kalevan p. k. — 766 c) Lemm. v. — 893 Ison här. r. — 298 b) Väin. polvenh. — 473 b) (529 c)) Kilpakos. (Kultaneid. t.) — 218 b) Ainor.</p>
+            <p>
+                <hi rend="italics">Jyrkińi Riiko, Perttusia.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 21—22).</p>
+            <p>60 (475) Sampoj. (Kilpakos.) — 618 Laivar. ja Kant. s.</p>
+            <p>
+                <hi rend="italics">Šimana Perttuńe.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 23).</p>
+            <p>619 (768) Laivar. ja Kant. s. (Lemm. v.)</p>
+            <p>
+                <hi rend="italics">Okahvie, N'ihvon leski.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 5, 8—9).</p>
+            <p>767 Lemm. v. — 219 Ainor. — 220 Ainor.</p>
+            <p>
+                <hi rend="italics">Iro, Miinan vaimo.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 12).</p>
+            <p>364 (474) Tuonelassa k. (Kilpakos.).</p>
+            <p>
+                <hi rend="italics">Varvana, Jouhkon vaimo.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 13).</p>
+            <p>172 Kilpalaul.</p>
+            <p>
+                <hi rend="italics">Moiśśeińi Kuśma, Ahosia.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 26).</p>
+            <p>769 Lemm. v.</p>
+            <p>
+                <hi rend="italics">Petrińi T'imo („Karhu-T'imo“).</hi>
+            </p>
+            <p>Laulanut Boreniukselle (III, 9).</p>
+            <p>61 (476) Sampoj. (Kilpakos).</p>
+            <p>
+                <hi rend="italics">Piirteińi l. Spiireińi Moiśśei.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (III, 73, 75).</p>
+            <p>365 (402) (620) Tuonelassa k. (Vipusessa k.; Laiv. ja Kant. s. — 771 (477) Lemm. v. (Kilpakos.).</p>
+            <p>
+                <hi rend="italics">Iknattaińi Iivana, Karhusia.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (IV, 1—3, 6).</p>
+            <p>62 Sampoj. — 772 Lemm. v. — 621 Laivar. ja Kant. s. — 299 Väin. polvenh.</p>
+            <p>
+                <hi rend="italics">Sakkuńi Petri, Karhuja.</hi>
+            </p>
+            <p>Laulanut Karjalaiselle (102).</p>
+            <p>773 Lemm. v.</p>
+            <p>Vuokkiniemen runoalue.</p>
+            <p>Tsena.</p>
+            <p>
+                <hi rend="italics">Jyrki Kettuńe.</hi>
+            </p>
+            <p>Laulanut Topeliukselle (Vanh. run. I, 3—18, 25—6, 27—30, II, 15—18) ja Lönnrotille (A II 6, 47, 48—54, 55—59, 62—3).</p>
+            <p>774 (366) Lemm. v. (Tuonelassa k.) — 63 Sampoj. — 403 (622) Vipusessa k. (Laivar. ja Kant. s.) — 63 a) Sampoj. — 63 b) Sampoj. 867 Hiiden h. h. — 622 a) (403 a)) Laivar. ja Kant s. (Vipusessa k.) 63 c) Sampoj. — 174 Kilpalaul. — 300 Väin. polvenh. — 927 (1000) Kalev. p. k. (Kuolon s.) — 479 Kilpakos.</p>
+            <p>
+                <hi rend="italics">Petri Kettuńe.</hi>1</p>
+            <p>Laulanut Sjögrenille (417—419).</p>
+            <p>64 Sampoj. — 404 (254) (623) Vipusessa k. (Vell. n. o.; Kant. s.) — 624 (255) (478) Laivar. ja Kant. s. (Vell. n. o.; Kilpakos.).</p>
+            <p>Vuokkiniemen runoalue:</p>
+            <p>1 Tieto epävarma.</p>
+            <p>
+                <hi rend="italics">Lukki, Riion vaimo.</hi>
+            </p>
+            <p>Laulanut Bernerille (22).</p>
+            <p>175 Kilpalaul.</p>
+            <p>
+                <hi rend="italics">Maksimaińi Hilippä.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 32).</p>
+            <p>777 Lemm. v.</p>
+            <p>
+                <hi rend="italics">Šimanaińi Kipri.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (III, 123).</p>
+            <p>301 Väin. polvenh.</p>
+            <p>Vuokkiniemi.</p>
+            <p>
+                <hi rend="italics">Olli Mäkeläińi (Vet'ońi Onuhrie).</hi>
+            </p>
+            <p>Laulanut Topeliukselle (1222 a) 12, 1, 5—7).</p>
+            <p>686 Väin. tuomio. — 65 Sampoj. — 367 Tuonelassa k. — 176 Kilpalaul.</p>
+            <p>
+                <hi rend="italics">Miitrein leski (Out'i Teppanan t:r Rettijeff).</hi>
+            </p>
+            <p>Laulanut Boreniukselle (I, 86) ja Genetzille (II, 6, 8, kons. l. Bor. III, k. 19).</p>
+            <p>1001 Kuolon s. — 781 Lemm. v. — 980 Sisaren t<hi rend="italics">. —</hi> 485 Kilpakos. — 631 Laivar.</p>
+            <p>
+                <hi rend="italics">Trohkiman leski Ańńi.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (I, 88) ja Genetzille (II, 10, pik. v., s. 8).</p>
+            <p>484 Kilpakos. — 484 a) Kilpakos. — 223 Ainor. — 632 Laivar.</p>
+            <p>
+                <hi rend="italics">N'ekka-Jyrin leski (Moarie Iivanan t:r T'eńeeff).</hi>
+            </p>
+            <p>Laulanut Genetzille (II, 11—12, kons. 1. Bor. III, k. 19).</p>
+            <p>73 Sampoj. — 630 (257) Laivar. ja Kant. s. (Vell. n. o.) — 224 Ainor. — 407 Vipusessa k. — 486 Kilpakos. — 630 a) Laivar. — 782 Lemm. v. — 981 Sisaren t.</p>
+            <p>
+                <hi rend="italics">Poavila Lippońi („Sokie Poavila“).</hi>
+            </p>
+            <p>Laulanut Boreniukselle (I, 85), (Gen:in lis.).</p>
+            <p>928 Kalev. p. k. — 928 a) Kalev. p. k.</p>
+            <p>
+                <hi rend="italics">Okahvie Mäkeläińi.</hi>
+            </p>
+            <p>Laulanut Rautellille (918, 920, 940).</p>
+            <p>687 Väin. tuomio — 633 Laivar. ja Kant. s. — 560 Kojosen p. k.</p>
+            <p>Tollonjoki.</p>
+            <p>
+                <hi rend="italics">T'eńesseińi Kauro („Tollon Kauro“).</hi>
+            </p>
+            <p>Laulanut Genetzille (II, 17—19).</p>
+            <p>304 (635) Vain. polvenh. (Laivar. ja Kant. s.) — 178 Kilpalaul. — 785 Lemm. v.</p>
+            <p>
+                <hi rend="italics">Okahvie Mat'venna Remsujeff.</hi>
+            </p>
+            <p>Laulanut Karjalaiselle (36—37).</p>
+            <p>530 Kultaneid. t. — 561 Kojos. p. k.</p>
+            <p>Pirttilaksi.</p>
+            <p>
+                <hi rend="italics">Ohvo Harmońi</hi>.1</p>
+            <p>Laulanut Boreniukselle (I, 89).</p>
+            <p>305 (74) Väin. polvenh. (Luomisr.).</p>
+            <p>1 Myös: Harmoańi l. Harmujeff.</p>
+            <p>
+                <hi rend="italics">Nikolai Kallio</hi>.2</p>
+            <p>Laulanut Meriläiselle (851, 855 a)).</p>
+            <p>368 Tuonelassa k. — 636 (Laivar. ja Kant. s.).</p>
+            <p>2Todennäköisesti: <hi rend="italics">Kallioff.</hi>
+            </p>
+            <p>Venehjärvi.</p>
+            <p>
+                <hi rend="italics">Vasilius Lesonen.</hi>
+            </p>
+            <p>Laulanut Fellmanille (42, 45).</p>
+            <p>75 Sampoj. — 786 Lemm. v.</p>
+            <p>
+                <hi rend="italics">Outokka Lesońi.</hi>
+            </p>
+            <p>Laulanut Cajanille (159).</p>
+            <p>688 Väin. tuomio.</p>
+            <p>
+                <hi rend="italics">Onuhrie Outokanp. Lesońi.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (I, 82—84:n vert., III, 81—82).</p>
+            <p>182, 182 a) Kilpalaul. — 409 (790) 409 a) Vipusessa k. (Lemm. v.) — 791, 791 a), 791 b) Lemm. v. — 409 b) Vipusessa k.</p>
+            <p>
+                <hi rend="italics">Petri Miitreinp. Lesońi („Hökkä-Petri“).</hi>
+            </p>
+            <p>Laulanut Boreniukselle (I, 79—80:n vert., III, 79—80).</p>
+            <p>410 (77) (340) Vipusessa k. (Sampoj.; Venep. ets.) — 789, 789 a), 789 b) Lemm. v. — 410 a), 77 a), (340 a) Vipusessa k. (Sampoj.; Venep. ets.).</p>
+            <p>
+                <hi rend="italics">Loasari Lesońi.</hi>
+            </p>
+            <p>Laulanut Bernerille (77) ja Boreniukselle (III, 78).</p>
+            <p>869 Hiiden h. h. — 870 Hiiden h. h.</p>
+            <p>
+                <hi rend="italics">Hoto Lesońi („Sokie Hoto“).</hi>
+            </p>
+            <p>Laulanut Bernerille (21) ja Karjalaiselle (89, 93—95).</p>
+            <p>225 Ainor. — 894 Ison här. r. — 637 Laivar. ja Kant. s. — 562 Kojosen p. k. — 183 (226) Kilpalaul. (Ainor.).</p>
+            <p>
+                <hi rend="italics">Varahvontta Lesońi.</hi>
+            </p>
+            <p>Laulanut Karjalaiselle (15, 16, 120, 129).</p>
+            <p>306 Väin. polvenh. — 792 Lemm. v. — 137 Taivaan t. — 930 Kalev. p. k.</p>
+            <p>
+                <hi rend="italics">Vihtoora Lesońi.</hi>
+            </p>
+            <p>Laulanut Karjalaiselle (147, 151—55).</p>
+            <p>1022—7 Kalevalasta opittuja.</p>
+            <p>Ponkalaksi.</p>
+            <p>
+                <hi rend="italics">Lukkańi Huotari, Prokkosia.</hi>
+            </p>
+            <p>Laulanut Lönnrotille (A II 3, 32, 34) ja Boreniukselle (III, 84, 87, 89—91).</p>
+            <p>259 (184) Vell. n. o. (Kilpalaul.) — 793 Lemm. v. — 369 (184 a)) (411) (638) Tuonelassa k. (Kilpalaul.; Vipusessa k.: Laivar. ja Kant. s.) — 307 Väin. polvenh. — 793 a) Lemm. v. — 871 (531). Hiiden. h. h. (Kultaneid. t.) — 260 Vell. n. o.</p>
+            <p>Vuonnisen runoalue.</p>
+            <p>Aajuolaksi.</p>
+            <p>
+                <hi rend="italics">Toarie, Joakon vaimo.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (I, 78).</p>
+            <p>78 (371) (639) (679) Sampoj. (Tuonelassa k.; Laivar.; ja Kant. s.; Auringon ja kuun p.).</p>
+            <p>Vuonninen.</p>
+            <p>
+                <hi rend="italics">Ontrei Malińi.</hi>
+            </p>
+            <p>Laulanut Sjögrenille (431—432), ja Lönnrotille (A II 3, 38—43, 45, 62).</p>
+            <p>185 Kilpalaul. — 79 Sampoj. — 262 Vell. n. o. — 185 a) Kilpalaul. — 79 a) Sampoj. — 640 Laivar. ja Kant. s. — 794 Lemm. v. — 689 Väin. tuomio. — 487 Kilpakos. — 412 Vipusessa k.</p>
+            <p>
+                <hi rend="italics">Vaassila Kielöväińi.</hi>
+            </p>
+            <p>Laulanut Lönnrotille (A II 3, 65).</p>
+            <p>80 (263) (488) (532) (931) Sampoj. (Vell. n. o.; Kilpalaul.; Kultaneid. t.; Kalev. p. k.).</p>
+            <p>
+                <hi rend="italics">Ontreińi Vaśśilei.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 113—117).</p>
+            <p>91 Sampoj. — 693 Väin. tuomio — 810 Lemm. v. — 187 Kilpalaul. — 492 Kilpakos.</p>
+            <p>
+                <hi rend="italics">Ontreińi Jyrki.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (I, 64—76:n vert., III, 111—112, 114, 115).</p>
+            <p>84, 84 a), 84 b) Sampoj. — 491 (533) 491 a, (533 a)) Kilpakos. (Kultaneid. t.) 265, 265 a) Vell. n. o. — 801, 801 a) Lemm. v. — 872, 872 a) Hiiden h. h. — 414, 414 a) Vipusessa k. — 802, 802 a) Lemm. v. — 341 Venepuun ets. — 641, 641 a) Laivar. ja Kant. s. — 186, 186 a) Kilpalaul. — 690, 690 a) Väin. tuomio. — 308, 308 a) Väin. polvenh. — 370, 370 a) Tuonelassa k. — 802 b) Lemm. v. — 802 c) Lemm. v. — 982 Sisaren t. — 895 Ison här. r.</p>
+            <p>
+                <hi rend="italics">Homańi Ohvo.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (I, 60, 63), II, 87—93, 95—97, 111, 108).</p>
+            <p>680 (139) Auringon ja kuun p. (Taivaan t.) — 83 Sampoj. — 692, 692 a) Väin. tuomio — 83 a), 83 b) Sampoj. — 534 (268) Kultaneid. t. (Vell. n. o.) — 534 (268) Kultaneid. t. (Vell. n. o.) — 534 a) (268 a)) Kultaneid. t. (Vell. n. o.) — 342, 342 a) Venep. ets. — 806 Lemm. v. — 309, 309 a) Väin. polvenh. — 874 Hiiden h. h. — 644 Kant. s. — 645 Laivar. ja Kant. s. — 417 Vipusessa k. — 83 c) 645 a)) Sampoj. (Laivar. ja Kant. s.).</p>
+            <p>
+                <hi rend="italics">Mat'ŕo, Homasen Ohvon vaimo.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 98—99).</p>
+            <p>227 Ainor. — 89 (141) (269) (311) (535) Sampoj. (Taivaan t.; Vell. n. o.; Väin. polvenh.; Kultaneid. t.).</p>
+            <p>
+                <hi rend="italics">Jehrimä Karjalaińi.</hi>
+            </p>
+            <p>Laulanut Genetzille (II, 40—44, 46).</p>
+            <p>266 (87) Vell. n. o. (Sampoj.) — 873 Hiiden h. h. — 643 (804) Laivar. ja Kant. s. (Lemm. v.) — 416 Vipusessa k. — 805 Lemm. v. — 310 Väin. polvenh.</p>
+            <p>
+                <hi rend="italics">Jyrkińi Iivana.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 82—86, kons. v. 2, s. 82), Genetzille (II, 52) ja Krohnille (71—75, 77—8, 86).</p>
+            <p>372 Tuonelassa k. — 691 Väin. tuomio — 415 (373) Vipusessa k. (Tuonelassa k.) — 88 Sampoj. — 267 (807) Vell. n. o. (Lemm. v.) 88 a) Sampoj. — 808 Lemm. v. — 896 Ison här. r. — 88 b) Sampoj. — 808 a) Lemm. v. — 312 Väin. polvenh. — 932 Kalev. p. k. — 875 Hiiden h. h. — 495 Kilpakos.</p>
+            <p>
+                <hi rend="italics">Jyrkińi Jeremie („Kuotkuon Jeremie“).</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 118—119).</p>
+            <p>92 (343) (375) (419) Sampoj. (Venep. ets.; Tuonelassa k.; Vipusessa k.) — 93 (493) Sampoj. (Kilpakos.).</p>
+            <p>
+                <hi rend="italics">Tanila Kielöväińi.</hi>
+            </p>
+            <p>Laulanut Genetzille (II,  39).</p>
+            <p>86 (642) Sampoj. (Kant. s.).</p>
+            <p>
+                <hi rend="italics">Trohkimaińi Ontrei.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 61).</p>
+            <p>803 (85) (140) Lemm. v. (Sampoj.; Taivaan t.).</p>
+            <p>
+                <hi rend="italics">Malańie, Prokkosen Iivanan vaimo.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 120—123, III, 96, 110).</p>
+            <p>811, 811 a) Lemm. v. — 694 Väin. tuomio — 188 Kilpalaul. — 94 (270) (536) Sampoj. (Vell. n. o.; Kultaneid. t.) — 494 Kilpakos. 646 (271) Laivar. ja Kant. s. (Vell. n. o.).</p>
+            <p>Korpijärvi.</p>
+            <p>
+                <hi rend="italics">Markkeńi Huotari.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 110).</p>
+            <p>809 (90) (374) (418) Lemm. v. (Sampoj.; Tuonelassa k.; Vipusessa k.).</p>
+            <p>Lonkka.</p>
+            <p>
+                <hi rend="italics">Martiska Karjalaińi.</hi>
+            </p>
+            <p>Laulanut Lönnrotille (A II 5, 10, 13, 20—28, 33—34, 36 a), 39, 40, 50).</p>
+            <p>897 Ison här. r. — 142 Taivaan t. — 189 Kilpalaul. — 647 (96) Laivar. ja Kant. s. (Sampoj.) — 97 (648) Sampoj. (Laivar.) — 1002 Kuolon s. — 420 (313) Vipusessa k. (Väin. polvenh.) — 314 Väin. polvenh. — 695 Väin. tuomio. — 273 (497) Vell. n. o. (Kilpakos.) 813 Lemm. v. — 538 Kultaneid. t. — 696 Väin. t. — 421 Vipusessa k. — 814 Lemm. v. — 815 Lemm. v. — 695 a) Väin. tuomio.</p>
+            <p>
+                <hi rend="italics">Martiskaińi Maksima.</hi>
+            </p>
+            <p>Laulanut Genetzille (II, 47—50, pikak. v. s. 23) ja Krohnille (79).</p>
+            <p>649 (99) Laivar. ja Kant. s. (Sampoj.) — 317 Väin. polvenh. — 698 Väin. tuomio. — 100 (143) Sampoj. (Taivaan t.) — 274 Vell. n. o. — 191 Kilpalaul. — 817 Lemm. v. — 275 (818) Vell. n. o. (Lemm. v.).</p>
+            <p>Uhtuen runoalue.</p>
+            <p>Luomajärvi.</p>
+            <p>
+                <hi rend="italics">Marttina.</hi>
+            </p>
+            <p>Laulanut Genetzille (I, 5—6, 8—9).</p>
+            <p>819 Lemm. v. — 983 Sisaren t. — 1008 Sekav. muod. — 422 (276) (650) Vipusessa k. (Vell. n. o.; Laivar.).</p>
+            <p>Alajärvi.</p>
+            <p>
+                <hi rend="italics">Vasselei.</hi>
+            </p>
+            <p>Laulanut Inhalle (13, 16, 18—18 c), 20, 73.</p>
+            <p>821 Lemm. v. — 102 (651) Sampoj. (Kant. s.) — 984 Sisaren t. — 822 Lemm. v. — 192 Kilpalaul. — 984 a) Sisaren t.</p>
+            <p>
+                <hi rend="italics">Toarie Kuismona.</hi>
+            </p>
+            <p>Laulanut Inhalle (22).</p>
+            <p>499 Kilpakos.</p>
+            <p>
+                <hi rend="italics">Tomna Joakon tytär.</hi>
+            </p>
+            <p>Laulanut Inhalle (23, 25—26).</p>
+            <p>500 Kilpakos. — 229 Ainor. — 564: Kojosen p. k.</p>
+            <p>
+                <hi rend="italics">Triifon Miihkali Jakovleff.</hi>
+            </p>
+            <p>Laulanut Varoselle (73).</p>
+            <p>101 Sampoj.</p>
+            <p>Enonsuu.</p>
+            <p>
+                <hi rend="italics">Sokea Out'i.</hi>
+            </p>
+            <p>Laulanut Genetzille (kons. a. Bor.<hi rend="bold"> </hi>III, k. 19).</p>
+            <p>232 Ainor. — 825 Lemm. v. — 987 Sisaren t.</p>
+            <p>Jyvöälaksi.</p>
+            <p>
+                <hi rend="italics">Hoto, Iron-Poavilan vaimo.</hi>
+            </p>
+            <p>Laulanut Bernerille (75—76) ja Karjalaiselle (19—20).</p>
+            <p>985 Sisaren t. — 231 Ainor. — 231 a) Ainor. — 985 a), (934) Sisaren t. (Kalev. p. k.).</p>
+            <p>
+                <hi rend="italics">Iivanan leski.</hi>
+            </p>
+            <p>Laulanut Genetzille (II, 20).</p>
+            <p>230 Ainor.</p>
+            <p>
+                <hi rend="italics">Toarie Petrovna Tsiigojeff.</hi>
+            </p>
+            <p>Laulanut Karjalaiselle (8—11).</p>
+            <p>653 Laivar. — 103 (194) (654) Sampoj. (Kilpalaul.; Kant. s.) — 823 Lemm. v. — 986 (933) Sisaren t. (Kalev. p. k.).</p>
+            <p>
+                <hi rend="italics">Stepanie Tsiigojeff.</hi>
+            </p>
+            <p>
+                <hi rend="i"/>Laulanut Karjalaiselle (6).</p>
+            <p>501 Kilpakos.</p>
+            <p>Kylänniemi.</p>
+            <p>
+                <hi rend="italics">Martta Remsujeff.</hi>
+            </p>
+            <p>Laulanut Inhalle (148) ja Karjalaiselle (32).</p>
+            <p>824, 824 a) Lemm. v.</p>
+            <p>Uhut.</p>
+            <p>
+                <hi rend="italics">Huotarińi Jouhko.</hi>
+            </p>
+            <p>Laulanut Sjögrenille (412, 433), Boreniukselle (I, 43—44:n vert., 46—46:n vert., II, 48—51) ja Genetzille (kons. a., Bor. III, k. 21).</p>
+            <p>935 Kalev. p. k. — 826 Lemm. v. — 544, 544 b) Kultaneid. t. — 117, (661) Sampoj. (Kant. s.) — 117 b), (661 a), 661 b), 117 c) Sampoj. — 935 a), 935 c) Kalev. p. k. — 118 Sampoj. — 826 a) Lemm. v. — 842 Lemm. v. — 990 Sisaren t. — 117 a) Sampoj. — 544 a) Kultaneid. t. — 935 b) Kalev. p. k. — 661 c) Kant. s.</p>
+            <p>
+                <hi rend="italics">Matro.</hi>
+                <anchor xml:id="_Ref448659319"/>#1</p>
+            <p>Laulanut Lönnrotille (A II 5, 69, 73).</p>
+            <p>104 Sampoj. — 105 (655) Sampoj. (Kant. s.).</p>
+            <p>
+                <hi rend="italics">Hilippäisen Arhipan isä tai setä.</hi>#1</p>
+            <p>Laulanut Lönnrotille (A II 5, 86).</p>
+            <p>106 (656) Sampoj. (Kant. s.).</p>
+            <p>
+                <hi rend="italics">Teppisen Larin isä.</hi>#1</p>
+            <p>Laulanut Lönnrotille (A II 6, 2—6).</p>
+            <p>107 Sampoj. — 319 Väin. polvenh. — 376 Tuonelassa k. — 906 (657) (878) Ahdin ja Kyllik. r. (Laivar. ja Kant. s.; Hiiden h. h.) — 278 Vell. n. o.</p>
+            <p>
+                <hi rend="italics">Varahvontta Sirkeińi l. Jamala.</hi>
+            </p>
+            <p>Laulanut Lönnrotille (A II 9, 36—41, 43, 47—48, 50—51, 55).</p>
+            <p>658 (109) (540) Laivar. ja Kant. s. (Sammon r.; Kultaneid. t.) — 321 (110) Väin. polvenh. (Sampoj.) — 195 Kilpalaul. — 377 Tuonelassa k. — 834 Lemm. v. — 659 (345) Laivar. (Venep. ets.) — 111 Sampoj. — 899 Ison här. r. — 879 Hiiden h. h. — 699 Väin. tuomio. — 940 Kalev. p. k. — 541 Kultaneid. t.</p>
+            <p>
+                <hi rend="italics">Teppińi Lari.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (I, 47—49, II, 38—40).</p>
+            <p>119 Sampoj. — 325 Väin. polvenh. — 279 Vell. n. o. — 907 (663) (881) Ahdin ja Kyllikin r. (Laivar.; Hiiden h. h.) — 841 Lemm. v. — 664 (423) Laivar. ja Kant. s. (Vipusessa k.)</p>
+            <p>
+                <hi rend="italics">Natalie, Rot'elan Soavan vaimo.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (I, 51—52:n vert., II, 53, kons. v. 2, s. 49, m, 131.)</p>
+            <p>120 (662) Sampoj. (Kant. s.) — 943, 943 a) Kalev. p. k. — 240 Ainor. — 844 Lemm. v. — 943 b) Kalev. p. k.</p>
+            <p>
+                <hi rend="italics">Jyvöälahden vaimo.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (I, 54, 56—57).</p>
+            <p>507 (988) Kilpakos. (Sisaren t.) — 237 Ainor. — 569 (839) Kojosen p. k. (Lemm. v.).</p>
+            <p>
+                <hi rend="italics">Hilippäińi Arhippa, Ohvokaisia.</hi>
+            </p>
+            <p>Laulanut Bernerille (79—83, 86—89) ja Boreniukselle (II, 57—58).</p>
+            <p>122 (666) Sampoj. (Laivar. ja Kant. s.) — 198 Kilpalaul. — 945 (901) Kalev. p. k. (Ison här. r.) — 840 Lemm. v. — 238 Ainor. — 379 (424) Tuonelassa k. (Vipusessa k.) — 326 Väin. polvenh. — 667 (546) Laivar. ja Kant. s. (Kultaneid. t.) — 508 (547) Kilpakos. (Kultaneid. t.) — 570 Kojosen p.<hi rend="bold"> </hi>k.<hi rend="bold"> — </hi>571 Kojosen p. k.</p>
+            <p>
+                <hi rend="italics">Vaśśilei Häńńińi.</hi>
+            </p>
+            <p>Laulanut Genetzille (II, 22, 24—25) ja Boreniukselle (kons. v. 2, 45 muist.).</p>
+            <p>989 Sisaren t. — 946 Kalev. p. k. — 121 (665) Sampoj. (Kant. s.) — 327 Väin. polvenh. — 843 Lemm. v.</p>
+            <p>
+                <hi rend="italics">Kormilaińi T'ero.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 62).</p>
+            <p>123 (668) Sampoj. (Laivar. ja Kant. s.).</p>
+            <p>
+                <hi rend="italics">Iro Ohvokaińi.</hi>
+            </p>
+            <p>Laulanut Bernerille (71, 73).</p>
+            <p>944 Kalev. p. k. — 545 Kultaneid. t.</p>
+            <p>
+                <hi rend="italics">Okahvie, Iivanan vaimo.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 44).</p>
+            <p>239 Ainor.</p>
+            <p>
+                <hi rend="italics">Oppo, Ort'on vaimo.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 54).</p>
+            <p>509 (199) Kilpakos. (Kilpalaul.).</p>
+            <p>
+                <hi rend="italics">Teppanaisen Jouhkon Ol'eksei.</hi>
+            </p>
+            <p>Laulanut Genetzille (II, 29).</p>
+            <p>947 Kalev. p. k.</p>
+            <p>
+                <hi rend="italics">Petrińi Iivana.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 59).</p>
+            <p>1009 Sekav. muod.</p>
+            <p>
+                <hi rend="italics">Varahvonttańi Triihvo Sirkeińi l. Jamańi.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (IV, 9—11).</p>
+            <p>200 Kilpalaul. — 845 Lemm. v. — 328 Väin. polvenh.</p>
+            <p>
+                <hi rend="italics">Paraskeva Ohvanaińi.</hi>
+            </p>
+            <p>Laulanut Varoselle (74).</p>
+            <p>241 Ainor.</p>
+            <p>
+                <hi rend="italics">Ilja Uulajeff.</hi>
+            </p>
+            <p>Laulanut Meriläiselle (2349 a), 2360).</p>
+            <p>846 Lemm. v. — 124 Sampoj.</p>
+            <p>
+                <hi rend="italics">Matro Ivanovna.</hi>
+            </p>
+            <p>Laulanut Meriläiselle (2367).</p>
+            <p>572 Kojosen p. k.</p>
+            <p>
+                <hi rend="italics">Voassilaińi Kostja.</hi>
+            </p>
+            <p>Laulanut Inhalle (155).</p>
+            <p>425 Vipusessa k.</p>
+            <p>
+                <hi rend="italics">Varahvonttańi Poavila Sirkeińi l. Jamańi.</hi>
+            </p>
+            <p>Laulanut Karjalaiselle (82—85).</p>
+            <p>329 (125) Väin. polvenh. (Sampoj.) — 669 (380) (548) Laivar. ja Kant. s. (Tuonelassa k.; Kultaneid. t.) — 847 Lemm. v. — 201 Kilpalaul.</p>
+            <p>Uhut:</p>
+            <p>#1 Tieto epävarma.</p>
+            <p>Tsiksa.</p>
+            <p>
+                <hi rend="italics">Pölyńi Sampsa.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (kons. v. k. 2, s. 52).</p>
+            <p>949 Kalev. p. k.</p>
+            <p>
+                <hi rend="italics">Tanila Ontronen.</hi>
+            </p>
+            <p>Laulanut Meriläiselle (2133).</p>
+            <p>950 Kalev. p. k.</p>
+            <p>Luusalmi.</p>
+            <p>
+                <hi rend="italics">Hokki Kondratan poika Vasiljeff.</hi>
+            </p>
+            <p>Laulanut Bernerille (45).</p>
+            <p>127 (202) Sampoj. (Kilpalaul.).</p>
+            <p>Nurmilaksi.</p>
+            <p>
+                <hi rend="italics">Matti Kettuńi.</hi>
+            </p>
+            <p>Laulanut Genetzille (II, 31—33).</p>
+            <p>203 Kilpalaul. — 549 Kultaneid. t. — 991 Sisaren t.</p>
+            <p>Pohjoinen raja-alue.</p>
+            <p>Ohta.</p>
+            <p>
+                <hi rend="italics">Miikula Kiriloff.</hi>
+            </p>
+            <p>Laulanut Inhalle (146).</p>
+            <p>849 (426) Lemm. v. (Vipusessa k.).</p>
+            <p>Häme.</p>
+            <p>
+                <hi rend="italics">Jarassimaińi Ohvo.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 81).</p>
+            <p>951 Kalevan p. k.</p>
+            <p>Koljola.</p>
+            <p>
+                <hi rend="italics">Martiskaińi Teppana.</hi>
+            </p>
+            <p>Laulanut Bernerille (53) ja Inhalle (255 (= 153), 256 (= 151), 257 (= 152), 264 (= 154), 286 (= 150), 287).</p>
+            <p>670 (131) (280) (427) Laivar. ja Kant. s. (Sampoj.; Vell. n. o.; Vipusessa k.) — 280 a) (131a)) (512) Vell. n. o. (Sampoj.; Kilpakos.) — 1007 Kuolon s. — 850 Lemm. v. — 670 a) (132) (330) (427 a) Laivar. ja Kant. s. (Sampoj.; Väin. polvenh.; Vipusessa k.) — 882 Hiiden h. h. — 904 Ison härän r.</p>
+            <p>
+                <hi rend="italics">Ol'eksei.</hi>
+            </p>
+            <p>Laulanut Inhalle (130, 276, 278, 280).</p>
+            <p>428 Vipusessa k. — 331 Väin. polvenh. — 206 Kilpalaul.903 Ison här. r.</p>
+            <p>
+                <hi rend="italics">Sigli, Kielöväisiä.</hi>
+            </p>
+            <p>Laulanut Inhalle (284).</p>
+            <p>853) 133) Lemm. v. (Sampoj.).</p>
+            <p>
+                <hi rend="italics">Simanaińi Sohvonja.</hi>
+            </p>
+            <p>Laulanut Inhalle (258—60, 270—273, 281—283, 288).</p>
+            <p>1010—13 Sekav. muod. — 1014 (381) (429) Sekav. muod. (Tuonelassa k.; Vipusessa k.) — 851 (430) Lemm. v. (Vipusessa k.) — 1015 Sekav. muod. — 1016 (852) Sekav. muod. (Lemm. v.) — 332 (346) Väin. polvenh. (Venep. ets.) — 431 Vipusessa k. — 671 Laivar. ja Kant. s. — 1017 Sekav. muod. — 1018 (347) Sekav. muod. (Venep. ets.).</p>
+            <p>Tuhkala.</p>
+            <p>
+                <hi rend="italics">Samppa Riiko.</hi>
+            </p>
+            <p>Laulanut Meriläiselle (539).</p>
+            <p>432 Vipusessa k.</p>
+            <p>Akkala.</p>
+            <p>
+                <hi rend="italics">Jeremein Hotatta.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (kons. v. 2, s. 78).</p>
+            <p>134 Sampoj. — 207 Kilpalaul.</p>
+            <p>Kananaisten kylä.</p>
+            <p>
+                <hi rend="italics">Taaria Ponajeff.</hi>
+            </p>
+            <p>Laulanut Meriläiselle (2350).</p>
+            <p>348 Venep. ets.</p>
+            <p>Valasjoki.</p>
+            <p>
+                <hi rend="italics">Hilippäińi Poavila.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (I, 39).</p>
+            <p>854 (333) Lemm. v. (Väin. polvenh.).</p>
+            <p>Kokkosalmi.</p>
+            <p>
+                <hi rend="italics">Moissee Lesońi.</hi>
+            </p>
+            <p>Laulanut Meriläiselle (2116).</p>
+            <p>952 Kalev. p. k.</p>
+            <p>Kiestinki.</p>
+            <p>
+                <hi rend="italics">Moarie Timon tytär Ivanoff.</hi>
+            </p>
+            <p>Laulanut Karjalaiselle (81).</p>
+            <p>513 (550) Kilpakos. (Kultaneid. t).</p>
+            <p>Koillinen raja-alue.</p>
+            <p>Haikola.</p>
+            <p>
+                <hi rend="italics">Moarie, Karpan vaimo.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 65).</p>
+            <p>855 Lemm. v.</p>
+            <p>
+                <hi rend="italics">Vaśke, Kalaškaisia.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 66—67).</p>
+            <p>672 Laivar. ja Kant. s. — 334 Väin. polvenh.</p>
+            <p>Kurki.</p>
+            <p>
+                <hi rend="italics">Marttinan Maksima.</hi>
+            </p>
+            <p>Laulanut Bernerille (50).</p>
+            <p>856 (905) Lemm. v. (Ison här. r.).</p>
+            <p>
+                <hi rend="italics">Miikkula Juakkońi.</hi>
+            </p>
+            <p>Laulanut Genetzille (kons. v., siv. 53).</p>
+            <p>857 Lemm. v.</p>
+            <p>Sompajärvi.</p>
+            <p>
+                <hi rend="italics">Apikka ja Okko</hi>
+            </p>
+            <p>Laulaneet Boreniukselle (II, 55).</p>
+            <p>953 Kalev. p. k.</p>
+            <p>
+                <hi rend="italics">Arhippaińi Iivana.</hi>
+            </p>
+            <p>Laulanut Boreniukselle (II, 73).</p>
+            <p>135 Väin. ammunta.</p>
+        </div></body>
+    </text>
+</TEI>

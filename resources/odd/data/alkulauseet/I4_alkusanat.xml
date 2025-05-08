@@ -1,0 +1,863 @@
+<?teipublisher template="alkulauseet.html" odd="teipublisher.odd" view="single"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>I4: alkusanat</title>
+                <author>A. R. Niemi</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                <pubPlace>Helsinki</pubPlace>
+                <date>2024</date>
+                <availability>
+                    <p>Tekijänoikeudet: Suomalaisen Kirjallisuuden Seura</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Suoman kansan vanhat runot I. Vienan Läänin Runot. 4. Loitsuja. Toisinnot 1−822.</title>
+                    <author>A. R. Niemi (toimittaja)</author>
+                    <pubPlace>Helsinki</pubPlace>
+                    <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+                    <date>1919</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div>
+            <p>SUOMEN KANSAN VANHAT RUNOT I.</p>
+            <p>VIENAN LÄÄNIN RUNOT.</p>
+            <p>4.</p>
+            <p>LOITSUJA.</p>
+            <p>TOISINNOT 1—822.</p>
+            <p>JULKAISSUT</p>
+            <p>A. R. NIEMI.</p>
+            <p>HELSINKI 1919,</p>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURA.</p>
+            <p/>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURA ON TOIMITUSTYÖTÄ VARTEN SAANUT AVUSTUSTA KAUPPANEUVOS OTTO A. MALMIN LAHJOITUSRAHASTOSTA.</p>
+            <p>HELSINKI 1919,</p>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURAN KIRJAPAINO OY.</p>
+            <p>Paperi on TERVAKOSKEN paperitehtaasta.</p>
+            <p/>
+            <p>Sisällysluettelo.</p>
+            <table type="contents">
+                <row rend="heading"><cell>
+                    <hi rend="bold">I. Tietäjä. Haltiat. Kateet.</hi>
+                </cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Tietäjän valmistus n:t 1—9</cell><cell>1—3.</cell></row>
+                <row><cell>Luonnon nostatus n:t 10—17</cell><cell>3—5.</cell></row>
+                <row><cell>Haltiat n:t 18—40</cell><cell>6—12.</cell></row>
+                <row><cell>Kateita vastaan n:t 41—48</cell><cell>12—15.</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">II. Loukkaantumat ja viottumat.</hi>
+                </cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Kiven loukkaama n:t 49—59</cell><cell>16—18.</cell></row>
+                <row><cell>Pakkasen vika. A. Pakkasen nosto n. 60</cell><cell>18.</cell></row>
+                <row><cell>B. Paleltuneen viat ja pakkasen lumous n:t 61—85</cell><cell>18—30.</cell></row>
+                <row><cell>Puun loukkaama n:t 86—117</cell><cell>30—40.</cell></row>
+                <row><cell>Raudan lumous ja nosto n:t 118—122</cell><cell>40—41.</cell></row>
+                <row><cell>Raudan jälki ja veren sulku n:t 123—230</cell><cell>41—99.</cell></row>
+                <row><cell>Tulen synty n:t 231—339 α</cell><cell>99—203.</cell></row>
+                <row><cell>Siikasen sanat n:t 340—345</cell><cell>203—204.</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">III. Pistämät ja puremat.</hi>
+                </cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Ampiaisen sanat. A. Ampiaisen nosto n. 346</cell><cell>205.</cell></row>
+                <row><cell>B. Ampiaisen lumous n:t 347—353</cell><cell>205—207.</cell></row>
+                <row><cell>Hämähäkin jälki n:t 354—361</cell><cell>207—210.</cell></row>
+                <row><cell>Ihmisen loukkaama n. 362</cell><cell>210.</cell></row>
+                <row><cell>Karhun loukkaama n. 363</cell><cell>210.</cell></row>
+                <row><cell>Koiran purema n:t 364—365</cell><cell>210—211.</cell></row>
+                <row><cell>Käärmeen pidätys ja lumous n:t 366—371</cell><cell>211.</cell></row>
+                <row><cell>Käärmeen sanat n:t 372—449</cell><cell>211—251.</cell></row>
+                <row><cell>Sammakon jälki n:t 450—453</cell><cell>252—253.</cell></row>
+                <row><cell>Sisiliskon vihat n:t 454—466</cell><cell>253—257.</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">IV. Taudit.</hi>
+                </cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Tietäjän avuksipyyntösanoja parantamaan lähtiessä n:t 467—492</cell><cell>258—269.</cell></row>
+                <row><cell>Taudin alkuperän tiedustelua, manaus- ja kyydityssanoja n:t 493—539</cell><cell>269—293.</cell></row>
+                <row><cell>Arvalla ennustaminen n:t 540—545</cell><cell>293—297.</cell></row>
+                <row><cell>Kylvetyssanoja n:t 546—553</cell><cell>297—301.</cell></row>
+                <row><cell>Pesuvettä ottaissa ja sairasta pestessä n:t 554—556</cell><cell>301—302.</cell></row>
+                <row><cell>Voidetta tehdessä n. 557</cell><cell>302.</cell></row>
+                <row><cell>Voidellessa (Mehiläisen sanat) n. 508—561 a)</cell><cell>302—303.</cell></row>
+                <row><cell>Taudin nosto n. 562</cell><cell>303—304.</cell></row>
+                <row><cell>Ajos (ks. Paisetta) n:t 563—568</cell><cell>304—306.</cell></row>
+                <row><cell>Hammastauti. A. Hammasmadon nosto n. 569</cell><cell>306.</cell></row>
+                <row><cell>B. Hammastaudin parantaminen n:t 570—594</cell><cell>306—318.</cell></row>
+                <row><cell>Hevoskalma n:o 595</cell><cell>319.</cell></row>
+                <row><cell>Ilmasta tullut tulemus n. 596</cell><cell>319.</cell></row>
+                <row><cell>Jää (kaihi) n. 597</cell><cell>319.</cell></row>
+                <row><cell>Kalma. A. Kalman syöttäjälle kostetaan n. 598</cell><cell>320.</cell></row>
+                <row><cell>B. Kalmasta päästetään n. 599—612</cell><cell>320—329.</cell></row>
+                <row><cell>Kasvajaiset n:t 613—616</cell><cell>329—330.</cell></row>
+                <row><cell>Kipeätä parantaessa n:t 617—618</cell><cell>330.</cell></row>
+                <row><cell>Kirot. A. Kiroista varjellaan n. 619</cell><cell>330.</cell></row>
+                <row><cell>B. Kiroista päästetään n:t 620—639</cell><cell>331—341.</cell></row>
+                <row><cell>Kirvestäjä n:t 640—641</cell><cell>341.</cell></row>
+                <row><cell>Kitumasta päästetään n. 642</cell><cell>342.</cell></row>
+                <row><cell>Kivistys l. kolotustauti n. 643</cell><cell>342.</cell></row>
+                <row><cell>Kohelma n:t 644—647</cell><cell>342—343.</cell></row>
+                <row><cell>Koi n:t 648—649</cell><cell>343—344.</cell></row>
+                <row><cell>Kouristustauti n:t 650—651</cell><cell>344—345.</cell></row>
+                <row><cell>Kulkutauti n. 652</cell><cell>345.</cell></row>
+                <row><cell>Kurkkutauti n:t 653—655</cell><cell>345—346.</cell></row>
+                <row><cell>Kuukautiset n. 656</cell><cell>346.</cell></row>
+                <row><cell>Lapsen-itkettäjä n:t 657—666</cell><cell>346—348.</cell></row>
+                <row><cell>Lapsen kivuissa n:t 667—673</cell><cell>349—352.</cell></row>
+                <row><cell>Lapsen ruohtumat n. 674</cell><cell>352.</cell></row>
+                <row><cell>Lapsen suuteet n:t 675—683</cell><cell>352—355.</cell></row>
+                <row><cell>Lapsen uni ja unettomuus n:t 684—692</cell><cell>355—357.</cell></row>
+                <row><cell>Lapselle virtsanvuoto u. 693</cell><cell>357.</cell></row>
+                <row><cell>Luunkolottaja n. 694</cell><cell>357.</cell></row>
+                <row><cell>Löylyn lumous (Äkien synty) n:t 695—722</cell><cell>358—367.</cell></row>
+                <row><cell>Maahinen n :t 723—733</cell><cell>367—370.</cell></row>
+                <row><cell>Maidon katoaminen n. 734</cell><cell>370.</cell></row>
+                <row><cell>Metsännenä n:t 735—704</cell><cell>371—382.</cell></row>
+                <row><cell>Mielenvika. A. Mielenvikaiseksi pilataan n. 755</cell><cell>382.</cell></row>
+                <row><cell>B. Mielenvikaisen parannus n. 756—759</cell><cell>382—383.</cell></row>
+                <row><cell>Nikka n:t 760—762</cell><cell>383—384.</cell></row>
+                <row><cell>Niukahdus (venymä) n:t 763—777</cell><cell>384—388.</cell></row>
+                <row><cell>Näärännäppy n. 778</cell><cell>388.</cell></row>
+                <row><cell>Painajainen. A. Painajainen nostetaan toisen päälle n. 779</cell><cell>388.</cell></row>
+                <row><cell>B. Painajainen ajetaan pois n:t 780—783</cell><cell>389—390.</cell></row>
+                <row><cell>Paise (ks. Ajosta). A. Paiseet yllytetään n. 784</cell><cell>390.</cell></row>
+                <row><cell>B. Paiseitten parantaminen n:t 785—795</cell><cell>390—393.</cell></row>
+                <row><cell>Pieksijätauti n. 796</cell><cell>393.</cell></row>
+                <row><cell>Pistos n:t 797—822</cell><cell>394—416.</cell></row>
+            </table>
+            <p>Liitteenä näytteitä J. F. Cajanin, M. A. Castrénin, A. A. Boreniuksen, A. Genetzin ja E. Bernerin käsialoista.</p>
+            <p/>
+            
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURAN</p>
+            <p>
+                <hi rend="bold">TOIMITUKSIA.</hi>
+            </p>
+            <p>121 OSA.</p>
+            <p>IV2.</p>
+            <p>SUOMEN KANSAN VANHAT RUNOT I.</p>
+            <p>VIENAN LÄÄNIN RUNOT.</p>
+            <p>4.</p>
+            <p>
+                <hi rend="bold">LOITSUJA; TOISINNOT 822 α—2132.</hi>
+            </p>
+            <p>
+                <hi rend="bold">LISIÄ: TOISINNOT 2133—2543.</hi>
+            </p>
+            <p>ELÄMÄKERRALLISIA TIETOJA RUNOJEN LAULAJISTA HAKEMISTOINEEN.</p>
+            <p>JULKAISSUT</p>
+            <p>A. R. NIEMI.</p>
+            <p>HELSINKI 1921,</p>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURA.</p>
+            <p/>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURA ON TOIMlTUSTYÖTÄ VARTEN SAANUT AVUSTUSTA KAUPPANEUVOS OTTO A. MALMIN LAHJOITURAHASTOSTA.</p>
+            <p>HELSINKI 1921,</p>
+            <p>SUOMALAISEN KIRJALLISUUDEN SEURAN KIRJAPAINON OY.</p>
+            <p>Paperi on TERVAKOSKEN paperitehtaasta.</p>
+            <p/>
+            <p>Alkulause.</p>
+            <p>Siitä kuin päätös Vienan läänin runojen julkaisemisesta tehtiin, on nyt kulunut vähän yli kahdenkymmenen vuoden. Kun nyt julkisuuteen laskettava nidos on järjestyksessä neljäs, on kunkin toimitukseen siis kulunut keskimäärin viisi vuotta. Syy tähän viipymiseen on pääasiassa ollut se, että julkaisija ei ole työhön voinut käyttää kuin murto-osan ajastansa. Jo v. 1908 ilmestyneen ensimäisen osan alkulauseessa valitti julkaisija, että ei virkatehtäviltään ollut voinut käyttää muuta kuin lomahetkensä työhön, ja samaa on sanottava myöhemmistäkin osista. Työn alkupuolella esti Suom. Kirj. Seuran sihteerintoimi julkaisijaa keskittämästä voimaansa yhteen työhön, jälkipuoliskolla taas kolmivuotinen ulkomainen tutkimusmatka sekä sen jälkeen kaikkea tieteellistä työtä häiritsevä suuri maailmansota. Ainoana lohdutuksena on ollut, että työ, joka pitemmän aikaa oli keskeytettynä, sen jälkeen kuin v. 1915 kansanrunojemme julkaisuun uudella vaudilla ryhdyttiin, tuli taas vireille ja edistyi, joskin hitaasti.</p>
+            <p>Julkaisusuunnitelmassa, josta lähemmin on tehty selvää ensimäisen osan alkulauseessa, ei ole työn kululla muutoksia tehty. Mitä runojen ryhmitykseen tulee, on seurattu aineiston vaatimaa järjestystä. Kertovaiset runot on jaettu Kalevalan-aineisiin ja muihin kertovaisiin runoihin ja noudatettu edellisiin nähden Kalevalan järjestystä, kuitenkin niin, että ne runot, joissa Väinämöinen ja Ilmarinen ovat pääsankareina, on painettu yhteen jaksoon teoksen ensimäiseen osaan, toiseen taas Lemminkäisen virsi ja Kalevanpojan kostoruno niiden ympärille ryhmittyvine runoineen. Muut kertovaiset runot ovat nimiensä mukaan aakkosjärjestyksessä. Lyyrilliset ja opettavaiset laulut on järjestetty aiheiden, loitsut tilojen mukaan, joissa niitä on käytetty. Jo aikaisemmin otettiin loitsuja varten valmistamani julkaisusuunnitelma yhdenmukaisuuden saavuttamiseksi käytäntöön „Hämeen kansan vanhoissa runoissa“.</p>
+            <p>Kun teokselle vahvistetun suunnitelman mukaan tilan säästämiseksi ja toistamisen välttämiseksi laulajista ja sanelijoista ei ole muuta kuin nimi mainittu, oli alusta alkaen tarkoitettu (ks. I, siv. IV—V), että heistä teoksen lopussa annetaan yhdessä paikassa lyhyitä elämäkerrallisia tietoja. Tällainen Vienan läänin runonlaulajat ja tietäjät käsittävä hakemisto on nyt toimitettu tämän osan loppuun. Paitsi elämäkerrallisia tietoja on kustakin laulajasta mainittu, keille kerääjille, mitä lajia ja mitkä numerot kukin on sanellut. Elämäkerralliset tiedot on koottu eri lähteistä, joista tärkeimmät ovat olleet: matkakertomuksissa ja kokoelmissa tavattavat kerääjäin muistoon merkitsemät lyhyet tiedonannot, A. A. Boreniuksen (Lähteenkorvan) muistoonpanot ja hänen laatimansa laulajain luettelo, jonka johdolla Vienan läänissä runonkeruussa käyneet stipendiaatit M. Varonen, K. Karjalainen ja I. Inha ovat keränneet tietoja, etupäässä laulajain iästa ja kuolinvuosista. Erinomaisen tärkeänä lähteena ovat toimittajalle sitäpaitsi olleet syntyperäisten vienankarjalaisten, herrojen I. Marttisen ja P. Lesosen, antamat elämäkerralliset tiodot, kotiseutunsa runonlaulajista. Heidän esityksensä on kuiviin vuosilukuihin luonut eloa ja väriä. Vielä painatuksen kululla oli toimittajalla onni saada teoksen hyväksi arvokkaita lisiä hra Marttiselta. Rakkaus kotiseutuun ja omaan heimoon on molempien kerääjäin askeleita ja kynää johtanut, he eivät ole työtänsä tehneet palkan ja kiitoksen toivossa eivätkä toimittajaltakaan semmoista odota, jota Lesońi ei sitäpaitsi enää olisi kuulemassakaan, hän kun jo vuosia sitten on muuttanut manan majoille.</p>
+            <p>Petteri Lesońi syntyi Kivijärvessä v. 1871, toimi nuorempana maakauppiaana Loimaalla, raivasi kotiseudulleen itselleen Ortonvaaran uudistalon, jota kesäisin hoiti. Lesosen harvinaisen herkkä mieli kaipasi kuitenkin jotakin korkeampaa ja niin hän v. 1895 haki ja pääsi oppilaaksi Sortavalan seminariin. Seminaarikurssin suoritettuansa toimi Lesońi ensin Impilahdella, jossa perusti perheen, mutta hänen hartain toiveensa oli päästä vaikuttamaan kotiseutunsa kansan keskuuten. Tämä hänelle viimein, noin v. 1906—08, onnistuikin, hän sai opettajanpaikan Uhtuella. Pitkäaikaiseksi ei kuitenkaan hänen toimitajansa täälla tullut, venäläiset kun sitä kaikin tavoin vaikeuttivat; valmiina oli jo matka Siperiaan, joten ei Lesosen muu auttanut kuin jättää koti kylmille. Kyyneleet silmissä hän naulasi syntymäkotinsa ikkunoihin laudat ja siirtyi Suomeen, opettajaksi Impilahden pitäjan Käsnäselän kylään. Parhaassa miehuuden iässa katkesi kuitenkin Lesosen elämänlanka. Suvussa ilmenevä keuhkotauti sai hänet ennen pitkää valtoihinsa ja vei maan poveen. Opettaja Lesońi oli uuttera kansanvalistuksen edistäjä kotiseudullaan sekä innokas raittiusmies ja jätti jälkeensä valoisan muiston. Olkoot mullat kepeät uskollisen työmiehen haudalla!</p>
+            <p>Niinkuin ensimäisen osan alkulauseessa (siv. V—VI) on mainittu, on vanhempien kerääjien kokoelmissa ani harvoin merkitty, mistä ja keneltä runot on saatu. Julkaisijan on tämän tähden itse täytynyt paikat määrätä niin hyvin kuin se matkakertomusten, sisällyksen, kielen, käsialan y. m. seikkojen avulla on ollut mahdollista. Tarkoitus oli viimeiseen osaan liittää esitys niistä syistä ja perusteista, jotka paikkain määräämisessä ovat ratkaisevia olleet, mutta aika ja tilaisuus eivät ole myöntäneet tällaiseen paljotöiseen tehtävään ryhtymistä; toiste paremmalla ajalla toivoo julkaisija sen voivansa suorittaa.</p>
+            <p>Luonnollisena seurauksena teoksen pitkästä ilmestymisajasta on ollut, että työn kululla on kerääntynyt melkoinen määrä lisiä, jotka eivät ole voineet saada sijaa painetuissa tai painettavina olevissa osissa. Kaikki myöhemmin kerätyt tai muuten syystä tai toisesta poisjääneet runot on koottu yhteen paikkaan tämän nidokson viimeiseen eli XII:nteen jaksoon, johon ne on aineenmukaisesti lajiteltu. Huomattavimmat uusista kokoelmista ovat opettaja Samuli Paulaharjun, tohtori Väinö Salmisen ja nimismies E. Kemppaisen keräämät, molemmat viimeksimainitut vuodelta 1918. Tohtori Salmisen kokoelman omistaa Kalevalaseura, joka sen suosiollisesti on julkaistavaksi jättänyt. Keräämiensä runojen korrehtuurinluvussa on tohtori Salminen allekirjoittanutta avustanut, josta täten lausun sulimmat kiitokseni.</p>
+            <p>Siinä toivossa, että esi-isien kallis runoperintö osaltansa voisi ylläpitää tulevaisuuden toivoa kovan kohtalon alaisessa Karjalan heimossa, lähtee tämä viimeinen osa Vienan läänin runoja julkisuuten.</p>
+            <p>Helsingissä lokakuulla 1921.</p>
+            <p>Julkaisija.</p>
+            <p/>
+            <p>Sisällysluettelo.</p>
+            <table type="contents">
+                <row rend="heading"><cell>
+                    <hi rend="bold">IV. Taudit.</hi> (Jatkoa.)</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Pistos n:t 822 α—883</cell><cell>417—478.</cell></row>
+                <row><cell>Päänkivistys n. 884</cell><cell>478.</cell></row>
+                <row><cell>Riisi n:t 885—916</cell><cell>479—496.</cell></row>
+                <row><cell>Riikkeet n:t 917—918</cell><cell>497—498.</cell></row>
+                <row><cell>Rupi (rokko) n:t 919—920</cell><cell>498.</cell></row>
+                <row><cell>Ruton synty n. 921</cell><cell>498.</cell></row>
+                <row><cell>Silmäkipeä n:t 922—932</cell><cell>499—502.</cell></row>
+                <row><cell>Silmäykset n:t 933—935</cell><cell>502—503.</cell></row>
+                <row><cell>Sydänkopra (ähky) n:t 936—940</cell><cell>503—505.</cell></row>
+                <row><cell>Synnytyskivuissa n:t 941—985</cell><cell>505—523.</cell></row>
+                <row><cell>Syyhy n:t 986—989</cell><cell>523—524.</cell></row>
+                <row><cell>Syylä n. 990</cell><cell>524.</cell></row>
+                <row><cell>Syöjä n:t 991—993</cell><cell>525—526.</cell></row>
+                <row><cell>Säikähdys ukonilmalla n. 994</cell><cell>526.</cell></row>
+                <row><cell>Tervan vioissa n:t 995—995 b</cell><cell>526—527.</cell></row>
+                <row><cell>Tulen lennin n. 996</cell><cell>527.</cell></row>
+                <row><cell>Tuuli (vilu) n:t 997—1006</cell><cell>527—529.</cell></row>
+                <row><cell>Umpi n:t 1007—1009</cell><cell>530.</cell></row>
+                <row><cell>Unettomuus n. 1010</cell><cell>530.</cell></row>
+                <row><cell>Vesi haavaan n. 1011</cell><cell>530.</cell></row>
+                <row><cell>Vesihiisi n:t 1012—1019</cell><cell>531—533.</cell></row>
+                <row><cell>Veden hinku n:t 1020—1060</cell><cell>533—546.</cell></row>
+                <row><cell>Vesikalma n:t 1061—1062</cell><cell>546—547.</cell></row>
+                <row><cell>Veden synty n:t 1063—1067</cell><cell>547.</cell></row>
+                <row><cell>Yskä (toppa) n:t 1068—1072</cell><cell>548.</cell></row>
+                <row><cell>Äkämä (ks. Paisetta) n:t 1073—1074</cell><cell>549.</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">V. Metsästys.</hi>
+                </cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Varauksia metsälle lähtiessä n:t 1075—1079</cell><cell>550—552.</cell></row>
+                <row><cell>Metsälle lähtiessä n:t 1080—1139</cell><cell>552—584.</cell></row>
+                <row><cell>Varaus metsältä tullessa n. 1140</cell><cell>584.</cell></row>
+                <row><cell>Metsämies pilataan n:t 1141—1143</cell><cell>584—585.</cell></row>
+                <row><cell>Metsästysonni pilataan n:t 1144—1146</cell><cell>.585.</cell></row>
+                <row><cell>Pyssyn varaus n:t 1147— 1149 a)</cell><cell>585—587.</cell></row>
+                <row><cell>Pyssyn lumouksessa n:t 1150—1158</cell><cell>587—590.</cell></row>
+                <row><cell>Metsämies pilataan, niin ettei osaa ampua n:t 1159—1162</cell><cell>590—591.</cell></row>
+                <row><cell>Koiran varaaminen n:t 1163—1166</cell><cell>591—592.</cell></row>
+                <row><cell>Koiran pilaaminen n:t 1167—1168</cell><cell>592.</cell></row>
+                <row><cell>Koiran päästösanat n:t 1169—1176</cell><cell>592—594.</cell></row>
+                <row><cell>Ansoja punoessa n. 1177</cell><cell>594.</cell></row>
+                <row><cell>Ansanpanoon lähtiessä n. 1178</cell><cell>594.</cell></row>
+                <row><cell>Metsän elävää nylkiessä n. 1179</cell><cell>594.</cell></row>
+                <row><cell>Toispuolehinen metsällä n. 1180</cell><cell>595.</cell></row>
+                <row><cell>Jänikisen pyytö n:t 1181—1188</cell><cell>595—597.</cell></row>
+                <row><cell>Karhun metsästys n. 1189</cell><cell>597.</cell></row>
+                <row><cell>Karhuntappuun lähtiessä n:t 1190—1199</cell><cell>597—601.</cell></row>
+                <row><cell>Pesällä ja pesältä lähtiessä n:t 1200—1217</cell><cell>601—609.</cell></row>
+                <row><cell>Kotiin tullessa ja kotona n:t 1218—1267</cell><cell>609—643.</cell></row>
+                <row><cell>Ketun pyynti n:t 1268—1269</cell><cell>644.</cell></row>
+                <row><cell>Linnun pyytö n:t 1270—1284</cell><cell>644—648.</cell></row>
+                <row><cell>Näätää pyytäissä n. 1285</cell><cell>648.</cell></row>
+                <row><cell>Oravan runo n:t 1286—1293</cell><cell>648—650.</cell></row>
+                <row><cell>Peuroja metsästäessä n. 1294</cell><cell>650.</cell></row>
+                <row><cell>Saukon sanat n. 1295</cell><cell>650.</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">VI. Kalastus.</hi>
+                </cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Kateita vastaan (ensi kerran kalalla oltaessa) n. 1296</cell><cell>651.</cell></row>
+                <row><cell>Kalaonnea ei voida silmätä n. 1297</cell><cell>651.</cell></row>
+                <row><cell>Kalaonni paranee n. 1298</cell><cell>651.</cell></row>
+                <row><cell>Pyhä Petri, kalojen suojelija n. 1299</cell><cell>651.</cell></row>
+                <row><cell>Kalamiehen sanoja n:t 1300—1302</cell><cell>652.</cell></row>
+                <row><cell>Kaloja puhkoessa n. 1303</cell><cell>652.</cell></row>
+                <row><cell>Keittovalkeata tehdessä n. 1304</cell><cell>652.</cell></row>
+                <row><cell>Kattilan kiehuessa n:t 1305—1306 a)</cell><cell>652—653.</cell></row>
+                <row><cell>Kaloja syötäessä n. 1307</cell><cell>653.</cell></row>
+                <row><cell>Kalavesi pilataan ja päästetään pilauksesta n:t 1308—1313</cell><cell>653—654.</cell></row>
+                <row><cell>Veden haltia menee toiseen järveen n. 1314</cell><cell>654.</cell></row>
+                <row><cell>Onkimiehen sanoja n:t 1315—1323</cell><cell>654—605.</cell></row>
+                <row><cell>Verkkoja laskiessa n:t 1324—1330</cell><cell>656—657.</cell></row>
+                <row><cell>Verkot pilataan ja päästetään pilauksista n:t 1331—1332</cell><cell>657.</cell></row>
+                <row><cell>Ensi kerran nuotalle lähtiessä n:t 1333—1335</cell><cell>657—658.</cell></row>
+                <row><cell>Nuottaa vetämään lähtiessä n:t 1336—1337</cell><cell>658—659.</cell></row>
+                <row><cell>Nuottaa laskettaessa n:t 1338—1341</cell><cell>659—660.</cell></row>
+                <row><cell>Nuotta tulee hyväonniseksi n. 1342</cell><cell>660.</cell></row>
+                <row><cell>Hyvä kalaonni nuotalla n. 1343</cell><cell>660.</cell></row>
+                <row><cell>Nuotta-onni paranee n. 1344</cell><cell>661.</cell></row>
+                <row><cell>Taika suurta kalaa saadessa n. 1345</cell><cell>661.</cell></row>
+                <row><cell>Korpin lennosta ennustetaan saalista n. 1346</cell><cell>661.</cell></row>
+                <row><cell>Kadetta vastaan nuotalla ollessa n. 1347</cell><cell>661.</cell></row>
+                <row><cell>Pilatun nuotan parantaminen n:t 1348—1351</cell><cell>661—662.</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">VII. Karjanhoito.</hi>
+                </cell><cell/></row>
+                <row rend="heading"><cell>NAUTAKARJANHOITO.</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Lehmiä keväällä laitumelle laskiessa n:t 1352—1446</cell><cell>663—723.</cell></row>
+                <row><cell>Laitumella ei tule vahinkoa n:t 1447—1451</cell><cell>723—724.</cell></row>
+                <row><cell>Lehmät tulevat laitumelta hyvin kotiin n:t 1452—1456</cell><cell>724—725.</cell></row>
+                <row><cell>Lehmien kotiintullessa laitumelta n:t 1457—1459</cell><cell>725—726.</cell></row>
+                <row><cell>Päivänmakaajaksi pilatun lehmän parantaminen n. 1460</cell><cell>726.</cell></row>
+                <row><cell>Metsän peitosta päästetään n:t 1461—1475</cell><cell>726—731.</cell></row>
+                <row><cell>Jos haukka tai kotka iskee elukkaan n. 1476</cell><cell>731.</cell></row>
+                <row><cell>Karhun nostosanat n:t 1477—1479</cell><cell>731—732.</cell></row>
+                <row><cell>Karhun jäljen parantaminen n:t 1480—1490</cell><cell>732—735.</cell></row>
+                <row><cell>Karhu ei koske lehmiä n. 1491</cell><cell>735—736.</cell></row>
+                <row><cell>Karhu ei tule karjanlaitumelle n:t 1492—1494</cell><cell>736—737.</cell></row>
+                <row><cell>Karhu manataan pois karjasta n. 1495</cell><cell>737.</cell></row>
+                <row><cell>Karhu pannaan kulkemaan n:t 1496—1499</cell><cell>737—738.</cell></row>
+                <row><cell>Susi pannaan kulkemaan n:t 1500—1502</cell><cell>738—739.</cell></row>
+                <row><cell>Lypsäessä n:t 1503—1505</cell><cell>739—740.</cell></row>
+                <row><cell>Lehmät hyvin lypsävät n:t 1506 —1507</cell><cell>740.</cell></row>
+                <row><cell>Maito-onni ei pilaannu n:t 1508—1509</cell><cell>740—741.</cell></row>
+                <row><cell>Lehmän vakaaksi teko n:t 1510—1514</cell><cell>741.</cell></row>
+                <row><cell>Utarien pöhötyksessä n. 1515</cell><cell>741.</cell></row>
+                <row><cell>Verta lypsävän lehmän parantaminen n:t 1516—1518</cell><cell>742.</cell></row>
+                <row><cell>Kun lehmältä maito katoaa (joko ehtyy tai pilataan) n:t 1519—1538</cell><cell>742—751.</cell></row>
+                <row><cell>Lehman poijinta n:t 1539—1551</cell><cell>751—755.</cell></row>
+                <row><cell>Vasikka elää ja menestyy n:t 1552—1555</cell><cell>755—756.</cell></row>
+                <row><cell>Maho lehmä saadaan lypsäväksi n. 1556</cell><cell>756.</cell></row>
+                <row><cell>Karja saadaan menestymään uudessa paikassa n. 1557</cell><cell>756.</cell></row>
+                <row><cell>Lehmää matkautettaissa n:t 1558—1570</cell><cell>756—759.</cell></row>
+                <row><cell>Ostettu lehmä ei kaipaa entistä kotiansa n:t 1571—1572</cell><cell>759.</cell></row>
+                <row><cell>Muualta tuotu lehmä pysytetään kotona n:t 1573—1576</cell><cell>759—760.</cell></row>
+                <row><cell>Ostettu lehmä menestyy uudessa kodissa n:t n:t 1577—1591</cell><cell>760—764.</cell></row>
+                <row><cell>Kirnu pilataan ja pilaus torjutaan n:t 1592—1594</cell><cell>765.</cell></row>
+                <row><cell>Jos piimä venyy n. 1595</cell><cell>765.</cell></row>
+                <row><cell>Paran synnytys n. 1596</cell><cell>765.</cell></row>
+                <row><cell>Voita pieksettäessä n:t 1597—1598</cell><cell>766.</cell></row>
+                <row><cell>Voi-onni ei mene myödessä n. 1599</cell><cell>766.</cell></row>
+                <row><cell>Navettaanpano syksyllä n:t 1600—1613</cell><cell>766—770.</cell></row>
+                <row><cell>Navetta hyväonniseksi n:t 1614—1616</cell><cell>770—771.</cell></row>
+                <row><cell>Uusi navetta n:t 1617—1618</cell><cell>771—772.</cell></row>
+                <row><cell>Kärpäset eivät sikiä navettaan n:t 1619—1621</cell><cell>772.</cell></row>
+                <row><cell>Ammuksista pääsee n:t 1622—1625</cell><cell>772—774.</cell></row>
+                <row><cell>Kasvajaiset karkoitetaan elukasta n. 1626</cell><cell>774.</cell></row>
+                <row><cell>Kitumaan noidutun lehmän parantaminen n. 1627</cell><cell>774.</cell></row>
+                <row><cell>Läävämadon (talvikon) jäljen parantaminen n:t 1628—1664</cell><cell>774—787.</cell></row>
+                <row><cell>Pahasilmäisen kateista päästetään elukka n. 1665</cell><cell>787.</cell></row>
+                <row><cell>Painajainen ajetaan lehmästä n:t 1666—1669</cell><cell>787—788.</cell></row>
+                <row><cell>Syömättömäksi silmätyn elukan parantaminen n. 1670</cell><cell>788.</cell></row>
+                <row><cell>Tuulen painama elukka parannetaan n. 1671</cell><cell>789.</cell></row>
+                <row><cell>Umpitaudin parantaminen n. 1672</cell><cell>789.</cell></row>
+                <row><cell>Härän salvantasanat n. 1673</cell><cell>789.</cell></row>
+                <row><cell>Lehmän käyttäminen härällä n. 1673 α</cell><cell>790.</cell></row>
+                <row rend="heading"><cell>HEVOSENHOITO.</cell><cell/></row>
+                <row><cell>Sivut.</cell><cell/></row>
+                <row><cell>Hevosta laitumelle laskiessa n:t 1674—1680</cell><cell>790—793.</cell></row>
+                <row><cell>Hevosen pidätys laitumelle laskiessa n:t 1681—1690</cell><cell>794—797.</cell></row>
+                <row><cell>Metsän peitosta hevonen päästetään n. 1691</cell><cell>797.</cell></row>
+                <row><cell>Varsaa ensi kerran pannaan auran eteen n:t 1692—1693</cell><cell>797.</cell></row>
+                <row><cell>Hevosta kun lähetään uittamaan n:t 1694—1695</cell><cell>798.</cell></row>
+                <row><cell>Jos hevonen on aitomus n. 1696</cell><cell>798<hi rend="italics">.</hi>
+                </cell></row>
+                <row><cell>Jos hevonen on vihainen ja paha potkimaan n. 1697</cell><cell>798.</cell></row>
+                <row><cell>Ammuksissa kun on hevonen n:t 1698—1699</cell><cell>799.</cell></row>
+                <row><cell>Hiveltymässä n:t 1700—1702</cell><cell>799—800.</cell></row>
+                <row><cell>Kirkonväki jos on syötetty hevoselle n. 1703</cell><cell>800.</cell></row>
+                <row><cell>Kun virmaa hevosen n. 1704</cell><cell>801.</cell></row>
+                <row><cell>Lihavana pysyy hevonen n:t 1705—1706</cell><cell>801.</cell></row>
+                <row><cell>Painajainen kun ajaa hevosta n. 1707</cell><cell>801.</cell></row>
+                <row><cell>Syömättömäksi silmätään hevonen n. 1708</cell><cell>801.</cell></row>
+                <row><cell>Tanhuon isäntä panee hevosen n. 1709</cell><cell>801.</cell></row>
+                <row><cell>Vaihdettava hevonen näyttää kauniimmalta n. 1710</cell><cell>802<hi rend="italics">.</hi>
+                </cell></row>
+                <row><cell>Kuoharin sanoja n:t 1711—1718</cell><cell>802—806.</cell></row>
+                <row rend="heading"><cell>LAMPAANHOITO.</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Ensi kerran ulos laskettaissa n. 1719</cell><cell>806.</cell></row>
+                <row><cell>Navettaan pantaessa syksyllä n:t 1720—1722</cell><cell>806—807.</cell></row>
+                <row><cell>Kerittäessä n:t 1723—1724</cell><cell>807.</cell></row>
+                <row><cell>Keritty lammas kasvattaa pian uuden villan n. 1725</cell><cell>807.</cell></row>
+                <row><cell>Jos on keritty pilatakseen n. 1726</cell><cell>807.</cell></row>
+                <row><cell>Jos villa lyöpyy n. 1727</cell><cell>808.</cell></row>
+                <row><cell>Tuotu lammas menestyy n:t 1728—1729</cell><cell>808.</cell></row>
+                <row><cell>Jos on pilattu kuolemaan n. 1730</cell><cell>808.</cell></row>
+                <row><cell>Lampaat sikiää talvella n:t 1731—1731 a)</cell><cell>809.</cell></row>
+                <row><cell>Lammasonni paranee n:t 1732—1734</cell><cell>809—810.</cell></row>
+                <row><cell>Lammas hylkää vuonansa n. 1735</cell><cell>810.</cell></row>
+                <row><cell>Jos lammas vihaa vuonaansa n. 1736</cell><cell>810.</cell></row>
+                <row rend="heading"><cell>SIANHOITO.</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Sian salvantasanat n. 1737</cell><cell>810.</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">VIII. Maanviljelys.</hi>
+                </cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Kaskenhakkua alettaessa n. 1738</cell><cell>811.</cell></row>
+                <row><cell>Tuulen nosto kaskea polttaissa n. 1739</cell><cell>811.</cell></row>
+                <row><cell>Kylväjän sanoja n:t 1740—1746</cell><cell>811—814.</cell></row>
+                <row><cell>Hampunkylvö n:t 1747—1747 a)</cell><cell>814.</cell></row>
+                <row><cell>Liinaa tai pellavaa kylvettäessä n:t 1748—1749</cell><cell>814.</cell></row>
+                <row><cell>Kylväjä pilataan n. 1750</cell><cell>814</cell></row>
+                <row><cell>Pelto pilataan n. 1751</cell><cell>815.</cell></row>
+                <row><cell>Ukkosen ensi kertaa kuuluessa n. 1752</cell><cell>815.</cell></row>
+                <row><cell>Sadetta oraille n:t 1753—1755</cell><cell>815—816.</cell></row>
+                <row><cell>Ohdakkeet lähtee pellosta n:t 1756—1762</cell><cell>816—818.</cell></row>
+                <row><cell>Elonleikkuussa n. 1763</cell><cell>818.</cell></row>
+                <row><cell>Peltoa leikatessa ei kivistä selkää n. 1764</cell><cell>818.</cell></row>
+                <row><cell>Sirppi suudellaan n. 1765</cell><cell>818.</cell></row>
+                <row><cell>Riihi kun pannaan ensi kertaa lämpiämään n. 1766</cell><cell>818,</cell></row>
+                <row><cell>Viimeistä riihtä puidessa syksyllä n. 1767</cell><cell>818.</cell></row>
+                <row><cell>Nauriin kylvö n:t 1768—1771</cell><cell>819.</cell></row>
+                <row><cell>Nauriit hyvin kasvavat n:t 1772—1775</cell><cell>819—820.</cell></row>
+                <row><cell>Naurismaan varastaja kiinni n:t 1776—1778</cell><cell>820—821.</cell></row>
+                <row><cell>Nauris- tai potakkakuoppaa savustetaan n. 1779</cell><cell>821.</cell></row>
+                <row><cell>Potakanpano kuoppaan n:t 1780—1781</cell><cell>821.</cell></row>
+                <row><cell>Hiiret eivät syö närtettä eivätkä viljakekoa, potaattia, nauriita y. m. n:t</cell><cell/></row>
+                <row><cell>1782—1789</cell><cell>821—823.</cell></row>
+                <row><cell>Jänikset eivät syö toukoa n. 1790</cell><cell>823.</cell></row>
+                <row><cell>Jänikset eivät syö suovaa n. 1791</cell><cell>823.</cell></row>
+                <row rend="heading"><cell>HEINÄNTEKO.</cell><cell/></row>
+                <row><cell>Sivut.</cell><cell/></row>
+                <row><cell>Heinälle lähettäessä n. 1792</cell><cell>824.</cell></row>
+                <row><cell>Sateen asettaminen n:t 1793—1794 b)</cell><cell>824—825.</cell></row>
+                <row><cell>Suovan tekijä n. 1795</cell><cell>825.</cell></row>
+                <row><cell>Viikate ei tee niittäessä haavaa n. 1796</cell><cell>825.</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">IX. Lemmennosto. Kosinta. Häät. Perhe-elämä.</hi>
+                </cell><cell/></row>
+                <row rend="heading"><cell>LEMMENNOSTO.</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Käen kukutus n:t 1797—1801 </cell><cell>826—827.</cell></row>
+                <row><cell>Niin miun lempeni liehukoh n:t 1802—1811</cell><cell>827—829.</cell></row>
+                <row><cell>Nouse, lempi, liehumah n:t 1812—1822</cell><cell>829—832.</cell></row>
+                <row><cell>Lemmentaika pääskysen ensi kerran nähdessä n. 1823</cell><cell>832.</cell></row>
+                <row><cell>Tytölle lempi kohoaa n:t 1824—1833</cell><cell>833—834.</cell></row>
+                <row><cell>Rakastumaan saa itseensä n. 1834</cell><cell>834.</cell></row>
+                <row><cell>Rakastuneitten kylmyytys n:t 1835—1835 b</cell><cell>835.</cell></row>
+                <row><cell>Tytön lemmen sorranta n:t 1836—1837</cell><cell>835—836.</cell></row>
+                <row rend="heading"><cell>KOSINTA.</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Sulhasiksi lähtiessä n:t 1838—1839 b)</cell><cell>836.</cell></row>
+                <row><cell>Sulhaskansan rikkeiltä varataan n. 1840</cell><cell>836.</cell></row>
+                <row><cell>Kosiminen menestyy n. 1841</cell><cell>837.</cell></row>
+                <row><cell>Morsiusjoukko pilataan n. 1842</cell><cell>837.</cell></row>
+                <row><cell>Kun tyttö antaa aparat n:t 1843—1846</cell><cell>837—838.</cell></row>
+                <row rend="heading"><cell>HÄÄT. PERHE-ELÄMÄ.</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Pat'vaskan varotusvirsiä n:t 1847—1876</cell><cell>838—806.</cell></row>
+                <row><cell>Pat'vaskan varomusvirsi n:t 1877—1888</cell><cell>856—862.</cell></row>
+                <row><cell>Jos morsian pyörtyy häissä n:t 1889—1890</cell><cell>862—863.</cell></row>
+                <row><cell>Morsiamen pilaaminen n. 1891</cell><cell>863.</cell></row>
+                <row><cell>Morsiamen syliin viedään poikalapsi n:t 1892—1893</cell><cell>863.</cell></row>
+                <row><cell>Nuorikko saa valtaa uudessa kodissa n:t 1894—1899</cell><cell>863—864.</cell></row>
+                <row><cell>Nuorikon ei tule ikävä uudessa kodissa n:t 1900—1903</cell><cell>864—865.</cell></row>
+                <row><cell>Nuorikko tulee miehelässä onneliseksi n:t 1904—1907</cell><cell>865.</cell></row>
+                <row><cell>Rienottu pariskunta saadaan rakastamaan toisiansa n. 1908</cell><cell>865.</cell></row>
+                <row><cell>Pariskunta päästetään pilauksista n. 1909</cell><cell>866.</cell></row>
+                <row><cell>Mies ei lyö vaimoaan n. 1910</cell><cell>867.</cell></row>
+                <row><cell>Vastasyntyneen lapsen kierräntä n:t 1911—1912</cell><cell>867.</cell></row>
+                <row><cell>Tervehdys maanhaltialle lapsen syntyessä n:t 1913—1913 a)</cell><cell>867—868.</cell></row>
+                <row><cell>Lapsi kun otetaan synnyntäsijaltaan n. 1014</cell><cell>868.</cell></row>
+                <row><cell>Kun lapsi on syntynyt n. 1915</cell><cell>868.</cell></row>
+                <row><cell>Lasta kylvetettäessä n:t 1916—1917</cell><cell>868.</cell></row>
+                <row><cell>Lasta vedellä pestessä n:t 1918—1919</cell><cell>869.</cell></row>
+                <row><cell>Kun ensi kertaa annetaan ruokaa lapselle n. 1920</cell><cell>869.</cell></row>
+                <row><cell>Lapsen ylle ensi kertaa paitaa pantaessa n. 1921</cell><cell>869.</cell></row>
+                <row><cell>Ensimäiset hampaat kun lähtevät n:t 1922—1924</cell><cell>869.</cell></row>
+                <row><cell>Lapsen kehuminen ja kiittäminen n:t 1925—1928</cell><cell>869—870.</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">X. Koti. Talous. Askareet.</hi>
+                </cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Huomeneksella ylös noustessa n. 1929</cell><cell>871.</cell></row>
+                <row><cell>Huomeneksella ensi kertaa syötäessä n. 1930</cell><cell>871.</cell></row>
+                <row><cell>Illalla kun päre sammutetaan n. 1931</cell><cell>871.</cell></row>
+                <row><cell>Illalla pirtin ovea kiinni pantaessa n. 1932</cell><cell>871.</cell></row>
+                <row><cell>Kaivo pilataan n. 1933</cell><cell>872.</cell></row>
+                <row><cell>Kaivo jos on kuivanut n. 1934</cell><cell>872.</cell></row>
+                <row><cell>Kangasta puille pantaessa n. 1935</cell><cell>872.</cell></row>
+                <row><cell>Kenkiessä n. 1936</cell><cell>872.</cell></row>
+                <row><cell>Kerjäläiselle viljaa antaessa n. 1937</cell><cell>873.</cell></row>
+                <row><cell>Koiraa pidätetään n:t 1938—1939</cell><cell>873.</cell></row>
+                <row><cell>Koiralle n. 1940</cell><cell>873.</cell></row>
+                <row><cell>Äkäinen koira lumotaan n:t 1941—1943</cell><cell>873—874.</cell></row>
+                <row><cell>Kylyn siunaaminen n. 1944</cell><cell>874.</cell></row>
+                <row><cell>Kiveä saunassa veteen laskeissa n:t 1945—1946</cell><cell>874—875.</cell></row>
+                <row><cell>Kylystä lähtiessä n. 1947</cell><cell>875.</cell></row>
+                <row><cell>Kylystä tullessa kiittää vieras talonväkeä n. 1948</cell><cell>875.</cell></row>
+                <row><cell>Kylystä tullessa reähkä n:t 1949—1950</cell><cell>875.</cell></row>
+                <row><cell>Luteet eivät syö n:t 1951—1952</cell><cell>875.</cell></row>
+                <row><cell>Luteet syövät n. 1953</cell><cell>876.</cell></row>
+                <row><cell>Luteet lähtevät n:t 1954—1964</cell><cell>876—878.</cell></row>
+                <row><cell>Manalaiset ajetaan talosta n. 1965</cell><cell>878.</cell></row>
+                <row><cell>Maanväki karkoitetaan talosta n. 1966</cell><cell>878.</cell></row>
+                <row><cell>Metsännenä tulee taloon n. 1967</cell><cell>879.</cell></row>
+                <row><cell>Metsännenä lähtee talosta n. 1968</cell><cell>879.</cell></row>
+                <row><cell>Pahan väki ajetaan talosta n. 1969</cell><cell>879.</cell></row>
+                <row><cell>Pirut ajetaan talosta n:t 1970—1971</cell><cell>879—880.</cell></row>
+                <row><cell>Maata mentäessä n:t 1972—1973</cell><cell>880—881.</cell></row>
+                <row><cell>Maito kun menee maahan n. 1974</cell><cell>881.</cell></row>
+                <row><cell>Marjaan mentäessä n. 1975</cell><cell>881.</cell></row>
+                <row><cell>Matkalle lähtiessä n. 1976</cell><cell>881.</cell></row>
+                <row><cell>Navettaan eivät tule rietat, talvikot y. m. n. 1977</cell><cell>881.</cell></row>
+                <row><cell>Nukkua saa manalaisilta rauhassa n. 1978</cell><cell>881.</cell></row>
+                <row><cell>Nukkua saa rauhassa kalmaisessa huoneessa n. 1979</cell><cell>882.</cell></row>
+                <row><cell>Palvelijan ikävän torjuminen n. 1980</cell><cell>882.</cell></row>
+                <row><cell>Palvelijan taloon tullessa n. 1981—1982</cell><cell>882.</cell></row>
+                <row><cell>Riihellä n. 1983</cell><cell>882.</cell></row>
+                <row><cell>Syömättömyys n. 1984</cell><cell>883.</cell></row>
+                <row><cell>Taikinaa pannessa n:t 1985—1987</cell><cell>883.</cell></row>
+                <row><cell>Pilattu taikina n. 1988</cell><cell>883.</cell></row>
+                <row><cell>Talonpaikan tutkiminen n:t 1989—1991</cell><cell>883—884.</cell></row>
+                <row><cell>Taloa asetettaessa n. 1992</cell><cell>884.</cell></row>
+                <row><cell>Taloa asetettaessa karkoitetaan rietat n. 1993</cell><cell>885.</cell></row>
+                <row><cell>Uunia pirttiin tehtäessä n. 1994</cell><cell>885.</cell></row>
+                <row><cell>Taloa aikaissa kun ensimäinen tuli tehdään n. 1995</cell><cell>885—887.</cell></row>
+                <row><cell>Uuteen taloon mentäessä n:t 1996—1998</cell><cell>887—888.</cell></row>
+                <row><cell>Uudessa pirtissä kaikki menestyy n. 1999</cell><cell>888.</cell></row>
+                <row><cell>Vanhasta talosta uuteen muutettaessa n:t 2000—2001</cell><cell>888.</cell></row>
+                <row><cell>Uutteen huoneeseen ei synny eläväisiä n:t 2002—2006</cell><cell>888—890.</cell></row>
+                <row><cell>Talon jako n. 2007</cell><cell>890.</cell></row>
+                <row><cell>Tulipalo sammun n:t 2008—2009</cell><cell>890.</cell></row>
+                <row><cell>Tuuli vie katon huoneelta n. 2010</cell><cell>891.</cell></row>
+                <row><cell>Ukkosen tulella voi polttaa talon n. 2011</cell><cell>891.</cell></row>
+                <row><cell>Jos ken pahoin uneksii n. 2012</cell><cell>891.</cell></row>
+                <row><cell>Vaatteet tytöllä lisääntyy n. 2013</cell><cell>892.</cell></row>
+                <row><cell>Uutta vaatetta ensi kertaa päälle pantaessa n. 2014</cell><cell>892.</cell></row>
+                <row><cell>Vaassoa kun pannaan n. 2015</cell><cell>892.</cell></row>
+                <row><cell>Vaatetta paalikoimassa oltaessa n. 2016</cell><cell>892.</cell></row>
+                <row><cell>Vaatetta paikatessa n. 2017</cell><cell>892.</cell></row>
+                <row><cell>Vedenotto joko kaivosta tai avannosta n. 2018</cell><cell>893.</cell></row>
+                <row><cell>Vesikorvoa sisään tuodessa n. 2019</cell><cell>893.</cell></row>
+                <row><cell>Vettä uuteen astiaan ensi kertaa pantaessa n. 2020</cell><cell>893.</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">XI. Eri tiloissa.</hi>
+                </cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Aarteen löytäminen n. 2021</cell><cell>894</cell></row>
+                <row><cell>Aivastaessa n:t 2022—2023</cell><cell>894.</cell></row>
+                <row><cell>Anteeksi kun joku pyytää n. 2024</cell><cell>895.</cell></row>
+                <row><cell>Arpominen n. 2025</cell><cell>895.</cell></row>
+                <row><cell>Eksyminen n:t 2026—2027</cell><cell>895—896.</cell></row>
+                <row><cell>Helmenpyynti n. 2028</cell><cell>896.</cell></row>
+                <row><cell>Ikävöimään pilataan n:t 2029—2030</cell><cell>896.</cell></row>
+                <row><cell>Ilmanennustus n:t 2031—2032</cell><cell>896—897.</cell></row>
+                <row><cell>Jalka terveeksi n. 2033</cell><cell>897.</cell></row>
+                <row><cell>Kalmismaalta palatessa n. 2034</cell><cell>897.</cell></row>
+                <row><cell>Karhun pelotus n:t 2035—2036</cell><cell>897.</cell></row>
+                <row><cell>Korpin kruokkuessa n. 2037</cell><cell>897.</cell></row>
+                <row><cell>Koskea laskiessa n:t 2038—2051</cell><cell>898—902.</cell></row>
+                <row><cell>Kuolevalta kun henki karkautuu n. 2052</cell><cell>902.</cell></row>
+                <row><cell>Kun kuullaan jonkun kuolleen n. 2053</cell><cell>902.</cell></row>
+                <row><cell>Kuollutta jos pelkää n:t 2054—2005</cell><cell>902.</cell></row>
+                <row><cell>Kun (uusi) kuu ensi kertaa nähdään n:t 2056—2007 a)</cell><cell>903.</cell></row>
+                <row><cell>Käräjillä n:t 2058—2063</cell><cell>903—905.</cell></row>
+                <row><cell>Laki lumotaan n. 2064</cell><cell>905.</cell></row>
+                <row><cell>Käärmeen käräjäkivi n. 2065</cell><cell>905.</cell></row>
+                <row><cell>Laulut oppii muistamaan n. 2066</cell><cell>905.</cell></row>
+                <row><cell>Matkamiehen toivomus n. 2067</cell><cell>906.</cell></row>
+                <row><cell>Matkustajan kiitos n. 2068</cell><cell>906.</cell></row>
+                <row><cell>Metsäpirtille kun menee yöksi n:t 2069—2074</cell><cell>906—907.</cell></row>
+                <row><cell>Pahantekijän piiskaaminen n:t 2075—2076</cell><cell>907—908.</cell></row>
+                <row><cell>Pelästyessä n. 2077</cell><cell>908.</cell></row>
+                <row><cell>Pokoiniekkaa pois vietäessä n. 2078</cell><cell>908.</cell></row>
+                <row><cell>Purjetuuli paranee n:t 2079—2080</cell><cell>908.</cell></row>
+                <row><cell>Päivettymä ei tartu n. 2081</cell><cell>908.</cell></row>
+                <row><cell>Rasvakatti n. 2082</cell><cell>909.</cell></row>
+                <row><cell>Sotaan lähtiessä n:t 2083—2090</cell><cell>909—912.</cell></row>
+                <row><cell>Svinja n. 2091</cell><cell>912.</cell></row>
+                <row><cell>Taika ei mene tehottomaksi n. 2092</cell><cell>912.</cell></row>
+                <row><cell>Tulipalossa tuli lumotaan n:t 2093—2094</cell><cell>913.</cell></row>
+                <row><cell>Tuulen nosto n:t 2095—2098</cell><cell>913.</cell></row>
+                <row><cell>Tuuli tyynnytetään n:t 2099—2103</cell><cell>913—914.</cell></row>
+                <row><cell>Tuulispää ei käy kohti n. 2104</cell><cell>914—915.</cell></row>
+                <row><cell>Tuuliaisnenä ei pysty n:t 2105—2106</cell><cell>915.</cell></row>
+                <row><cell>Uidessa ei vetehinen paina n. 2107</cell><cell>915.</cell></row>
+                <row><cell>Ukkosta kuullessa n:t 2108—2111</cell><cell>915—916.</cell></row>
+                <row><cell>Uunna vuonna tinaa valettaessa n. 2112</cell><cell>916.</cell></row>
+                <row><cell>Vainajilta pyydettäessä n. 2113</cell><cell>916.</cell></row>
+                <row><cell>Varas lumoo nostoväen n. 2114</cell><cell>917.</cell></row>
+                <row><cell>Varas pannaan takaisin tuomaan n. 2115</cell><cell>917.</cell></row>
+                <row><cell>Varkaanviemää peruutetaan n:t 2116—2119</cell><cell>917—919.</cell></row>
+                <row><cell>Varkaalle tehdään kolme kummaa n. 2120</cell><cell>919.</cell></row>
+                <row><cell>Varas manataan varastamaan n. 2121</cell><cell>920.</cell></row>
+                <row><cell>Varas pakotetaan tunnustamaan n. 2122</cell><cell>920.</cell></row>
+                <row><cell>Vastustajan masentaminen n. 2123</cell><cell>920.</cell></row>
+                <row><cell>Venematkalle lähtiessä n. 2124</cell><cell>921.</cell></row>
+                <row><cell>Veneen laulu (Tuulen sanoja) n:t 2125—2126</cell><cell>921.</cell></row>
+                <row><cell>Vene manataan hukkumaan koskeen n. 2127</cell><cell>921.</cell></row>
+                <row><cell>Viikatteen terän päällä saa kävellä n. 2128</cell><cell>921.</cell></row>
+                <row><cell>Virpominen n:t 2129—2131</cell><cell>922.</cell></row>
+                <row><cell>Ääni paranee n. 2132</cell><cell>922.</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">XII. Lisiä.</hi>
+                </cell><cell/></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">Kalevalan-aineisia kertovaisia runoja.</hi>
+                </cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Sampojakso n:t 2133—2136</cell><cell>923—928.</cell></row>
+                <row><cell>Kilpalaulanta n:t 2137—2138</cell><cell>928—931.</cell></row>
+                <row><cell>Ainoruno n:t 2139—2142</cell><cell>931—932.</cell></row>
+                <row><cell>Vellamon neidon onginta n. 2143</cell><cell>933.</cell></row>
+                <row><cell>Väinämöisen polvenhaava n:t 2144—2149</cell><cell>933—937.</cell></row>
+                <row><cell>Venepuun etsintä n:t 2150—2151</cell><cell>937—938.</cell></row>
+                <row><cell>Tuonelassa käynti n. 2152</cell><cell>939.</cell></row>
+                <row><cell>Vipusessa käynti n. 2153</cell><cell>939.</cell></row>
+                <row><cell>Kilpakosinta n:t 2154—2156</cell><cell>939—942.</cell></row>
+                <row><cell>Kojosen pojan kosinta n:t 2157—2158</cell><cell>942—943.</cell></row>
+                <row><cell>Laivaretki ja Kanteleen synty n:t 2159—2164</cell><cell>943—945.</cell></row>
+                <row><cell>Väinämöisen tuomio n. 2165</cell><cell>945.</cell></row>
+                <row><cell>Lemminkäisen virsi n:t 2166—2173</cell><cell>946—954.</cell></row>
+                <row><cell>Ison härän runo n:t 2174—2176</cell><cell>954—955.</cell></row>
+                <row><cell>Kalevanpojan kosto n. 2177</cell><cell>955.</cell></row>
+                <row><cell>Kuolon sanomat n:t 2178—2179</cell><cell>955—956.</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">Muita kertovaisia runoja.</hi>
+                </cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Iivanan virsi n:t 2180—2181</cell><cell>956—957.</cell></row>
+                <row><cell>Jäniksen opetus pojallensa n:t 2182—2183</cell><cell>957.</cell></row>
+                <row><cell>Kalojen valituksia n:t 2184—2186</cell><cell>957—958.</cell></row>
+                <row><cell>Lunastettava neiti n:t 2187—2190</cell><cell>958—963.</cell></row>
+                <row><cell>Luojan virsi n:t 2191—2197</cell><cell>963—967.</cell></row>
+                <row><cell>Meren kosijat n:t 2198—2200</cell><cell>967—971.</cell></row>
+                <row><cell>Pahan sulhon saanut n. 2201</cell><cell>971.</cell></row>
+                <row><cell>Paimenen hätä n. 2202</cell><cell>971.</cell></row>
+                <row><cell>Revon valitus n:t 2203—2204</cell><cell>971.</cell></row>
+                <row><cell>Saaren neito n. 2205</cell><cell>972.</cell></row>
+                <row><cell>Syöjätär ja tyttö n. 2206</cell><cell>972.</cell></row>
+                <row><cell>Vedenkantaja-Anni n:t 2207—2209</cell><cell>972—973.</cell></row>
+                <row><cell>Veion tuomiset n:t 2210—2211</cell><cell>973—974.</cell></row>
+                <row><cell>Vienan neitoset n. 2211 α)</cell><cell>974.</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">Lyyrillisiä, opettavaisia, miete- y. m. runoja</hi>.</cell><cell/></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">1. Erilaisia mielialoja.</hi>
+                </cell><cell/></row>
+                <row rend="heading"><cell>LAULU.</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Avasin sanasen arkun n. 2212</cell><cell>975.</cell></row>
+                <row><cell>Istumma ilokivellä n. 2213</cell><cell>975.</cell></row>
+                <row><cell>Kieli laulajan lahoo n. 2214</cell><cell>975.</cell></row>
+                <row><cell>Laulaisinpa, taitaisinpa n. 2215</cell><cell>975.</cell></row>
+                <row><cell>Ulkoa runoja kuulin n. 2216</cell><cell>975.</cell></row>
+                <row><cell>Äijä on suussani sanoja n. 2217</cell><cell>976.</cell></row>
+                <row rend="heading"><cell>HUOLI JA KOVA OSA.</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Isä jätti iljenelle n. 2218</cell><cell>976.</cell></row>
+                <row rend="heading"><cell>RAKKAUS.</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Konsa meille kostjat tullah n. 2219</cell><cell>976.</cell></row>
+                <row><cell>Tunnen tuomeksen tulennasta n. 2220</cell><cell>976.</cell></row>
+                <row><cell>Viikonko olen villapäänä n:t 2221—2222</cell><cell>977.</cell></row>
+                <row><cell>Erilaisia tunnelmia n. 2223</cell><cell>977.</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">II. Hää-, työ-, tuutu- ja lasten viihdytyslauluja.</hi>
+                </cell><cell/></row>
+                <row rend="heading"><cell>HÄÄVIRSIÄ.</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Kihloessa n. 2224—2231</cell><cell>977—979.</cell></row>
+                <row><cell>Sulhasen tullessa morsiamen kotiin n:t 2232—2234</cell><cell>979—981.</cell></row>
+                <row><cell>Morsiamen päätä pantaessa n:t 2235—2249</cell><cell>981—986.</cell></row>
+                <row><cell>Kun morsian tuodaan sulhasen kotiin n:t 2250—2259</cell><cell>986—995.</cell></row>
+                <row><cell>Häälaulajain palkka n:t 2260—2262</cell><cell>995—996.</cell></row>
+                <row><cell>Soimauslauluja n. 2263</cell><cell>996.</cell></row>
+                <row><cell>Morsianta herätettäessä n:t 2264—2265</cell><cell>996.</cell></row>
+                <row rend="heading"><cell>TYÖLAULUJA.</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Jauhaessa n. 2266</cell><cell>996.</cell></row>
+                <row><cell>Lypsylauluja n. 2267</cell><cell>997.</cell></row>
+                <row><cell>Paimenlauluja n. 2268</cell><cell>997.</cell></row>
+                <row rend="heading"><cell>TUUTILAULUJA.</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Elä tule, pakkanen, tupaan n:t 2269—2270</cell><cell>997—998.</cell></row>
+                <row><cell>Empä mie rahatta laula n. 2271</cell><cell>998.</cell></row>
+                <row><cell>Heijun Teppanaa nukkumaan n. 2272</cell><cell>998.</cell></row>
+                <row><cell>Laulo ennen lappalainen n. 2273</cell><cell>998.</cell></row>
+                <row><cell>Laulanpa mie lampahista n. 2274</cell><cell>998.</cell></row>
+                <row><cell>Laulan lapselleni n. 2275</cell><cell>998.</cell></row>
+                <row><cell>Miepä laulan lapselleni n. 2276</cell><cell>998.</cell></row>
+                <row><cell>Laulo lapsi syötyö n:t 2277—2278</cell><cell>999.</cell></row>
+                <row><cell>Nuku, nuku, nurmilintu n:t 2279—2281 a)</cell><cell>999—1000.</cell></row>
+                <row><cell>Paju, paju, pikkaraista lasta n. 2282</cell><cell>1000.</cell></row>
+                <row><cell>Paiju, paiju, omeljuska n. 2283</cell><cell>1000.</cell></row>
+                <row><cell>Souti sotka suojat rannat n:t 2284—2286</cell><cell>1000—1001.</cell></row>
+                <row><cell>Soua, soua, soutajaisen’ n:t 2287—2289</cell><cell>1001.</cell></row>
+                <row><cell>Tule sie, uninen ukko n. 2290</cell><cell>1001.</cell></row>
+                <row><cell>Tule, uni, uuninpäältä n:t 2291—2292</cell><cell>1001.</cell></row>
+                <row><cell>Tule, uni, ulkomailta n. 2293</cell><cell>1002.</cell></row>
+                <row><cell>Tule sie, kikki, vastaa n. 2294</cell><cell>1002.</cell></row>
+                <row><cell>Tuo sie unta ulompaata n. 2295</cell><cell>1002.</cell></row>
+                <row><cell>Tuuti lasta lapsin kaksin n:t 2296—2300</cell><cell>1002—1003.</cell></row>
+                <row><cell>Tuuti lasta tuomariksi n:t 2301—2303</cell><cell>1003.</cell></row>
+                <row><cell>Tuuti lulla lasta n. 2304</cell><cell>1004.</cell></row>
+                <row><cell>Tuuti lasta, tuuti pientä n:t 2305—2306</cell><cell>1004.</cell></row>
+                <row><cell>Tuuti, tuuti, lastani n. 2307</cell><cell>1004.</cell></row>
+                <row><cell>Tuuti pojaista vanhan päivän varaksi n. 2308</cell><cell>1004.</cell></row>
+                <row><cell>Tuuvittelen poikalasta n:t 2309—2311</cell><cell>1004—1005.</cell></row>
+                <row><cell>Tuuti, tuuti, tyttölasta n. 2312—2313</cell><cell>1005.</cell></row>
+                <row><cell>Tuuvitah tyttäriä marjan poimijaks n. 2314</cell><cell>1005.</cell></row>
+                <row><cell>Tuuti, tuuti, tuonen kukka n. 2315</cell><cell>1005.</cell></row>
+                <row><cell>Tuuti, tuuti, tuonen toukka n. 2316</cell><cell>1005.</cell></row>
+                <row><cell>Tuuti lasta tuonelahan n. 2317</cell><cell>1006.</cell></row>
+                <row><cell>Tuuti tuonelle tytärtä (poikoa) n:t 2318—2319</cell><cell>1006.</cell></row>
+                <row><cell>Tuuti, tuuti, tupakkarulloa n. 2320</cell><cell>1006.</cell></row>
+                <row><cell>Tules tuutuhun, unonen n. 2321</cell><cell>1006.</cell></row>
+                <row><cell>Uinuta, Jumala, lasta n. 2322</cell><cell>1006.</cell></row>
+                <row><cell>Uni ulkoa kysyy n:t 2323—2328</cell><cell>1007—1008.</cell></row>
+                <row><cell>Varis vaikku vainiolta n. 2329</cell><cell>1008.</cell></row>
+                <row rend="heading"><cell>LASTEN VIIHDYTYSLAULUJA.</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Huss, sika, metsään n. 2330</cell><cell>1008.</cell></row>
+                <row><cell>Ken söi kesävoin n:t 2331—2331 α)</cell><cell>1008—1009.</cell></row>
+                <row><cell>Kopu, kopu, kotoo n:t 2332—2333</cell><cell>1009.</cell></row>
+                <row><cell>Kunne hiihat, hiiri rukka n:t 2334—2339</cell><cell>1009—1011.</cell></row>
+                <row><cell>Läkkämä, tsikko, Läkköläh n. 2340</cell><cell>1011.</cell></row>
+                <row><cell>Läkkämä, sisko, tšurulaan n. 2341</cell><cell>1011.</cell></row>
+                <row><cell>Läksi Tiitta kalalle n. 2342</cell><cell>1011—1012.</cell></row>
+                <row><cell>Mi tuo tuolta näkyy? n:t 2343—2344 a)</cell><cell>1012—1015.</cell></row>
+                <row><cell>Montapa matkalla tulou n. 2345</cell><cell>1015.</cell></row>
+                <row><cell>Näin se harakka huttua keittää n. 2346</cell><cell>1015.</cell></row>
+                <row><cell>Oli ennen onnimanni n:t 2347—2349</cell><cell>1016.</cell></row>
+                <row><cell>Oli ennen ukko, akka n:t 2350—2350 a)</cell><cell>1017—1019.</cell></row>
+                <row><cell>Pyhän pohrosan uni n. 2351</cell><cell>1019.</cell></row>
+                <row><cell>Sanon mie saarnoo n:t 2352—2353</cell><cell>1019.</cell></row>
+                <row><cell>Tuollapa katti tuomittiin n. 2354</cell><cell>1019.</cell></row>
+                <row><cell>Tuotiin meille uusi minjä n. 2355</cell><cell>1020.</cell></row>
+                <row><cell>Täti leipoo suuren leivän n. 2356</cell><cell>1020.</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">III. Tilapäisten aiheiden synnyttämiä, sananlaskuntapaisia, hokuja y. m.</hi>
+                </cell><cell/></row>
+                <row rend="heading"><cell>ERI AIHEIDEN SYNNYTTÄMIÄ.</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Arvoituksilla oltaessa n. 2357</cell><cell>1020.</cell></row>
+                <row><cell>Karpan naiminen n. 2358</cell><cell>1020—1021.</cell></row>
+                <row><cell>Kumman Kuittijärvi n:t 2359—2360</cell><cell>1021.</cell></row>
+                <row><cell>Nai vanha nuoresta n. 2361</cell><cell>1021—1022.</cell></row>
+                <row><cell>Tervehdys n. 2362</cell><cell>1022.</cell></row>
+                <row><cell>Ukko uupui, vanha vaipui n:t 2363—2363 a)</cell><cell>1022.</cell></row>
+                <row><cell>Varis kun lähtee Karjalasta n. 2364</cell><cell>1022.</cell></row>
+                <row rend="heading"><cell>SANANLASKUINA KÄYTETTYJÄ JA NIIDEN TAPAISIA.</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Ei ole kiirettä kivelle n. 2365</cell><cell>1022.</cell></row>
+                <row><cell>Hepo hirnu, häntä torvi n. 2366</cell><cell>1023.</cell></row>
+                <row><cell>Hiiri on pakana n. 2367</cell><cell>1023.</cell></row>
+                <row><cell>Illalla isäntä kuoli n. 2368</cell><cell>1023.</cell></row>
+                <row><cell>Kalat on kaivossa syvässä n. 2369</cell><cell>1023.</cell></row>
+                <row><cell>Läksin teillä tietäjiks’ n. 2370</cell><cell>1023.</cell></row>
+                <row><cell>Läkkämäs läpi rukehen n. 2371</cell><cell>1023.</cell></row>
+                <row><cell>Maaten unesta pääsee n. 2372</cell><cell>1023.</cell></row>
+                <row rend="heading"><cell>HOKUJA.</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Hiiri juoksee hirttä myöten n. 2373</cell><cell>1023.</cell></row>
+                <row><cell>Mikä kumma kummitsee? n:t 2374—2375</cell><cell>1023—1024.</cell></row>
+                <row><cell>Laulanpa lankoni hevosta n. 2376</cell><cell>1024.</cell></row>
+                <row><cell>Pekka p...i penkin poikki n. 2377</cell><cell>1024.</cell></row>
+                <row><cell>Sika juosta siipotteli n. 2378</cell><cell>1024.</cell></row>
+                <row><cell>Timosen sano tillistynt n. 2379</cell><cell>1024.</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">Loitsuja</hi>.</cell><cell/></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">I. Tietäjä. Haltiat. Kateet.</hi>
+                </cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Tietäjän sanoja n. 2380</cell><cell>1024.</cell></row>
+                <row><cell>Kateen sanoja n:t 2381—2382</cell><cell>1025.</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">II. Loukkaantumat ja viottumat.</hi>
+                </cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Kiven loukkaama n:t 2383—2384 a)</cell><cell>1025—1026.</cell></row>
+                <row><cell>Puun loukkaama n. 2385</cell><cell>1026.</cell></row>
+                <row><cell>Raudan varoitus n. 2386</cell><cell>1026.</cell></row>
+                <row><cell>Raudan jälki ja veren sulku n:t 2387—2391</cell><cell>1027—1028.</cell></row>
+                <row><cell>Tulen synty n:t 2392—2395 a)</cell><cell>1028—1033.</cell></row>
+                <row><cell>Siikasen sanat n. 2396</cell><cell>1033.</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">III. Pistämät ja puremat.</hi>
+                </cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Ampiaisen sanat n:t 2397—2398</cell><cell>1033.</cell></row>
+                <row><cell>Käärmeen sanat n:t 2399—2403</cell><cell>1033—1035.</cell></row>
+                <row><cell>Sammakon jälki n. 2404</cell><cell>1035.</cell></row>
+                <row><cell>Sisiliskon vihat n. 2405</cell><cell>1035—1036.</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">IV. Taudit.</hi>
+                </cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Taudin alkuperän tiedustelua, manaus- ja kyydityssanoja n:t 2406—2411</cell><cell>1036—1038.</cell></row>
+                <row><cell>Kylvetyssanoja n:t 2412—2420</cell><cell>1039—1040.</cell></row>
+                <row><cell>Hammastauti n:t 2421—2422</cell><cell>1040—1041.</cell></row>
+                <row><cell>Hiiloksesta kun heittäytyy n. 2423</cell><cell>1041.</cell></row>
+                <row><cell>Kuivamaahinen n. 2423</cell><cell>1041.</cell></row>
+                <row><cell>Kylystä hinkautuessa n:t 2424—2425</cell><cell>1041—1042.</cell></row>
+                <row><cell>Maahinen n:t 2426—2429</cell><cell>1042.</cell></row>
+                <row><cell>Metsännenä n:t 2430—2432</cell><cell>1043—1044.</cell></row>
+                <row><cell>Metsästä kun hinkautuu n. 2433</cell><cell>1044.</cell></row>
+                <row><cell>Metsäsaunasta kun hinkautuu n. 2434</cell><cell>1044.</cell></row>
+                <row><cell>Nikka n:t 2435—2436</cell><cell>1045.</cell></row>
+                <row><cell>Niukahdus (Venymä) n:t 2437—2442</cell><cell>1045—1046.</cell></row>
+                <row><cell>Paiseen sanat n:t 2443—2445</cell><cell>1046—1047.</cell></row>
+                <row><cell>Pellosta kun hinkautuu n. 2446</cell><cell>1047.</cell></row>
+                <row><cell>Pistos n:t 2447—2448</cell><cell>1047—1048.</cell></row>
+                <row><cell>Päänkivistys n:t 2449—2451</cell><cell>1048.</cell></row>
+                <row><cell>Riiden sanat n. 2452</cell><cell>1048.</cell></row>
+                <row><cell>Synnytyskivuissa n:t 2453—2455</cell><cell>1048—1049.</cell></row>
+                <row><cell>Umpilampi u. 2456</cell><cell>1049.</cell></row>
+                <row><cell>Veden vihat n:t 2457—2459</cell><cell>1049—1050.</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">V. Metsästys.</hi>
+                </cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Metsälle lähtiessä n:t 2460—2461</cell><cell>1050—1051.</cell></row>
+                <row><cell>Ansaa pannessa n. 2462</cell><cell>1051.</cell></row>
+                <row><cell>Jäniksen pyytö n. 2463</cell><cell>1051.</cell></row>
+                <row><cell>Karhu kutsutaan haaskalle n. 2464</cell><cell>1051—1052.</cell></row>
+                <row><cell>Karhuntappo-virsiä n:t 2465—2469</cell><cell>1052—1053.</cell></row>
+                <row><cell>Oravan pyytö n. 2470</cell><cell>1053.</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">VI. Kalastus.</hi>
+                </cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Onkilukuja n:t 2471—2474</cell><cell>1053—1054.</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">VII. Karjanhoito.</hi>
+                </cell><cell/></row>
+                <row rend="heading"><cell>NAUTAKARJANHOITO.</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Lehmiä keväällä laitumelle laskiessa n:t 2475—2479</cell><cell>1054—1056.</cell></row>
+                <row><cell>Kun lehmältä maito katoaa n:t 2480—2481</cell><cell>1056—1057.</cell></row>
+                <row><cell>Lehmän poijinta n:t 2482—2484</cell><cell>1057—1058.</cell></row>
+                <row><cell>Lehmää matkautettaissa n:t 2485—2488</cell><cell>1058.</cell></row>
+                <row><cell>Läävän akka n. 2489</cell><cell>1058.</cell></row>
+                <row><cell>Läävämadon (talvikon) jäljen parantaminen n:t 2490—2491</cell><cell>1059.</cell></row>
+                <row><cell>HEVOSENHOITO.</cell><cell/></row>
+                <row><cell>Sivut.</cell><cell/></row>
+                <row><cell>Hevosen jalka sattuu n. 2492</cell><cell>1059—1060.</cell></row>
+                <row><cell>Tallin ukko n. 2493</cell><cell>1060.</cell></row>
+                <row><cell>Tanhuon isäntä panee hevosen n. 2494</cell><cell>1060.</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">VIII. Maanviljelys.</hi>
+                </cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Ahti aitojen alanen n. 2495</cell><cell>1060.</cell></row>
+                <row><cell>Aitta n. 2496</cell><cell>1060.</cell></row>
+                <row><cell>Kuoppa n. 2497</cell><cell>1061.</cell></row>
+                <row><cell>Sadetta nostetaan n:t 2498—2500</cell><cell>1061.</cell></row>
+                <row><cell>Tulta nostetaan kaskessa n. 2501</cell><cell>1061.</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">IX. Lemmennosto. Kosinta. Häät.</hi>
+                </cell><cell/></row>
+                <row rend="heading"><cell>PERHE-ELÄMÄ.</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Lemmennosto n:t 2502—2507</cell><cell>1062—1063.</cell></row>
+                <row rend="heading"><cell>HÄÄT.</cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Pat'vaskan varotusvirsiä n:t 2008—2510</cell><cell>1063—1064.</cell></row>
+                <row><cell>Sulhasen kodissa n. 2511</cell><cell>1064.</cell></row>
+                <row><cell>Lapsen syntyessä n:t 2512—2514</cell><cell>1064.</cell></row>
+                <row><cell>Lapsen ja äidin kierräntä n:t 2515—2516</cell><cell>1064—1065.</cell></row>
+                <row><cell>Pientä lasta kylvettäessä n:t 2517—2523</cell><cell>1065—1067.</cell></row>
+                <row><cell>Kylystä pois lähtiessä n. 2524</cell><cell>1067.</cell></row>
+                <row><cell>Lapselle, maata kun panee 2525</cell><cell>1067.</cell></row>
+                <row rend="heading"><cell>
+                    <hi rend="bold">X—XI. Koti. Eri tiloissa.</hi>
+                </cell><cell/></row>
+                <row rend="heading"><cell>Sivut.</cell><cell/></row>
+                <row><cell>Hammas kun lähtee n:t 2526—2527</cell><cell>1068.</cell></row>
+                <row><cell>Huonoa vettä jos on juonut n. 2528</cell><cell>1068.</cell></row>
+                <row><cell>Koskia laskemaan lähtiessä n. 2529</cell><cell>1068.</cell></row>
+                <row><cell>Lappalainen tupakilla lahjonut lammen n. 2530</cell><cell>1068.</cell></row>
+                <row><cell>Lappalainen manannut järven lahnattomaksi n. 2531</cell><cell>1068.</cell></row>
+                <row><cell>Lihan ja kalan peseminen n. 2532</cell><cell>1068.</cell></row>
+                <row><cell>Luojaa kutsutaan tulille n. 2533</cell><cell>1069.</cell></row>
+                <row><cell>Luteet lähtevät n:t 2534—2536</cell><cell>1069.</cell></row>
+                <row><cell>Maahanpanijaiset n:t 2537—2538</cell><cell>1069—1070.</cell></row>
+                <row><cell>Pahaa unta ei näe maatessa n. 2539</cell><cell>1070.</cell></row>
+                <row><cell>Pajanhaltia n. 2540</cell><cell>1070—1071.</cell></row>
+                <row><cell>Ruhka silmässä n:t 2541—2542</cell><cell>1070—1071.</cell></row>
+                <row><cell>Saunan haltia n. 2543</cell><cell>1071.</cell></row>
+            </table>
+            <p/>
+            <p>
+                <hi rend="bold">Merkkien ja lyhennysten selityksiä.</hi>
+            </p>
+            <p>[  ] Hakasiin pantu on toimittajan lisäämää. Kun runot usein on lyhentämällä kiireessä muistoonpantu, on oletettu poisjäänyt osa painettaessa lisätty ja pantu hakasiin.</p>
+            <p>⌜⌝  Puolihakasiin on pantu vaikeasti luettavat kohdat, milloin toimittaja ei ole ollut lukutavasta varma.</p>
+            <p>* * Tähtien tai tähtösien välissä olevat kohdat ovat käsikirjoituksissa joko rivien välissä, yläpuolella tai sivulla.</p>
+            <p>| | Pystyviivoilla osoitetaan, että asianomainen kohta on poispyyhitty; korjaus on tavallisesti osoitettu kursiivilla. Toisinaan on muuttamatta jäänyt kohta pantu hakasiin, jolloin lisäys on hakasten ulkopuolella.</p>
+            <p>„Päällä“ merkitsee, että asianomainen kohta on lisätty rivin yläpuolelle, rivillä entuudestaan olevaa poispyyhkimättä.</p>
+            <p>† Pieni risti Boreniuksen, Bernerin ja Genetzin käsikirjoituksista otetuissa runoissa viittaa niiden alkuperäisiin käsikirjoituksiin.</p>
+            <p>[!] Hakasiin pantua huutomerkkiä on etenkin teoksen IV:ssä osassa käytetty, milloin käsikirjoituksessa on joku erikoisuus, osoittamaan, että asianomainen kohta painetussa on käsikirjoituksen mukainen.</p>
+            <p>Neljänteen osaan liittyvässä <hi rend="italics">hakemistossa</hi> esiintyvät runonkerääjäin nimien lyhennykset ovat siksi pienet, etteivät selitystä kaivanne. Runonkerääjät ovat sitäpaitsi lueteltuina I:sen osan esipuheessa ajan mukaisessa järjestyksessä. Runojen eri laatuja on merkitty seuraavasti: Ka merkitsee Kalevalan-aineisia runoja; mk. <hi rend="italics">=</hi> muita kertovaisia r.; eril. m. = erilaisia mielialoja; hää = häävirsiä; paimen <hi rend="italics">=</hi> paimenlauluja; tuuti = tuutilauluja; viihd. <hi rend="italics">=</hi> viihdytyslauluja; opett. = opettavaisia runoja; tilap. = tilapäisiä runoja; san. = sananlaskuntapaisia; loits. = loitsuja; lis. = lisiä (I,4 XII:s jakso).</p>
+        </div></body>
+    </text>
+</TEI>
